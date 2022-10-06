@@ -1,0 +1,540 @@
+Date,Day,Name,Type
+06/01/2000,Thursday,Eid al-Fitr holiday,Public Holiday
+07/01/2000,Friday,Eid al-Fitr Eve,Public Holiday
+08/01/2000,Saturday,Eid al-Fitr,Public Holiday
+09/01/2000,Sunday,Eid al-Fitr holiday,Public Holiday
+15/03/2000,Wednesday,Eid al-Adha Eve,Public Holiday
+16/03/2000,Thursday,Eid al-Adha,Public Holiday
+17/03/2000,Friday,Eid al-Adha holiday,Public Holiday
+18/03/2000,Saturday,Eid al-Adha holiday,Public Holiday
+19/03/2000,Sunday,Eid al-Adha holiday,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+06/04/2000,Thursday,Muharram,Public Holiday
+01/05/2000,Monday,May Day,Public Holiday
+22/05/2000,Monday,Unity Day,Public Holiday
+15/06/2000,Thursday,The Prophet's Birthday,Observance
+21/06/2000,Wednesday,June Solstice,Season
+22/09/2000,Friday,September Equinox,Season
+26/09/2000,Tuesday,Revolution Day,Public Holiday
+14/10/2000,Saturday,Liberation Day,Public Holiday
+30/11/2000,Thursday,Independence Day,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+26/12/2000,Tuesday,Eid al-Fitr holiday,Public Holiday
+27/12/2000,Wednesday,Eid al-Fitr Eve,Public Holiday
+28/12/2000,Thursday,Eid al-Fitr,Public Holiday
+29/12/2000,Friday,Eid al-Fitr holiday,Public Holiday
+05/03/2001,Monday,Eid al-Adha Eve,Public Holiday
+06/03/2001,Tuesday,Eid al-Adha,Public Holiday
+07/03/2001,Wednesday,Eid al-Adha holiday,Public Holiday
+08/03/2001,Thursday,Eid al-Adha holiday,Public Holiday
+09/03/2001,Friday,Eid al-Adha holiday,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+26/03/2001,Monday,Muharram,Public Holiday
+01/05/2001,Tuesday,May Day,Public Holiday
+22/05/2001,Tuesday,Unity Day,Public Holiday
+04/06/2001,Monday,The Prophet's Birthday,Observance
+21/06/2001,Thursday,June Solstice,Season
+07/07/2001,Saturday,July 7th Anniversary,Observance
+23/09/2001,Sunday,September Equinox,Season
+26/09/2001,Wednesday,Revolution Day,Public Holiday
+14/10/2001,Sunday,Liberation Day,Public Holiday
+15/10/2001,Monday,Isra and Mi'raj,Observance
+30/11/2001,Friday,Independence Day,Public Holiday
+02/12/2001,Sunday,Day off for Independence Day,Public Holiday
+15/12/2001,Saturday,Eid al-Fitr holiday,Public Holiday
+16/12/2001,Sunday,Eid al-Fitr Eve,Public Holiday
+17/12/2001,Monday,Eid al-Fitr,Public Holiday
+18/12/2001,Tuesday,Eid al-Fitr holiday,Public Holiday
+21/12/2001,Friday,December Solstice,Season
+22/02/2002,Friday,Eid al-Adha Eve,Public Holiday
+23/02/2002,Saturday,Eid al-Adha,Public Holiday
+24/02/2002,Sunday,Eid al-Adha holiday,Public Holiday
+25/02/2002,Monday,Eid al-Adha holiday,Public Holiday
+26/02/2002,Tuesday,Eid al-Adha holiday,Public Holiday
+15/03/2002,Friday,Muharram,Public Holiday
+20/03/2002,Wednesday,March Equinox,Season
+01/05/2002,Wednesday,May Day,Public Holiday
+22/05/2002,Wednesday,Unity Day,Public Holiday
+24/05/2002,Friday,The Prophet's Birthday,Observance
+21/06/2002,Friday,June Solstice,Season
+07/07/2002,Sunday,July 7th Anniversary,Observance
+23/09/2002,Monday,September Equinox,Season
+26/09/2002,Thursday,Revolution Day,Public Holiday
+04/10/2002,Friday,Isra and Mi'raj,Observance
+14/10/2002,Monday,Liberation Day,Public Holiday
+30/11/2002,Saturday,Independence Day,Public Holiday
+04/12/2002,Wednesday,Eid al-Fitr holiday,Public Holiday
+05/12/2002,Thursday,Eid al-Fitr Eve,Public Holiday
+06/12/2002,Friday,Eid al-Fitr,Public Holiday
+07/12/2002,Saturday,Eid al-Fitr holiday,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+11/02/2003,Tuesday,Eid al-Adha Eve,Public Holiday
+12/02/2003,Wednesday,Eid al-Adha,Public Holiday
+13/02/2003,Thursday,Eid al-Adha holiday,Public Holiday
+14/02/2003,Friday,Eid al-Adha holiday,Public Holiday
+15/02/2003,Saturday,Eid al-Adha holiday,Public Holiday
+05/03/2003,Wednesday,Muharram,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+01/05/2003,Thursday,May Day,Public Holiday
+14/05/2003,Wednesday,The Prophet's Birthday,Observance
+22/05/2003,Thursday,Unity Day,Public Holiday
+21/06/2003,Saturday,June Solstice,Season
+07/07/2003,Monday,July 7th Anniversary,Observance
+23/09/2003,Tuesday,September Equinox,Season
+24/09/2003,Wednesday,Isra and Mi'raj,Observance
+26/09/2003,Friday,Revolution Day,Public Holiday
+28/09/2003,Sunday,Day off for Revolution Day,Public Holiday
+14/10/2003,Tuesday,Liberation Day,Public Holiday
+24/11/2003,Monday,Eid al-Fitr holiday,Public Holiday
+25/11/2003,Tuesday,Eid al-Fitr Eve,Public Holiday
+26/11/2003,Wednesday,Eid al-Fitr,Public Holiday
+27/11/2003,Thursday,Eid al-Fitr holiday,Public Holiday
+30/11/2003,Sunday,Independence Day,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+01/02/2004,Sunday,Eid al-Adha Eve,Public Holiday
+02/02/2004,Monday,Eid al-Adha,Public Holiday
+03/02/2004,Tuesday,Eid al-Adha holiday,Public Holiday
+04/02/2004,Wednesday,Eid al-Adha holiday,Public Holiday
+05/02/2004,Thursday,Eid al-Adha holiday,Public Holiday
+22/02/2004,Sunday,Muharram,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+01/05/2004,Saturday,May Day,Public Holiday
+02/05/2004,Sunday,The Prophet's Birthday,Observance
+22/05/2004,Saturday,Unity Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+07/07/2004,Wednesday,July 7th Anniversary,Observance
+12/09/2004,Sunday,Isra and Mi'raj,Observance
+22/09/2004,Wednesday,September Equinox,Season
+26/09/2004,Sunday,Revolution Day,Public Holiday
+14/10/2004,Thursday,Liberation Day,Public Holiday
+13/11/2004,Saturday,Eid al-Fitr holiday,Public Holiday
+14/11/2004,Sunday,Eid al-Fitr Eve,Public Holiday
+14/11/2004,Sunday,Eid al-Fitr,Public Holiday
+15/11/2004,Monday,Eid al-Fitr holiday,Public Holiday
+30/11/2004,Tuesday,Independence Day,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+20/01/2005,Thursday,Eid al-Adha Eve,Public Holiday
+21/01/2005,Friday,Eid al-Adha,Public Holiday
+22/01/2005,Saturday,Eid al-Adha holiday,Public Holiday
+23/01/2005,Sunday,Eid al-Adha holiday,Public Holiday
+24/01/2005,Monday,Eid al-Adha holiday,Public Holiday
+10/02/2005,Thursday,Muharram,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+21/04/2005,Thursday,The Prophet's Birthday,Observance
+01/05/2005,Sunday,May Day,Public Holiday
+22/05/2005,Sunday,Unity Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+07/07/2005,Thursday,July 7th Anniversary,Observance
+01/09/2005,Thursday,Isra and Mi'raj,Observance
+23/09/2005,Friday,September Equinox,Season
+26/09/2005,Monday,Revolution Day,Public Holiday
+14/10/2005,Friday,Liberation Day,Public Holiday
+16/10/2005,Sunday,Day off for Liberation Day,Public Holiday
+02/11/2005,Wednesday,Eid al-Fitr holiday,Public Holiday
+03/11/2005,Thursday,Eid al-Fitr Eve,Public Holiday
+04/11/2005,Friday,Eid al-Fitr,Public Holiday
+05/11/2005,Saturday,Eid al-Fitr holiday,Public Holiday
+30/11/2005,Wednesday,Independence Day,Public Holiday
+21/12/2005,Wednesday,December Solstice,Season
+09/01/2006,Monday,Eid al-Adha Eve,Public Holiday
+10/01/2006,Tuesday,Eid al-Adha,Public Holiday
+11/01/2006,Wednesday,Eid al-Adha holiday,Public Holiday
+12/01/2006,Thursday,Eid al-Adha holiday,Public Holiday
+13/01/2006,Friday,Eid al-Adha holiday,Public Holiday
+31/01/2006,Tuesday,Muharram,Public Holiday
+20/03/2006,Monday,March Equinox,Season
+11/04/2006,Tuesday,The Prophet's Birthday,Observance
+01/05/2006,Monday,May Day,Public Holiday
+22/05/2006,Monday,Unity Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+07/07/2006,Friday,July 7th Anniversary,Observance
+22/08/2006,Tuesday,Isra and Mi'raj,Observance
+23/09/2006,Saturday,September Equinox,Season
+26/09/2006,Tuesday,Revolution Day,Public Holiday
+14/10/2006,Saturday,Liberation Day,Public Holiday
+22/10/2006,Sunday,Eid al-Fitr holiday,Public Holiday
+23/10/2006,Monday,Eid al-Fitr Eve,Public Holiday
+24/10/2006,Tuesday,Eid al-Fitr,Public Holiday
+25/10/2006,Wednesday,Eid al-Fitr holiday,Public Holiday
+30/11/2006,Thursday,Independence Day,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+30/12/2006,Saturday,Eid al-Adha Eve,Public Holiday
+31/12/2006,Sunday,Eid al-Adha,Public Holiday
+01/01/2007,Monday,Eid al-Adha holiday,Public Holiday
+02/01/2007,Tuesday,Eid al-Adha holiday,Public Holiday
+03/01/2007,Wednesday,Eid al-Adha holiday,Public Holiday
+20/01/2007,Saturday,Muharram,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+31/03/2007,Saturday,The Prophet's Birthday,Observance
+01/05/2007,Tuesday,May Day,Public Holiday
+22/05/2007,Tuesday,Unity Day,Public Holiday
+21/06/2007,Thursday,June Solstice,Season
+07/07/2007,Saturday,July 7th Anniversary,Observance
+11/08/2007,Saturday,Isra and Mi'raj,Observance
+23/09/2007,Sunday,September Equinox,Season
+26/09/2007,Wednesday,Revolution Day,Public Holiday
+11/10/2007,Thursday,Eid al-Fitr holiday,Public Holiday
+12/10/2007,Friday,Eid al-Fitr Eve,Public Holiday
+13/10/2007,Saturday,Eid al-Fitr,Public Holiday
+14/10/2007,Sunday,Eid al-Fitr holiday,Public Holiday
+14/10/2007,Sunday,Liberation Day,Public Holiday
+30/11/2007,Friday,Independence Day,Public Holiday
+02/12/2007,Sunday,Day off for Independence Day,Public Holiday
+19/12/2007,Wednesday,Eid al-Adha Eve,Public Holiday
+20/12/2007,Thursday,Eid al-Adha,Public Holiday
+21/12/2007,Friday,Eid al-Adha holiday,Public Holiday
+22/12/2007,Saturday,Eid al-Adha holiday,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+23/12/2007,Sunday,Eid al-Adha holiday,Public Holiday
+10/01/2008,Thursday,Muharram,Public Holiday
+20/03/2008,Thursday,The Prophet's Birthday,Observance
+20/03/2008,Thursday,March Equinox,Season
+01/05/2008,Thursday,May Day,Public Holiday
+22/05/2008,Thursday,Unity Day,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+07/07/2008,Monday,July 7th Anniversary,Observance
+31/07/2008,Thursday,Isra and Mi'raj,Observance
+22/09/2008,Monday,September Equinox,Season
+26/09/2008,Friday,Revolution Day,Public Holiday
+28/09/2008,Sunday,Day off for Revolution Day,Public Holiday
+30/09/2008,Tuesday,Eid al-Fitr holiday,Public Holiday
+01/10/2008,Wednesday,Eid al-Fitr Eve,Public Holiday
+02/10/2008,Thursday,Eid al-Fitr,Public Holiday
+03/10/2008,Friday,Eid al-Fitr holiday,Public Holiday
+14/10/2008,Tuesday,Liberation Day,Public Holiday
+30/11/2008,Sunday,Independence Day,Public Holiday
+08/12/2008,Monday,Eid al-Adha Eve,Public Holiday
+09/12/2008,Tuesday,Eid al-Adha,Public Holiday
+10/12/2008,Wednesday,Eid al-Adha holiday,Public Holiday
+11/12/2008,Thursday,Eid al-Adha holiday,Public Holiday
+12/12/2008,Friday,Eid al-Adha holiday,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+29/12/2008,Monday,Muharram,Public Holiday
+09/03/2009,Monday,The Prophet's Birthday,Observance
+20/03/2009,Friday,March Equinox,Season
+01/05/2009,Friday,May Day,Public Holiday
+02/05/2009,Saturday,Day off for May Day,Public Holiday
+22/05/2009,Friday,Unity Day,Public Holiday
+24/05/2009,Sunday,Day off for Unity Day,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+07/07/2009,Tuesday,July 7th Anniversary,Observance
+20/07/2009,Monday,Isra and Mi'raj,Observance
+19/09/2009,Saturday,Eid al-Fitr holiday,Public Holiday
+20/09/2009,Sunday,Eid al-Fitr Eve,Public Holiday
+21/09/2009,Monday,Eid al-Fitr,Public Holiday
+22/09/2009,Tuesday,Eid al-Fitr holiday,Public Holiday
+23/09/2009,Wednesday,September Equinox,Season
+26/09/2009,Saturday,Revolution Day,Public Holiday
+14/10/2009,Wednesday,Liberation Day,Public Holiday
+27/11/2009,Friday,Eid al-Adha Eve,Public Holiday
+28/11/2009,Saturday,Eid al-Adha,Public Holiday
+29/11/2009,Sunday,Eid al-Adha holiday,Public Holiday
+30/11/2009,Monday,Eid al-Adha holiday,Public Holiday
+30/11/2009,Monday,Independence Day,Public Holiday
+01/12/2009,Tuesday,Eid al-Adha holiday,Public Holiday
+18/12/2009,Friday,Muharram,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+26/02/2010,Friday,The Prophet's Birthday,Observance
+20/03/2010,Saturday,March Equinox,Season
+01/05/2010,Saturday,May Day,Public Holiday
+22/05/2010,Saturday,Unity Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+07/07/2010,Wednesday,July 7th Anniversary,Observance
+09/07/2010,Friday,Isra and Mi'raj,Observance
+08/09/2010,Wednesday,Eid al-Fitr holiday,Public Holiday
+09/09/2010,Thursday,Eid al-Fitr Eve,Public Holiday
+10/09/2010,Friday,Eid al-Fitr,Public Holiday
+11/09/2010,Saturday,Eid al-Fitr holiday,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+26/09/2010,Sunday,Revolution Day,Public Holiday
+14/10/2010,Thursday,Liberation Day,Public Holiday
+16/11/2010,Tuesday,Eid al-Adha Eve,Public Holiday
+17/11/2010,Wednesday,Eid al-Adha,Public Holiday
+18/11/2010,Thursday,Eid al-Adha holiday,Public Holiday
+19/11/2010,Friday,Eid al-Adha holiday,Public Holiday
+20/11/2010,Saturday,Eid al-Adha holiday,Public Holiday
+30/11/2010,Tuesday,Independence Day,Public Holiday
+08/12/2010,Wednesday,Muharram,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+16/02/2011,Wednesday,The Prophet's Birthday,Observance
+21/03/2011,Monday,March Equinox,Season
+01/05/2011,Sunday,May Day,Public Holiday
+22/05/2011,Sunday,Unity Day,Public Holiday
+21/06/2011,Tuesday,June Solstice,Season
+29/06/2011,Wednesday,Isra and Mi'raj,Observance
+07/07/2011,Thursday,July 7th Anniversary,Observance
+29/08/2011,Monday,Eid al-Fitr holiday,Public Holiday
+30/08/2011,Tuesday,Eid al-Fitr Eve,Public Holiday
+31/08/2011,Wednesday,Eid al-Fitr,Public Holiday
+01/09/2011,Thursday,Eid al-Fitr holiday,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+26/09/2011,Monday,Revolution Day,Public Holiday
+14/10/2011,Friday,Liberation Day,Public Holiday
+16/10/2011,Sunday,Day off for Liberation Day,Public Holiday
+06/11/2011,Sunday,Eid al-Adha Eve,Public Holiday
+07/11/2011,Monday,Eid al-Adha,Public Holiday
+08/11/2011,Tuesday,Eid al-Adha holiday,Public Holiday
+09/11/2011,Wednesday,Eid al-Adha holiday,Public Holiday
+10/11/2011,Thursday,Eid al-Adha holiday,Public Holiday
+27/11/2011,Sunday,Muharram,Public Holiday
+30/11/2011,Wednesday,Independence Day,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+05/02/2012,Sunday,The Prophet's Birthday,Observance
+20/03/2012,Tuesday,March Equinox,Season
+01/05/2012,Tuesday,May Day,Public Holiday
+22/05/2012,Tuesday,Unity Day,Public Holiday
+17/06/2012,Sunday,Isra and Mi'raj,Observance
+21/06/2012,Thursday,June Solstice,Season
+07/07/2012,Saturday,July 7th Anniversary,Observance
+17/08/2012,Friday,Eid al-Fitr holiday,Public Holiday
+18/08/2012,Saturday,Eid al-Fitr Eve,Public Holiday
+19/08/2012,Sunday,Eid al-Fitr,Public Holiday
+20/08/2012,Monday,Eid al-Fitr holiday,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+26/09/2012,Wednesday,Revolution Day,Public Holiday
+14/10/2012,Sunday,Liberation Day,Public Holiday
+25/10/2012,Thursday,Eid al-Adha Eve,Public Holiday
+26/10/2012,Friday,Eid al-Adha,Public Holiday
+27/10/2012,Saturday,Eid al-Adha holiday,Public Holiday
+28/10/2012,Sunday,Eid al-Adha holiday,Public Holiday
+29/10/2012,Monday,Eid al-Adha holiday,Public Holiday
+15/11/2012,Thursday,Muharram,Public Holiday
+30/11/2012,Friday,Independence Day,Public Holiday
+02/12/2012,Sunday,Day off for Independence Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+24/01/2013,Thursday,The Prophet's Birthday,Observance
+20/03/2013,Wednesday,March Equinox,Season
+01/05/2013,Wednesday,May Day,Public Holiday
+22/05/2013,Wednesday,Unity Day,Public Holiday
+06/06/2013,Thursday,Isra and Mi'raj,Observance
+21/06/2013,Friday,June Solstice,Season
+07/07/2013,Sunday,July 7th Anniversary,Observance
+06/08/2013,Tuesday,Eid al-Fitr holiday,Public Holiday
+07/08/2013,Wednesday,Eid al-Fitr Eve,Public Holiday
+08/08/2013,Thursday,Eid al-Fitr,Public Holiday
+09/08/2013,Friday,Eid al-Fitr holiday,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+26/09/2013,Thursday,Revolution Day,Public Holiday
+14/10/2013,Monday,Eid al-Adha Eve,Public Holiday
+14/10/2013,Monday,Liberation Day,Public Holiday
+15/10/2013,Tuesday,Eid al-Adha,Public Holiday
+16/10/2013,Wednesday,Eid al-Adha holiday,Public Holiday
+17/10/2013,Thursday,Eid al-Adha holiday,Public Holiday
+18/10/2013,Friday,Eid al-Adha holiday,Public Holiday
+05/11/2013,Tuesday,Muharram,Public Holiday
+30/11/2013,Saturday,Independence Day,Public Holiday
+21/12/2013,Saturday,December Solstice,Season
+14/01/2014,Tuesday,The Prophet's Birthday,Observance
+20/03/2014,Thursday,March Equinox,Season
+01/05/2014,Thursday,May Day,Public Holiday
+22/05/2014,Thursday,Unity Day,Public Holiday
+27/05/2014,Tuesday,Isra and Mi'raj,Observance
+21/06/2014,Saturday,June Solstice,Season
+07/07/2014,Monday,July 7th Anniversary,Observance
+27/07/2014,Sunday,Eid al-Fitr holiday,Public Holiday
+28/07/2014,Monday,Eid al-Fitr Eve,Public Holiday
+29/07/2014,Tuesday,Eid al-Fitr,Public Holiday
+30/07/2014,Wednesday,Eid al-Fitr holiday,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+26/09/2014,Friday,Revolution Day,Public Holiday
+28/09/2014,Sunday,Day off for Revolution Day,Public Holiday
+04/10/2014,Saturday,Eid al-Adha Eve,Public Holiday
+05/10/2014,Sunday,Eid al-Adha,Public Holiday
+06/10/2014,Monday,Eid al-Adha holiday,Public Holiday
+07/10/2014,Tuesday,Eid al-Adha holiday,Public Holiday
+08/10/2014,Wednesday,Eid al-Adha holiday,Public Holiday
+14/10/2014,Tuesday,Liberation Day,Public Holiday
+25/10/2014,Saturday,Muharram,Public Holiday
+30/11/2014,Sunday,Independence Day,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+03/01/2015,Saturday,The Prophet's Birthday,Observance
+21/03/2015,Saturday,March Equinox,Season
+01/05/2015,Friday,May Day,Public Holiday
+02/05/2015,Saturday,Day off for May Day,Public Holiday
+16/05/2015,Saturday,Isra and Mi'raj,Observance
+22/05/2015,Friday,Unity Day,Public Holiday
+24/05/2015,Sunday,Day off for Unity Day,Public Holiday
+21/06/2015,Sunday,June Solstice,Season
+07/07/2015,Tuesday,July 7th Anniversary,Observance
+16/07/2015,Thursday,Eid al-Fitr holiday,Public Holiday
+17/07/2015,Friday,Eid al-Fitr Eve,Public Holiday
+18/07/2015,Saturday,Eid al-Fitr,Public Holiday
+19/07/2015,Sunday,Eid al-Fitr holiday,Public Holiday
+23/09/2015,Wednesday,Eid al-Adha Eve,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,Public Holiday
+25/09/2015,Friday,Eid al-Adha holiday,Public Holiday
+26/09/2015,Saturday,Eid al-Adha holiday,Public Holiday
+26/09/2015,Saturday,Revolution Day,Public Holiday
+27/09/2015,Sunday,Eid al-Adha holiday,Public Holiday
+14/10/2015,Wednesday,Liberation Day,Public Holiday
+15/10/2015,Thursday,Muharram,Public Holiday
+30/11/2015,Monday,Independence Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,The Prophet's Birthday,Observance
+20/03/2016,Sunday,March Equinox,Season
+01/05/2016,Sunday,May Day,Public Holiday
+05/05/2016,Thursday,Isra and Mi'raj,Observance
+22/05/2016,Sunday,Unity Day,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+05/07/2016,Tuesday,Eid al-Fitr holiday,Public Holiday
+06/07/2016,Wednesday,Eid al-Fitr Eve,Public Holiday
+07/07/2016,Thursday,July 7th Anniversary,Observance
+07/07/2016,Thursday,Eid al-Fitr,Public Holiday
+08/07/2016,Friday,Eid al-Fitr holiday,Public Holiday
+12/09/2016,Monday,Eid al-Adha Eve,Public Holiday
+13/09/2016,Tuesday,Eid al-Adha,Public Holiday
+14/09/2016,Wednesday,Eid al-Adha holiday,Public Holiday
+15/09/2016,Thursday,Eid al-Adha holiday,Public Holiday
+16/09/2016,Friday,Eid al-Adha holiday,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+26/09/2016,Monday,Revolution Day,Public Holiday
+03/10/2016,Monday,Muharram,Public Holiday
+14/10/2016,Friday,Liberation Day,Public Holiday
+16/10/2016,Sunday,Day off for Liberation Day,Public Holiday
+30/11/2016,Wednesday,Independence Day,Public Holiday
+12/12/2016,Monday,The Prophet's Birthday,Observance
+21/12/2016,Wednesday,December Solstice,Season
+20/03/2017,Monday,March Equinox,Season
+24/04/2017,Monday,Isra and Mi'raj,Observance
+01/05/2017,Monday,May Day,Public Holiday
+22/05/2017,Monday,Unity Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+24/06/2017,Saturday,Eid al-Fitr holiday,Public Holiday
+25/06/2017,Sunday,Eid al-Fitr Eve,Public Holiday
+26/06/2017,Monday,Eid al-Fitr,Public Holiday
+27/06/2017,Tuesday,Eid al-Fitr holiday,Public Holiday
+07/07/2017,Friday,July 7th Anniversary,Observance
+01/09/2017,Friday,Eid al-Adha Eve,Public Holiday
+02/09/2017,Saturday,Eid al-Adha,Public Holiday
+03/09/2017,Sunday,Eid al-Adha holiday,Public Holiday
+04/09/2017,Monday,Eid al-Adha holiday,Public Holiday
+05/09/2017,Tuesday,Eid al-Adha holiday,Public Holiday
+22/09/2017,Friday,Muharram,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+26/09/2017,Tuesday,Revolution Day,Public Holiday
+14/10/2017,Saturday,Liberation Day,Public Holiday
+30/11/2017,Thursday,Independence Day,Public Holiday
+01/12/2017,Friday,The Prophet's Birthday,Observance
+21/12/2017,Thursday,December Solstice,Season
+20/03/2018,Tuesday,March Equinox,Season
+13/04/2018,Friday,Isra and Mi'raj,Observance
+01/05/2018,Tuesday,May Day,Public Holiday
+22/05/2018,Tuesday,Unity Day,Public Holiday
+13/06/2018,Wednesday,Eid al-Fitr holiday,Public Holiday
+14/06/2018,Thursday,Eid al-Fitr Eve,Public Holiday
+15/06/2018,Friday,Eid al-Fitr,Public Holiday
+16/06/2018,Saturday,Eid al-Fitr holiday,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+07/07/2018,Saturday,July 7th Anniversary,Observance
+21/08/2018,Tuesday,Eid al-Adha Eve,Public Holiday
+22/08/2018,Wednesday,Eid al-Adha,Public Holiday
+23/08/2018,Thursday,Eid al-Adha holiday,Public Holiday
+24/08/2018,Friday,Eid al-Adha holiday,Public Holiday
+25/08/2018,Saturday,Eid al-Adha holiday,Public Holiday
+12/09/2018,Wednesday,Muharram,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+26/09/2018,Wednesday,Revolution Day,Public Holiday
+14/10/2018,Sunday,Liberation Day,Public Holiday
+21/11/2018,Wednesday,The Prophet's Birthday,Observance
+30/11/2018,Friday,Independence Day,Public Holiday
+02/12/2018,Sunday,Day off for Independence Day,Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+21/03/2019,Thursday,March Equinox,Season
+03/04/2019,Wednesday,Isra and Mi'raj,Observance
+01/05/2019,Wednesday,May Day,Public Holiday
+22/05/2019,Wednesday,Unity Day,Public Holiday
+03/06/2019,Monday,Eid al-Fitr Eve,Public Holiday
+04/06/2019,Tuesday,Eid al-Fitr,Public Holiday
+05/06/2019,Wednesday,Eid al-Fitr holiday,Public Holiday
+06/06/2019,Thursday,Eid al-Fitr holiday,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+07/07/2019,Sunday,July 7th Anniversary,Observance
+10/08/2019,Saturday,Eid al-Adha Eve,Public Holiday
+11/08/2019,Sunday,Eid al-Adha,Public Holiday
+12/08/2019,Monday,Eid al-Adha holiday,Public Holiday
+13/08/2019,Tuesday,Eid al-Adha holiday,Public Holiday
+14/08/2019,Wednesday,Eid al-Adha holiday,Public Holiday
+31/08/2019,Saturday,Muharram,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+26/09/2019,Thursday,Revolution Day,Public Holiday
+14/10/2019,Monday,Liberation Day,Public Holiday
+09/11/2019,Saturday,The Prophet's Birthday,Observance
+30/11/2019,Saturday,Independence Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+20/03/2020,Friday,March Equinox,Season
+22/03/2020,Sunday,Isra and Mi'raj,Observance
+01/05/2020,Friday,May Day,Public Holiday
+02/05/2020,Saturday,Day off for May Day,Public Holiday
+22/05/2020,Friday,Eid al-Fitr holiday,Public Holiday
+22/05/2020,Friday,Unity Day,Public Holiday
+23/05/2020,Saturday,Eid al-Fitr Eve,Public Holiday
+24/05/2020,Sunday,Eid al-Fitr,Public Holiday
+24/05/2020,Sunday,Day off for Unity Day,Public Holiday
+25/05/2020,Monday,Eid al-Fitr holiday,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+07/07/2020,Tuesday,July 7th Anniversary,Observance
+30/07/2020,Thursday,Eid al-Adha Eve,Public Holiday
+31/07/2020,Friday,Eid al-Adha,Public Holiday
+01/08/2020,Saturday,Eid al-Adha holiday,Public Holiday
+02/08/2020,Sunday,Eid al-Adha holiday,Public Holiday
+03/08/2020,Monday,Eid al-Adha holiday,Public Holiday
+04/08/2020,Tuesday,Eid al-Adha holiday,Public Holiday
+05/08/2020,Wednesday,Eid al-Adha holiday,Public Holiday
+06/08/2020,Thursday,Eid al-Adha holiday,Public Holiday
+20/08/2020,Thursday,Muharram,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+26/09/2020,Saturday,Revolution Day,Public Holiday
+14/10/2020,Wednesday,Liberation Day,Public Holiday
+29/10/2020,Thursday,The Prophet's Birthday,Observance
+30/11/2020,Monday,Independence Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+11/03/2021,Thursday,Isra and Mi'raj,Observance
+20/03/2021,Saturday,March Equinox,Season
+01/05/2021,Saturday,May Day,Public Holiday
+11/05/2021,Tuesday,Eid al-Fitr holiday,Public Holiday
+12/05/2021,Wednesday,Eid al-Fitr Eve,Public Holiday
+13/05/2021,Thursday,Eid al-Fitr,Public Holiday
+14/05/2021,Friday,Eid al-Fitr holiday,Public Holiday
+22/05/2021,Saturday,Unity Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+07/07/2021,Wednesday,July 7th Anniversary,Observance
+19/07/2021,Monday,Eid al-Adha Eve,Public Holiday
+20/07/2021,Tuesday,Eid al-Adha,Public Holiday
+21/07/2021,Wednesday,Eid al-Adha holiday,Public Holiday
+22/07/2021,Thursday,Eid al-Adha holiday,Public Holiday
+23/07/2021,Friday,Eid al-Adha holiday,Public Holiday
+10/08/2021,Tuesday,Muharram,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+26/09/2021,Sunday,Revolution Day,Public Holiday
+14/10/2021,Thursday,Liberation Day,Public Holiday
+18/10/2021,Monday,The Prophet's Birthday,Observance
+30/11/2021,Tuesday,Independence Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+01/03/2022,Tuesday,Isra and Mi'raj,Observance
+20/03/2022,Sunday,March Equinox,Season
+30/04/2022,Saturday,Eid al-Fitr holiday,Public Holiday
+01/05/2022,Sunday,May Day,Public Holiday
+01/05/2022,Sunday,Eid al-Fitr Eve,Public Holiday
+02/05/2022,Monday,Eid al-Fitr,Public Holiday
+03/05/2022,Tuesday,Eid al-Fitr holiday,Public Holiday
+22/05/2022,Sunday,Unity Day,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+07/07/2022,Thursday,July 7th Anniversary,Observance
+08/07/2022,Friday,Eid al-Adha Eve,Public Holiday
+09/07/2022,Saturday,Eid al-Adha,Public Holiday
+10/07/2022,Sunday,Eid al-Adha holiday,Public Holiday
+11/07/2022,Monday,Eid al-Adha holiday,Public Holiday
+12/07/2022,Tuesday,Eid al-Adha holiday,Public Holiday
+13/07/2022,Wednesday,Eid al-Adha holiday,Public Service Sector Holiday
+14/07/2022,Thursday,Eid al-Adha holiday,Public Service Sector Holiday
+15/07/2022,Friday,Eid al-Adha holiday,Public Service Sector Holiday
+16/07/2022,Saturday,Eid al-Adha holiday,Public Service Sector Holiday
+30/07/2022,Saturday,Muharram,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+26/09/2022,Monday,Revolution Day,Public Holiday
+08/10/2022,Saturday,The Prophet's Birthday (Tentative Date),Observance
+14/10/2022,Friday,Liberation Day,Public Holiday
+16/10/2022,Sunday,Day off for Liberation Day,Public Holiday
+30/11/2022,Wednesday,Independence Day,Public Holiday
+22/12/2022,Thursday,December Solstice,Season

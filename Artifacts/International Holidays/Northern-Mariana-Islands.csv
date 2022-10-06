@@ -1,0 +1,465 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+17/01/2000,Monday,Martin Luther King Jr. Day,Public Holiday
+21/02/2000,Monday,President's Day,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+24/03/2000,Friday,Commonwealth Covenant Day,Public Holiday
+21/04/2000,Friday,Good Friday,Public Holiday
+29/05/2000,Monday,Memorial Day,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+04/07/2000,Tuesday,Independence Day,Public Holiday
+04/09/2000,Monday,Labor Day,Public Holiday
+23/09/2000,Saturday,September Equinox,Season
+09/10/2000,Monday,Commonwealth Cultural Day,Public Holiday
+03/11/2000,Friday,Day off for Citizenship Day,Public Holiday
+04/11/2000,Saturday,Citizenship Day,Public Holiday
+10/11/2000,Friday,Day off for Veterans Day,Public Holiday
+11/11/2000,Saturday,Veterans Day,Public Holiday
+23/11/2000,Thursday,Thanksgiving Day,Public Holiday
+08/12/2000,Friday,Constitution Day,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+15/01/2001,Monday,Martin Luther King Jr. Day,Public Holiday
+19/02/2001,Monday,President's Day,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+23/03/2001,Friday,Day off for Commonwealth Covenant Day,Public Holiday
+24/03/2001,Saturday,Commonwealth Covenant Day,Public Holiday
+13/04/2001,Friday,Good Friday,Public Holiday
+28/05/2001,Monday,Memorial Day,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+04/07/2001,Wednesday,Independence Day,Public Holiday
+03/09/2001,Monday,Labor Day,Public Holiday
+23/09/2001,Sunday,September Equinox,Season
+08/10/2001,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2001,Sunday,Citizenship Day,Public Holiday
+05/11/2001,Monday,Day off for Citizenship Day,Public Holiday
+11/11/2001,Sunday,Veterans Day,Public Holiday
+12/11/2001,Monday,Day off for Veterans Day,Public Holiday
+22/11/2001,Thursday,Thanksgiving Day,Public Holiday
+07/12/2001,Friday,Day off for Constitution Day,Public Holiday
+08/12/2001,Saturday,Constitution Day,Public Holiday
+22/12/2001,Saturday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+21/01/2002,Monday,Martin Luther King Jr. Day,Public Holiday
+18/02/2002,Monday,President's Day,Public Holiday
+21/03/2002,Thursday,March Equinox,Season
+24/03/2002,Sunday,Commonwealth Covenant Day,Public Holiday
+25/03/2002,Monday,Day off for Commonwealth Covenant Day,Public Holiday
+29/03/2002,Friday,Good Friday,Public Holiday
+27/05/2002,Monday,Memorial Day,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+04/07/2002,Thursday,Independence Day,Public Holiday
+02/09/2002,Monday,Labor Day,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+14/10/2002,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2002,Monday,Citizenship Day,Public Holiday
+11/11/2002,Monday,Veterans Day,Public Holiday
+28/11/2002,Thursday,Thanksgiving Day,Public Holiday
+08/12/2002,Sunday,Constitution Day,Public Holiday
+09/12/2002,Monday,Day off for Constitution Day,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+20/01/2003,Monday,Martin Luther King Jr. Day,Public Holiday
+17/02/2003,Monday,President's Day,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+24/03/2003,Monday,Commonwealth Covenant Day,Public Holiday
+18/04/2003,Friday,Good Friday,Public Holiday
+26/05/2003,Monday,Memorial Day,Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+04/07/2003,Friday,Independence Day,Public Holiday
+01/09/2003,Monday,Labor Day,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+13/10/2003,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2003,Tuesday,Citizenship Day,Public Holiday
+11/11/2003,Tuesday,Veterans Day,Public Holiday
+27/11/2003,Thursday,Thanksgiving Day,Public Holiday
+08/12/2003,Monday,Constitution Day,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+19/01/2004,Monday,Martin Luther King Jr. Day,Public Holiday
+16/02/2004,Monday,President's Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+24/03/2004,Wednesday,Commonwealth Covenant Day,Public Holiday
+09/04/2004,Friday,Good Friday,Public Holiday
+31/05/2004,Monday,Memorial Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+04/07/2004,Sunday,Independence Day,Public Holiday
+05/07/2004,Monday,Day off for Independence Day,Public Holiday
+06/09/2004,Monday,Labor Day,Public Holiday
+23/09/2004,Thursday,September Equinox,Season
+11/10/2004,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2004,Thursday,Citizenship Day,Public Holiday
+11/11/2004,Thursday,Veterans Day,Public Holiday
+25/11/2004,Thursday,Thanksgiving Day,Public Holiday
+08/12/2004,Wednesday,Constitution Day,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Day off for Christmas Day,Public Holiday
+25/12/2004,Saturday,Christmas Day,Public Holiday
+31/12/2004,Friday,Day off for New Year's Day,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+17/01/2005,Monday,Martin Luther King Jr. Day,Public Holiday
+21/02/2005,Monday,President's Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+24/03/2005,Thursday,Commonwealth Covenant Day,Public Holiday
+25/03/2005,Friday,Good Friday,Public Holiday
+30/05/2005,Monday,Memorial Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+04/07/2005,Monday,Independence Day,Public Holiday
+05/09/2005,Monday,Labor Day,Public Holiday
+23/09/2005,Friday,September Equinox,Season
+10/10/2005,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2005,Friday,Citizenship Day,Public Holiday
+11/11/2005,Friday,Veterans Day,Public Holiday
+24/11/2005,Thursday,Thanksgiving Day,Public Holiday
+08/12/2005,Thursday,Constitution Day,Public Holiday
+22/12/2005,Thursday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Day off for Christmas Day,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,Day off for New Year's Day,Public Holiday
+16/01/2006,Monday,Martin Luther King Jr. Day,Public Holiday
+20/02/2006,Monday,President's Day,Public Holiday
+21/03/2006,Tuesday,March Equinox,Season
+24/03/2006,Friday,Commonwealth Covenant Day,Public Holiday
+14/04/2006,Friday,Good Friday,Public Holiday
+29/05/2006,Monday,Memorial Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+04/07/2006,Tuesday,Independence Day,Public Holiday
+04/09/2006,Monday,Labor Day,Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+09/10/2006,Monday,Commonwealth Cultural Day,Public Holiday
+03/11/2006,Friday,Day off for Citizenship Day,Public Holiday
+04/11/2006,Saturday,Citizenship Day,Public Holiday
+10/11/2006,Friday,Day off for Veterans Day,Public Holiday
+11/11/2006,Saturday,Veterans Day,Public Holiday
+23/11/2006,Thursday,Thanksgiving Day,Public Holiday
+08/12/2006,Friday,Constitution Day,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+15/01/2007,Monday,Martin Luther King Jr. Day,Public Holiday
+19/02/2007,Monday,President's Day,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+23/03/2007,Friday,Day off for Commonwealth Covenant Day,Public Holiday
+24/03/2007,Saturday,Commonwealth Covenant Day,Public Holiday
+06/04/2007,Friday,Good Friday,Public Holiday
+28/05/2007,Monday,Memorial Day,Public Holiday
+22/06/2007,Friday,June Solstice,Season
+04/07/2007,Wednesday,Independence Day,Public Holiday
+03/09/2007,Monday,Labor Day,Public Holiday
+23/09/2007,Sunday,September Equinox,Season
+08/10/2007,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2007,Sunday,Citizenship Day,Public Holiday
+05/11/2007,Monday,Day off for Citizenship Day,Public Holiday
+11/11/2007,Sunday,Veterans Day,Public Holiday
+12/11/2007,Monday,Day off for Veterans Day,Public Holiday
+22/11/2007,Thursday,Thanksgiving Day,Public Holiday
+07/12/2007,Friday,Day off for Constitution Day,Public Holiday
+08/12/2007,Saturday,Constitution Day,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+21/01/2008,Monday,Martin Luther King Jr. Day,Public Holiday
+18/02/2008,Monday,President's Day,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+24/03/2008,Monday,Commonwealth Covenant Day,Public Holiday
+26/05/2008,Monday,Memorial Day,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+04/07/2008,Friday,Independence Day,Public Holiday
+01/09/2008,Monday,Labor Day,Public Holiday
+23/09/2008,Tuesday,September Equinox,Season
+13/10/2008,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2008,Tuesday,Citizenship Day,Public Holiday
+11/11/2008,Tuesday,Veterans Day,Public Holiday
+27/11/2008,Thursday,Thanksgiving Day,Public Holiday
+08/12/2008,Monday,Constitution Day,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+19/01/2009,Monday,Martin Luther King Jr. Day,Public Holiday
+16/02/2009,Monday,President's Day,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+24/03/2009,Tuesday,Commonwealth Covenant Day,Public Holiday
+10/04/2009,Friday,Good Friday,Public Holiday
+25/05/2009,Monday,Memorial Day,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+03/07/2009,Friday,Day off for Independence Day,Public Holiday
+04/07/2009,Saturday,Independence Day,Public Holiday
+07/09/2009,Monday,Labor Day,Public Holiday
+23/09/2009,Wednesday,September Equinox,Season
+12/10/2009,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2009,Wednesday,Citizenship Day,Public Holiday
+11/11/2009,Wednesday,Veterans Day,Public Holiday
+26/11/2009,Thursday,Thanksgiving Day,Public Holiday
+08/12/2009,Tuesday,Constitution Day,Public Holiday
+22/12/2009,Tuesday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+18/01/2010,Monday,Martin Luther King Jr. Day,Public Holiday
+15/02/2010,Monday,President's Day,Public Holiday
+21/03/2010,Sunday,March Equinox,Season
+24/03/2010,Wednesday,Commonwealth Covenant Day,Public Holiday
+02/04/2010,Friday,Good Friday,Public Holiday
+31/05/2010,Monday,Memorial Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+04/07/2010,Sunday,Independence Day,Public Holiday
+05/07/2010,Monday,Day off for Independence Day,Public Holiday
+06/09/2010,Monday,Labor Day,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+11/10/2010,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2010,Thursday,Citizenship Day,Public Holiday
+11/11/2010,Thursday,Veterans Day,Public Holiday
+25/11/2010,Thursday,Thanksgiving Day,Public Holiday
+08/12/2010,Wednesday,Constitution Day,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Day off for Christmas Day,Public Holiday
+25/12/2010,Saturday,Christmas Day,Public Holiday
+31/12/2010,Friday,Day off for New Year's Day,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+17/01/2011,Monday,Martin Luther King Jr. Day,Public Holiday
+21/02/2011,Monday,President's Day,Public Holiday
+21/03/2011,Monday,March Equinox,Season
+24/03/2011,Thursday,Commonwealth Covenant Day,Public Holiday
+22/04/2011,Friday,Good Friday,Public Holiday
+30/05/2011,Monday,Memorial Day,Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+04/07/2011,Monday,Independence Day,Public Holiday
+05/09/2011,Monday,Labor Day,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+10/10/2011,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2011,Friday,Citizenship Day,Public Holiday
+11/11/2011,Friday,Veterans Day,Public Holiday
+24/11/2011,Thursday,Thanksgiving Day,Public Holiday
+08/12/2011,Thursday,Constitution Day,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Day off for Christmas Day,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,Day off for New Year's Day,Public Holiday
+16/01/2012,Monday,Martin Luther King Jr. Day,Public Holiday
+20/02/2012,Monday,President's Day,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+23/03/2012,Friday,Day off for Commonwealth Covenant Day,Public Holiday
+24/03/2012,Saturday,Commonwealth Covenant Day,Public Holiday
+06/04/2012,Friday,Good Friday,Public Holiday
+28/05/2012,Monday,Memorial Day,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+04/07/2012,Wednesday,Independence Day,Public Holiday
+03/09/2012,Monday,Labor Day,Public Holiday
+23/09/2012,Sunday,September Equinox,Season
+08/10/2012,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2012,Sunday,Citizenship Day,Public Holiday
+05/11/2012,Monday,Day off for Citizenship Day,Public Holiday
+11/11/2012,Sunday,Veterans Day,Public Holiday
+12/11/2012,Monday,Day off for Veterans Day,Public Holiday
+22/11/2012,Thursday,Thanksgiving Day,Public Holiday
+07/12/2012,Friday,Day off for Constitution Day,Public Holiday
+08/12/2012,Saturday,Constitution Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+21/01/2013,Monday,Martin Luther King Jr. Day,Public Holiday
+18/02/2013,Monday,President's Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+24/03/2013,Sunday,Commonwealth Covenant Day,Public Holiday
+25/03/2013,Monday,Day off for Commonwealth Covenant Day,Public Holiday
+29/03/2013,Friday,Good Friday,Public Holiday
+27/05/2013,Monday,Memorial Day,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+04/07/2013,Thursday,Independence Day,Public Holiday
+02/09/2013,Monday,Labor Day,Public Holiday
+23/09/2013,Monday,September Equinox,Season
+14/10/2013,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2013,Monday,Citizenship Day,Public Holiday
+11/11/2013,Monday,Veterans Day,Public Holiday
+28/11/2013,Thursday,Thanksgiving Day,Public Holiday
+08/12/2013,Sunday,Constitution Day,Public Holiday
+09/12/2013,Monday,Day off for Constitution Day,Public Holiday
+22/12/2013,Sunday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+20/01/2014,Monday,Martin Luther King Jr. Day,Public Holiday
+17/02/2014,Monday,President's Day,Public Holiday
+21/03/2014,Friday,March Equinox,Season
+24/03/2014,Monday,Commonwealth Covenant Day,Public Holiday
+18/04/2014,Friday,Good Friday,Public Holiday
+26/05/2014,Monday,Memorial Day,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+04/07/2014,Friday,Independence Day,Public Holiday
+01/09/2014,Monday,Labor Day,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+13/10/2014,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2014,Tuesday,Citizenship Day,Public Holiday
+11/11/2014,Tuesday,Veterans Day,Public Holiday
+27/11/2014,Thursday,Thanksgiving Day,Public Holiday
+08/12/2014,Monday,Constitution Day,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+19/01/2015,Monday,Martin Luther King Jr. Day,Public Holiday
+16/02/2015,Monday,President's Day,Public Holiday
+21/03/2015,Saturday,March Equinox,Season
+24/03/2015,Tuesday,Commonwealth Covenant Day,Public Holiday
+03/04/2015,Friday,Good Friday,Public Holiday
+25/05/2015,Monday,Memorial Day,Public Holiday
+22/06/2015,Monday,June Solstice,Season
+03/07/2015,Friday,Day off for Independence Day,Public Holiday
+04/07/2015,Saturday,Independence Day,Public Holiday
+07/09/2015,Monday,Labor Day,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+12/10/2015,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2015,Wednesday,Citizenship Day,Public Holiday
+11/11/2015,Wednesday,Veterans Day,Public Holiday
+26/11/2015,Thursday,Thanksgiving Day,Public Holiday
+08/12/2015,Tuesday,Constitution Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+18/01/2016,Monday,Martin Luther King Jr. Day,Public Holiday
+15/02/2016,Monday,President's Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+24/03/2016,Thursday,Commonwealth Covenant Day,Public Holiday
+25/03/2016,Friday,Good Friday,Public Holiday
+30/05/2016,Monday,Memorial Day,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+04/07/2016,Monday,Independence Day,Public Holiday
+05/09/2016,Monday,Labor Day,Public Holiday
+23/09/2016,Friday,September Equinox,Season
+10/10/2016,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2016,Friday,Citizenship Day,Public Holiday
+11/11/2016,Friday,Veterans Day,Public Holiday
+24/11/2016,Thursday,Thanksgiving Day,Public Holiday
+08/12/2016,Thursday,Constitution Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Day off for Christmas Day,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,Day off for New Year's Day,Public Holiday
+16/01/2017,Monday,Martin Luther King Jr. Day,Public Holiday
+20/02/2017,Monday,President's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+24/03/2017,Friday,Commonwealth Covenant Day,Public Holiday
+14/04/2017,Friday,Good Friday,Public Holiday
+29/05/2017,Monday,Memorial Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+04/07/2017,Tuesday,Independence Day,Public Holiday
+04/09/2017,Monday,Labor Day,Public Holiday
+23/09/2017,Saturday,September Equinox,Season
+09/10/2017,Monday,Commonwealth Cultural Day,Public Holiday
+03/11/2017,Friday,Day off for Citizenship Day,Public Holiday
+04/11/2017,Saturday,Citizenship Day,Public Holiday
+10/11/2017,Friday,Day off for Veterans Day,Public Holiday
+11/11/2017,Saturday,Veterans Day,Public Holiday
+23/11/2017,Thursday,Thanksgiving Day,Public Holiday
+08/12/2017,Friday,Constitution Day,Public Holiday
+22/12/2017,Friday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+15/01/2018,Monday,Martin Luther King Jr. Day,Public Holiday
+19/02/2018,Monday,President's Day,Public Holiday
+21/03/2018,Wednesday,March Equinox,Season
+23/03/2018,Friday,Day off for Commonwealth Covenant Day,Public Holiday
+24/03/2018,Saturday,Commonwealth Covenant Day,Public Holiday
+30/03/2018,Friday,Good Friday,Public Holiday
+28/05/2018,Monday,Memorial Day,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+04/07/2018,Wednesday,Independence Day,Public Holiday
+03/09/2018,Monday,Labor Day,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+08/10/2018,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2018,Sunday,Citizenship Day,Public Holiday
+05/11/2018,Monday,Day off for Citizenship Day,Public Holiday
+11/11/2018,Sunday,Veterans Day,Public Holiday
+12/11/2018,Monday,Day off for Veterans Day,Public Holiday
+22/11/2018,Thursday,Thanksgiving Day,Public Holiday
+07/12/2018,Friday,Day off for Constitution Day,Public Holiday
+08/12/2018,Saturday,Constitution Day,Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+21/01/2019,Monday,Martin Luther King Jr. Day,Public Holiday
+18/02/2019,Monday,President's Day,Public Holiday
+21/03/2019,Thursday,March Equinox,Season
+24/03/2019,Sunday,Commonwealth Covenant Day,Public Holiday
+25/03/2019,Monday,Day off for Commonwealth Covenant Day,Public Holiday
+19/04/2019,Friday,Good Friday,Public Holiday
+27/05/2019,Monday,Memorial Day,Public Holiday
+22/06/2019,Saturday,June Solstice,Season
+04/07/2019,Thursday,Independence Day,Public Holiday
+02/09/2019,Monday,Labor Day,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+14/10/2019,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2019,Monday,Citizenship Day,Public Holiday
+11/11/2019,Monday,Veterans Day,Public Holiday
+28/11/2019,Thursday,Thanksgiving Day,Public Holiday
+08/12/2019,Sunday,Constitution Day,Public Holiday
+09/12/2019,Monday,Day off for Constitution Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+20/01/2020,Monday,Martin Luther King Jr. Day,Public Holiday
+17/02/2020,Monday,President's Day,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+24/03/2020,Tuesday,Commonwealth Covenant Day,Public Holiday
+10/04/2020,Friday,Good Friday,Public Holiday
+25/05/2020,Monday,Memorial Day,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+03/07/2020,Friday,Day off for Independence Day,Public Holiday
+04/07/2020,Saturday,Independence Day,Public Holiday
+07/09/2020,Monday,Labor Day,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+12/10/2020,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2020,Wednesday,Citizenship Day,Public Holiday
+11/11/2020,Wednesday,Veterans Day,Public Holiday
+26/11/2020,Thursday,Thanksgiving Day,Public Holiday
+08/12/2020,Tuesday,Constitution Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+18/01/2021,Monday,Martin Luther King Jr. Day,Public Holiday
+15/02/2021,Monday,President's Day,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+24/03/2021,Wednesday,Commonwealth Covenant Day,Public Holiday
+02/04/2021,Friday,Good Friday,Public Holiday
+31/05/2021,Monday,Memorial Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+04/07/2021,Sunday,Independence Day,Public Holiday
+05/07/2021,Monday,Day off for Independence Day,Public Holiday
+06/09/2021,Monday,Labor Day,Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+11/10/2021,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2021,Thursday,Citizenship Day,Public Holiday
+11/11/2021,Thursday,Veterans Day,Public Holiday
+25/11/2021,Thursday,Thanksgiving Day,Public Holiday
+08/12/2021,Wednesday,Constitution Day,Public Holiday
+22/12/2021,Wednesday,December Solstice,Season
+24/12/2021,Friday,Day off for Christmas Day,Public Holiday
+25/12/2021,Saturday,Christmas Day,Public Holiday
+31/12/2021,Friday,Day off for New Year's Day,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+17/01/2022,Monday,Martin Luther King Jr. Day,Public Holiday
+21/02/2022,Monday,President's Day,Public Holiday
+21/03/2022,Monday,March Equinox,Season
+24/03/2022,Thursday,Commonwealth Covenant Day,Public Holiday
+15/04/2022,Friday,Good Friday,Public Holiday
+30/05/2022,Monday,Memorial Day,Public Holiday
+19/06/2022,Sunday,Juneteenth,Public Holiday
+20/06/2022,Monday,Day off for Juneteenth,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+04/07/2022,Monday,Independence Day,Public Holiday
+05/09/2022,Monday,Labor Day,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+10/10/2022,Monday,Commonwealth Cultural Day,Public Holiday
+04/11/2022,Friday,Citizenship Day,Public Holiday
+08/11/2022,Tuesday,Election Day,Public Holiday
+11/11/2022,Friday,Veterans Day,Public Holiday
+24/11/2022,Thursday,Thanksgiving Day,Public Holiday
+08/12/2022,Thursday,Constitution Day,Public Holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Day off for Christmas Day,Public Holiday

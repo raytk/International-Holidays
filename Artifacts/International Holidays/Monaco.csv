@@ -1,0 +1,712 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+27/01/2000,Thursday,Saint Dévote's Day,National holiday
+20/03/2000,Monday,March Equinox,Season
+26/03/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+21/04/2000,Friday,Good Friday,Observance
+22/04/2000,Saturday,Holy Saturday,Observance
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,National holiday
+01/05/2000,Monday,Labour Day/May Day,National holiday
+28/05/2000,Sunday,Mother's Day,Observance
+01/06/2000,Thursday,Ascension Day,National holiday
+11/06/2000,Sunday,Whit Sunday,Observance
+12/06/2000,Monday,Whit Monday,National holiday
+18/06/2000,Sunday,Father's Day,Observance
+21/06/2000,Wednesday,June Solstice,Season
+22/06/2000,Thursday,Corpus Christi,National holiday
+23/06/2000,Friday,Saint John's Eve,Observance
+24/06/2000,Saturday,Saint John's Day,Observance
+08/08/2000,Tuesday,Feast of Saint Roman Eve,Observance
+09/08/2000,Wednesday,Feast of Saint Roman,Observance
+15/08/2000,Tuesday,Assumption of Mary,National holiday
+22/09/2000,Friday,September Equinox,Season
+29/10/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2000,Wednesday,All Saints' Day,National holiday
+19/11/2000,Sunday,National Day,National holiday
+20/11/2000,Monday,Day off for National Day,National holiday
+08/12/2000,Friday,Feast of the Immaculate Conception,National holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+27/01/2001,Saturday,Saint Dévote's Day,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+13/04/2001,Friday,Good Friday,Observance
+14/04/2001,Saturday,Holy Saturday,Observance
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,National holiday
+01/05/2001,Tuesday,Labour Day/May Day,National holiday
+24/05/2001,Thursday,Ascension Day,National holiday
+27/05/2001,Sunday,Mother's Day,Observance
+03/06/2001,Sunday,Whit Sunday,Observance
+04/06/2001,Monday,Whit Monday,National holiday
+14/06/2001,Thursday,Corpus Christi,National holiday
+17/06/2001,Sunday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+23/06/2001,Saturday,Saint John's Eve,Observance
+24/06/2001,Sunday,Saint John's Day,Observance
+08/08/2001,Wednesday,Feast of Saint Roman Eve,Observance
+09/08/2001,Thursday,Feast of Saint Roman,Observance
+15/08/2001,Wednesday,Assumption of Mary,National holiday
+23/09/2001,Sunday,September Equinox,Season
+28/10/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2001,Thursday,All Saints' Day,National holiday
+19/11/2001,Monday,National Day,National holiday
+08/12/2001,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+27/01/2002,Sunday,Saint Dévote's Day,National holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Observance
+30/03/2002,Saturday,Holy Saturday,Observance
+31/03/2002,Sunday,Easter Sunday,Observance
+31/03/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2002,Monday,Easter Monday,National holiday
+01/05/2002,Wednesday,Labour Day/May Day,National holiday
+09/05/2002,Thursday,Ascension Day,National holiday
+19/05/2002,Sunday,Whit Sunday,Observance
+20/05/2002,Monday,Whit Monday,National holiday
+26/05/2002,Sunday,Mother's Day,Observance
+30/05/2002,Thursday,Corpus Christi,National holiday
+16/06/2002,Sunday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+23/06/2002,Sunday,Saint John's Eve,Observance
+24/06/2002,Monday,Saint John's Day,Observance
+08/08/2002,Thursday,Feast of Saint Roman Eve,Observance
+09/08/2002,Friday,Feast of Saint Roman,Observance
+15/08/2002,Thursday,Assumption of Mary,National holiday
+23/09/2002,Monday,September Equinox,Season
+27/10/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2002,Friday,All Saints' Day,National holiday
+19/11/2002,Tuesday,National Day,National holiday
+08/12/2002,Sunday,Feast of the Immaculate Conception,National holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+27/01/2003,Monday,Saint Dévote's Day,National holiday
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+18/04/2003,Friday,Good Friday,Observance
+19/04/2003,Saturday,Holy Saturday,Observance
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,National holiday
+01/05/2003,Thursday,Labour Day/May Day,National holiday
+25/05/2003,Sunday,Mother's Day,Observance
+29/05/2003,Thursday,Ascension Day,National holiday
+08/06/2003,Sunday,Whit Sunday,Observance
+09/06/2003,Monday,Whit Monday,National holiday
+15/06/2003,Sunday,Father's Day,Observance
+19/06/2003,Thursday,Corpus Christi,National holiday
+21/06/2003,Saturday,June Solstice,Season
+23/06/2003,Monday,Saint John's Eve,Observance
+24/06/2003,Tuesday,Saint John's Day,Observance
+08/08/2003,Friday,Feast of Saint Roman Eve,Observance
+09/08/2003,Saturday,Feast of Saint Roman,Observance
+15/08/2003,Friday,Assumption of Mary,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+26/10/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2003,Saturday,All Saints' Day,National holiday
+19/11/2003,Wednesday,National Day,National holiday
+08/12/2003,Monday,Feast of the Immaculate Conception,National holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+27/01/2004,Tuesday,Saint Dévote's Day,National holiday
+20/03/2004,Saturday,March Equinox,Season
+28/03/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+09/04/2004,Friday,Good Friday,Observance
+10/04/2004,Saturday,Holy Saturday,Observance
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,National holiday
+01/05/2004,Saturday,Labour Day/May Day,National holiday
+20/05/2004,Thursday,Ascension Day,National holiday
+30/05/2004,Sunday,Whit Sunday,Observance
+31/05/2004,Monday,Whit Monday,National holiday
+06/06/2004,Sunday,Mother's Day,Observance
+10/06/2004,Thursday,Corpus Christi,National holiday
+20/06/2004,Sunday,Father's Day,Observance
+21/06/2004,Monday,June Solstice,Season
+23/06/2004,Wednesday,Saint John's Eve,Observance
+24/06/2004,Thursday,Saint John's Day,Observance
+08/08/2004,Sunday,Feast of Saint Roman Eve,Observance
+09/08/2004,Monday,Feast of Saint Roman,Observance
+15/08/2004,Sunday,Assumption of Mary,National holiday
+16/08/2004,Monday,Day off for Assumption of Mary,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+31/10/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2004,Monday,All Saints' Day,National holiday
+19/11/2004,Friday,National Day,National holiday
+08/12/2004,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+27/01/2005,Thursday,Saint Dévote's Day,National holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Observance
+26/03/2005,Saturday,Holy Saturday,Observance
+27/03/2005,Sunday,Easter Sunday,Observance
+27/03/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2005,Monday,Easter Monday,National holiday
+01/05/2005,Sunday,Labour Day/May Day,National holiday
+02/05/2005,Monday,Day off for Labour Day/May Day,National holiday
+05/05/2005,Thursday,Ascension Day,National holiday
+15/05/2005,Sunday,Whit Sunday,Observance
+16/05/2005,Monday,Whit Monday,National holiday
+26/05/2005,Thursday,Corpus Christi,National holiday
+29/05/2005,Sunday,Mother's Day,Observance
+19/06/2005,Sunday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+23/06/2005,Thursday,Saint John's Eve,Observance
+24/06/2005,Friday,Saint John's Day,Observance
+08/08/2005,Monday,Feast of Saint Roman Eve,Observance
+09/08/2005,Tuesday,Feast of Saint Roman,Observance
+15/08/2005,Monday,Assumption of Mary,National holiday
+23/09/2005,Friday,September Equinox,Season
+30/10/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2005,Tuesday,All Saints' Day,National holiday
+19/11/2005,Saturday,National Day,National holiday
+08/12/2005,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,Day off for Christmas Day,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+02/01/2006,Monday,Day off for New Year's Day,National holiday
+27/01/2006,Friday,Saint Dévote's Day,National holiday
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2006,Friday,Good Friday,Observance
+15/04/2006,Saturday,Holy Saturday,Observance
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,National holiday
+01/05/2006,Monday,Labour Day/May Day,National holiday
+25/05/2006,Thursday,Ascension Day,National holiday
+28/05/2006,Sunday,Mother's Day,Observance
+04/06/2006,Sunday,Whit Sunday,Observance
+05/06/2006,Monday,Whit Monday,National holiday
+15/06/2006,Thursday,Corpus Christi,National holiday
+18/06/2006,Sunday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+23/06/2006,Friday,Saint John's Eve,Observance
+24/06/2006,Saturday,Saint John's Day,Observance
+08/08/2006,Tuesday,Feast of Saint Roman Eve,Observance
+09/08/2006,Wednesday,Feast of Saint Roman,Observance
+15/08/2006,Tuesday,Assumption of Mary,National holiday
+23/09/2006,Saturday,September Equinox,Season
+29/10/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2006,Wednesday,All Saints' Day,National holiday
+19/11/2006,Sunday,National Day,National holiday
+20/11/2006,Monday,Day off for National Day,National holiday
+08/12/2006,Friday,Feast of the Immaculate Conception,National holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+27/01/2007,Saturday,Saint Dévote's Day,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+25/03/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2007,Friday,Good Friday,Observance
+07/04/2007,Saturday,Holy Saturday,Observance
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,National holiday
+01/05/2007,Tuesday,Labour Day/May Day,National holiday
+17/05/2007,Thursday,Ascension Day,National holiday
+27/05/2007,Sunday,Whit Sunday,Observance
+28/05/2007,Monday,Whit Monday,National holiday
+03/06/2007,Sunday,Mother's Day,Observance
+07/06/2007,Thursday,Corpus Christi,National holiday
+17/06/2007,Sunday,Father's Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+23/06/2007,Saturday,Saint John's Eve,Observance
+24/06/2007,Sunday,Saint John's Day,Observance
+08/08/2007,Wednesday,Feast of Saint Roman Eve,Observance
+09/08/2007,Thursday,Feast of Saint Roman,Observance
+15/08/2007,Wednesday,Assumption of Mary,National holiday
+23/09/2007,Sunday,September Equinox,Season
+28/10/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2007,Thursday,All Saints' Day,National holiday
+19/11/2007,Monday,National Day,National holiday
+08/12/2007,Saturday,Feast of the Immaculate Conception,National holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+27/01/2008,Sunday,Saint Dévote's Day,National holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Observance
+22/03/2008,Saturday,Holy Saturday,Observance
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,National holiday
+30/03/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/05/2008,Thursday,Labour Day/May Day,National holiday
+01/05/2008,Thursday,Ascension Day,National holiday
+11/05/2008,Sunday,Whit Sunday,Observance
+12/05/2008,Monday,Whit Monday,National holiday
+22/05/2008,Thursday,Corpus Christi,National holiday
+25/05/2008,Sunday,Mother's Day,Observance
+15/06/2008,Sunday,Father's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+23/06/2008,Monday,Saint John's Eve,Observance
+24/06/2008,Tuesday,Saint John's Day,Observance
+08/08/2008,Friday,Feast of Saint Roman Eve,Observance
+09/08/2008,Saturday,Feast of Saint Roman,Observance
+15/08/2008,Friday,Assumption of Mary,National holiday
+22/09/2008,Monday,September Equinox,Season
+26/10/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2008,Saturday,All Saints' Day,National holiday
+19/11/2008,Wednesday,National Day,National holiday
+08/12/2008,Monday,Feast of the Immaculate Conception,National holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+27/01/2009,Tuesday,Saint Dévote's Day,National holiday
+20/03/2009,Friday,March Equinox,Season
+29/03/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2009,Friday,Good Friday,Observance
+11/04/2009,Saturday,Holy Saturday,Observance
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,National holiday
+01/05/2009,Friday,Labour Day/May Day,National holiday
+21/05/2009,Thursday,Ascension Day,National holiday
+31/05/2009,Sunday,Whit Sunday,Observance
+01/06/2009,Monday,Whit Monday,National holiday
+07/06/2009,Sunday,Mother's Day,Observance
+11/06/2009,Thursday,Corpus Christi,National holiday
+21/06/2009,Sunday,Father's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+23/06/2009,Tuesday,Saint John's Eve,Observance
+24/06/2009,Wednesday,Saint John's Day,Observance
+08/08/2009,Saturday,Feast of Saint Roman Eve,Observance
+09/08/2009,Sunday,Feast of Saint Roman,Observance
+15/08/2009,Saturday,Assumption of Mary,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+25/10/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2009,Sunday,All Saints' Day,National holiday
+02/11/2009,Monday,Day off for All Saints' Day,National holiday
+19/11/2009,Thursday,National Day,National holiday
+08/12/2009,Tuesday,Feast of the Immaculate Conception,National holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+27/01/2010,Wednesday,Saint Dévote's Day,National holiday
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2010,Friday,Good Friday,Observance
+03/04/2010,Saturday,Holy Saturday,Observance
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,National holiday
+01/05/2010,Saturday,Labour Day/May Day,National holiday
+13/05/2010,Thursday,Ascension Day,National holiday
+23/05/2010,Sunday,Whit Sunday,Observance
+24/05/2010,Monday,Whit Monday,National holiday
+30/05/2010,Sunday,Mother's Day,Observance
+03/06/2010,Thursday,Corpus Christi,National holiday
+20/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+23/06/2010,Wednesday,Saint John's Eve,Observance
+24/06/2010,Thursday,Saint John's Day,Observance
+08/08/2010,Sunday,Feast of Saint Roman Eve,Observance
+09/08/2010,Monday,Feast of Saint Roman,Observance
+15/08/2010,Sunday,Assumption of Mary,National holiday
+16/08/2010,Monday,Day off for Assumption of Mary,National holiday
+23/09/2010,Thursday,September Equinox,Season
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2010,Monday,All Saints' Day,National holiday
+19/11/2010,Friday,National Day,National holiday
+08/12/2010,Wednesday,Feast of the Immaculate Conception,National holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+27/01/2011,Thursday,Saint Dévote's Day,National holiday
+21/03/2011,Monday,March Equinox,Season
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/04/2011,Friday,Good Friday,Observance
+23/04/2011,Saturday,Holy Saturday,Observance
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,National holiday
+01/05/2011,Sunday,Labour Day/May Day,National holiday
+02/05/2011,Monday,Day off for Labour Day/May Day,National holiday
+29/05/2011,Sunday,Mother's Day,Observance
+02/06/2011,Thursday,Ascension Day,National holiday
+12/06/2011,Sunday,Whit Sunday,Observance
+13/06/2011,Monday,Whit Monday,National holiday
+19/06/2011,Sunday,Father's Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+23/06/2011,Thursday,Saint John's Eve,Observance
+23/06/2011,Thursday,Corpus Christi,National holiday
+24/06/2011,Friday,Saint John's Day,Observance
+08/08/2011,Monday,Feast of Saint Roman Eve,Observance
+09/08/2011,Tuesday,Feast of Saint Roman,Observance
+15/08/2011,Monday,Assumption of Mary,National holiday
+23/09/2011,Friday,September Equinox,Season
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2011,Tuesday,All Saints' Day,National holiday
+19/11/2011,Saturday,National Day,National holiday
+08/12/2011,Thursday,Feast of the Immaculate Conception,National holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,Day off for Christmas Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+02/01/2012,Monday,Day off for New Year's Day,National holiday
+27/01/2012,Friday,Saint Dévote's Day,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2012,Friday,Good Friday,Observance
+07/04/2012,Saturday,Holy Saturday,Observance
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,National holiday
+01/05/2012,Tuesday,Labour Day/May Day,National holiday
+17/05/2012,Thursday,Ascension Day,National holiday
+27/05/2012,Sunday,Whit Sunday,Observance
+28/05/2012,Monday,Whit Monday,National holiday
+03/06/2012,Sunday,Mother's Day,Observance
+07/06/2012,Thursday,Corpus Christi,National holiday
+17/06/2012,Sunday,Father's Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+23/06/2012,Saturday,Saint John's Eve,Observance
+24/06/2012,Sunday,Saint John's Day,Observance
+08/08/2012,Wednesday,Feast of Saint Roman Eve,Observance
+09/08/2012,Thursday,Feast of Saint Roman,Observance
+15/08/2012,Wednesday,Assumption of Mary,National holiday
+22/09/2012,Saturday,September Equinox,Season
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2012,Thursday,All Saints' Day,National holiday
+19/11/2012,Monday,National Day,National holiday
+08/12/2012,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+27/01/2013,Sunday,Saint Dévote's Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Observance
+30/03/2013,Saturday,Holy Saturday,Observance
+31/03/2013,Sunday,Easter Sunday,Observance
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2013,Monday,Easter Monday,National holiday
+01/05/2013,Wednesday,Labour Day/May Day,National holiday
+09/05/2013,Thursday,Ascension Day,National holiday
+19/05/2013,Sunday,Whit Sunday,Observance
+20/05/2013,Monday,Whit Monday,National holiday
+26/05/2013,Sunday,Mother's Day,Observance
+30/05/2013,Thursday,Corpus Christi,National holiday
+16/06/2013,Sunday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+23/06/2013,Sunday,Saint John's Eve,Observance
+24/06/2013,Monday,Saint John's Day,Observance
+08/08/2013,Thursday,Feast of Saint Roman Eve,Observance
+09/08/2013,Friday,Feast of Saint Roman,Observance
+15/08/2013,Thursday,Assumption of Mary,National holiday
+22/09/2013,Sunday,September Equinox,Season
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2013,Friday,All Saints' Day,National holiday
+19/11/2013,Tuesday,National Day,National holiday
+08/12/2013,Sunday,Feast of the Immaculate Conception,National holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+27/01/2014,Monday,Saint Dévote's Day,National holiday
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+18/04/2014,Friday,Good Friday,Observance
+19/04/2014,Saturday,Holy Saturday,Observance
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,National holiday
+01/05/2014,Thursday,Labour Day/May Day,National holiday
+25/05/2014,Sunday,Mother's Day,Observance
+29/05/2014,Thursday,Ascension Day,National holiday
+08/06/2014,Sunday,Whit Sunday,Observance
+09/06/2014,Monday,Whit Monday,National holiday
+15/06/2014,Sunday,Father's Day,Observance
+19/06/2014,Thursday,Corpus Christi,National holiday
+21/06/2014,Saturday,June Solstice,Season
+23/06/2014,Monday,Saint John's Eve,Observance
+24/06/2014,Tuesday,Saint John's Day,Observance
+08/08/2014,Friday,Feast of Saint Roman Eve,Observance
+09/08/2014,Saturday,Feast of Saint Roman,Observance
+15/08/2014,Friday,Assumption of Mary,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2014,Saturday,All Saints' Day,National holiday
+19/11/2014,Wednesday,National Day,National holiday
+08/12/2014,Monday,Feast of the Immaculate Conception,National holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+07/01/2015,Wednesday,Public Holiday,National holiday
+27/01/2015,Tuesday,Saint Dévote's Day,National holiday
+20/03/2015,Friday,March Equinox,Season
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+03/04/2015,Friday,Good Friday,Observance
+04/04/2015,Saturday,Holy Saturday,Observance
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,National holiday
+01/05/2015,Friday,Labour Day/May Day,National holiday
+14/05/2015,Thursday,Ascension Day,National holiday
+24/05/2015,Sunday,Whit Sunday,Observance
+25/05/2015,Monday,Whit Monday,National holiday
+31/05/2015,Sunday,Mother's Day,Observance
+04/06/2015,Thursday,Corpus Christi,National holiday
+21/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+23/06/2015,Tuesday,Saint John's Eve,Observance
+24/06/2015,Wednesday,Saint John's Day,Observance
+08/08/2015,Saturday,Feast of Saint Roman Eve,Observance
+09/08/2015,Sunday,Feast of Saint Roman,Observance
+15/08/2015,Saturday,Assumption of Mary,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2015,Sunday,All Saints' Day,National holiday
+02/11/2015,Monday,Day off for All Saints' Day,National holiday
+19/11/2015,Thursday,National Day,National holiday
+08/12/2015,Tuesday,Feast of the Immaculate Conception,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+27/01/2016,Wednesday,Saint Dévote's Day,National holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Observance
+26/03/2016,Saturday,Holy Saturday,Observance
+27/03/2016,Sunday,Easter Sunday,Observance
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2016,Monday,Easter Monday,National holiday
+01/05/2016,Sunday,Labour Day/May Day,National holiday
+02/05/2016,Monday,Day off for Labour Day/May Day,National holiday
+05/05/2016,Thursday,Ascension Day,National holiday
+15/05/2016,Sunday,Whit Sunday,Observance
+16/05/2016,Monday,Whit Monday,National holiday
+26/05/2016,Thursday,Corpus Christi,National holiday
+29/05/2016,Sunday,Mother's Day,Observance
+19/06/2016,Sunday,Father's Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+23/06/2016,Thursday,Saint John's Eve,Observance
+24/06/2016,Friday,Saint John's Day,Observance
+08/08/2016,Monday,Feast of Saint Roman Eve,Observance
+09/08/2016,Tuesday,Feast of Saint Roman,Observance
+15/08/2016,Monday,Assumption of Mary,National holiday
+22/09/2016,Thursday,September Equinox,Season
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2016,Tuesday,All Saints' Day,National holiday
+19/11/2016,Saturday,National Day,National holiday
+08/12/2016,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,Day off for Christmas Day,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+02/01/2017,Monday,Day off for New Year's Day,National holiday
+27/01/2017,Friday,Saint Dévote's Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2017,Friday,Good Friday,Observance
+15/04/2017,Saturday,Holy Saturday,Observance
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,National holiday
+01/05/2017,Monday,Labour Day/May Day,National holiday
+25/05/2017,Thursday,Ascension Day,National holiday
+28/05/2017,Sunday,Mother's Day,Observance
+04/06/2017,Sunday,Whit Sunday,Observance
+05/06/2017,Monday,Whit Monday,National holiday
+15/06/2017,Thursday,Corpus Christi,National holiday
+18/06/2017,Sunday,Father's Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+23/06/2017,Friday,Saint John's Eve,Observance
+24/06/2017,Saturday,Saint John's Day,Observance
+08/08/2017,Tuesday,Feast of Saint Roman Eve,Observance
+09/08/2017,Wednesday,Feast of Saint Roman,Observance
+15/08/2017,Tuesday,Assumption of Mary,National holiday
+22/09/2017,Friday,September Equinox,Season
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2017,Wednesday,All Saints' Day,National holiday
+19/11/2017,Sunday,National Day,National holiday
+20/11/2017,Monday,Day off for National Day,National holiday
+08/12/2017,Friday,Feast of the Immaculate Conception,National holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+27/01/2018,Saturday,Saint Dévote's Day,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+30/03/2018,Friday,Good Friday,Observance
+31/03/2018,Saturday,Holy Saturday,Observance
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,National holiday
+01/05/2018,Tuesday,Labour Day/May Day,National holiday
+10/05/2018,Thursday,Ascension Day,National holiday
+20/05/2018,Sunday,Whit Sunday,Observance
+21/05/2018,Monday,Whit Monday,National holiday
+27/05/2018,Sunday,Mother's Day,Observance
+31/05/2018,Thursday,Corpus Christi,National holiday
+17/06/2018,Sunday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+23/06/2018,Saturday,Saint John's Eve,Observance
+24/06/2018,Sunday,Saint John's Day,Observance
+08/08/2018,Wednesday,Feast of Saint Roman Eve,Observance
+09/08/2018,Thursday,Feast of Saint Roman,Observance
+15/08/2018,Wednesday,Assumption of Mary,National holiday
+23/09/2018,Sunday,September Equinox,Season
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2018,Thursday,All Saints' Day,National holiday
+19/11/2018,Monday,National Day,National holiday
+08/12/2018,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+27/01/2019,Sunday,Saint Dévote's Day,National holiday
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+19/04/2019,Friday,Good Friday,Observance
+20/04/2019,Saturday,Holy Saturday,Observance
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,National holiday
+01/05/2019,Wednesday,Labour Day/May Day,National holiday
+26/05/2019,Sunday,Mother's Day,Observance
+30/05/2019,Thursday,Ascension Day,National holiday
+09/06/2019,Sunday,Whit Sunday,Observance
+10/06/2019,Monday,Whit Monday,National holiday
+16/06/2019,Sunday,Father's Day,Observance
+20/06/2019,Thursday,Corpus Christi,National holiday
+21/06/2019,Friday,June Solstice,Season
+23/06/2019,Sunday,Saint John's Eve,Observance
+24/06/2019,Monday,Saint John's Day,Observance
+08/08/2019,Thursday,Feast of Saint Roman Eve,Observance
+09/08/2019,Friday,Feast of Saint Roman,Observance
+15/08/2019,Thursday,Assumption of Mary,National holiday
+23/09/2019,Monday,September Equinox,Season
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2019,Friday,All Saints' Day,National holiday
+19/11/2019,Tuesday,National Day,National holiday
+08/12/2019,Sunday,Feast of the Immaculate Conception,National holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+27/01/2020,Monday,Saint Dévote's Day,National holiday
+20/03/2020,Friday,March Equinox,Season
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2020,Friday,Good Friday,Observance
+11/04/2020,Saturday,Holy Saturday,Observance
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,National holiday
+01/05/2020,Friday,Labour Day/May Day,National holiday
+21/05/2020,Thursday,Ascension Day,National holiday
+31/05/2020,Sunday,Whit Sunday,Observance
+01/06/2020,Monday,Whit Monday,National holiday
+07/06/2020,Sunday,Mother's Day,Observance
+11/06/2020,Thursday,Corpus Christi,National holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Father's Day,Observance
+23/06/2020,Tuesday,Saint John's Eve,Observance
+24/06/2020,Wednesday,Saint John's Day,Observance
+08/08/2020,Saturday,Feast of Saint Roman Eve,Observance
+09/08/2020,Sunday,Feast of Saint Roman,Observance
+15/08/2020,Saturday,Assumption of Mary,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2020,Sunday,All Saints' Day,National holiday
+02/11/2020,Monday,Day off for All Saints' Day,National holiday
+19/11/2020,Thursday,National Day,National holiday
+08/12/2020,Tuesday,Feast of the Immaculate Conception,National holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+27/01/2021,Wednesday,Saint Dévote's Day,National holiday
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2021,Friday,Good Friday,Observance
+03/04/2021,Saturday,Holy Saturday,Observance
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,National holiday
+01/05/2021,Saturday,Labour Day/May Day,National holiday
+13/05/2021,Thursday,Ascension Day,National holiday
+23/05/2021,Sunday,Whit Sunday,Observance
+24/05/2021,Monday,Whit Monday,National holiday
+30/05/2021,Sunday,Mother's Day,Observance
+03/06/2021,Thursday,Corpus Christi,National holiday
+20/06/2021,Sunday,Father's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+23/06/2021,Wednesday,Saint John's Eve,Observance
+24/06/2021,Thursday,Saint John's Day,Observance
+08/08/2021,Sunday,Feast of Saint Roman Eve,Observance
+09/08/2021,Monday,Feast of Saint Roman,Observance
+15/08/2021,Sunday,Assumption of Mary,National holiday
+16/08/2021,Monday,Day off for Assumption of Mary,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2021,Monday,All Saints' Day,National holiday
+19/11/2021,Friday,National Day,National holiday
+08/12/2021,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+27/01/2022,Thursday,Saint Dévote's Day,National holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+15/04/2022,Friday,Good Friday,Observance
+16/04/2022,Saturday,Holy Saturday,Observance
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,National holiday
+01/05/2022,Sunday,Labour Day/May Day,National holiday
+02/05/2022,Monday,Day off for Labour Day/May Day,National holiday
+26/05/2022,Thursday,Ascension Day,National holiday
+29/05/2022,Sunday,Mother's Day,Observance
+05/06/2022,Sunday,Whit Sunday,Observance
+06/06/2022,Monday,Whit Monday,National holiday
+16/06/2022,Thursday,Corpus Christi,National holiday
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+23/06/2022,Thursday,Saint John's Eve,Observance
+24/06/2022,Friday,Saint John's Day,Observance
+08/08/2022,Monday,Feast of Saint Roman Eve,Observance
+09/08/2022,Tuesday,Feast of Saint Roman,Observance
+15/08/2022,Monday,Assumption of Mary,National holiday
+23/09/2022,Friday,September Equinox,Season
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2022,Tuesday,All Saints' Day,National holiday
+19/11/2022,Saturday,National Day,National holiday
+08/12/2022,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,Day off for Christmas Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

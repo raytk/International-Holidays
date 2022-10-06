@@ -1,0 +1,618 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,International New Year's Day,National holiday
+03/01/2000,Monday,Day off for International New Year's Day,National holiday
+04/02/2000,Friday,Vietnamese New Year's Eve,National holiday
+05/02/2000,Saturday,Vietnamese New Year,National holiday
+06/02/2000,Sunday,Tet holiday,National holiday
+07/02/2000,Monday,Tet holiday,National holiday
+08/02/2000,Tuesday,Tet holiday,National holiday
+09/02/2000,Wednesday,Tet holiday,National holiday
+14/02/2000,Monday,Valentine's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+14/04/2000,Friday,Hung Kings Festival,National holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+30/04/2000,Sunday,Liberation Day/Reunification Day,National holiday
+01/05/2000,Monday,Day off for Liberation Day/Reunification Day,National holiday
+01/05/2000,Monday,International Labor Day,National holiday
+02/05/2000,Tuesday,Day off for International Labor Day,National holiday
+21/06/2000,Wednesday,June Solstice,Season
+28/06/2000,Wednesday,Vietnamese Family Day,Observance
+02/09/2000,Saturday,Independence Day,National holiday
+04/09/2000,Monday,Independence Day observed,National holiday
+23/09/2000,Saturday,September Equinox,Season
+20/10/2000,Friday,Vietnamese Women's Day,Observance
+31/10/2000,Tuesday,Halloween,Observance
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,Observance
+31/12/2000,Sunday,International New Year's Eve,Observance
+01/01/2001,Monday,International New Year's Day,National holiday
+23/01/2001,Tuesday,Vietnamese New Year's Eve,National holiday
+24/01/2001,Wednesday,Vietnamese New Year,National holiday
+25/01/2001,Thursday,Tet holiday,National holiday
+26/01/2001,Friday,Tet holiday,National holiday
+27/01/2001,Saturday,Tet holiday,National holiday
+28/01/2001,Sunday,Tet holiday,National holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+03/04/2001,Tuesday,Hung Kings Festival,National holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+30/04/2001,Monday,Liberation Day/Reunification Day,National holiday
+01/05/2001,Tuesday,International Labor Day,National holiday
+21/06/2001,Thursday,June Solstice,Season
+28/06/2001,Thursday,Vietnamese Family Day,Observance
+02/09/2001,Sunday,Independence Day,National holiday
+03/09/2001,Monday,Independence Day observed,National holiday
+23/09/2001,Sunday,September Equinox,Season
+20/10/2001,Saturday,Vietnamese Women's Day,Observance
+31/10/2001,Wednesday,Halloween,Observance
+22/12/2001,Saturday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,Observance
+31/12/2001,Monday,International New Year's Eve,Observance
+01/01/2002,Tuesday,International New Year's Day,National holiday
+11/02/2002,Monday,Vietnamese New Year's Eve,National holiday
+12/02/2002,Tuesday,Vietnamese New Year,National holiday
+13/02/2002,Wednesday,Tet holiday,National holiday
+14/02/2002,Thursday,Tet holiday,National holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+15/02/2002,Friday,Tet holiday,National holiday
+16/02/2002,Saturday,Tet holiday,National holiday
+21/03/2002,Thursday,March Equinox,Season
+31/03/2002,Sunday,Easter Sunday,Observance
+22/04/2002,Monday,Hung Kings Festival,National holiday
+30/04/2002,Tuesday,Liberation Day/Reunification Day,National holiday
+01/05/2002,Wednesday,International Labor Day,National holiday
+21/06/2002,Friday,June Solstice,Season
+28/06/2002,Friday,Vietnamese Family Day,Observance
+02/09/2002,Monday,Independence Day,National holiday
+23/09/2002,Monday,September Equinox,Season
+20/10/2002,Sunday,Vietnamese Women's Day,Observance
+31/10/2002,Thursday,Halloween,Observance
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,Observance
+31/12/2002,Tuesday,International New Year's Eve,Observance
+01/01/2003,Wednesday,International New Year's Day,National holiday
+31/01/2003,Friday,Vietnamese New Year's Eve,National holiday
+01/02/2003,Saturday,Vietnamese New Year,National holiday
+02/02/2003,Sunday,Tet holiday,National holiday
+03/02/2003,Monday,Tet holiday,National holiday
+04/02/2003,Tuesday,Tet holiday,National holiday
+05/02/2003,Wednesday,Tet holiday,National holiday
+14/02/2003,Friday,Valentine's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+11/04/2003,Friday,Hung Kings Festival,National holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+30/04/2003,Wednesday,Liberation Day/Reunification Day,National holiday
+01/05/2003,Thursday,International Labor Day,National holiday
+22/06/2003,Sunday,June Solstice,Season
+28/06/2003,Saturday,Vietnamese Family Day,Observance
+02/09/2003,Tuesday,Independence Day,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+20/10/2003,Monday,Vietnamese Women's Day,Observance
+31/10/2003,Friday,Halloween,Observance
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,Observance
+31/12/2003,Wednesday,International New Year's Eve,Observance
+01/01/2004,Thursday,International New Year's Day,National holiday
+21/01/2004,Wednesday,Vietnamese New Year's Eve,National holiday
+22/01/2004,Thursday,Vietnamese New Year,National holiday
+23/01/2004,Friday,Tet holiday,National holiday
+24/01/2004,Saturday,Tet holiday,National holiday
+25/01/2004,Sunday,Tet holiday,National holiday
+26/01/2004,Monday,Tet holiday,National holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+11/04/2004,Sunday,Easter Sunday,Observance
+28/04/2004,Wednesday,Hung Kings Festival,National holiday
+30/04/2004,Friday,Liberation Day/Reunification Day,National holiday
+01/05/2004,Saturday,International Labor Day,National holiday
+03/05/2004,Monday,Day off for International Labor Day,National holiday
+21/06/2004,Monday,June Solstice,Season
+28/06/2004,Monday,Vietnamese Family Day,Observance
+02/09/2004,Thursday,Independence Day,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+20/10/2004,Wednesday,Vietnamese Women's Day,Observance
+31/10/2004,Sunday,Halloween,Observance
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,Observance
+31/12/2004,Friday,International New Year's Eve,Observance
+01/01/2005,Saturday,International New Year's Day,National holiday
+03/01/2005,Monday,Day off for International New Year's Day,National holiday
+08/02/2005,Tuesday,Vietnamese New Year's Eve,National holiday
+09/02/2005,Wednesday,Vietnamese New Year,National holiday
+10/02/2005,Thursday,Tet holiday,National holiday
+11/02/2005,Friday,Tet holiday,National holiday
+12/02/2005,Saturday,Tet holiday,National holiday
+13/02/2005,Sunday,Tet holiday,National holiday
+14/02/2005,Monday,Valentine's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+27/03/2005,Sunday,Easter Sunday,Observance
+18/04/2005,Monday,Hung Kings Festival,National holiday
+30/04/2005,Saturday,Liberation Day/Reunification Day,National holiday
+01/05/2005,Sunday,International Labor Day,National holiday
+02/05/2005,Monday,Day off for Liberation Day/Reunification Day,National holiday
+03/05/2005,Tuesday,Day off for International Labor Day,National holiday
+23/05/2005,Monday,Vesak,Observance
+21/06/2005,Tuesday,June Solstice,Season
+28/06/2005,Tuesday,Vietnamese Family Day,Observance
+02/09/2005,Friday,Independence Day,National holiday
+23/09/2005,Friday,September Equinox,Season
+20/10/2005,Thursday,Vietnamese Women's Day,Observance
+31/10/2005,Monday,Halloween,Observance
+22/12/2005,Thursday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Observance
+31/12/2005,Saturday,International New Year's Eve,Observance
+01/01/2006,Sunday,International New Year's Day,National holiday
+02/01/2006,Monday,Day off for International New Year's Day,National holiday
+28/01/2006,Saturday,Vietnamese New Year's Eve,National holiday
+29/01/2006,Sunday,Vietnamese New Year,National holiday
+30/01/2006,Monday,Tet holiday,National holiday
+31/01/2006,Tuesday,Tet holiday,National holiday
+01/02/2006,Wednesday,Tet holiday,National holiday
+02/02/2006,Thursday,Tet holiday,National holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+21/03/2006,Tuesday,March Equinox,Season
+07/04/2006,Friday,Hung Kings Festival,National holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+30/04/2006,Sunday,Liberation Day/Reunification Day,National holiday
+01/05/2006,Monday,Day off for Liberation Day/Reunification Day,National holiday
+01/05/2006,Monday,International Labor Day,National holiday
+02/05/2006,Tuesday,Day off for International Labor Day,National holiday
+13/05/2006,Saturday,Vesak,Observance
+21/06/2006,Wednesday,June Solstice,Season
+28/06/2006,Wednesday,Vietnamese Family Day,Observance
+02/09/2006,Saturday,Independence Day,National holiday
+04/09/2006,Monday,Independence Day observed,National holiday
+23/09/2006,Saturday,September Equinox,Season
+20/10/2006,Friday,Vietnamese Women's Day,Observance
+31/10/2006,Tuesday,Halloween,Observance
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Observance
+31/12/2006,Sunday,International New Year's Eve,Observance
+01/01/2007,Monday,International New Year's Day,National holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+17/02/2007,Saturday,Vietnamese New Year's Eve,National holiday
+18/02/2007,Sunday,Vietnamese New Year,National holiday
+19/02/2007,Monday,Tet holiday,National holiday
+20/02/2007,Tuesday,Tet holiday,National holiday
+21/02/2007,Wednesday,Tet holiday,National holiday
+22/02/2007,Thursday,Tet holiday,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+08/04/2007,Sunday,Easter Sunday,Observance
+26/04/2007,Thursday,Hung Kings Festival,National holiday
+30/04/2007,Monday,Liberation Day/Reunification Day,National holiday
+01/05/2007,Tuesday,International Labor Day,National holiday
+02/05/2007,Wednesday,Vesak,Observance
+22/06/2007,Friday,June Solstice,Season
+28/06/2007,Thursday,Vietnamese Family Day,Observance
+02/09/2007,Sunday,Independence Day,National holiday
+03/09/2007,Monday,Independence Day observed,National holiday
+23/09/2007,Sunday,September Equinox,Season
+20/10/2007,Saturday,Vietnamese Women's Day,Observance
+31/10/2007,Wednesday,Halloween,Observance
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Observance
+31/12/2007,Monday,International New Year's Eve,Observance
+01/01/2008,Tuesday,International New Year's Day,National holiday
+06/02/2008,Wednesday,Vietnamese New Year's Eve,National holiday
+07/02/2008,Thursday,Vietnamese New Year,National holiday
+08/02/2008,Friday,Tet holiday,National holiday
+09/02/2008,Saturday,Tet holiday,National holiday
+10/02/2008,Sunday,Tet holiday,National holiday
+11/02/2008,Monday,Tet holiday,National holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+20/03/2008,Thursday,March Equinox,Season
+23/03/2008,Sunday,Easter Sunday,Observance
+15/04/2008,Tuesday,Hung Kings Festival,National holiday
+30/04/2008,Wednesday,Liberation Day/Reunification Day,National holiday
+01/05/2008,Thursday,International Labor Day,National holiday
+20/05/2008,Tuesday,Vesak,Observance
+21/06/2008,Saturday,June Solstice,Season
+28/06/2008,Saturday,Vietnamese Family Day,Observance
+02/09/2008,Tuesday,Independence Day,National holiday
+22/09/2008,Monday,September Equinox,Season
+20/10/2008,Monday,Vietnamese Women's Day,Observance
+31/10/2008,Friday,Halloween,Observance
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Observance
+31/12/2008,Wednesday,International New Year's Eve,Observance
+01/01/2009,Thursday,International New Year's Day,National holiday
+25/01/2009,Sunday,Vietnamese New Year's Eve,National holiday
+26/01/2009,Monday,Vietnamese New Year,National holiday
+27/01/2009,Tuesday,Tet holiday,National holiday
+28/01/2009,Wednesday,Tet holiday,National holiday
+29/01/2009,Thursday,Tet holiday,National holiday
+30/01/2009,Friday,Tet holiday,National holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+05/04/2009,Sunday,Hung Kings Festival,National holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+30/04/2009,Thursday,Liberation Day/Reunification Day,National holiday
+01/05/2009,Friday,International Labor Day,National holiday
+08/05/2009,Friday,Vesak,Observance
+21/06/2009,Sunday,June Solstice,Season
+28/06/2009,Sunday,Vietnamese Family Day,Observance
+02/09/2009,Wednesday,Independence Day,National holiday
+23/09/2009,Wednesday,September Equinox,Season
+20/10/2009,Tuesday,Vietnamese Women's Day,Observance
+31/10/2009,Saturday,Halloween,Observance
+22/12/2009,Tuesday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Observance
+31/12/2009,Thursday,International New Year's Eve,Observance
+01/01/2010,Friday,International New Year's Day,National holiday
+13/02/2010,Saturday,Vietnamese New Year's Eve,National holiday
+14/02/2010,Sunday,Vietnamese New Year,National holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+15/02/2010,Monday,Tet holiday,National holiday
+16/02/2010,Tuesday,Tet holiday,National holiday
+17/02/2010,Wednesday,Tet holiday,National holiday
+18/02/2010,Thursday,Tet holiday,National holiday
+21/03/2010,Sunday,March Equinox,Season
+04/04/2010,Sunday,Easter Sunday,Observance
+23/04/2010,Friday,Hung Kings Festival,National holiday
+30/04/2010,Friday,Liberation Day/Reunification Day,National holiday
+01/05/2010,Saturday,International Labor Day,National holiday
+03/05/2010,Monday,Day off for International Labor Day,National holiday
+27/05/2010,Thursday,Vesak,Observance
+21/06/2010,Monday,June Solstice,Season
+28/06/2010,Monday,Vietnamese Family Day,Observance
+02/09/2010,Thursday,Independence Day,National holiday
+23/09/2010,Thursday,September Equinox,Season
+20/10/2010,Wednesday,Vietnamese Women's Day,Observance
+31/10/2010,Sunday,Halloween,Observance
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Observance
+31/12/2010,Friday,International New Year's Eve,Observance
+01/01/2011,Saturday,International New Year's Day,National holiday
+03/01/2011,Monday,Day off for International New Year's Day,National holiday
+02/02/2011,Wednesday,Vietnamese New Year's Eve,National holiday
+03/02/2011,Thursday,Vietnamese New Year,National holiday
+04/02/2011,Friday,Tet holiday,National holiday
+05/02/2011,Saturday,Tet holiday,National holiday
+06/02/2011,Sunday,Tet holiday,National holiday
+07/02/2011,Monday,Tet holiday,National holiday
+14/02/2011,Monday,Valentine's Day,Observance
+21/03/2011,Monday,March Equinox,Season
+12/04/2011,Tuesday,Hung Kings Festival,National holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+30/04/2011,Saturday,Liberation Day/Reunification Day,National holiday
+01/05/2011,Sunday,International Labor Day,National holiday
+02/05/2011,Monday,Day off for Liberation Day/Reunification Day,National holiday
+03/05/2011,Tuesday,Day off for International Labor Day,National holiday
+17/05/2011,Tuesday,Vesak,Observance
+22/06/2011,Wednesday,June Solstice,Season
+28/06/2011,Tuesday,Vietnamese Family Day,Observance
+02/09/2011,Friday,Independence Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+20/10/2011,Thursday,Vietnamese Women's Day,Observance
+31/10/2011,Monday,Halloween,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Observance
+31/12/2011,Saturday,International New Year's Eve,Observance
+01/01/2012,Sunday,International New Year's Day,National holiday
+02/01/2012,Monday,Day off for International New Year's Day,National holiday
+22/01/2012,Sunday,Vietnamese New Year's Eve,National holiday
+23/01/2012,Monday,Vietnamese New Year,National holiday
+24/01/2012,Tuesday,Tet holiday,National holiday
+25/01/2012,Wednesday,Tet holiday,National holiday
+26/01/2012,Thursday,Tet holiday,National holiday
+27/01/2012,Friday,Tet holiday,National holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+31/03/2012,Saturday,Hung Kings Festival,National holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+30/04/2012,Monday,Liberation Day/Reunification Day,National holiday
+01/05/2012,Tuesday,International Labor Day,National holiday
+06/05/2012,Sunday,Vesak,Observance
+21/06/2012,Thursday,June Solstice,Season
+28/06/2012,Thursday,Vietnamese Family Day,Observance
+02/09/2012,Sunday,Independence Day,National holiday
+03/09/2012,Monday,Independence Day observed,National holiday
+22/09/2012,Saturday,September Equinox,Season
+20/10/2012,Saturday,Vietnamese Women's Day,Observance
+31/10/2012,Wednesday,Halloween,Observance
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Observance
+31/12/2012,Monday,International New Year's Eve,Observance
+01/01/2013,Tuesday,International New Year's Day,National holiday
+09/02/2013,Saturday,Vietnamese New Year's Eve,National holiday
+10/02/2013,Sunday,Vietnamese New Year,National holiday
+11/02/2013,Monday,Tet holiday,National holiday
+12/02/2013,Tuesday,Tet holiday,National holiday
+13/02/2013,Wednesday,Tet holiday,National holiday
+14/02/2013,Thursday,Tet holiday,National holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+15/02/2013,Friday,Tet holiday,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+31/03/2013,Sunday,Easter Sunday,Observance
+19/04/2013,Friday,Hung Kings Festival,National holiday
+29/04/2013,Monday,Hung Kings Festival holiday,National holiday
+30/04/2013,Tuesday,Liberation Day/Reunification Day,National holiday
+01/05/2013,Wednesday,International Labor Day,National holiday
+25/05/2013,Saturday,Vesak,Observance
+21/06/2013,Friday,June Solstice,Season
+28/06/2013,Friday,Vietnamese Family Day,Observance
+02/09/2013,Monday,Independence Day,National holiday
+23/09/2013,Monday,September Equinox,Season
+20/10/2013,Sunday,Vietnamese Women's Day,Observance
+31/10/2013,Thursday,Halloween,Observance
+22/12/2013,Sunday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Observance
+31/12/2013,Tuesday,International New Year's Eve,Observance
+01/01/2014,Wednesday,International New Year's Day,National holiday
+25/01/2014,Saturday,Working day for January 28,Observance
+28/01/2014,Tuesday,Tet holiday,National holiday
+29/01/2014,Wednesday,Tet holiday,National holiday
+30/01/2014,Thursday,Vietnamese New Year's Eve,National holiday
+31/01/2014,Friday,Vietnamese New Year,National holiday
+01/02/2014,Saturday,Tet holiday,National holiday
+02/02/2014,Sunday,Tet holiday,National holiday
+03/02/2014,Monday,Tet holiday,National holiday
+04/02/2014,Tuesday,Tet holiday,National holiday
+05/02/2014,Wednesday,Tet holiday,National holiday
+08/02/2014,Saturday,Working day for January 29,Observance
+14/02/2014,Friday,Valentine's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+09/04/2014,Wednesday,Hung Kings Festival,National holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+26/04/2014,Saturday,Working day for May 2,Working Day on Weekend
+30/04/2014,Wednesday,Liberation Day/Reunification Day,National holiday
+01/05/2014,Thursday,International Labor Day,National holiday
+02/05/2014,Friday,International Labor Day holiday,Weekend
+13/05/2014,Tuesday,Vesak,Observance
+21/06/2014,Saturday,June Solstice,Season
+28/06/2014,Saturday,Vietnamese Family Day,Observance
+01/09/2014,Monday,Independence Day holiday,National holiday
+02/09/2014,Tuesday,Independence Day,National holiday
+06/09/2014,Saturday,Working day for September 1,Observance
+23/09/2014,Tuesday,September Equinox,Season
+20/10/2014,Monday,Vietnamese Women's Day,Observance
+31/10/2014,Friday,Halloween,Observance
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Observance
+27/12/2014,Saturday,"Working day for Jan. 2, 2015",Observance
+31/12/2014,Wednesday,International New Year's Eve,Observance
+01/01/2015,Thursday,International New Year's Day,National holiday
+02/01/2015,Friday,New Year's Day Holiday,National holiday
+14/02/2015,Saturday,Working day for January 28,Observance
+14/02/2015,Saturday,Valentine's Day,Observance
+15/02/2015,Sunday,Tet holiday,National holiday
+16/02/2015,Monday,Tet holiday,National holiday
+17/02/2015,Tuesday,Tet holiday,National holiday
+18/02/2015,Wednesday,Vietnamese New Year's Eve,National holiday
+19/02/2015,Thursday,Vietnamese New Year,National holiday
+20/02/2015,Friday,Tet holiday,National holiday
+21/02/2015,Saturday,Tet holiday,National holiday
+22/02/2015,Sunday,Tet holiday,National holiday
+23/02/2015,Monday,Tet holiday,National holiday
+21/03/2015,Saturday,March Equinox,Season
+05/04/2015,Sunday,Easter Sunday,Observance
+25/04/2015,Saturday,Working day for Public Holiday,Observance
+27/04/2015,Monday,Hung Kings Festival holiday,National holiday
+28/04/2015,Tuesday,Hung Kings Festival,National holiday
+29/04/2015,Wednesday,Hung Kings Festival holiday,National holiday
+30/04/2015,Thursday,Liberation Day/Reunification Day,National holiday
+01/05/2015,Friday,International Labor Day,National holiday
+09/05/2015,Saturday,Working day for Public Holiday,Observance
+01/06/2015,Monday,Vesak,Observance
+21/06/2015,Sunday,June Solstice,Season
+28/06/2015,Sunday,Vietnamese Family Day,Observance
+02/09/2015,Wednesday,Independence Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+20/10/2015,Tuesday,Vietnamese Women's Day,Observance
+31/10/2015,Saturday,Halloween,Observance
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Observance
+31/12/2015,Thursday,International New Year's Eve,Observance
+01/01/2016,Friday,International New Year's Day,National holiday
+07/02/2016,Sunday,Vietnamese New Year's Eve,National holiday
+08/02/2016,Monday,Vietnamese New Year,National holiday
+09/02/2016,Tuesday,Tet holiday,National holiday
+10/02/2016,Wednesday,Tet holiday,National holiday
+11/02/2016,Thursday,Tet holiday,National holiday
+12/02/2016,Friday,Tet holiday,National holiday
+13/02/2016,Saturday,Tet holiday,National holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+27/03/2016,Sunday,Easter Sunday,Observance
+16/04/2016,Saturday,Hung Kings Festival,National holiday
+30/04/2016,Saturday,Liberation Day/Reunification Day,National holiday
+01/05/2016,Sunday,International Labor Day,National holiday
+02/05/2016,Monday,Day off for Liberation Day/Reunification Day,National holiday
+03/05/2016,Tuesday,Day off for International Labor Day,National holiday
+20/05/2016,Friday,Vesak,Observance
+21/06/2016,Tuesday,June Solstice,Season
+28/06/2016,Tuesday,Vietnamese Family Day,Observance
+02/09/2016,Friday,Independence Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+20/10/2016,Thursday,Vietnamese Women's Day,Observance
+31/10/2016,Monday,Halloween,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Observance
+31/12/2016,Saturday,International New Year's Eve,Observance
+01/01/2017,Sunday,International New Year's Day,National holiday
+02/01/2017,Monday,Day off for International New Year's Day,National holiday
+26/01/2017,Thursday,Tet holiday,National holiday
+27/01/2017,Friday,Vietnamese New Year's Eve,National holiday
+28/01/2017,Saturday,Vietnamese New Year,National holiday
+29/01/2017,Sunday,Tet holiday,National holiday
+30/01/2017,Monday,Tet holiday,National holiday
+31/01/2017,Tuesday,Tet holiday,National holiday
+01/02/2017,Wednesday,Tet holiday,National holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+06/04/2017,Thursday,Hung Kings Festival,National holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+30/04/2017,Sunday,Liberation Day/Reunification Day,National holiday
+01/05/2017,Monday,Day off for Liberation Day/Reunification Day,National holiday
+02/05/2017,Tuesday,International Labor Day,National holiday
+10/05/2017,Wednesday,Vesak,Observance
+21/06/2017,Wednesday,June Solstice,Season
+28/06/2017,Wednesday,Vietnamese Family Day,Observance
+02/09/2017,Saturday,Independence Day,National holiday
+04/09/2017,Monday,Independence Day observed,National holiday
+23/09/2017,Saturday,September Equinox,Season
+20/10/2017,Friday,Vietnamese Women's Day,Observance
+31/10/2017,Tuesday,Halloween,Observance
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Observance
+31/12/2017,Sunday,International New Year's Eve,Observance
+01/01/2018,Monday,International New Year's Day,National holiday
+14/02/2018,Wednesday,Tet holiday,National holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+15/02/2018,Thursday,Vietnamese New Year's Eve,National holiday
+16/02/2018,Friday,Vietnamese New Year,National holiday
+17/02/2018,Saturday,Tet holiday,National holiday
+18/02/2018,Sunday,Tet holiday,National holiday
+19/02/2018,Monday,Tet holiday,National holiday
+20/02/2018,Tuesday,Tet holiday,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+01/04/2018,Sunday,Easter Sunday,Observance
+25/04/2018,Wednesday,Hung Kings Festival,National holiday
+30/04/2018,Monday,Liberation Day/Reunification Day,National holiday
+01/05/2018,Tuesday,International Labor Day,National holiday
+29/05/2018,Tuesday,Vesak,Observance
+21/06/2018,Thursday,June Solstice,Season
+28/06/2018,Thursday,Vietnamese Family Day,Observance
+02/09/2018,Sunday,Independence Day,National holiday
+03/09/2018,Monday,Independence Day observed,National holiday
+23/09/2018,Sunday,September Equinox,Season
+20/10/2018,Saturday,Vietnamese Women's Day,Observance
+31/10/2018,Wednesday,Halloween,Observance
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Observance
+31/12/2018,Monday,International New Year's Eve,National holiday
+01/01/2019,Tuesday,International New Year's Day,National holiday
+05/01/2019,Saturday,"Working day for Dec. 31, 2018",Observance
+02/02/2019,Saturday,Tet holiday,National holiday
+03/02/2019,Sunday,Tet holiday,National holiday
+04/02/2019,Monday,Vietnamese New Year's Eve,National holiday
+05/02/2019,Tuesday,Vietnamese New Year,National holiday
+06/02/2019,Wednesday,Tet holiday,National holiday
+07/02/2019,Thursday,Tet holiday,National holiday
+08/02/2019,Friday,Tet holiday,National holiday
+09/02/2019,Saturday,Tet holiday,National holiday
+10/02/2019,Sunday,Tet holiday,National holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+21/03/2019,Thursday,March Equinox,Season
+13/04/2019,Saturday,Hung Kings Festival holiday,National holiday
+14/04/2019,Sunday,Hung Kings Festival,National holiday
+15/04/2019,Monday,Hung Kings Festival holiday,National holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+29/04/2019,Monday,Liberation Day/Reunification Day Holiday,National holiday
+30/04/2019,Tuesday,Liberation Day/Reunification Day,National holiday
+01/05/2019,Wednesday,International Labor Day,National holiday
+04/05/2019,Saturday,Working day for Liberation Day Holiday,Observance
+19/05/2019,Sunday,Vesak,Observance
+21/06/2019,Friday,June Solstice,Season
+28/06/2019,Friday,Vietnamese Family Day,Observance
+31/08/2019,Saturday,Independence Day Holiday,Public Sector Holiday
+01/09/2019,Sunday,Independence Day Holiday,Public Sector Holiday
+02/09/2019,Monday,Independence Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+20/10/2019,Sunday,Vietnamese Women's Day,Observance
+31/10/2019,Thursday,Halloween,Observance
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Observance
+31/12/2019,Tuesday,International New Year's Eve,Observance
+01/01/2020,Wednesday,International New Year's Day,National holiday
+23/01/2020,Thursday,Tet Holiday,National holiday
+24/01/2020,Friday,Vietnamese New Year's Eve,National holiday
+25/01/2020,Saturday,Vietnamese New Year,National holiday
+26/01/2020,Sunday,Tet holiday,National holiday
+27/01/2020,Monday,Tet holiday,National holiday
+28/01/2020,Tuesday,Tet holiday,National holiday
+29/01/2020,Wednesday,Tet holiday,National holiday
+14/02/2020,Friday,Valentine's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+02/04/2020,Thursday,Hung Kings Festival,National holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+30/04/2020,Thursday,Liberation Day/Reunification Day,National holiday
+01/05/2020,Friday,International Labor Day,National holiday
+07/05/2020,Thursday,Vesak,Observance
+21/06/2020,Sunday,June Solstice,Season
+28/06/2020,Sunday,Vietnamese Family Day,Observance
+02/09/2020,Wednesday,Independence Day,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+20/10/2020,Tuesday,Vietnamese Women's Day,Observance
+31/10/2020,Saturday,Halloween,Observance
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Observance
+31/12/2020,Thursday,International New Year's Eve,Observance
+01/01/2021,Friday,International New Year's Day,National holiday
+10/02/2021,Wednesday,Tet Holiday,National holiday
+11/02/2021,Thursday,Vietnamese New Year's Eve,National holiday
+12/02/2021,Friday,Vietnamese New Year,National holiday
+13/02/2021,Saturday,Tet holiday,National holiday
+14/02/2021,Sunday,Tet holiday,National holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+15/02/2021,Monday,Tet holiday,National holiday
+16/02/2021,Tuesday,Tet holiday,National holiday
+20/03/2021,Saturday,March Equinox,Season
+04/04/2021,Sunday,Easter Sunday,Observance
+21/04/2021,Wednesday,Hung Kings Festival,National holiday
+30/04/2021,Friday,Liberation Day/Reunification Day,National holiday
+01/05/2021,Saturday,International Labor Day,National holiday
+03/05/2021,Monday,Day off for International Labor Day,National holiday
+26/05/2021,Wednesday,Vesak,Observance
+21/06/2021,Monday,June Solstice,Season
+28/06/2021,Monday,Vietnamese Family Day,Observance
+02/09/2021,Thursday,Independence Day,National holiday
+03/09/2021,Friday,Independence Day Holiday,National holiday
+23/09/2021,Thursday,September Equinox,Season
+20/10/2021,Wednesday,Vietnamese Women's Day,Observance
+31/10/2021,Sunday,Halloween,Observance
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Observance
+31/12/2021,Friday,International New Year's Eve,Observance
+01/01/2022,Saturday,International New Year's Day,National holiday
+02/01/2022,Sunday,New Year's Day Holiday,National holiday
+03/01/2022,Monday,Day off for International New Year's Day,National holiday
+31/01/2022,Monday,Vietnamese New Year's Eve,National holiday
+01/02/2022,Tuesday,Vietnamese New Year,National holiday
+02/02/2022,Wednesday,Tet holiday,National holiday
+03/02/2022,Thursday,Tet holiday,National holiday
+04/02/2022,Friday,Tet holiday,National holiday
+05/02/2022,Saturday,Tet holiday,National holiday
+14/02/2022,Monday,Valentine's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+10/04/2022,Sunday,Hung Kings Festival,National holiday
+11/04/2022,Monday,Day off for Hung Kings Festival,National holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+30/04/2022,Saturday,Liberation Day/Reunification Day,National holiday
+01/05/2022,Sunday,International Labor Day,National holiday
+02/05/2022,Monday,Day off for Liberation Day/Reunification Day,National holiday
+03/05/2022,Tuesday,Day off for International Labor Day,National holiday
+16/05/2022,Monday,Vesak,Observance
+21/06/2022,Tuesday,June Solstice,Season
+28/06/2022,Tuesday,Vietnamese Family Day,Observance
+01/09/2022,Thursday,Independence Day Holiday,National holiday
+02/09/2022,Friday,Independence Day,National holiday
+23/09/2022,Friday,September Equinox,Season
+20/10/2022,Thursday,Vietnamese Women's Day,Observance
+31/10/2022,Monday,Halloween,Observance
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Observance
+31/12/2022,Saturday,International New Year's Eve,Observance

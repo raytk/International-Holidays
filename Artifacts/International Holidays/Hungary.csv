@@ -1,0 +1,521 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+15/03/2000,Wednesday,1848 Revolution Memorial Day,National holiday
+20/03/2000,Monday,March Equinox,Season
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,National holiday
+01/05/2000,Monday,Labor Day / May Day,National holiday
+07/05/2000,Sunday,Mother's Day,Observance
+11/06/2000,Sunday,Whit Sunday,Observance
+12/06/2000,Monday,Whit Monday,National holiday
+18/06/2000,Sunday,Father's Day,Observance
+21/06/2000,Wednesday,June Solstice,Season
+20/08/2000,Sunday,Hungary National Day,National holiday
+22/09/2000,Friday,September Equinox,Season
+23/10/2000,Monday,1956 Revolution Memorial Day,National holiday
+01/11/2000,Wednesday,All Saints' Day,National holiday
+06/12/2000,Wednesday,Saint Nicholas Day,Observance
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2000,Monday,Christmas Day,National holiday
+26/12/2000,Tuesday,Second Day of Christmas,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+15/03/2001,Thursday,1848 Revolution Memorial Day,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,National holiday
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+06/05/2001,Sunday,Mother's Day,Observance
+03/06/2001,Sunday,Whit Sunday,Observance
+04/06/2001,Monday,Whit Monday,National holiday
+17/06/2001,Sunday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+20/08/2001,Monday,Hungary National Day,National holiday
+23/09/2001,Sunday,September Equinox,Season
+23/10/2001,Tuesday,1956 Revolution Memorial Day,National holiday
+01/11/2001,Thursday,All Saints' Day,National holiday
+06/12/2001,Thursday,Saint Nicholas Day,Observance
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,"Observance, Christian"
+25/12/2001,Tuesday,Christmas Day,National holiday
+26/12/2001,Wednesday,Second Day of Christmas,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+15/03/2002,Friday,1848 Revolution Memorial Day,National holiday
+20/03/2002,Wednesday,March Equinox,Season
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,National holiday
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+05/05/2002,Sunday,Mother's Day,Observance
+19/05/2002,Sunday,Whit Sunday,Observance
+20/05/2002,Monday,Whit Monday,National holiday
+16/06/2002,Sunday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+20/08/2002,Tuesday,Hungary National Day,National holiday
+23/09/2002,Monday,September Equinox,Season
+23/10/2002,Wednesday,1956 Revolution Memorial Day,National holiday
+01/11/2002,Friday,All Saints' Day,National holiday
+06/12/2002,Friday,Saint Nicholas Day,Observance
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2002,Wednesday,Christmas Day,National holiday
+26/12/2002,Thursday,Second Day of Christmas,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+15/03/2003,Saturday,1848 Revolution Memorial Day,National holiday
+21/03/2003,Friday,March Equinox,Season
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,National holiday
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+04/05/2003,Sunday,Mother's Day,Observance
+08/06/2003,Sunday,Whit Sunday,Observance
+09/06/2003,Monday,Whit Monday,National holiday
+15/06/2003,Sunday,Father's Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+20/08/2003,Wednesday,Hungary National Day,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+23/10/2003,Thursday,1956 Revolution Memorial Day,National holiday
+01/11/2003,Saturday,All Saints' Day,National holiday
+06/12/2003,Saturday,Saint Nicholas Day,Observance
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2003,Thursday,Christmas Day,National holiday
+26/12/2003,Friday,Second Day of Christmas,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+15/03/2004,Monday,1848 Revolution Memorial Day,National holiday
+20/03/2004,Saturday,March Equinox,Season
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,National holiday
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+02/05/2004,Sunday,Mother's Day,Observance
+30/05/2004,Sunday,Whit Sunday,Observance
+31/05/2004,Monday,Whit Monday,National holiday
+20/06/2004,Sunday,Father's Day,Observance
+21/06/2004,Monday,June Solstice,Season
+20/08/2004,Friday,Hungary National Day,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+23/10/2004,Saturday,1956 Revolution Memorial Day,National holiday
+01/11/2004,Monday,All Saints' Day,National holiday
+06/12/2004,Monday,Saint Nicholas Day,Observance
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,"Observance, Christian"
+25/12/2004,Saturday,Christmas Day,National holiday
+26/12/2004,Sunday,Second Day of Christmas,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+15/03/2005,Tuesday,1848 Revolution Memorial Day,National holiday
+20/03/2005,Sunday,March Equinox,Season
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,National holiday
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+01/05/2005,Sunday,Mother's Day,Observance
+15/05/2005,Sunday,Whit Sunday,Observance
+16/05/2005,Monday,Whit Monday,National holiday
+19/06/2005,Sunday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+20/08/2005,Saturday,Hungary National Day,National holiday
+23/09/2005,Friday,September Equinox,Season
+23/10/2005,Sunday,1956 Revolution Memorial Day,National holiday
+01/11/2005,Tuesday,All Saints' Day,National holiday
+06/12/2005,Tuesday,Saint Nicholas Day,Observance
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,Second Day of Christmas,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+15/03/2006,Wednesday,1848 Revolution Memorial Day,National holiday
+20/03/2006,Monday,March Equinox,Season
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,National holiday
+01/05/2006,Monday,Labor Day / May Day,National holiday
+07/05/2006,Sunday,Mother's Day,Observance
+04/06/2006,Sunday,Whit Sunday,Observance
+05/06/2006,Monday,Whit Monday,National holiday
+18/06/2006,Sunday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+20/08/2006,Sunday,Hungary National Day,National holiday
+23/09/2006,Saturday,September Equinox,Season
+23/10/2006,Monday,1956 Revolution Memorial Day,National holiday
+01/11/2006,Wednesday,All Saints' Day,National holiday
+06/12/2006,Wednesday,Saint Nicholas Day,Observance
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2006,Monday,Christmas Day,National holiday
+26/12/2006,Tuesday,Second Day of Christmas,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+15/03/2007,Thursday,1848 Revolution Memorial Day,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,National holiday
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+06/05/2007,Sunday,Mother's Day,Observance
+27/05/2007,Sunday,Whit Sunday,Observance
+28/05/2007,Monday,Whit Monday,National holiday
+17/06/2007,Sunday,Father's Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+20/08/2007,Monday,Hungary National Day,National holiday
+23/09/2007,Sunday,September Equinox,Season
+23/10/2007,Tuesday,1956 Revolution Memorial Day,National holiday
+01/11/2007,Thursday,All Saints' Day,National holiday
+06/12/2007,Thursday,Saint Nicholas Day,Observance
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,"Observance, Christian"
+25/12/2007,Tuesday,Christmas Day,National holiday
+26/12/2007,Wednesday,Second Day of Christmas,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+15/03/2008,Saturday,1848 Revolution Memorial Day,National holiday
+20/03/2008,Thursday,March Equinox,Season
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,National holiday
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+04/05/2008,Sunday,Mother's Day,Observance
+11/05/2008,Sunday,Whit Sunday,Observance
+12/05/2008,Monday,Whit Monday,National holiday
+15/06/2008,Sunday,Father's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+20/08/2008,Wednesday,Hungary National Day,National holiday
+22/09/2008,Monday,September Equinox,Season
+23/10/2008,Thursday,1956 Revolution Memorial Day,National holiday
+01/11/2008,Saturday,All Saints' Day,National holiday
+06/12/2008,Saturday,Saint Nicholas Day,Observance
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2008,Thursday,Christmas Day,National holiday
+26/12/2008,Friday,Second Day of Christmas,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+15/03/2009,Sunday,1848 Revolution Memorial Day,National holiday
+20/03/2009,Friday,March Equinox,Season
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,National holiday
+01/05/2009,Friday,Labor Day / May Day,National holiday
+03/05/2009,Sunday,Mother's Day,Observance
+31/05/2009,Sunday,Whit Sunday,Observance
+01/06/2009,Monday,Whit Monday,National holiday
+21/06/2009,Sunday,Father's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+20/08/2009,Thursday,Hungary National Day,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+23/10/2009,Friday,1956 Revolution Memorial Day,National holiday
+01/11/2009,Sunday,All Saints' Day,National holiday
+06/12/2009,Sunday,Saint Nicholas Day,Observance
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,"Observance, Christian"
+25/12/2009,Friday,Christmas Day,National holiday
+26/12/2009,Saturday,Second Day of Christmas,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+15/03/2010,Monday,1848 Revolution Memorial Day,National holiday
+20/03/2010,Saturday,March Equinox,Season
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,National holiday
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+02/05/2010,Sunday,Mother's Day,Observance
+23/05/2010,Sunday,Whit Sunday,Observance
+24/05/2010,Monday,Whit Monday,National holiday
+20/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+20/08/2010,Friday,Hungary National Day,National holiday
+23/09/2010,Thursday,September Equinox,Season
+23/10/2010,Saturday,1956 Revolution Memorial Day,National holiday
+01/11/2010,Monday,All Saints' Day,National holiday
+06/12/2010,Monday,Saint Nicholas Day,Observance
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,"Observance, Christian"
+25/12/2010,Saturday,Christmas Day,National holiday
+26/12/2010,Sunday,Second Day of Christmas,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+15/03/2011,Tuesday,1848 Revolution Memorial Day,National holiday
+21/03/2011,Monday,March Equinox,Season
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,National holiday
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+01/05/2011,Sunday,Mother's Day,Observance
+12/06/2011,Sunday,Whit Sunday,Observance
+13/06/2011,Monday,Whit Monday,National holiday
+19/06/2011,Sunday,Father's Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+20/08/2011,Saturday,Hungary National Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+23/10/2011,Sunday,1956 Revolution Memorial Day,National holiday
+01/11/2011,Tuesday,All Saints' Day,National holiday
+06/12/2011,Tuesday,Saint Nicholas Day,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,Second Day of Christmas,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+15/03/2012,Thursday,1848 Revolution Memorial Day,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,National holiday
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+06/05/2012,Sunday,Mother's Day,Observance
+27/05/2012,Sunday,Whit Sunday,Observance
+28/05/2012,Monday,Whit Monday,National holiday
+17/06/2012,Sunday,Father's Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+20/08/2012,Monday,Hungary National Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+23/10/2012,Tuesday,1956 Revolution Memorial Day,National holiday
+01/11/2012,Thursday,All Saints' Day,National holiday
+06/12/2012,Thursday,Saint Nicholas Day,Observance
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,"Observance, Christian"
+25/12/2012,Tuesday,Christmas Day,National holiday
+26/12/2012,Wednesday,Second Day of Christmas,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+15/03/2013,Friday,1848 Revolution Memorial Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,National holiday
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+05/05/2013,Sunday,Mother's Day,Observance
+19/05/2013,Sunday,Whit Sunday,Observance
+20/05/2013,Monday,Whit Monday,National holiday
+16/06/2013,Sunday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+20/08/2013,Tuesday,Hungary National Day,National holiday
+22/09/2013,Sunday,September Equinox,Season
+23/10/2013,Wednesday,1956 Revolution Memorial Day,National holiday
+01/11/2013,Friday,All Saints' Day,National holiday
+06/12/2013,Friday,Saint Nicholas Day,Observance
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2013,Wednesday,Christmas Day,National holiday
+26/12/2013,Thursday,Second Day of Christmas,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+15/03/2014,Saturday,1848 Revolution Memorial Day,National holiday
+20/03/2014,Thursday,March Equinox,Season
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,National holiday
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+04/05/2014,Sunday,Mother's Day,Observance
+08/06/2014,Sunday,Whit Sunday,Observance
+09/06/2014,Monday,Whit Monday,National holiday
+15/06/2014,Sunday,Father's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+20/08/2014,Wednesday,Hungary National Day,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+23/10/2014,Thursday,1956 Revolution Memorial Day,National holiday
+01/11/2014,Saturday,All Saints' Day,National holiday
+06/12/2014,Saturday,Saint Nicholas Day,Observance
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,Second Day of Christmas,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+02/01/2015,Friday,New Year Holiday,National holiday
+10/01/2015,Saturday,Extra Work Day,Working day on weekend
+15/03/2015,Sunday,1848 Revolution Memorial Day,National holiday
+20/03/2015,Friday,March Equinox,Season
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,National holiday
+01/05/2015,Friday,Labor Day / May Day,National holiday
+03/05/2015,Sunday,Mother's Day,Observance
+24/05/2015,Sunday,Whit Sunday,Observance
+25/05/2015,Monday,Whit Monday,National holiday
+21/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+08/08/2015,Saturday,Extra Work Day,Working day on weekend
+20/08/2015,Thursday,Hungary National Day,National holiday
+21/08/2015,Friday,Hungary National Day Holiday,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+23/10/2015,Friday,1956 Revolution Memorial Day,National holiday
+01/11/2015,Sunday,All Saints' Day,National holiday
+06/12/2015,Sunday,Saint Nicholas Day,Observance
+12/12/2015,Saturday,Extra Work Day,Working day on weekend
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,National holiday
+25/12/2015,Friday,Christmas Day,National holiday
+26/12/2015,Saturday,Second Day of Christmas,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+05/03/2016,Saturday,Extra Work Day,Working day on weekend
+14/03/2016,Monday,1848 Revolution Memorial Day (Extra holiday),National holiday
+15/03/2016,Tuesday,1848 Revolution Memorial Day,National holiday
+20/03/2016,Sunday,March Equinox,Season
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,National holiday
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+01/05/2016,Sunday,Mother's Day,Observance
+15/05/2016,Sunday,Whit Sunday,Observance
+16/05/2016,Monday,Whit Monday,National holiday
+19/06/2016,Sunday,Father's Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+20/08/2016,Saturday,Hungary National Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+15/10/2016,Saturday,Extra Work Day,Working day on weekend
+23/10/2016,Sunday,1956 Revolution Memorial Day,National holiday
+31/10/2016,Monday,All Saints' Day Holiday,National holiday
+01/11/2016,Tuesday,All Saints' Day,National holiday
+06/12/2016,Tuesday,Saint Nicholas Day,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,Second Day of Christmas,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+15/03/2017,Wednesday,1848 Revolution Memorial Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,National holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,National holiday
+01/05/2017,Monday,Labor Day / May Day,National holiday
+07/05/2017,Sunday,Mother's Day,Observance
+04/06/2017,Sunday,Whit Sunday,Observance
+05/06/2017,Monday,Whit Monday,National holiday
+18/06/2017,Sunday,Father's Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+20/08/2017,Sunday,Hungary National Day,National holiday
+22/09/2017,Friday,September Equinox,Season
+23/10/2017,Monday,1956 Revolution Memorial Day,National holiday
+01/11/2017,Wednesday,All Saints' Day,National holiday
+06/12/2017,Wednesday,Saint Nicholas Day,Observance
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2017,Monday,Christmas Day,National holiday
+26/12/2017,Tuesday,Second Day of Christmas,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+10/03/2018,Saturday,Extra Work Day,Working day on weekend
+15/03/2018,Thursday,1848 Revolution Memorial Day,National holiday
+16/03/2018,Friday,1848 Revolution Memorial Day (Extra holiday),National holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,National holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,National holiday
+21/04/2018,Saturday,Extra Work Day,Working day on weekend
+30/04/2018,Monday,Labor Day Holiday,National holiday
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+06/05/2018,Sunday,Mother's Day,Observance
+20/05/2018,Sunday,Whit Sunday,Observance
+21/05/2018,Monday,Whit Monday,National holiday
+17/06/2018,Sunday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+20/08/2018,Monday,Hungary National Day,National holiday
+23/09/2018,Sunday,September Equinox,Season
+13/10/2018,Saturday,Extra Work Day,Working day on weekend
+22/10/2018,Monday,1956 Revolution Memorial Day Holiday,National holiday
+23/10/2018,Tuesday,1956 Revolution Memorial Day,National holiday
+01/11/2018,Thursday,All Saints' Day,National holiday
+02/11/2018,Friday,All Saints' Day Holiday,National holiday
+10/11/2018,Saturday,Extra Work Day,Working day on weekend
+01/12/2018,Saturday,Extra Work Day,Working day on weekend
+06/12/2018,Thursday,Saint Nicholas Day,Observance
+15/12/2018,Saturday,Extra Work Day,Working day on weekend
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,National holiday
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,Second Day of Christmas,National holiday
+31/12/2018,Monday,New Year's Eve Holiday,National holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+15/03/2019,Friday,1848 Revolution Memorial Day,National holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,National holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,National holiday
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+05/05/2019,Sunday,Mother's Day,Observance
+09/06/2019,Sunday,Whit Sunday,Observance
+10/06/2019,Monday,Whit Monday,National holiday
+16/06/2019,Sunday,Father's Day,Observance
+21/06/2019,Friday,June Solstice,Season
+10/08/2019,Saturday,Extra Work Day,Working day on weekend
+19/08/2019,Monday,Hungary National Day Holiday,National holiday
+20/08/2019,Tuesday,Hungary National Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+23/10/2019,Wednesday,1956 Revolution Memorial Day,National holiday
+01/11/2019,Friday,All Saints' Day,National holiday
+06/12/2019,Friday,Saint Nicholas Day,Observance
+07/12/2019,Saturday,Extra Work Day,Working day on weekend
+14/12/2019,Saturday,Extra Work Day,Working day on weekend
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,National holiday
+25/12/2019,Wednesday,Christmas Day,National holiday
+26/12/2019,Thursday,Second Day of Christmas,National holiday
+27/12/2019,Friday,Christmas Holiday,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+15/03/2020,Sunday,1848 Revolution Memorial Day,National holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,National holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,National holiday
+01/05/2020,Friday,Labor Day / May Day,National holiday
+03/05/2020,Sunday,Mother's Day,Observance
+31/05/2020,Sunday,Whit Sunday,Observance
+01/06/2020,Monday,Whit Monday,National holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Father's Day,Observance
+20/08/2020,Thursday,Hungary National Day,National holiday
+21/08/2020,Friday,Hungary National Day Holiday,National holiday
+29/08/2020,Saturday,Extra Work Day,Working day on weekend
+22/09/2020,Tuesday,September Equinox,Season
+23/10/2020,Friday,1956 Revolution Memorial Day,National holiday
+01/11/2020,Sunday,All Saints' Day,National holiday
+06/12/2020,Sunday,Saint Nicholas Day,Observance
+12/12/2020,Saturday,Extra Work Day,Working day on weekend
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,National holiday
+25/12/2020,Friday,Christmas Day,National holiday
+26/12/2020,Saturday,Second Day of Christmas,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+15/03/2021,Monday,1848 Revolution Memorial Day,National holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,National holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,National holiday
+01/05/2021,Saturday,Labor Day / May Day,National holiday
+02/05/2021,Sunday,Mother's Day,Observance
+23/05/2021,Sunday,Whit Sunday,Observance
+24/05/2021,Monday,Whit Monday,National holiday
+20/06/2021,Sunday,Father's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+20/08/2021,Friday,Hungary National Day,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+23/10/2021,Saturday,1956 Revolution Memorial Day,National holiday
+01/11/2021,Monday,All Saints' Day,National holiday
+06/12/2021,Monday,Saint Nicholas Day,Observance
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,"Observance, Christian"
+25/12/2021,Saturday,Christmas Day,National holiday
+26/12/2021,Sunday,Second Day of Christmas,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+14/03/2022,Monday,1848 Revolution Memorial Day (Extra holiday),National holiday
+15/03/2022,Tuesday,1848 Revolution Memorial Day,National holiday
+20/03/2022,Sunday,March Equinox,Season
+26/03/2022,Saturday,Extra Work Day,Working day on weekend
+15/04/2022,Friday,Good Friday,National holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,National holiday
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+01/05/2022,Sunday,Mother's Day,Observance
+05/06/2022,Sunday,Whit Sunday,Observance
+06/06/2022,Monday,Whit Monday,National holiday
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+20/08/2022,Saturday,Hungary National Day,National holiday
+23/09/2022,Friday,September Equinox,Season
+15/10/2022,Saturday,Extra Work Day,Working day on weekend
+23/10/2022,Sunday,1956 Revolution Memorial Day,National holiday
+31/10/2022,Monday,All Saints' Day Holiday,National holiday
+01/11/2022,Tuesday,All Saints' Day,National holiday
+06/12/2022,Tuesday,Saint Nicholas Day,Observance
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,Second Day of Christmas,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

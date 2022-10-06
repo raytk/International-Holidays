@@ -1,0 +1,548 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+19/03/2000,Sunday,Saint Joseph's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+11/04/2000,Tuesday,Battle of Rivas,National holiday
+20/04/2000,Thursday,Maundy Thursday,"National holiday, Christian"
+21/04/2000,Friday,Good Friday,"National holiday, Christian"
+01/05/2000,Monday,Labor Day / May Day,National holiday
+18/06/2000,Sunday,Father's Day,Observance
+20/06/2000,Tuesday,June Solstice,Season
+25/07/2000,Tuesday,Annexation of Guanacaste,National holiday
+02/08/2000,Wednesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2000,Tuesday,Mother's Day,National holiday
+24/08/2000,Thursday,National Parks Day,Observance
+09/09/2000,Saturday,Children's Day,Observance
+15/09/2000,Friday,Independence Day,National holiday
+22/09/2000,Friday,September Equinox,Season
+12/10/2000,Thursday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2000,Thursday,All Souls' Day,National holiday
+22/11/2000,Wednesday,Teacher's Day,Observance
+08/12/2000,Friday,Feast of the Immaculate Conception,Observance
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,"National holiday, Christian"
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+19/03/2001,Monday,Saint Joseph's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+11/04/2001,Wednesday,Battle of Rivas,National holiday
+12/04/2001,Thursday,Maundy Thursday,"National holiday, Christian"
+13/04/2001,Friday,Good Friday,"National holiday, Christian"
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+17/06/2001,Sunday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+25/07/2001,Wednesday,Annexation of Guanacaste,National holiday
+02/08/2001,Thursday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2001,Wednesday,Mother's Day,National holiday
+24/08/2001,Friday,National Parks Day,Observance
+09/09/2001,Sunday,Children's Day,Observance
+15/09/2001,Saturday,Independence Day,National holiday
+22/09/2001,Saturday,September Equinox,Season
+12/10/2001,Friday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2001,Friday,All Souls' Day,National holiday
+22/11/2001,Thursday,Teacher's Day,Observance
+08/12/2001,Saturday,Feast of the Immaculate Conception,Observance
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+19/03/2002,Tuesday,Saint Joseph's Day,Observance
+20/03/2002,Wednesday,March Equinox,Season
+28/03/2002,Thursday,Maundy Thursday,"National holiday, Christian"
+29/03/2002,Friday,Good Friday,"National holiday, Christian"
+11/04/2002,Thursday,Battle of Rivas,National holiday
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+16/06/2002,Sunday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+25/07/2002,Thursday,Annexation of Guanacaste,National holiday
+02/08/2002,Friday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2002,Thursday,Mother's Day,National holiday
+24/08/2002,Saturday,National Parks Day,Observance
+09/09/2002,Monday,Children's Day,Observance
+15/09/2002,Sunday,Independence Day,National holiday
+22/09/2002,Sunday,September Equinox,Season
+12/10/2002,Saturday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2002,Saturday,All Souls' Day,National holiday
+22/11/2002,Friday,Teacher's Day,Observance
+08/12/2002,Sunday,Feast of the Immaculate Conception,Observance
+21/12/2002,Saturday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+19/03/2003,Wednesday,Saint Joseph's Day,Observance
+20/03/2003,Thursday,March Equinox,Season
+11/04/2003,Friday,Battle of Rivas,National holiday
+17/04/2003,Thursday,Maundy Thursday,"National holiday, Christian"
+18/04/2003,Friday,Good Friday,"National holiday, Christian"
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+15/06/2003,Sunday,Father's Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+25/07/2003,Friday,Annexation of Guanacaste,National holiday
+02/08/2003,Saturday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2003,Friday,Mother's Day,National holiday
+24/08/2003,Sunday,National Parks Day,Observance
+09/09/2003,Tuesday,Children's Day,Observance
+15/09/2003,Monday,Independence Day,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+12/10/2003,Sunday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2003,Sunday,All Souls' Day,National holiday
+22/11/2003,Saturday,Teacher's Day,Observance
+08/12/2003,Monday,Feast of the Immaculate Conception,Observance
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+19/03/2004,Friday,Saint Joseph's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+08/04/2004,Thursday,Maundy Thursday,"National holiday, Christian"
+09/04/2004,Friday,Good Friday,"National holiday, Christian"
+11/04/2004,Sunday,Battle of Rivas,National holiday
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+20/06/2004,Sunday,Father's Day,Observance
+20/06/2004,Sunday,June Solstice,Season
+25/07/2004,Sunday,Annexation of Guanacaste,National holiday
+02/08/2004,Monday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2004,Sunday,Mother's Day,National holiday
+24/08/2004,Tuesday,National Parks Day,Observance
+09/09/2004,Thursday,Children's Day,Observance
+15/09/2004,Wednesday,Independence Day,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+12/10/2004,Tuesday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2004,Tuesday,All Souls' Day,National holiday
+22/11/2004,Monday,Teacher's Day,Observance
+08/12/2004,Wednesday,Feast of the Immaculate Conception,Observance
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+19/03/2005,Saturday,Saint Joseph's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+24/03/2005,Thursday,Maundy Thursday,"National holiday, Christian"
+25/03/2005,Friday,Good Friday,"National holiday, Christian"
+11/04/2005,Monday,Battle of Rivas,National holiday
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+19/06/2005,Sunday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+25/07/2005,Monday,Annexation of Guanacaste,National holiday
+02/08/2005,Tuesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2005,Monday,Mother's Day,National holiday
+24/08/2005,Wednesday,National Parks Day,Observance
+09/09/2005,Friday,Children's Day,Observance
+15/09/2005,Thursday,Independence Day,National holiday
+22/09/2005,Thursday,September Equinox,Season
+12/10/2005,Wednesday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2005,Wednesday,All Souls' Day,National holiday
+22/11/2005,Tuesday,Teacher's Day,Observance
+08/12/2005,Thursday,Feast of the Immaculate Conception,Observance
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,"National holiday, Christian"
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+19/03/2006,Sunday,Saint Joseph's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+11/04/2006,Tuesday,Battle of Rivas,National holiday
+13/04/2006,Thursday,Maundy Thursday,"National holiday, Christian"
+14/04/2006,Friday,Good Friday,"National holiday, Christian"
+01/05/2006,Monday,Labor Day / May Day,National holiday
+18/06/2006,Sunday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+25/07/2006,Tuesday,Annexation of Guanacaste,National holiday
+02/08/2006,Wednesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2006,Tuesday,Mother's Day,National holiday
+24/08/2006,Thursday,National Parks Day,Observance
+09/09/2006,Saturday,Children's Day,Observance
+15/09/2006,Friday,Independence Day,National holiday
+22/09/2006,Friday,September Equinox,Season
+12/10/2006,Thursday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2006,Thursday,All Souls' Day,National holiday
+22/11/2006,Wednesday,Teacher's Day,Observance
+08/12/2006,Friday,Feast of the Immaculate Conception,Observance
+21/12/2006,Thursday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,"National holiday, Christian"
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+19/03/2007,Monday,Saint Joseph's Day,Observance
+20/03/2007,Tuesday,March Equinox,Season
+05/04/2007,Thursday,Maundy Thursday,"National holiday, Christian"
+06/04/2007,Friday,Good Friday,"National holiday, Christian"
+11/04/2007,Wednesday,Battle of Rivas,National holiday
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+17/06/2007,Sunday,Father's Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+25/07/2007,Wednesday,Annexation of Guanacaste,National holiday
+02/08/2007,Thursday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2007,Wednesday,Mother's Day,National holiday
+24/08/2007,Friday,National Parks Day,Observance
+09/09/2007,Sunday,Children's Day,Observance
+15/09/2007,Saturday,Independence Day,National holiday
+23/09/2007,Sunday,September Equinox,Season
+12/10/2007,Friday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2007,Friday,All Souls' Day,National holiday
+22/11/2007,Thursday,Teacher's Day,Observance
+08/12/2007,Saturday,Feast of the Immaculate Conception,Observance
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+19/03/2008,Wednesday,Saint Joseph's Day,Observance
+19/03/2008,Wednesday,March Equinox,Season
+20/03/2008,Thursday,Maundy Thursday,"National holiday, Christian"
+21/03/2008,Friday,Good Friday,"National holiday, Christian"
+11/04/2008,Friday,Battle of Rivas,National holiday
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+15/06/2008,Sunday,Father's Day,Observance
+20/06/2008,Friday,June Solstice,Season
+25/07/2008,Friday,Annexation of Guanacaste,National holiday
+02/08/2008,Saturday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2008,Friday,Mother's Day,National holiday
+24/08/2008,Sunday,National Parks Day,Observance
+09/09/2008,Tuesday,Children's Day,Observance
+15/09/2008,Monday,Independence Day,National holiday
+22/09/2008,Monday,September Equinox,Season
+12/10/2008,Sunday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2008,Sunday,All Souls' Day,National holiday
+22/11/2008,Saturday,Teacher's Day,Observance
+08/12/2008,Monday,Feast of the Immaculate Conception,Observance
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+19/03/2009,Thursday,Saint Joseph's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+09/04/2009,Thursday,Maundy Thursday,"National holiday, Christian"
+10/04/2009,Friday,Good Friday,"National holiday, Christian"
+11/04/2009,Saturday,Battle of Rivas,National holiday
+01/05/2009,Friday,Labor Day / May Day,National holiday
+20/06/2009,Saturday,June Solstice,Season
+21/06/2009,Sunday,Father's Day,Observance
+25/07/2009,Saturday,Annexation of Guanacaste,National holiday
+02/08/2009,Sunday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2009,Saturday,Mother's Day,National holiday
+24/08/2009,Monday,National Parks Day,Observance
+09/09/2009,Wednesday,Children's Day,Observance
+15/09/2009,Tuesday,Independence Day,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+12/10/2009,Monday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2009,Monday,All Souls' Day,National holiday
+22/11/2009,Sunday,Teacher's Day,Observance
+08/12/2009,Tuesday,Feast of the Immaculate Conception,Observance
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,"National holiday, Christian"
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+19/03/2010,Friday,Saint Joseph's Day,Observance
+20/03/2010,Saturday,March Equinox,Season
+01/04/2010,Thursday,Maundy Thursday,"National holiday, Christian"
+02/04/2010,Friday,Good Friday,"National holiday, Christian"
+11/04/2010,Sunday,Battle of Rivas,National holiday
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+20/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+25/07/2010,Sunday,Annexation of Guanacaste,National holiday
+02/08/2010,Monday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2010,Sunday,Mother's Day,National holiday
+24/08/2010,Tuesday,National Parks Day,Observance
+09/09/2010,Thursday,Children's Day,Observance
+15/09/2010,Wednesday,Independence Day,National holiday
+22/09/2010,Wednesday,September Equinox,Season
+12/10/2010,Tuesday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2010,Tuesday,All Souls' Day,Observance
+22/11/2010,Monday,Teacher's Day,Observance
+08/12/2010,Wednesday,Feast of the Immaculate Conception,Observance
+21/12/2010,Tuesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+19/03/2011,Saturday,Saint Joseph's Day,Observance
+20/03/2011,Sunday,March Equinox,Season
+11/04/2011,Monday,Battle of Rivas,National holiday
+21/04/2011,Thursday,Maundy Thursday,"National holiday, Christian"
+22/04/2011,Friday,Good Friday,"National holiday, Christian"
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+19/06/2011,Sunday,Father's Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+25/07/2011,Monday,Annexation of Guanacaste,National holiday
+02/08/2011,Tuesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2011,Monday,Mother's Day,National holiday
+24/08/2011,Wednesday,National Parks Day,Observance
+09/09/2011,Friday,Children's Day,Observance
+15/09/2011,Thursday,Independence Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+12/10/2011,Wednesday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2011,Wednesday,All Souls' Day,Observance
+22/11/2011,Tuesday,Teacher's Day,Observance
+08/12/2011,Thursday,Feast of the Immaculate Conception,Observance
+21/12/2011,Wednesday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,"National holiday, Christian"
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+19/03/2012,Monday,Saint Joseph's Day,Observance
+19/03/2012,Monday,March Equinox,Season
+05/04/2012,Thursday,Maundy Thursday,"National holiday, Christian"
+06/04/2012,Friday,Good Friday,"National holiday, Christian"
+11/04/2012,Wednesday,Battle of Rivas,National holiday
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+17/06/2012,Sunday,Father's Day,Observance
+20/06/2012,Wednesday,June Solstice,Season
+25/07/2012,Wednesday,Annexation of Guanacaste,National holiday
+02/08/2012,Thursday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2012,Wednesday,Mother's Day,National holiday
+24/08/2012,Friday,National Parks Day,Observance
+09/09/2012,Sunday,Children's Day,Observance
+15/09/2012,Saturday,Independence Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+12/10/2012,Friday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2012,Friday,All Souls' Day,Observance
+22/11/2012,Thursday,Teacher's Day,Observance
+08/12/2012,Saturday,Feast of the Immaculate Conception,Observance
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+19/03/2013,Tuesday,Saint Joseph's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+28/03/2013,Thursday,Maundy Thursday,"National holiday, Christian"
+29/03/2013,Friday,Good Friday,"National holiday, Christian"
+11/04/2013,Thursday,Battle of Rivas,National holiday
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+16/06/2013,Sunday,Father's Day,Observance
+20/06/2013,Thursday,June Solstice,Season
+25/07/2013,Thursday,Annexation of Guanacaste,National holiday
+02/08/2013,Friday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2013,Thursday,Mother's Day,National holiday
+24/08/2013,Saturday,National Parks Day,Observance
+09/09/2013,Monday,Children's Day,Observance
+15/09/2013,Sunday,Independence Day,National holiday
+22/09/2013,Sunday,September Equinox,Season
+12/10/2013,Saturday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2013,Saturday,All Souls' Day,Observance
+22/11/2013,Friday,Teacher's Day,Observance
+08/12/2013,Sunday,Feast of the Immaculate Conception,Observance
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+19/03/2014,Wednesday,Saint Joseph's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+11/04/2014,Friday,Battle of Rivas,National holiday
+17/04/2014,Thursday,Maundy Thursday,"National holiday, Christian"
+18/04/2014,Friday,Good Friday,"National holiday, Christian"
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+15/06/2014,Sunday,Father's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+25/07/2014,Friday,Annexation of Guanacaste,National holiday
+02/08/2014,Saturday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2014,Friday,Mother's Day,National holiday
+24/08/2014,Sunday,National Parks Day,Observance
+09/09/2014,Tuesday,Children's Day,Observance
+15/09/2014,Monday,Independence Day,National holiday
+22/09/2014,Monday,September Equinox,Season
+12/10/2014,Sunday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2014,Sunday,All Souls' Day,Observance
+22/11/2014,Saturday,Teacher's Day,Observance
+08/12/2014,Monday,Feast of the Immaculate Conception,Observance
+21/12/2014,Sunday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+19/03/2015,Thursday,Saint Joseph's Day,Observance
+20/03/2015,Friday,March Equinox,Season
+02/04/2015,Thursday,Maundy Thursday,"National holiday, Christian"
+03/04/2015,Friday,Good Friday,"National holiday, Christian"
+11/04/2015,Saturday,Battle of Rivas,National holiday
+01/05/2015,Friday,Labor Day / May Day,National holiday
+21/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+25/07/2015,Saturday,Annexation of Guanacaste,National holiday
+02/08/2015,Sunday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2015,Saturday,Mother's Day,National holiday
+24/08/2015,Monday,National Parks Day,Observance
+09/09/2015,Wednesday,Children's Day,Observance
+15/09/2015,Tuesday,Independence Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+12/10/2015,Monday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2015,Monday,All Souls' Day,Observance
+22/11/2015,Sunday,Teacher's Day,Observance
+08/12/2015,Tuesday,Feast of the Immaculate Conception,Observance
+21/12/2015,Monday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,"National holiday, Christian"
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+19/03/2016,Saturday,Saint Joseph's Day,Observance
+19/03/2016,Saturday,March Equinox,Season
+24/03/2016,Thursday,Maundy Thursday,"National holiday, Christian"
+25/03/2016,Friday,Good Friday,"National holiday, Christian"
+11/04/2016,Monday,Battle of Rivas,National holiday
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+19/06/2016,Sunday,Father's Day,Observance
+20/06/2016,Monday,June Solstice,Season
+25/07/2016,Monday,Annexation of Guanacaste,National holiday
+02/08/2016,Tuesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2016,Monday,Mother's Day,National holiday
+24/08/2016,Wednesday,National Parks Day,Observance
+09/09/2016,Friday,Children's Day,Observance
+15/09/2016,Thursday,Independence Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+12/10/2016,Wednesday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2016,Wednesday,All Souls' Day,Observance
+22/11/2016,Tuesday,Teacher's Day,Observance
+24/11/2016,Thursday,Tropical Storm Otto,National holiday
+25/11/2016,Friday,Tropical Storm Otto,National holiday
+08/12/2016,Thursday,Feast of the Immaculate Conception,Observance
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,"National holiday, Christian"
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+19/03/2017,Sunday,Saint Joseph's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+11/04/2017,Tuesday,Battle of Rivas,National holiday
+13/04/2017,Thursday,Maundy Thursday,"National holiday, Christian"
+14/04/2017,Friday,Good Friday,"National holiday, Christian"
+01/05/2017,Monday,Labor Day / May Day,National holiday
+18/06/2017,Sunday,Father's Day,Observance
+20/06/2017,Tuesday,June Solstice,Season
+25/07/2017,Tuesday,Annexation of Guanacaste,National holiday
+02/08/2017,Wednesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2017,Tuesday,Mother's Day,National holiday
+24/08/2017,Thursday,National Parks Day,Observance
+09/09/2017,Saturday,Children's Day,Observance
+15/09/2017,Friday,Independence Day,National holiday
+22/09/2017,Friday,September Equinox,Season
+12/10/2017,Thursday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2017,Thursday,All Souls' Day,Observance
+22/11/2017,Wednesday,Teacher's Day,Observance
+08/12/2017,Friday,Feast of the Immaculate Conception,Observance
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,"National holiday, Christian"
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+19/03/2018,Monday,Saint Joseph's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+29/03/2018,Thursday,Maundy Thursday,"National holiday, Christian"
+30/03/2018,Friday,Good Friday,"National holiday, Christian"
+11/04/2018,Wednesday,Battle of Rivas,National holiday
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+17/06/2018,Sunday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+25/07/2018,Wednesday,Annexation of Guanacaste,National holiday
+02/08/2018,Thursday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2018,Wednesday,Mother's Day,National holiday
+24/08/2018,Friday,National Parks Day,Observance
+09/09/2018,Sunday,Children's Day,Observance
+15/09/2018,Saturday,Independence Day,National holiday
+22/09/2018,Saturday,September Equinox,Season
+12/10/2018,Friday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2018,Friday,All Souls' Day,Observance
+22/11/2018,Thursday,Teacher's Day,Observance
+08/12/2018,Saturday,Feast of the Immaculate Conception,Observance
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+19/03/2019,Tuesday,Saint Joseph's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+11/04/2019,Thursday,Battle of Rivas,National holiday
+18/04/2019,Thursday,Maundy Thursday,"National holiday, Christian"
+19/04/2019,Friday,Good Friday,"National holiday, Christian"
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+16/06/2019,Sunday,Father's Day,Observance
+21/06/2019,Friday,June Solstice,Season
+25/07/2019,Thursday,Annexation of Guanacaste,National holiday
+02/08/2019,Friday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2019,Thursday,Mother's Day,National holiday
+24/08/2019,Saturday,National Parks Day,Observance
+09/09/2019,Monday,Children's Day,Observance
+15/09/2019,Sunday,Independence Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+12/10/2019,Saturday,Day of the Cultures,Non Compulsory Payment Holiday
+02/11/2019,Saturday,All Souls' Day,Observance
+22/11/2019,Friday,Teacher's Day,Observance
+08/12/2019,Sunday,Feast of the Immaculate Conception,Observance
+21/12/2019,Saturday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+19/03/2020,Thursday,Saint Joseph's Day,Observance
+19/03/2020,Thursday,March Equinox,Season
+09/04/2020,Thursday,Maundy Thursday,"National holiday, Christian"
+10/04/2020,Friday,Good Friday,"National holiday, Christian"
+11/04/2020,Saturday,Battle of Rivas,National holiday
+01/05/2020,Friday,Labor Day / May Day,National holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Father's Day,Observance
+25/07/2020,Saturday,Annexation of Guanacaste,Observance
+27/07/2020,Monday,Annexation of Guanacaste,National holiday
+02/08/2020,Sunday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2020,Saturday,Mother's Day,Observance
+17/08/2020,Monday,Mother's Day,National holiday
+24/08/2020,Monday,National Parks Day,Observance
+09/09/2020,Wednesday,Children's Day,Observance
+14/09/2020,Monday,Independence Day,National holiday
+15/09/2020,Tuesday,Independence Day,Observance
+22/09/2020,Tuesday,September Equinox,Season
+02/11/2020,Monday,All Souls' Day,Observance
+22/11/2020,Sunday,Teacher's Day,Observance
+30/11/2020,Monday,Day of Abolition of the Army,Non Compulsory Payment Holiday
+01/12/2020,Tuesday,Day of Abolition of the Army,Observance
+08/12/2020,Tuesday,Feast of the Immaculate Conception,Observance
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,"National holiday, Christian"
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+19/03/2021,Friday,Saint Joseph's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+29/03/2021,Monday,Public Sector Holiday,Government Holiday
+30/03/2021,Tuesday,Public Sector Holiday,Government Holiday
+31/03/2021,Wednesday,Public Sector Holiday,Government Holiday
+01/04/2021,Thursday,Maundy Thursday,"National holiday, Christian"
+02/04/2021,Friday,Good Friday,"National holiday, Christian"
+11/04/2021,Sunday,Battle of Rivas,National holiday
+01/05/2021,Saturday,Labor Day / May Day,Observance
+03/05/2021,Monday,Labor Day / May Day,National holiday
+20/06/2021,Sunday,Father's Day,Observance
+20/06/2021,Sunday,June Solstice,Season
+25/07/2021,Sunday,Annexation of Guanacaste,Observance
+26/07/2021,Monday,Annexation of Guanacaste,National holiday
+02/08/2021,Monday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2021,Sunday,Mother's Day,National holiday
+24/08/2021,Tuesday,National Parks Day,Observance
+09/09/2021,Thursday,Children's Day,Observance
+13/09/2021,Monday,Independence Day,National holiday
+15/09/2021,Wednesday,Independence Day,Observance
+22/09/2021,Wednesday,September Equinox,Season
+02/11/2021,Tuesday,All Souls' Day,Observance
+22/11/2021,Monday,Teacher's Day,Observance
+29/11/2021,Monday,Day of Abolition of the Army,Non Compulsory Payment Holiday
+01/12/2021,Wednesday,Day of Abolition of the Army,Observance
+08/12/2021,Wednesday,Feast of the Immaculate Conception,Observance
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+19/03/2022,Saturday,Saint Joseph's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+11/04/2022,Monday,Battle of Rivas,National holiday
+12/04/2022,Tuesday,Public Sector Holiday,Government Holiday
+13/04/2022,Wednesday,Public Sector Holiday,Government Holiday
+14/04/2022,Thursday,Maundy Thursday,"National holiday, Christian"
+15/04/2022,Friday,Good Friday,"National holiday, Christian"
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+25/07/2022,Monday,Annexation of Guanacaste,National holiday
+02/08/2022,Tuesday,Our Lady of Los Ángeles,Non Compulsory Payment Holiday
+15/08/2022,Monday,Mother's Day,National holiday
+24/08/2022,Wednesday,National Parks Day,Observance
+04/09/2022,Sunday,Day of the Black Person and Afro-Costa Rican Culture,Non Compulsory Payment Holiday
+09/09/2022,Friday,Children's Day,Observance
+15/09/2022,Thursday,Independence Day,Observance
+19/09/2022,Monday,Independence Day,National holiday
+22/09/2022,Thursday,September Equinox,Season
+02/11/2022,Wednesday,All Souls' Day,Observance
+22/11/2022,Tuesday,Teacher's Day,Observance
+01/12/2022,Thursday,Day of Abolition of the Army,Observance
+05/12/2022,Monday,Day of Abolition of the Army,Non Compulsory Payment Holiday
+08/12/2022,Thursday,Feast of the Immaculate Conception,Observance
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,"National holiday, Christian"
+31/12/2022,Saturday,New Year's Eve,Observance

@@ -1,0 +1,913 @@
+Date,Day,Name,Type
+01/01/2005,Saturday,New Year's Day,Optional Holiday
+21/01/2005,Friday,Eid al-Adha,Public Holiday
+22/01/2005,Saturday,Eid al-Adha Holiday,Public Holiday
+05/02/2005,Saturday,Kashmir Day,Public Holiday
+13/02/2005,Sunday,Basant Panchami,Optional Holiday
+18/02/2005,Friday,Ashura,Public Holiday
+19/02/2005,Saturday,Ashura Holiday,Public Holiday
+13/03/2005,Sunday,Holi,Optional Holiday
+20/03/2005,Sunday,March Equinox,Season
+23/03/2005,Wednesday,Pakistan Day,Public Holiday
+25/03/2005,Friday,Good Friday,Optional Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,"Christian, Common local holiday"
+21/04/2005,Thursday,Ridván,Optional Holiday
+22/04/2005,Friday,Eid Milad un-Nabi,Public Holiday
+01/05/2005,Sunday,Labour Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+14/08/2005,Sunday,Independence Day,Public Holiday
+20/08/2005,Saturday,Nauroz,Optional Holiday
+26/08/2005,Friday,Janmashtami,Optional Holiday
+01/09/2005,Thursday,Shab e-Meraj,Optional Holiday
+06/09/2005,Tuesday,Defence Day,Observance
+19/09/2005,Monday,Shab e-Barat,Optional Holiday
+23/09/2005,Friday,September Equinox,Season
+01/11/2005,Tuesday,Diwali/Deepavali,Optional Holiday
+04/11/2005,Friday,Eid-ul-Fitr,Public Holiday
+05/11/2005,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+06/11/2005,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+07/11/2005,Monday,Eid-ul-Fitr Holiday,Public Holiday
+09/11/2005,Wednesday,Iqbal Day,Public Holiday
+26/11/2005,Saturday,Guru Nanak's Birthday,Optional Holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Public Holiday
+25/12/2005,Sunday,Quaid-e-Azam Day,Public Holiday
+26/12/2005,Monday,Day After Christmas (Christians only),Optional Holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,Optional Holiday
+10/01/2006,Tuesday,Eid al-Adha,Public Holiday
+11/01/2006,Wednesday,Eid al-Adha Holiday,Public Holiday
+02/02/2006,Thursday,Basant Panchami,Optional Holiday
+05/02/2006,Sunday,Kashmir Day,Public Holiday
+08/02/2006,Wednesday,Ashura,Public Holiday
+09/02/2006,Thursday,Ashura Holiday,Public Holiday
+27/02/2006,Monday,Shivaratri,Hindu Holiday
+14/03/2006,Tuesday,Holi,Optional Holiday
+15/03/2006,Wednesday,Dulhandi,Optional Holiday
+20/03/2006,Monday,Chelum,Optional Holiday
+20/03/2006,Monday,March Equinox,Season
+23/03/2006,Thursday,Pakistan Day,Public Holiday
+11/04/2006,Tuesday,Eid Milad un-Nabi,Public Holiday
+13/04/2006,Thursday,Baisakhi,Optional Holiday
+14/04/2006,Friday,Good Friday,Optional Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,"Christian, Common local holiday"
+21/04/2006,Friday,Ridván,Optional Holiday
+01/05/2006,Monday,Labour Day,Public Holiday
+09/05/2006,Tuesday,Giarhwin Sharief,Optional Holiday
+13/05/2006,Saturday,Buddha Purnima,Optional Holiday
+21/06/2006,Wednesday,June Solstice,Season
+14/08/2006,Monday,Independence Day,Public Holiday
+16/08/2006,Wednesday,Janmashtami,Optional Holiday
+20/08/2006,Sunday,Nauroz,Optional Holiday
+21/08/2006,Monday,Shab e-Meraj,Optional Holiday
+25/08/2006,Friday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+06/09/2006,Wednesday,Defence Day,Observance
+08/09/2006,Friday,Shab e-Barat,Optional Holiday
+23/09/2006,Saturday,September Equinox,Season
+02/10/2006,Monday,Durga Puja,Optional Holiday
+02/10/2006,Monday,Dussehra,Optional Holiday
+07/10/2006,Saturday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+21/10/2006,Saturday,Diwali/Deepavali,Optional Holiday
+24/10/2006,Tuesday,Eid-ul-Fitr,Public Holiday
+25/10/2006,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+26/10/2006,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+27/10/2006,Friday,Eid-ul-Fitr Holiday,Public Holiday
+05/11/2006,Sunday,Guru Nanak's Birthday,Optional Holiday
+09/11/2006,Thursday,Iqbal Day,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Public Holiday
+25/12/2006,Monday,Quaid-e-Azam Day,Public Holiday
+26/12/2006,Tuesday,Day After Christmas (Christians only),Optional Holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+31/12/2006,Sunday,Eid al-Adha,Public Holiday
+01/01/2007,Monday,New Year's Day,Optional Holiday
+01/01/2007,Monday,Eid al-Adha Holiday,Public Holiday
+23/01/2007,Tuesday,Basant Panchami,Optional Holiday
+28/01/2007,Sunday,Ashura,Public Holiday
+29/01/2007,Monday,Ashura Holiday,Public Holiday
+05/02/2007,Monday,Kashmir Day,Public Holiday
+17/02/2007,Saturday,Shivaratri,Hindu Holiday
+03/03/2007,Saturday,Holi,Optional Holiday
+04/03/2007,Sunday,Dulhandi,Optional Holiday
+08/03/2007,Thursday,Chelum,Optional Holiday
+21/03/2007,Wednesday,March Equinox,Season
+23/03/2007,Friday,Pakistan Day,Public Holiday
+31/03/2007,Saturday,Eid Milad un-Nabi,Public Holiday
+06/04/2007,Friday,Good Friday,Optional Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,"Christian, Common local holiday"
+13/04/2007,Friday,Baisakhi,Optional Holiday
+21/04/2007,Saturday,Ridván,Optional Holiday
+28/04/2007,Saturday,Giarhwin Sharief,Optional Holiday
+01/05/2007,Tuesday,Labour Day,Public Holiday
+02/05/2007,Wednesday,Buddha Purnima,Optional Holiday
+21/06/2007,Thursday,June Solstice,Season
+11/08/2007,Saturday,Shab e-Meraj,Optional Holiday
+14/08/2007,Tuesday,Independence Day,Public Holiday
+21/08/2007,Tuesday,Nauroz,Optional Holiday
+25/08/2007,Saturday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+26/08/2007,Sunday,Shab e-Barat,Optional Holiday
+04/09/2007,Tuesday,Janmashtami,Optional Holiday
+06/09/2007,Thursday,Defence Day,Observance
+23/09/2007,Sunday,September Equinox,Season
+13/10/2007,Saturday,Eid-ul-Fitr,Public Holiday
+14/10/2007,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+15/10/2007,Monday,Eid-ul-Fitr Holiday,Public Holiday
+16/10/2007,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+20/10/2007,Saturday,Durga Puja,Optional Holiday
+21/10/2007,Sunday,Dussehra,Optional Holiday
+26/10/2007,Friday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+09/11/2007,Friday,Iqbal Day,Public Holiday
+09/11/2007,Friday,Diwali/Deepavali,Optional Holiday
+24/11/2007,Saturday,Guru Nanak's Birthday,Optional Holiday
+20/12/2007,Thursday,Eid al-Adha,Public Holiday
+21/12/2007,Friday,Eid al-Adha Holiday,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+25/12/2007,Tuesday,Quaid-e-Azam Day,Public Holiday
+26/12/2007,Wednesday,Day After Christmas (Christians only),Optional Holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,Optional Holiday
+18/01/2008,Friday,Ashura,Public Holiday
+19/01/2008,Saturday,Ashura Holiday,Public Holiday
+05/02/2008,Tuesday,Kashmir Day,Public Holiday
+11/02/2008,Monday,Basant Panchami,Optional Holiday
+29/02/2008,Friday,Chelum,Optional Holiday
+06/03/2008,Thursday,Shivaratri,Optional Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Optional Holiday
+21/03/2008,Friday,Eid Milad un-Nabi,Public Holiday
+21/03/2008,Friday,Holi,Optional Holiday
+22/03/2008,Saturday,Dulhandi,Optional Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+23/03/2008,Sunday,Pakistan Day,Public Holiday
+24/03/2008,Monday,Easter Monday,"Christian, Common local holiday"
+13/04/2008,Sunday,Baisakhi,Optional Holiday
+18/04/2008,Friday,Giarhwin Sharief,Optional Holiday
+21/04/2008,Monday,Ridván,Optional Holiday
+01/05/2008,Thursday,Labour Day,Public Holiday
+20/05/2008,Tuesday,Buddha Purnima,Optional Holiday
+21/06/2008,Saturday,June Solstice,Season
+01/08/2008,Friday,Shab e-Meraj,Optional Holiday
+14/08/2008,Thursday,Independence Day,Public Holiday
+16/08/2008,Saturday,Raksha Bandhan,Hindu Holiday
+17/08/2008,Sunday,Shab e-Barat,Optional Holiday
+19/08/2008,Tuesday,Nauroz,Optional Holiday
+24/08/2008,Sunday,Janmashtami,Optional Holiday
+24/08/2008,Sunday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+03/09/2008,Wednesday,Ganesh Chaturthi,Hindu Holiday
+06/09/2008,Saturday,Defence Day,Observance
+22/09/2008,Monday,September Equinox,Season
+30/09/2008,Tuesday,First Day of Navaratri,Hindu Holiday
+30/09/2008,Tuesday,Durga Puja,Optional Holiday
+02/10/2008,Thursday,Eid-ul-Fitr,Public Holiday
+03/10/2008,Friday,Eid-ul-Fitr Holiday,Public Holiday
+04/10/2008,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+05/10/2008,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+09/10/2008,Thursday,Dussehra,Optional Holiday
+14/10/2008,Tuesday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+28/10/2008,Tuesday,Diwali/Deepavali,Optional Holiday
+09/11/2008,Sunday,Iqbal Day,Public Holiday
+13/11/2008,Thursday,Guru Nanak's Birthday,Optional Holiday
+09/12/2008,Tuesday,Eid al-Adha,Public Holiday
+10/12/2008,Wednesday,Eid al-Adha Holiday,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Public Holiday
+25/12/2008,Thursday,Quaid-e-Azam Day,Public Holiday
+26/12/2008,Friday,Day After Christmas (Christians only),Optional Holiday
+27/12/2008,Saturday,Anniversary of Benazir Bhutto's Martyrdom,Public Holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,Optional Holiday
+06/01/2009,Tuesday,Ashura,Public Holiday
+07/01/2009,Wednesday,Ashura Holiday,Public Holiday
+31/01/2009,Saturday,Basant Panchami,Optional Holiday
+05/02/2009,Thursday,Kashmir Day,Public Holiday
+16/02/2009,Monday,Chelum,Optional Holiday
+09/03/2009,Monday,Eid Milad un-Nabi,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+23/03/2009,Monday,Pakistan Day,Public Holiday
+10/04/2009,Friday,Good Friday,Optional Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,"Christian, Common local holiday"
+21/04/2009,Tuesday,Ridván,Optional Holiday
+01/05/2009,Friday,Labour Day,Public Holiday
+08/05/2009,Friday,Buddha Purnima,Optional Holiday
+21/06/2009,Sunday,June Solstice,Season
+20/07/2009,Monday,Shab e-Meraj,Optional Holiday
+31/07/2009,Friday,Shab e-Barat,Optional Holiday
+05/08/2009,Wednesday,Raksha Bandhan,Hindu Holiday
+14/08/2009,Friday,Independence Day,Public Holiday
+14/08/2009,Friday,Janmashtami,Optional Holiday
+23/08/2009,Sunday,Ganesh Chaturthi,Hindu Holiday
+24/08/2009,Monday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+06/09/2009,Sunday,Defence Day,Observance
+19/09/2009,Saturday,First Day of Navaratri,Hindu Holiday
+21/09/2009,Monday,Eid-ul-Fitr,Public Holiday
+22/09/2009,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+23/09/2009,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+23/09/2009,Wednesday,September Equinox,Season
+24/09/2009,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+24/09/2009,Thursday,Durga Puja,Optional Holiday
+17/10/2009,Saturday,Diwali/Deepavali,Optional Holiday
+09/11/2009,Monday,Iqbal Day,Public Holiday
+28/11/2009,Saturday,Eid al-Adha,Public Holiday
+29/11/2009,Sunday,Eid al-Adha Holiday,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Public Holiday
+25/12/2009,Friday,Quaid-e-Azam Day,Public Holiday
+26/12/2009,Saturday,Day After Christmas (Christians only),Optional Holiday
+26/12/2009,Saturday,Ashura,Public Holiday
+27/12/2009,Sunday,Ashura Holiday,Public Holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,Optional Holiday
+31/01/2010,Sunday,Basant Panchami,Optional Holiday
+05/02/2010,Friday,Kashmir Day,Public Holiday
+05/02/2010,Friday,Chelum,Optional Holiday
+23/02/2010,Tuesday,Shivaratri,Optional Holiday
+01/03/2010,Monday,Eid Milad un-Nabi,Public Holiday
+11/03/2010,Thursday,Holi,Optional Holiday
+12/03/2010,Friday,Dulhandi,Optional Holiday
+20/03/2010,Saturday,March Equinox,Season
+23/03/2010,Tuesday,Pakistan Day,Public Holiday
+02/04/2010,Friday,Good Friday,Optional Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,"Christian, Common local holiday"
+14/04/2010,Wednesday,Baisakhi,Optional Holiday
+21/04/2010,Wednesday,Ridván,Optional Holiday
+01/05/2010,Saturday,Labour Day,Public Holiday
+27/05/2010,Thursday,Buddha Purnima,Optional Holiday
+21/06/2010,Monday,June Solstice,Season
+09/07/2010,Friday,Shab e-Meraj,Optional Holiday
+20/07/2010,Tuesday,Shab e-Barat,Optional Holiday
+14/08/2010,Saturday,Independence Day,Public Holiday
+19/08/2010,Thursday,Nauroz,Optional Holiday
+24/08/2010,Tuesday,Raksha Bandhan,Hindu Holiday
+24/08/2010,Tuesday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+02/09/2010,Thursday,Janmashtami,Optional Holiday
+06/09/2010,Monday,Defence Day,Observance
+10/09/2010,Friday,Eid-ul-Fitr,Public Holiday
+11/09/2010,Saturday,Ganesh Chaturthi,Hindu Holiday
+11/09/2010,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+12/09/2010,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+13/09/2010,Monday,Eid-ul-Fitr Holiday,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+02/10/2010,Saturday,Durga Puja,Optional Holiday
+08/10/2010,Friday,First Day of Navaratri,Hindu Holiday
+17/10/2010,Sunday,Dussehra,Optional Holiday
+22/10/2010,Friday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+05/11/2010,Friday,Diwali/Deepavali,Optional Holiday
+09/11/2010,Tuesday,Iqbal Day,Public Holiday
+17/11/2010,Wednesday,Eid al-Adha,Public Holiday
+18/11/2010,Thursday,Eid al-Adha Holiday,Public Holiday
+21/11/2010,Sunday,Guru Nanak's Birthday,Optional Holiday
+16/12/2010,Thursday,Ashura,Public Holiday
+17/12/2010,Friday,Ashura Holiday,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Public Holiday
+25/12/2010,Saturday,Quaid-e-Azam Day,Public Holiday
+26/12/2010,Sunday,Day After Christmas (Christians only),Optional Holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,Optional Holiday
+26/01/2011,Wednesday,Chelum,Optional Holiday
+05/02/2011,Saturday,Kashmir Day,Public Holiday
+08/02/2011,Tuesday,Basant Panchami,Optional Holiday
+17/02/2011,Thursday,Eid Milad un-Nabi,Public Holiday
+02/03/2011,Wednesday,Shivaratri,Optional Holiday
+20/03/2011,Sunday,Holi,Optional Holiday
+21/03/2011,Monday,March Equinox,Season
+23/03/2011,Wednesday,Pakistan Day,Public Holiday
+14/04/2011,Thursday,Baisakhi,Optional Holiday
+21/04/2011,Thursday,Ridván,Optional Holiday
+22/04/2011,Friday,Good Friday,Optional Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,"Christian, Common local holiday"
+01/05/2011,Sunday,Labour Day,Public Holiday
+17/05/2011,Tuesday,Buddha Purnima,Optional Holiday
+21/06/2011,Tuesday,June Solstice,Season
+29/06/2011,Wednesday,Shab e-Meraj,Optional Holiday
+10/07/2011,Sunday,Shab e-Barat,Optional Holiday
+13/08/2011,Saturday,Raksha Bandhan,Hindu Holiday
+14/08/2011,Sunday,Independence Day,Public Holiday
+19/08/2011,Friday,Nauroz,Optional Holiday
+22/08/2011,Monday,Janmashtami,Optional Holiday
+24/08/2011,Wednesday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+31/08/2011,Wednesday,Eid-ul-Fitr,Public Holiday
+01/09/2011,Thursday,Ganesh Chaturthi,Hindu Holiday
+01/09/2011,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+02/09/2011,Friday,Eid-ul-Fitr Holiday,Public Holiday
+03/09/2011,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+06/09/2011,Tuesday,Defence Day,Observance
+23/09/2011,Friday,September Equinox,Season
+28/09/2011,Wednesday,First Day of Navaratri,Hindu Holiday
+28/09/2011,Wednesday,Durga Puja,Optional Holiday
+06/10/2011,Thursday,Dussehra,Optional Holiday
+12/10/2011,Wednesday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+26/10/2011,Wednesday,Diwali/Deepavali,Optional Holiday
+07/11/2011,Monday,Eid al-Adha,Public Holiday
+08/11/2011,Tuesday,Eid al-Adha Holiday,Public Holiday
+09/11/2011,Wednesday,Iqbal Day,Public Holiday
+10/11/2011,Thursday,Guru Nanak's Birthday,Optional Holiday
+05/12/2011,Monday,Ashura,Public Holiday
+06/12/2011,Tuesday,Ashura Holiday,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Public Holiday
+25/12/2011,Sunday,Quaid-e-Azam Day,Public Holiday
+26/12/2011,Monday,Day After Christmas (Christians only),Optional Holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,Optional Holiday
+15/01/2012,Sunday,Chelum,Optional Holiday
+28/01/2012,Saturday,Basant Panchami,Observance
+05/02/2012,Sunday,Kashmir Day,Public Holiday
+05/02/2012,Sunday,Eid Milad un-Nabi,Public Holiday
+20/02/2012,Monday,Shivaratri,Hindu Holiday
+08/03/2012,Thursday,Holi,Observance
+20/03/2012,Tuesday,March Equinox,Season
+23/03/2012,Friday,Pakistan Day,Public Holiday
+06/04/2012,Friday,Good Friday,Optional Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,"Christian, Common local holiday"
+13/04/2012,Friday,Baisakhi,Optional Holiday
+21/04/2012,Saturday,Ridván,Optional Holiday
+01/05/2012,Tuesday,Labour Day,Public Holiday
+06/05/2012,Sunday,Buddha Purnima,Optional Holiday
+17/06/2012,Sunday,Shab e-Meraj,Optional Holiday
+21/06/2012,Thursday,June Solstice,Season
+28/06/2012,Thursday,Shab e-Barat,Optional Holiday
+02/08/2012,Thursday,Raksha Bandhan,Hindu Holiday
+10/08/2012,Friday,Janmashtami,Optional Holiday
+14/08/2012,Tuesday,Independence Day,Public Holiday
+18/08/2012,Saturday,Nauroz,Optional Holiday
+19/08/2012,Sunday,Eid-ul-Fitr,Public Holiday
+20/08/2012,Monday,Eid-ul-Fitr Holiday,Public Holiday
+21/08/2012,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+22/08/2012,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+23/08/2012,Thursday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+06/09/2012,Thursday,Defence Day,Observance
+19/09/2012,Wednesday,Ganesh Chaturthi,Hindu Holiday
+22/09/2012,Saturday,September Equinox,Season
+16/10/2012,Tuesday,First Day of Navaratri,Hindu Holiday
+16/10/2012,Tuesday,Durga Puja,Optional Holiday
+24/10/2012,Wednesday,Dussehra,Optional Holiday
+26/10/2012,Friday,Eid al-Adha,Public Holiday
+27/10/2012,Saturday,Eid al-Adha Holiday,Public Holiday
+29/10/2012,Monday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+09/11/2012,Friday,Iqbal Day,Public Holiday
+13/11/2012,Tuesday,Diwali/Deepavali,Optional Holiday
+23/11/2012,Friday,Ashura,Public Holiday
+24/11/2012,Saturday,Ashura Holiday,Public Holiday
+28/11/2012,Wednesday,Guru Nanak's Birthday,Optional Holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+25/12/2012,Tuesday,Quaid-e-Azam Day,Public Holiday
+26/12/2012,Wednesday,Day After Christmas (Christians only),Optional Holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,Optional Holiday
+03/01/2013,Thursday,Chelum,Optional Holiday
+24/01/2013,Thursday,Eid Milad un-Nabi,Public Holiday
+05/02/2013,Tuesday,Kashmir Day,Public Holiday
+14/02/2013,Thursday,Basant Panchami,Optional Holiday
+22/02/2013,Friday,Giarhwin Sharief,Optional Holiday
+10/03/2013,Sunday,Shivaratri,Optional Holiday
+20/03/2013,Wednesday,March Equinox,Season
+23/03/2013,Saturday,Pakistan Day,Public Holiday
+26/03/2013,Tuesday,Holi,Optional Holiday
+27/03/2013,Wednesday,Dulhandi,Optional Holiday
+29/03/2013,Friday,Good Friday,Optional Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,"Christian, Common local holiday"
+13/04/2013,Saturday,Baisakhi,Optional Holiday
+21/04/2013,Sunday,Ridván,Optional Holiday
+01/05/2013,Wednesday,Labour Day,Public Holiday
+25/05/2013,Saturday,Buddha Purnima,Optional Holiday
+06/06/2013,Thursday,Shab e-Meraj,Optional Holiday
+17/06/2013,Monday,Shab e-Barat,Optional Holiday
+21/06/2013,Friday,June Solstice,Season
+01/07/2013,Monday,July 1 Bank Holiday,Bank Holiday
+11/07/2013,Thursday,July 11 Bank Holiday,Bank Holiday
+08/08/2013,Thursday,Eid-ul-Fitr,Public Holiday
+09/08/2013,Friday,Eid-ul-Fitr Holiday,Public Holiday
+10/08/2013,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+11/08/2013,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+14/08/2013,Wednesday,Independence Day,Public Holiday
+18/08/2013,Sunday,Nauroz,Optional Holiday
+20/08/2013,Tuesday,Raksha Bandhan,Hindu Holiday
+23/08/2013,Friday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+28/08/2013,Wednesday,Janmashtami,Optional Holiday
+06/09/2013,Friday,Defence Day,Observance
+09/09/2013,Monday,Ganesh Chaturthi,Hindu Holiday
+23/09/2013,Monday,September Equinox,Season
+05/10/2013,Saturday,First Day of Navaratri,Hindu Holiday
+05/10/2013,Saturday,Durga Puja,Optional Holiday
+14/10/2013,Monday,Dussehra,Optional Holiday
+15/10/2013,Tuesday,Eid al-Adha,Public Holiday
+16/10/2013,Wednesday,Eid al-Adha Holiday,Public Holiday
+18/10/2013,Friday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+03/11/2013,Sunday,Diwali/Deepavali,Optional Holiday
+09/11/2013,Saturday,Iqbal Day,Public Holiday
+13/11/2013,Wednesday,Ashura,Public Holiday
+14/11/2013,Thursday,Ashura Holiday,Public Holiday
+17/11/2013,Sunday,Guru Nanak's Birthday,Optional Holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+24/12/2013,Tuesday,Chelum,Optional Holiday
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+25/12/2013,Wednesday,Quaid-e-Azam Day,Public Holiday
+26/12/2013,Thursday,Day After Christmas (Christians only),Optional Holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,Optional Holiday
+14/01/2014,Tuesday,Eid Milad un-Nabi,Public Holiday
+04/02/2014,Tuesday,Basant Panchami,Optional Holiday
+05/02/2014,Wednesday,Kashmir Day,Public Holiday
+11/02/2014,Tuesday,Giarhwin Sharief,Optional Holiday
+27/02/2014,Thursday,Shivaratri,Optional Holiday
+16/03/2014,Sunday,Holi,Optional Holiday
+17/03/2014,Monday,Dulhandi,Optional Holiday
+20/03/2014,Thursday,March Equinox,Season
+23/03/2014,Sunday,Pakistan Day,Public Holiday
+14/04/2014,Monday,Baisakhi,Optional Holiday
+18/04/2014,Friday,Good Friday,Optional Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,"Christian, Common local holiday"
+21/04/2014,Monday,Ridván,Optional Holiday
+01/05/2014,Thursday,Labour Day,Public Holiday
+14/05/2014,Wednesday,Buddha Purnima,Optional Holiday
+27/05/2014,Tuesday,Shab e-Meraj,Optional Holiday
+14/06/2014,Saturday,Shab e-Barat,Optional Holiday
+21/06/2014,Saturday,June Solstice,Season
+01/07/2014,Tuesday,July 1 Bank Holiday,Bank Holiday
+29/07/2014,Tuesday,Eid-ul-Fitr,Public Holiday
+30/07/2014,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+31/07/2014,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+01/08/2014,Friday,Eid-ul-Fitr Holiday,Public Holiday
+10/08/2014,Sunday,Raksha Bandhan,Hindu Holiday
+14/08/2014,Thursday,Independence Day,Public Holiday
+17/08/2014,Sunday,Janmashtami,Optional Holiday
+18/08/2014,Monday,Nauroz,Optional Holiday
+23/08/2014,Saturday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+29/08/2014,Friday,Ganesh Chaturthi,Hindu Holiday
+06/09/2014,Saturday,Defence Day,Observance
+23/09/2014,Tuesday,September Equinox,Season
+25/09/2014,Thursday,First Day of Navaratri,Hindu Holiday
+25/09/2014,Thursday,Durga Puja,Optional Holiday
+03/10/2014,Friday,Dussehra,Optional Holiday
+06/10/2014,Monday,Eid al-Adha,Public Holiday
+07/10/2014,Tuesday,Eid al-Adha Holiday,Public Holiday
+08/10/2014,Wednesday,Eid al-Adha Holiday,Public Holiday
+08/10/2014,Wednesday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+23/10/2014,Thursday,Diwali/Deepavali,Optional Holiday
+03/11/2014,Monday,Ashura,Public Holiday
+04/11/2014,Tuesday,Ashura Holiday,Public Holiday
+06/11/2014,Thursday,Guru Nanak's Birthday,Optional Holiday
+09/11/2014,Sunday,Iqbal Day,Public Holiday
+13/12/2014,Saturday,Chelum,Optional Holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Public Holiday
+25/12/2014,Thursday,Quaid-e-Azam Day,Public Holiday
+26/12/2014,Friday,Day After Christmas (Christians only),Optional Holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,Optional Holiday
+04/01/2015,Sunday,Eid Milad un-Nabi,Public Holiday
+20/01/2015,Tuesday,Peshawar Massacre Remembrance Day,Common local holiday
+24/01/2015,Saturday,Basant Panchami,Optional Holiday
+31/01/2015,Saturday,Giarhwin Sharief,Optional Holiday
+05/02/2015,Thursday,Kashmir Day,Public Holiday
+17/02/2015,Tuesday,Shivaratri,Optional Holiday
+05/03/2015,Thursday,Holi,Optional Holiday
+06/03/2015,Friday,Dulhandi,Optional Holiday
+21/03/2015,Saturday,March Equinox,Season
+23/03/2015,Monday,Pakistan Day,Public Holiday
+03/04/2015,Friday,Good Friday,Optional Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,"Christian, Common local holiday"
+14/04/2015,Tuesday,Baisakhi,Optional Holiday
+21/04/2015,Tuesday,Ridván,Optional Holiday
+01/05/2015,Friday,Labour Day,Public Holiday
+04/05/2015,Monday,Buddha Purnima,Optional Holiday
+16/05/2015,Saturday,Shab e-Meraj,Optional Holiday
+27/05/2015,Wednesday,Shab e-Barat,Optional Holiday
+21/06/2015,Sunday,June Solstice,Season
+01/07/2015,Wednesday,July 1 Bank Holiday,Bank Holiday
+17/07/2015,Friday,Eid-ul-Fitr,Public Holiday
+18/07/2015,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+19/07/2015,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+20/07/2015,Monday,Eid-ul-Fitr Holiday,Public Holiday
+14/08/2015,Friday,Independence Day,Public Holiday
+18/08/2015,Tuesday,Nauroz,Optional Holiday
+23/08/2015,Sunday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+29/08/2015,Saturday,Raksha Bandhan,Hindu Holiday
+05/09/2015,Saturday,Janmashtami,Optional Holiday
+06/09/2015,Sunday,Defence Day,Observance
+17/09/2015,Thursday,Ganesh Chaturthi,Hindu Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,Public Holiday
+25/09/2015,Friday,Eid al-Adha Holiday,Public Holiday
+26/09/2015,Saturday,Eid al-Adha Holiday,Public Holiday
+27/09/2015,Sunday,Eid al-Adha Holiday,Public Holiday
+14/10/2015,Wednesday,First Day of Navaratri,Hindu Holiday
+18/10/2015,Sunday,Durga Puja,Optional Holiday
+22/10/2015,Thursday,Dussehra,Optional Holiday
+23/10/2015,Friday,Ashura,Public Holiday
+24/10/2015,Saturday,Ashura Holiday,Public Holiday
+27/10/2015,Tuesday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+09/11/2015,Monday,Iqbal Day,Optional Holiday
+11/11/2015,Wednesday,Diwali/Deepavali,Optional Holiday
+25/11/2015,Wednesday,Guru Nanak's Birthday,Optional Holiday
+03/12/2015,Thursday,Chelum,Optional Holiday
+16/12/2015,Wednesday,APS Attacks Commemoration Day,Common local holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Public Holiday
+25/12/2015,Friday,Quaid-e-Azam Day,Public Holiday
+26/12/2015,Saturday,Day After Christmas (Christians only),Optional Holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,Optional Holiday
+22/01/2016,Friday,Giarhwin Sharief,Optional Holiday
+05/02/2016,Friday,Kashmir Day,Public Holiday
+12/02/2016,Friday,Basant Panchami,Optional Holiday
+07/03/2016,Monday,Shivaratri,Optional Holiday
+20/03/2016,Sunday,March Equinox,Season
+23/03/2016,Wednesday,Pakistan Day,Public Holiday
+24/03/2016,Thursday,Holi,"National holiday, Hinduism"
+25/03/2016,Friday,Good Friday,Optional Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Optional Holiday
+13/04/2016,Wednesday,Baisakhi,Optional Holiday
+21/04/2016,Thursday,Ridván,Optional Holiday
+23/04/2016,Saturday,Union Parishad polls,National holiday
+01/05/2016,Sunday,Labour Day,Public Holiday
+05/05/2016,Thursday,Shab e-Meraj,Optional Holiday
+07/05/2016,Saturday,Union Parishad polls,National holiday
+16/05/2016,Monday,Shab e-Barat,Optional Holiday
+21/05/2016,Saturday,Buddha Purnima,Optional Holiday
+21/06/2016,Tuesday,June Solstice,Season
+01/07/2016,Friday,July 1 Bank Holiday,Bank Holiday
+05/07/2016,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+06/07/2016,Wednesday,Eid-ul-Fitr,Public Holiday
+07/07/2016,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+08/07/2016,Friday,Eid-ul-Fitr Holiday,Public Holiday
+09/07/2016,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+10/07/2016,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+14/08/2016,Sunday,Independence Day,Public Holiday
+17/08/2016,Wednesday,Nauroz,Optional Holiday
+18/08/2016,Thursday,Raksha Bandhan,Hindu Holiday
+25/08/2016,Thursday,Janmashtami,Optional Holiday
+05/09/2016,Monday,Ganesh Chaturthi,Hindu Holiday
+06/09/2016,Tuesday,Defence Day,Observance
+12/09/2016,Monday,Eid al-Adha,Public Holiday
+13/09/2016,Tuesday,Eid al-Adha Holiday,Public Holiday
+14/09/2016,Wednesday,Eid al-Adha Holiday,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+01/10/2016,Saturday,Durga Puja,Optional Holiday
+02/10/2016,Sunday,First Day of Navaratri,Hindu Holiday
+11/10/2016,Tuesday,Ashura,Public Holiday
+11/10/2016,Tuesday,Dussehra,Optional Holiday
+12/10/2016,Wednesday,Ashura Holiday,Public Holiday
+15/10/2016,Saturday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+30/10/2016,Sunday,Diwali/Deepavali,Optional Holiday
+09/11/2016,Wednesday,Iqbal Day,Observance
+14/11/2016,Monday,Guru Nanak's Birthday,Optional Holiday
+21/11/2016,Monday,Chelum,Optional Holiday
+12/12/2016,Monday,Eid Milad un-Nabi,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Public Holiday
+25/12/2016,Sunday,Quaid-e-Azam Day,Public Holiday
+26/12/2016,Monday,Day After Christmas (Christians only),Optional Holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,Optional Holiday
+30/01/2017,Monday,Giarhwin Sharief,Optional Holiday
+01/02/2017,Wednesday,Basant Panchami,Optional Holiday
+05/02/2017,Sunday,Kashmir Day,Public Holiday
+24/02/2017,Friday,Shivaratri,Optional Holiday
+13/03/2017,Monday,Holi,"National holiday, Hinduism"
+20/03/2017,Monday,March Equinox,Season
+23/03/2017,Thursday,Pakistan Day,Public Holiday
+14/04/2017,Friday,Good Friday,Optional Holiday
+14/04/2017,Friday,Baisakhi,Optional Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Optional Holiday
+21/04/2017,Friday,Ridván,Optional Holiday
+24/04/2017,Monday,Shab e-Meraj,Optional Holiday
+01/05/2017,Monday,Labour Day,Public Holiday
+05/05/2017,Friday,Shab e-Barat,Optional Holiday
+10/05/2017,Wednesday,Buddha Purnima,Optional Holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid-ul-Fitr,Public Holiday
+27/06/2017,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+28/06/2017,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+29/06/2017,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+01/07/2017,Saturday,July 1 Bank Holiday,Bank Holiday
+07/08/2017,Monday,Raksha Bandhan,Hindu Holiday
+14/08/2017,Monday,Independence Day,Public Holiday
+14/08/2017,Monday,Janmashtami,Optional Holiday
+17/08/2017,Thursday,Nauroz,Optional Holiday
+22/08/2017,Tuesday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+25/08/2017,Friday,Ganesh Chaturthi,Hindu Holiday
+02/09/2017,Saturday,Eid al-Adha,Public Holiday
+03/09/2017,Sunday,Eid al-Adha Holiday,Public Holiday
+04/09/2017,Monday,Eid al-Adha Holiday,Public Holiday
+05/09/2017,Tuesday,Eid al-Adha Holiday,Public Holiday
+06/09/2017,Wednesday,Defence Day,Observance
+21/09/2017,Thursday,First Day of Navaratri,Hindu Holiday
+21/09/2017,Thursday,Durga Puja,Optional Holiday
+23/09/2017,Saturday,September Equinox,Season
+30/09/2017,Saturday,Ashura,Public Holiday
+30/09/2017,Saturday,Dussehra,Optional Holiday
+01/10/2017,Sunday,Ashura Holiday,Public Holiday
+05/10/2017,Thursday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+19/10/2017,Thursday,Diwali/Deepavali,Optional Holiday
+04/11/2017,Saturday,Guru Nanak's Birthday,Optional Holiday
+09/11/2017,Thursday,Iqbal Day,Observance
+10/11/2017,Friday,Chelum,Optional Holiday
+01/12/2017,Friday,Eid Milad un-Nabi,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Public Holiday
+25/12/2017,Monday,Quaid-e-Azam Day,Public Holiday
+26/12/2017,Tuesday,Day After Christmas (Christians only),Optional Holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,Optional Holiday
+01/01/2018,Monday,January 1 Bank Holiday,Bank Holiday
+22/01/2018,Monday,Basant Panchami,Optional Holiday
+05/02/2018,Monday,Kashmir Day,Public Holiday
+13/02/2018,Tuesday,Shivaratri,Optional Holiday
+01/03/2018,Thursday,Holi,Optional Holiday
+02/03/2018,Friday,Dulhandi,Optional Holiday
+20/03/2018,Tuesday,March Equinox,Season
+23/03/2018,Friday,Pakistan Day,Public Holiday
+30/03/2018,Friday,Good Friday,Optional Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Optional Holiday
+13/04/2018,Friday,Shab e-Meraj,Optional Holiday
+14/04/2018,Saturday,Baisakhi,Optional Holiday
+21/04/2018,Saturday,Ridván,Optional Holiday
+30/04/2018,Monday,Buddha Purnima,Optional Holiday
+01/05/2018,Tuesday,Labour Day,Public Holiday
+01/05/2018,Tuesday,Shab e-Barat,Optional Holiday
+16/06/2018,Saturday,Eid-ul-Fitr,Public Holiday
+17/06/2018,Sunday,Eid-ul-Fitr Holiday,Public Holiday
+18/06/2018,Monday,Eid-ul-Fitr Holiday,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+01/07/2018,Sunday,July 1 Bank Holiday,Bank Holiday
+02/07/2018,Monday,July 1 Bank Holiday observed,Bank Holiday
+14/08/2018,Tuesday,Independence Day,Public Holiday
+17/08/2018,Friday,Nauroz,Optional Holiday
+22/08/2018,Wednesday,Eid al-Adha,Public Holiday
+22/08/2018,Wednesday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+23/08/2018,Thursday,Eid al-Adha Holiday,Public Holiday
+24/08/2018,Friday,Eid al-Adha Holiday,Public Holiday
+26/08/2018,Sunday,Raksha Bandhan,Hindu Holiday
+03/09/2018,Monday,Janmashtami,Optional Holiday
+06/09/2018,Thursday,Defence Day,Observance
+13/09/2018,Thursday,Ganesh Chaturthi,Hindu Holiday
+21/09/2018,Friday,Ashura,Public Holiday
+22/09/2018,Saturday,Ashura Holiday,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+10/10/2018,Wednesday,First Day of Navaratri,Hindu Holiday
+17/10/2018,Wednesday,Durga Puja,Optional Holiday
+19/10/2018,Friday,Dussehra,Optional Holiday
+24/10/2018,Wednesday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+30/10/2018,Tuesday,Chelum,Optional Holiday
+07/11/2018,Wednesday,Diwali/Deepavali,Optional Holiday
+09/11/2018,Friday,Iqbal Day,Observance
+21/11/2018,Wednesday,Eid Milad un-Nabi,Public Holiday
+23/11/2018,Friday,Guru Nanak's Birthday,Optional Holiday
+19/12/2018,Wednesday,Giarhwin Sharief,Observance
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+25/12/2018,Tuesday,Quaid-e-Azam Day,Public Holiday
+26/12/2018,Wednesday,Day After Christmas (Christians only),Optional Holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,Optional Holiday
+01/01/2019,Tuesday,January 1 Bank Holiday,Bank Holiday
+05/02/2019,Tuesday,Kashmir Day,Public Holiday
+10/02/2019,Sunday,Basant Panchami,Optional Holiday
+04/03/2019,Monday,Shivaratri,Optional Holiday
+21/03/2019,Thursday,Holi,Optional Holiday
+21/03/2019,Thursday,Dulhandi,Optional Holiday
+21/03/2019,Thursday,March Equinox,Season
+23/03/2019,Saturday,Pakistan Day,Public Holiday
+03/04/2019,Wednesday,Shab e-Meraj,Optional Holiday
+14/04/2019,Sunday,Baisakhi,Optional Holiday
+19/04/2019,Friday,Good Friday,Optional Holiday
+20/04/2019,Saturday,Shab e-Barat,Optional Holiday
+21/04/2019,Sunday,Easter Sunday,Optional Holiday
+21/04/2019,Sunday,Ridván,Optional Holiday
+22/04/2019,Monday,Easter Monday,Optional Holiday
+01/05/2019,Wednesday,Labour Day,Public Holiday
+07/05/2019,Tuesday,May 7 Bank Holiday,Bank Holiday
+18/05/2019,Saturday,Buddha Purnima,Optional Holiday
+05/06/2019,Wednesday,Eid-ul-Fitr,Public Holiday
+06/06/2019,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+07/06/2019,Friday,Eid-ul-Fitr Holiday,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+01/07/2019,Monday,July 1 Bank Holiday,Bank Holiday
+12/08/2019,Monday,Eid al-Adha,Public Holiday
+13/08/2019,Tuesday,Eid al-Adha Holiday,Public Holiday
+14/08/2019,Wednesday,Independence Day,Public Holiday
+14/08/2019,Wednesday,Eid al-Adha Holiday,Public Holiday
+15/08/2019,Thursday,Raksha Bandhan,Hindu Holiday
+15/08/2019,Thursday,Eid al-Adha Holiday,Public Holiday
+17/08/2019,Saturday,Working day,Working day (replacement)
+17/08/2019,Saturday,Nauroz,Optional Holiday
+22/08/2019,Thursday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+24/08/2019,Saturday,Janmashtami,Optional Holiday
+02/09/2019,Monday,Ganesh Chaturthi,Hindu Holiday
+06/09/2019,Friday,Defence Day,Observance
+09/09/2019,Monday,Ashura,Public Holiday
+10/09/2019,Tuesday,Ashura Holiday,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+29/09/2019,Sunday,First Day of Navaratri,Hindu Holiday
+06/10/2019,Sunday,Durga Puja,Optional Holiday
+08/10/2019,Tuesday,Dussehra,Optional Holiday
+13/10/2019,Sunday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+20/10/2019,Sunday,Chelum,Optional Holiday
+27/10/2019,Sunday,Diwali/Deepavali,Optional Holiday
+09/11/2019,Saturday,Iqbal Day,Observance
+10/11/2019,Sunday,Eid Milad un-Nabi,Public Holiday
+12/11/2019,Tuesday,Guru Nanak's Birthday,Optional Holiday
+09/12/2019,Monday,Giarhwin Sharief,Optional Holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+25/12/2019,Wednesday,Quaid-e-Azam Day,Public Holiday
+26/12/2019,Thursday,Day After Christmas (Christians only),Optional Holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,Optional Holiday
+01/01/2020,Wednesday,January 1 Bank Holiday,Bank Holiday
+29/01/2020,Wednesday,Basant Panchami,Optional Holiday
+05/02/2020,Wednesday,Kashmir Day,Public Holiday
+21/02/2020,Friday,Shivaratri,Optional Holiday
+09/03/2020,Monday,Holi,Optional Holiday
+10/03/2020,Tuesday,Dulhandi,Optional Holiday
+20/03/2020,Friday,March Equinox,Season
+23/03/2020,Monday,Pakistan Day,Public Holiday
+23/03/2020,Monday,Shab e-Meraj,Optional Holiday
+09/04/2020,Thursday,Shab e-Barat,Optional Holiday
+10/04/2020,Friday,Good Friday,Optional Holiday
+12/04/2020,Sunday,Easter Sunday,Optional Holiday
+13/04/2020,Monday,Easter Monday,Optional Holiday
+13/04/2020,Monday,Baisakhi,Optional Holiday
+20/04/2020,Monday,Ridván,Optional Holiday
+25/04/2020,Saturday,Ramazan Bank Holiday,Bank Holiday
+01/05/2020,Friday,Labour Day,Public Holiday
+07/05/2020,Thursday,Buddha Purnima,Optional Holiday
+22/05/2020,Friday,Eid-ul-Fitr Holiday,Public Holiday
+23/05/2020,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+24/05/2020,Sunday,Eid-ul-Fitr,Public Holiday
+25/05/2020,Monday,Eid-ul-Fitr Holiday,Public Holiday
+26/05/2020,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+27/05/2020,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+01/07/2020,Wednesday,July 1 Bank Holiday,Bank Holiday
+31/07/2020,Friday,Eid al-Adha,Public Holiday
+01/08/2020,Saturday,Eid al-Adha Holiday,Public Holiday
+02/08/2020,Sunday,Eid al-Adha Holiday,Public Holiday
+03/08/2020,Monday,Raksha Bandhan,Hindu Holiday
+11/08/2020,Tuesday,Janmashtami,Optional Holiday
+14/08/2020,Friday,Independence Day,Public Holiday
+16/08/2020,Sunday,Nauroz,Optional Holiday
+21/08/2020,Friday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+22/08/2020,Saturday,Ganesh Chaturthi,Hindu Holiday
+29/08/2020,Saturday,Ashura,Public Holiday
+30/08/2020,Sunday,Ashura Holiday,Public Holiday
+06/09/2020,Sunday,Defence Day,Observance
+22/09/2020,Tuesday,September Equinox,Season
+08/10/2020,Thursday,Chelum,Optional Holiday
+17/10/2020,Saturday,First Day of Navaratri,Hindu Holiday
+23/10/2020,Friday,Durga Puja,Optional Holiday
+25/10/2020,Sunday,Dussehra,Optional Holiday
+30/10/2020,Friday,Eid Milad un-Nabi,Public Holiday
+31/10/2020,Saturday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+09/11/2020,Monday,Iqbal Day,Observance
+14/11/2020,Saturday,Diwali/Deepavali,Optional Holiday
+28/11/2020,Saturday,Giarhwin Sharief,Optional Holiday
+30/11/2020,Monday,Guru Nanak's Birthday,Optional Holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Public Holiday
+25/12/2020,Friday,Quaid-e-Azam Day,Public Holiday
+26/12/2020,Saturday,Day After Christmas (Christians only),Optional Holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,Optional Holiday
+01/01/2021,Friday,January 1 Bank Holiday,Bank Holiday
+05/02/2021,Friday,Kashmir Day,Public Holiday
+16/02/2021,Tuesday,Basant Panchami,Optional Holiday
+11/03/2021,Thursday,Shivaratri,Optional Holiday
+12/03/2021,Friday,Shab e-Meraj,Optional Holiday
+20/03/2021,Saturday,March Equinox,Season
+23/03/2021,Tuesday,Pakistan Day,Public Holiday
+28/03/2021,Sunday,Holi,Optional Holiday
+29/03/2021,Monday,Dulhandi,Optional Holiday
+29/03/2021,Monday,Shab e-Barat,Optional Holiday
+02/04/2021,Friday,Good Friday,Optional Holiday
+04/04/2021,Sunday,Easter Sunday,Optional Holiday
+05/04/2021,Monday,Easter Monday,Optional Holiday
+14/04/2021,Wednesday,Ramazan Bank Holiday,Bank Holiday
+14/04/2021,Wednesday,Baisakhi,Optional Holiday
+21/04/2021,Wednesday,Ridván,Optional Holiday
+01/05/2021,Saturday,Labour Day,Public Holiday
+10/05/2021,Monday,Eid-ul-Fitr Holiday,Public Holiday
+11/05/2021,Tuesday,Eid-ul-Fitr Holiday,Public Holiday
+12/05/2021,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+13/05/2021,Thursday,Eid-ul-Fitr,Public Holiday
+14/05/2021,Friday,Eid-ul-Fitr Holiday,Public Holiday
+15/05/2021,Saturday,Eid-ul-Fitr Holiday,Public Holiday
+26/05/2021,Wednesday,Buddha Purnima,Optional Holiday
+21/06/2021,Monday,June Solstice,Season
+01/07/2021,Thursday,July 1 Bank Holiday,Bank Holiday
+20/07/2021,Tuesday,Eid al-Adha Holiday,Public Holiday
+21/07/2021,Wednesday,Eid al-Adha,Public Holiday
+22/07/2021,Thursday,Eid al-Adha Holiday,Public Holiday
+23/07/2021,Friday,Eid al-Adha Holiday,Public Holiday
+14/08/2021,Saturday,Independence Day,Public Holiday
+16/08/2021,Monday,Nauroz,Optional Holiday
+18/08/2021,Wednesday,Ashura,Public Holiday
+19/08/2021,Thursday,Ashura Holiday,Public Holiday
+21/08/2021,Saturday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+22/08/2021,Sunday,Raksha Bandhan,Hindu Holiday
+23/08/2021,Monday,Janmashtami,Optional Holiday
+06/09/2021,Monday,Defence Day,Observance
+10/09/2021,Friday,Ganesh Chaturthi,Hindu Holiday
+23/09/2021,Thursday,September Equinox,Season
+28/09/2021,Tuesday,Chelum (Tentative Date),Optional Holiday
+07/10/2021,Thursday,First Day of Navaratri,Hindu Holiday
+13/10/2021,Wednesday,Durga Puja,Optional Holiday
+15/10/2021,Friday,Dussehra,Optional Holiday
+18/10/2021,Monday,Giarhwin Sharief,Optional Holiday
+19/10/2021,Tuesday,Eid Milad un-Nabi,Public Holiday
+20/10/2021,Wednesday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+04/11/2021,Thursday,Diwali/Deepavali,Optional Holiday
+09/11/2021,Tuesday,Iqbal Day,Observance
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Public Holiday
+25/12/2021,Saturday,Quaid-e-Azam Day,Public Holiday
+26/12/2021,Sunday,Day After Christmas (Christians only),Optional Holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,Optional Holiday
+03/01/2022,Monday,January 1 Bank Holiday,Bank Holiday
+05/02/2022,Saturday,Kashmir Day,Public Holiday
+05/02/2022,Saturday,Basant Panchami,Optional Holiday
+01/03/2022,Tuesday,Shivaratri,Optional Holiday
+01/03/2022,Tuesday,Shab e-Meraj (Tentative Date),Optional Holiday
+17/03/2022,Thursday,Holi,Optional Holiday
+18/03/2022,Friday,Dulhandi,Optional Holiday
+18/03/2022,Friday,Shab e-Barat,Optional Holiday
+20/03/2022,Sunday,March Equinox,Season
+23/03/2022,Wednesday,Pakistan Day,Public Holiday
+04/04/2022,Monday,Ramazan Bank Holiday,Bank Holiday
+14/04/2022,Thursday,Baisakhi,Optional Holiday
+15/04/2022,Friday,Good Friday,Optional Holiday
+17/04/2022,Sunday,Easter Sunday,Optional Holiday
+18/04/2022,Monday,Easter Monday,Optional Holiday
+21/04/2022,Thursday,Ridván,Optional Holiday
+01/05/2022,Sunday,Labour Day,Public Holiday
+02/05/2022,Monday,Eid-ul-Fitr Holiday,Public Holiday
+03/05/2022,Tuesday,Eid-ul-Fitr,Public Holiday
+04/05/2022,Wednesday,Eid-ul-Fitr Holiday,Public Holiday
+05/05/2022,Thursday,Eid-ul-Fitr Holiday,Public Holiday
+16/05/2022,Monday,Buddha Purnima,Optional Holiday
+21/06/2022,Tuesday,June Solstice,Season
+01/07/2022,Friday,July 1 Bank Holiday,Bank Holiday
+08/07/2022,Friday,Eid al-Adha Holiday,Public Holiday
+09/07/2022,Saturday,Eid al-Adha Holiday,Public Holiday
+10/07/2022,Sunday,Eid al-Adha,Public Holiday
+11/07/2022,Monday,Eid al-Adha Holiday,Public Holiday
+12/07/2022,Tuesday,Eid al-Adha Holiday,Public Holiday
+08/08/2022,Monday,Ashura Holiday,Public Holiday
+09/08/2022,Tuesday,Ashura,Public Holiday
+11/08/2022,Thursday,Raksha Bandhan,Hindu Holiday
+14/08/2022,Sunday,Independence Day,Public Holiday
+19/08/2022,Friday,Janmashtami,Optional Holiday
+21/08/2022,Sunday,Birthday of Lord Zoroaster (Khordad Sal),Optional Holiday
+31/08/2022,Wednesday,Ganesh Chaturthi,Hindu Holiday
+06/09/2022,Tuesday,Defence Day,Observance
+17/09/2022,Saturday,Chelum (Tentative Date),Optional Holiday
+23/09/2022,Friday,September Equinox,Season
+03/10/2022,Monday,Durga Puja,Optional Holiday
+05/10/2022,Wednesday,Dussehra,Optional Holiday
+09/10/2022,Sunday,Eid Milad un-Nabi,Public Holiday
+09/10/2022,Sunday,Birthday of Guru Balmik Sawami Ji,Optional Holiday
+24/10/2022,Monday,Diwali/Deepavali,Optional Holiday
+07/11/2022,Monday,Giarhwin Sharief (Tentative Date),Optional Holiday
+08/11/2022,Tuesday,Guru Nanak's Birthday,Optional Holiday
+09/11/2022,Wednesday,Iqbal Day,Observance
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Public Holiday
+25/12/2022,Sunday,Quaid-e-Azam Day,Public Holiday
+26/12/2022,Monday,Day After Christmas (Christians only),Optional Holiday
+31/12/2022,Saturday,New Year's Eve,Observance

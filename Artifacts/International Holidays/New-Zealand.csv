@@ -1,0 +1,867 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+02/01/2000,Sunday,Day after New Year's Day,National holiday
+03/01/2000,Monday,Day off for New Year's Day,National holiday
+04/01/2000,Tuesday,Day off for Day after New Year's Day,National holiday
+24/01/2000,Monday,Wellington Anniversary Day,Local holiday
+06/02/2000,Sunday,Waitangi Day,National holiday
+14/02/2000,Monday,Valentine's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+01/04/2000,Saturday,April Fools,Observance
+21/04/2000,Friday,Good Friday,National holiday
+22/04/2000,Saturday,Holy Saturday,Observance
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,National holiday
+25/04/2000,Tuesday,ANZAC Day,National holiday
+14/05/2000,Sunday,Mother's Day,Observance
+05/06/2000,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2000,Wednesday,June Solstice,Season
+03/09/2000,Sunday,Father's Day,Observance
+23/09/2000,Saturday,September Equinox,Season
+23/10/2000,Monday,Labour Day,National holiday
+31/10/2000,Tuesday,Halloween,Observance
+05/11/2000,Sunday,Guy Fawkes Night,Observance
+22/12/2000,Friday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,National holiday
+26/12/2000,Tuesday,Boxing Day,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+02/01/2001,Tuesday,Day after New Year's Day,National holiday
+22/01/2001,Monday,Wellington Anniversary Day,Local holiday
+06/02/2001,Tuesday,Waitangi Day,National holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+21/03/2001,Wednesday,March Equinox,Season
+01/04/2001,Sunday,April Fools,Observance
+13/04/2001,Friday,Good Friday,National holiday
+14/04/2001,Saturday,Holy Saturday,Observance
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,National holiday
+25/04/2001,Wednesday,ANZAC Day,National holiday
+13/05/2001,Sunday,Mother's Day,Observance
+04/06/2001,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2001,Thursday,June Solstice,Season
+02/09/2001,Sunday,Father's Day,Observance
+23/09/2001,Sunday,September Equinox,Season
+22/10/2001,Monday,Labour Day,National holiday
+31/10/2001,Wednesday,Halloween,Observance
+05/11/2001,Monday,Guy Fawkes Night,Observance
+22/12/2001,Saturday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,National holiday
+26/12/2001,Wednesday,Boxing Day,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+02/01/2002,Wednesday,Day after New Year's Day,National holiday
+21/01/2002,Monday,Wellington Anniversary Day,Local holiday
+06/02/2002,Wednesday,Waitangi Day,National holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+21/03/2002,Thursday,March Equinox,Season
+29/03/2002,Friday,Good Friday,National holiday
+30/03/2002,Saturday,Holy Saturday,Observance
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,National holiday
+01/04/2002,Monday,April Fools,Observance
+25/04/2002,Thursday,ANZAC Day,National holiday
+12/05/2002,Sunday,Mother's Day,Observance
+03/06/2002,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2002,Saturday,June Solstice,Season
+01/09/2002,Sunday,Father's Day,Observance
+23/09/2002,Monday,September Equinox,Season
+28/10/2002,Monday,Labour Day,National holiday
+31/10/2002,Thursday,Halloween,Observance
+05/11/2002,Tuesday,Guy Fawkes Night,Observance
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,National holiday
+26/12/2002,Thursday,Boxing Day,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+02/01/2003,Thursday,Day after New Year's Day,National holiday
+20/01/2003,Monday,Wellington Anniversary Day,Local holiday
+27/01/2003,Monday,Northland Anniversary Day,Local holiday
+27/01/2003,Monday,Auckland Anniversary Day,Local holiday
+03/02/2003,Monday,Nelson Anniversary Day,Local holiday
+06/02/2003,Thursday,Waitangi Day,National holiday
+14/02/2003,Friday,Valentine's Day,Observance
+10/03/2003,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2003,Friday,March Equinox,Season
+24/03/2003,Monday,Otago Anniversary Day,Local holiday
+01/04/2003,Tuesday,April Fools,Observance
+18/04/2003,Friday,Good Friday,National holiday
+19/04/2003,Saturday,Holy Saturday,Observance
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,National holiday
+22/04/2003,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2003,Friday,ANZAC Day,National holiday
+11/05/2003,Sunday,Mother's Day,Observance
+02/06/2003,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2003,Sunday,June Solstice,Season
+07/09/2003,Sunday,Father's Day,Observance
+22/09/2003,Monday,South Canterbury Anniversary Day,Local holiday
+23/09/2003,Tuesday,September Equinox,Season
+24/10/2003,Friday,Hawke's Bay Anniversary Day,Local holiday
+27/10/2003,Monday,Labour Day,National holiday
+31/10/2003,Friday,Halloween,Observance
+03/11/2003,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2003,Wednesday,Guy Fawkes Night,Observance
+14/11/2003,Friday,Canterbury Anniversary Day,Local holiday
+01/12/2003,Monday,Chatham Islands Anniversary Day,Local holiday
+01/12/2003,Monday,Westland Anniversary Day,Local holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,National holiday
+26/12/2003,Friday,Boxing Day,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+02/01/2004,Friday,Day after New Year's Day,National holiday
+19/01/2004,Monday,Wellington Anniversary Day,Local holiday
+26/01/2004,Monday,Northland Anniversary Day,Local holiday
+26/01/2004,Monday,Auckland Anniversary Day,Local holiday
+02/02/2004,Monday,Nelson Anniversary Day,Local holiday
+06/02/2004,Friday,Waitangi Day,National holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+08/03/2004,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2004,Saturday,March Equinox,Season
+22/03/2004,Monday,Otago Anniversary Day,Local holiday
+01/04/2004,Thursday,April Fools,Observance
+09/04/2004,Friday,Good Friday,National holiday
+10/04/2004,Saturday,Holy Saturday,Observance
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,National holiday
+13/04/2004,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2004,Sunday,ANZAC Day,National holiday
+09/05/2004,Sunday,Mother's Day,Observance
+07/06/2004,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2004,Monday,June Solstice,Season
+05/09/2004,Sunday,Father's Day,Observance
+23/09/2004,Thursday,September Equinox,Season
+27/09/2004,Monday,South Canterbury Anniversary Day,Local holiday
+22/10/2004,Friday,Hawke's Bay Anniversary Day,Local holiday
+25/10/2004,Monday,Labour Day,National holiday
+31/10/2004,Sunday,Halloween,Observance
+01/11/2004,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2004,Friday,Guy Fawkes Night,Observance
+12/11/2004,Friday,Canterbury Anniversary Day,Local holiday
+29/11/2004,Monday,Chatham Islands Anniversary Day,Local holiday
+29/11/2004,Monday,Westland Anniversary Day,Local holiday
+22/12/2004,Wednesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,National holiday
+26/12/2004,Sunday,Boxing Day,National holiday
+27/12/2004,Monday,Day off for Christmas Day,National holiday
+28/12/2004,Tuesday,Day off for Boxing Day,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+02/01/2005,Sunday,Day after New Year's Day,National holiday
+03/01/2005,Monday,Day off for New Year's Day,National holiday
+04/01/2005,Tuesday,Day off for Day after New Year's Day,National holiday
+24/01/2005,Monday,Wellington Anniversary Day,Local holiday
+31/01/2005,Monday,Northland Anniversary Day,Local holiday
+31/01/2005,Monday,Auckland Anniversary Day,Local holiday
+31/01/2005,Monday,Nelson Anniversary Day,Local holiday
+06/02/2005,Sunday,Waitangi Day,National holiday
+14/02/2005,Monday,Valentine's Day,Observance
+14/03/2005,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2005,Monday,Otago Anniversary Day,Local holiday
+21/03/2005,Monday,March Equinox,Season
+25/03/2005,Friday,Good Friday,National holiday
+26/03/2005,Saturday,Holy Saturday,Observance
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,National holiday
+29/03/2005,Tuesday,Southland Anniversary Day,Local holiday
+01/04/2005,Friday,April Fools,Observance
+25/04/2005,Monday,ANZAC Day,National holiday
+08/05/2005,Sunday,Mother's Day,Observance
+06/06/2005,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2005,Tuesday,June Solstice,Season
+04/09/2005,Sunday,Father's Day,Observance
+23/09/2005,Friday,September Equinox,Season
+26/09/2005,Monday,South Canterbury Anniversary Day,Local holiday
+21/10/2005,Friday,Hawke's Bay Anniversary Day,Local holiday
+24/10/2005,Monday,Labour Day,National holiday
+31/10/2005,Monday,Halloween,Observance
+31/10/2005,Monday,Marlborough Anniversary Day,Local holiday
+01/11/2005,Tuesday,Diwali/Deepavali,Observance
+05/11/2005,Saturday,Guy Fawkes Night,Observance
+11/11/2005,Friday,Canterbury Anniversary Day,Local holiday
+28/11/2005,Monday,Chatham Islands Anniversary Day,Local holiday
+28/11/2005,Monday,Westland Anniversary Day,Local holiday
+22/12/2005,Thursday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,Boxing Day,National holiday
+27/12/2005,Tuesday,Day off for Christmas Day,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+02/01/2006,Monday,Day after New Year's Day,National holiday
+03/01/2006,Tuesday,Day off for New Year's Day,National holiday
+23/01/2006,Monday,Wellington Anniversary Day,Local holiday
+30/01/2006,Monday,Northland Anniversary Day,Local holiday
+30/01/2006,Monday,Auckland Anniversary Day,Local holiday
+30/01/2006,Monday,Nelson Anniversary Day,Local holiday
+06/02/2006,Monday,Waitangi Day,National holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+13/03/2006,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2006,Monday,Otago Anniversary Day,Local holiday
+21/03/2006,Tuesday,March Equinox,Season
+01/04/2006,Saturday,April Fools,Observance
+14/04/2006,Friday,Good Friday,National holiday
+15/04/2006,Saturday,Holy Saturday,Observance
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,National holiday
+18/04/2006,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2006,Tuesday,ANZAC Day,National holiday
+14/05/2006,Sunday,Mother's Day,Observance
+05/06/2006,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2006,Thursday,June Solstice,Season
+03/09/2006,Sunday,Father's Day,Observance
+23/09/2006,Saturday,September Equinox,Season
+25/09/2006,Monday,South Canterbury Anniversary Day,Local holiday
+20/10/2006,Friday,Hawke's Bay Anniversary Day,Local holiday
+21/10/2006,Saturday,Diwali/Deepavali,Observance
+23/10/2006,Monday,Labour Day,National holiday
+30/10/2006,Monday,Marlborough Anniversary Day,Local holiday
+31/10/2006,Tuesday,Halloween,Observance
+05/11/2006,Sunday,Guy Fawkes Night,Observance
+17/11/2006,Friday,Canterbury Anniversary Day,Local holiday
+27/11/2006,Monday,Chatham Islands Anniversary Day,Local holiday
+04/12/2006,Monday,Westland Anniversary Day,Local holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,National holiday
+26/12/2006,Tuesday,Boxing Day,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+02/01/2007,Tuesday,Day after New Year's Day,National holiday
+22/01/2007,Monday,Wellington Anniversary Day,Local holiday
+29/01/2007,Monday,Northland Anniversary Day,Local holiday
+29/01/2007,Monday,Auckland Anniversary Day,Local holiday
+29/01/2007,Monday,Nelson Anniversary Day,Local holiday
+06/02/2007,Tuesday,Waitangi Day,National holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+12/03/2007,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2007,Wednesday,March Equinox,Season
+26/03/2007,Monday,Otago Anniversary Day,Local holiday
+01/04/2007,Sunday,April Fools,Observance
+06/04/2007,Friday,Good Friday,National holiday
+07/04/2007,Saturday,Holy Saturday,Observance
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,National holiday
+10/04/2007,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2007,Wednesday,ANZAC Day,National holiday
+13/05/2007,Sunday,Mother's Day,Observance
+04/06/2007,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2007,Friday,June Solstice,Season
+02/09/2007,Sunday,Father's Day,Observance
+23/09/2007,Sunday,September Equinox,Season
+24/09/2007,Monday,South Canterbury Anniversary Day,Local holiday
+19/10/2007,Friday,Hawke's Bay Anniversary Day,Local holiday
+22/10/2007,Monday,Labour Day,National holiday
+29/10/2007,Monday,Marlborough Anniversary Day,Local holiday
+31/10/2007,Wednesday,Halloween,Observance
+05/11/2007,Monday,Guy Fawkes Night,Observance
+09/11/2007,Friday,Diwali/Deepavali,Observance
+16/11/2007,Friday,Canterbury Anniversary Day,Local holiday
+03/12/2007,Monday,Chatham Islands Anniversary Day,Local holiday
+03/12/2007,Monday,Westland Anniversary Day,Local holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,National holiday
+26/12/2007,Wednesday,Boxing Day,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+02/01/2008,Wednesday,Day after New Year's Day,National holiday
+21/01/2008,Monday,Wellington Anniversary Day,Local holiday
+28/01/2008,Monday,Northland Anniversary Day,Local holiday
+28/01/2008,Monday,Auckland Anniversary Day,Local holiday
+04/02/2008,Monday,Nelson Anniversary Day,Local holiday
+06/02/2008,Wednesday,Waitangi Day,National holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+10/03/2008,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,National holiday
+22/03/2008,Saturday,Holy Saturday,Observance
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,National holiday
+24/03/2008,Monday,Otago Anniversary Day,Local holiday
+25/03/2008,Tuesday,Southland Anniversary Day,Local holiday
+01/04/2008,Tuesday,April Fools,Observance
+25/04/2008,Friday,ANZAC Day,National holiday
+11/05/2008,Sunday,Mother's Day,Observance
+02/06/2008,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2008,Saturday,June Solstice,Season
+07/09/2008,Sunday,Father's Day,Observance
+22/09/2008,Monday,South Canterbury Anniversary Day,Local holiday
+23/09/2008,Tuesday,September Equinox,Season
+24/10/2008,Friday,Hawke's Bay Anniversary Day,Local holiday
+27/10/2008,Monday,Labour Day,National holiday
+28/10/2008,Tuesday,Diwali/Deepavali,Observance
+31/10/2008,Friday,Halloween,Observance
+03/11/2008,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2008,Wednesday,Guy Fawkes Night,Observance
+14/11/2008,Friday,Canterbury Anniversary Day,Local holiday
+01/12/2008,Monday,Chatham Islands Anniversary Day,Local holiday
+01/12/2008,Monday,Westland Anniversary Day,Local holiday
+22/12/2008,Monday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,National holiday
+26/12/2008,Friday,Boxing Day,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+02/01/2009,Friday,Day after New Year's Day,National holiday
+19/01/2009,Monday,Wellington Anniversary Day,Local holiday
+26/01/2009,Monday,Northland Anniversary Day,Local holiday
+26/01/2009,Monday,Auckland Anniversary Day,Local holiday
+02/02/2009,Monday,Nelson Anniversary Day,Local holiday
+06/02/2009,Friday,Waitangi Day,National holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+09/03/2009,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2009,Saturday,March Equinox,Season
+23/03/2009,Monday,Otago Anniversary Day,Local holiday
+01/04/2009,Wednesday,April Fools,Observance
+10/04/2009,Friday,Good Friday,National holiday
+11/04/2009,Saturday,Holy Saturday,Observance
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,National holiday
+14/04/2009,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2009,Saturday,ANZAC Day,National holiday
+10/05/2009,Sunday,Mother's Day,Observance
+01/06/2009,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2009,Sunday,June Solstice,Season
+06/09/2009,Sunday,Father's Day,Observance
+23/09/2009,Wednesday,September Equinox,Season
+28/09/2009,Monday,South Canterbury Anniversary Day,Local holiday
+17/10/2009,Saturday,Diwali/Deepavali,Observance
+23/10/2009,Friday,Hawke's Bay Anniversary Day,Local holiday
+26/10/2009,Monday,Labour Day,National holiday
+31/10/2009,Saturday,Halloween,Observance
+02/11/2009,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2009,Thursday,Guy Fawkes Night,Observance
+13/11/2009,Friday,Canterbury Anniversary Day,Local holiday
+30/11/2009,Monday,Chatham Islands Anniversary Day,Local holiday
+30/11/2009,Monday,Westland Anniversary Day,Local holiday
+22/12/2009,Tuesday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,National holiday
+26/12/2009,Saturday,Boxing Day,National holiday
+28/12/2009,Monday,Day off for Boxing Day,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+02/01/2010,Saturday,Day after New Year's Day,National holiday
+04/01/2010,Monday,Day off for Day after New Year's Day,National holiday
+25/01/2010,Monday,Wellington Anniversary Day,Local holiday
+01/02/2010,Monday,Northland Anniversary Day,Local holiday
+01/02/2010,Monday,Auckland Anniversary Day,Local holiday
+01/02/2010,Monday,Nelson Anniversary Day,Local holiday
+06/02/2010,Saturday,Waitangi Day,National holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+08/03/2010,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2010,Sunday,March Equinox,Season
+22/03/2010,Monday,Otago Anniversary Day,Local holiday
+01/04/2010,Thursday,April Fools,Observance
+02/04/2010,Friday,Good Friday,National holiday
+03/04/2010,Saturday,Holy Saturday,Observance
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,National holiday
+06/04/2010,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2010,Sunday,ANZAC Day,National holiday
+09/05/2010,Sunday,Mother's Day,Observance
+07/06/2010,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2010,Monday,June Solstice,Season
+05/09/2010,Sunday,Father's Day,Observance
+23/09/2010,Thursday,September Equinox,Season
+27/09/2010,Monday,South Canterbury Anniversary Day,Local holiday
+22/10/2010,Friday,Hawke's Bay Anniversary Day,Local holiday
+25/10/2010,Monday,Labour Day,National holiday
+31/10/2010,Sunday,Halloween,Observance
+01/11/2010,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2010,Friday,Diwali/Deepavali,Observance
+05/11/2010,Friday,Guy Fawkes Night,Observance
+12/11/2010,Friday,Canterbury Anniversary Day,Local holiday
+29/11/2010,Monday,Chatham Islands Anniversary Day,Local holiday
+29/11/2010,Monday,Westland Anniversary Day,Local holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,National holiday
+26/12/2010,Sunday,Boxing Day,National holiday
+27/12/2010,Monday,Day off for Christmas Day,National holiday
+28/12/2010,Tuesday,Day off for Boxing Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+02/01/2011,Sunday,Day after New Year's Day,National holiday
+03/01/2011,Monday,Day off for New Year's Day,National holiday
+04/01/2011,Tuesday,Day off for Day after New Year's Day,National holiday
+24/01/2011,Monday,Wellington Anniversary Day,Local holiday
+31/01/2011,Monday,Northland Anniversary Day,Local holiday
+31/01/2011,Monday,Auckland Anniversary Day,Local holiday
+31/01/2011,Monday,Nelson Anniversary Day,Local holiday
+06/02/2011,Sunday,Waitangi Day,National holiday
+14/02/2011,Monday,Valentine's Day,Observance
+14/03/2011,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2011,Monday,Otago Anniversary Day,Local holiday
+21/03/2011,Monday,March Equinox,Season
+01/04/2011,Friday,April Fools,Observance
+22/04/2011,Friday,Good Friday,National holiday
+23/04/2011,Saturday,Holy Saturday,Observance
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,National holiday
+25/04/2011,Monday,ANZAC Day,National holiday
+26/04/2011,Tuesday,Southland Anniversary Day,Local holiday
+08/05/2011,Sunday,Mother's Day,Observance
+06/06/2011,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2011,Wednesday,June Solstice,Season
+04/09/2011,Sunday,Father's Day,Observance
+23/09/2011,Friday,September Equinox,Season
+26/09/2011,Monday,South Canterbury Anniversary Day,Local holiday
+21/10/2011,Friday,Hawke's Bay Anniversary Day,Local holiday
+24/10/2011,Monday,Labour Day,National holiday
+26/10/2011,Wednesday,Diwali/Deepavali,Observance
+31/10/2011,Monday,Halloween,Observance
+31/10/2011,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2011,Saturday,Guy Fawkes Night,Observance
+11/11/2011,Friday,Canterbury Anniversary Day,Local holiday
+28/11/2011,Monday,Chatham Islands Anniversary Day,Local holiday
+28/11/2011,Monday,Westland Anniversary Day,Local holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,Boxing Day,National holiday
+27/12/2011,Tuesday,Day off for Christmas Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+02/01/2012,Monday,Day after New Year's Day,National holiday
+03/01/2012,Tuesday,Day off for New Year's Day,National holiday
+23/01/2012,Monday,Wellington Anniversary Day,Local holiday
+30/01/2012,Monday,Northland Anniversary Day,Local holiday
+30/01/2012,Monday,Auckland Anniversary Day,Local holiday
+30/01/2012,Monday,Nelson Anniversary Day,Local holiday
+06/02/2012,Monday,Waitangi Day,National holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+12/03/2012,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2012,Tuesday,March Equinox,Season
+26/03/2012,Monday,Otago Anniversary Day,Local holiday
+01/04/2012,Sunday,April Fools,Observance
+06/04/2012,Friday,Good Friday,National holiday
+07/04/2012,Saturday,Holy Saturday,Observance
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,National holiday
+10/04/2012,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2012,Wednesday,ANZAC Day,National holiday
+13/05/2012,Sunday,Mother's Day,Observance
+04/06/2012,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2012,Thursday,June Solstice,Season
+02/09/2012,Sunday,Father's Day,Observance
+23/09/2012,Sunday,September Equinox,Season
+24/09/2012,Monday,South Canterbury Anniversary Day,Local holiday
+19/10/2012,Friday,Hawke's Bay Anniversary Day,Local holiday
+22/10/2012,Monday,Labour Day,National holiday
+29/10/2012,Monday,Marlborough Anniversary Day,Local holiday
+31/10/2012,Wednesday,Halloween,Observance
+05/11/2012,Monday,Guy Fawkes Night,Observance
+13/11/2012,Tuesday,Diwali/Deepavali,Observance
+16/11/2012,Friday,Canterbury Anniversary Day,Local holiday
+03/12/2012,Monday,Chatham Islands Anniversary Day,Local holiday
+03/12/2012,Monday,Westland Anniversary Day,Local holiday
+22/12/2012,Saturday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,National holiday
+26/12/2012,Wednesday,Boxing Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+02/01/2013,Wednesday,Day after New Year's Day,National holiday
+21/01/2013,Monday,Wellington Anniversary Day,Local holiday
+28/01/2013,Monday,Northland Anniversary Day,Local holiday
+28/01/2013,Monday,Auckland Anniversary Day,Local holiday
+04/02/2013,Monday,Nelson Anniversary Day,Local holiday
+06/02/2013,Wednesday,Waitangi Day,National holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+11/03/2013,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2013,Thursday,March Equinox,Season
+25/03/2013,Monday,Otago Anniversary Day,Local holiday
+29/03/2013,Friday,Good Friday,National holiday
+30/03/2013,Saturday,Holy Saturday,Observance
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,National holiday
+01/04/2013,Monday,April Fools,Observance
+02/04/2013,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2013,Thursday,ANZAC Day,National holiday
+12/05/2013,Sunday,Mother's Day,Observance
+03/06/2013,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2013,Friday,June Solstice,Season
+01/09/2013,Sunday,Father's Day,Observance
+23/09/2013,Monday,South Canterbury Anniversary Day,Local holiday
+23/09/2013,Monday,September Equinox,Season
+25/10/2013,Friday,Hawke's Bay Anniversary Day,Local holiday
+28/10/2013,Monday,Labour Day,National holiday
+31/10/2013,Thursday,Halloween,Observance
+03/11/2013,Sunday,Diwali/Deepavali,Observance
+04/11/2013,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2013,Tuesday,Guy Fawkes Night,Observance
+15/11/2013,Friday,Canterbury Anniversary Day,Local holiday
+02/12/2013,Monday,Chatham Islands Anniversary Day,Local holiday
+02/12/2013,Monday,Westland Anniversary Day,Local holiday
+22/12/2013,Sunday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,National holiday
+26/12/2013,Thursday,Boxing Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+02/01/2014,Thursday,Day after New Year's Day,National holiday
+20/01/2014,Monday,Wellington Anniversary Day,Local holiday
+27/01/2014,Monday,Northland Anniversary Day,Local holiday
+27/01/2014,Monday,Auckland Anniversary Day,Local holiday
+03/02/2014,Monday,Nelson Anniversary Day,Local holiday
+06/02/2014,Thursday,Waitangi Day,National holiday
+14/02/2014,Friday,Valentine's Day,Observance
+10/03/2014,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2014,Friday,March Equinox,Season
+24/03/2014,Monday,Otago Anniversary Day,Local holiday
+01/04/2014,Tuesday,April Fools,Observance
+18/04/2014,Friday,Good Friday,National holiday
+19/04/2014,Saturday,Holy Saturday,Observance
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,National holiday
+22/04/2014,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2014,Friday,ANZAC Day,National holiday
+11/05/2014,Sunday,Mother's Day,Observance
+02/06/2014,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2014,Saturday,June Solstice,Season
+07/09/2014,Sunday,Father's Day,Observance
+22/09/2014,Monday,South Canterbury Anniversary Day,Local holiday
+23/09/2014,Tuesday,September Equinox,Season
+23/10/2014,Thursday,Diwali/Deepavali,Observance
+24/10/2014,Friday,Hawke's Bay Anniversary Day,Local holiday
+27/10/2014,Monday,Labour Day,National holiday
+31/10/2014,Friday,Halloween,Observance
+03/11/2014,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2014,Wednesday,Guy Fawkes Night,Observance
+14/11/2014,Friday,Canterbury Anniversary Day,Local holiday
+01/12/2014,Monday,Chatham Islands Anniversary Day,Local holiday
+01/12/2014,Monday,Westland Anniversary Day,Local holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,Boxing Day,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+02/01/2015,Friday,Day after New Year's Day,National holiday
+19/01/2015,Monday,Wellington Anniversary Day,Local holiday
+26/01/2015,Monday,Northland Anniversary Day,Local holiday
+26/01/2015,Monday,Auckland Anniversary Day,Local holiday
+02/02/2015,Monday,Nelson Anniversary Day,Local holiday
+06/02/2015,Friday,Waitangi Day,National holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+09/03/2015,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2015,Saturday,March Equinox,Season
+23/03/2015,Monday,Otago Anniversary Day,Local holiday
+01/04/2015,Wednesday,April Fools,Observance
+03/04/2015,Friday,Good Friday,National holiday
+04/04/2015,Saturday,Holy Saturday,Observance
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,National holiday
+07/04/2015,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2015,Saturday,ANZAC Day,National holiday
+27/04/2015,Monday,Day off for ANZAC Day,National holiday
+10/05/2015,Sunday,Mother's Day,Observance
+01/06/2015,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2015,Monday,June Solstice,Season
+06/09/2015,Sunday,Father's Day,Observance
+23/09/2015,Wednesday,September Equinox,Season
+28/09/2015,Monday,South Canterbury Anniversary Day,Local holiday
+23/10/2015,Friday,Hawke's Bay Anniversary Day,Local holiday
+26/10/2015,Monday,Labour Day,National holiday
+31/10/2015,Saturday,Halloween,Observance
+02/11/2015,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2015,Thursday,Guy Fawkes Night,Observance
+11/11/2015,Wednesday,Diwali/Deepavali,Observance
+13/11/2015,Friday,Canterbury Anniversary Day,Local holiday
+30/11/2015,Monday,Chatham Islands Anniversary Day,Local holiday
+30/11/2015,Monday,Westland Anniversary Day,Local holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,National holiday
+26/12/2015,Saturday,Boxing Day,National holiday
+28/12/2015,Monday,Day off for Boxing Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+02/01/2016,Saturday,Day after New Year's Day,National holiday
+04/01/2016,Monday,Day off for Day after New Year's Day,National holiday
+25/01/2016,Monday,Wellington Anniversary Day,Local holiday
+01/02/2016,Monday,Northland Anniversary Day,Local holiday
+01/02/2016,Monday,Auckland Anniversary Day,Local holiday
+01/02/2016,Monday,Nelson Anniversary Day,Local holiday
+06/02/2016,Saturday,Waitangi Day,National holiday
+08/02/2016,Monday,Day off for Waitangi Day,National holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+14/03/2016,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2016,Sunday,March Equinox,Season
+21/03/2016,Monday,Otago Anniversary Day,Local holiday
+25/03/2016,Friday,Good Friday,National holiday
+26/03/2016,Saturday,Holy Saturday,Observance
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,National holiday
+29/03/2016,Tuesday,Southland Anniversary Day,Local holiday
+01/04/2016,Friday,April Fools,Observance
+25/04/2016,Monday,ANZAC Day,National holiday
+08/05/2016,Sunday,Mother's Day,Observance
+06/06/2016,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2016,Tuesday,June Solstice,Season
+04/09/2016,Sunday,Father's Day,Observance
+23/09/2016,Friday,September Equinox,Season
+26/09/2016,Monday,South Canterbury Anniversary Day,Local holiday
+21/10/2016,Friday,Hawke's Bay Anniversary Day,Local holiday
+24/10/2016,Monday,Labour Day,National holiday
+30/10/2016,Sunday,Diwali/Deepavali,Observance
+31/10/2016,Monday,Halloween,Observance
+31/10/2016,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2016,Saturday,Guy Fawkes Night,Observance
+11/11/2016,Friday,Canterbury Anniversary Day,Local holiday
+28/11/2016,Monday,Chatham Islands Anniversary Day,Local holiday
+28/11/2016,Monday,Westland Anniversary Day,Local holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,Boxing Day,National holiday
+27/12/2016,Tuesday,Day off for Christmas Day,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+02/01/2017,Monday,Day after New Year's Day,National holiday
+03/01/2017,Tuesday,Day off for New Year's Day,National holiday
+23/01/2017,Monday,Wellington Anniversary Day,Local holiday
+30/01/2017,Monday,Northland Anniversary Day,Local holiday
+30/01/2017,Monday,Auckland Anniversary Day,Local holiday
+30/01/2017,Monday,Nelson Anniversary Day,Local holiday
+06/02/2017,Monday,Waitangi Day,National holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+13/03/2017,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2017,Monday,Otago Anniversary Day,Local holiday
+20/03/2017,Monday,March Equinox,Season
+01/04/2017,Saturday,April Fools,Observance
+14/04/2017,Friday,Good Friday,National holiday
+15/04/2017,Saturday,Holy Saturday,Observance
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,National holiday
+18/04/2017,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2017,Tuesday,ANZAC Day,National holiday
+14/05/2017,Sunday,Mother's Day,Observance
+05/06/2017,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+03/09/2017,Sunday,Father's Day,Observance
+23/09/2017,Saturday,September Equinox,Season
+25/09/2017,Monday,South Canterbury Anniversary Day,Local holiday
+19/10/2017,Thursday,Diwali/Deepavali,Observance
+20/10/2017,Friday,Hawke's Bay Anniversary Day,Local holiday
+23/10/2017,Monday,Labour Day,National holiday
+30/10/2017,Monday,Marlborough Anniversary Day,Local holiday
+31/10/2017,Tuesday,Halloween,Observance
+05/11/2017,Sunday,Guy Fawkes Night,Observance
+17/11/2017,Friday,Canterbury Anniversary Day,Local holiday
+27/11/2017,Monday,Chatham Islands Anniversary Day,Local holiday
+04/12/2017,Monday,Westland Anniversary Day,Local holiday
+22/12/2017,Friday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,National holiday
+26/12/2017,Tuesday,Boxing Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+02/01/2018,Tuesday,Day after New Year's Day,National holiday
+22/01/2018,Monday,Wellington Anniversary Day,Local holiday
+29/01/2018,Monday,Northland Anniversary Day,Local holiday
+29/01/2018,Monday,Auckland Anniversary Day,Local holiday
+29/01/2018,Monday,Nelson Anniversary Day,Local holiday
+06/02/2018,Tuesday,Waitangi Day,National holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+12/03/2018,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2018,Wednesday,March Equinox,Season
+26/03/2018,Monday,Otago Anniversary Day,Local holiday
+30/03/2018,Friday,Good Friday,National holiday
+31/03/2018,Saturday,Holy Saturday,Observance
+01/04/2018,Sunday,Easter Sunday,Observance
+01/04/2018,Sunday,April Fools,Observance
+02/04/2018,Monday,Easter Monday,National holiday
+03/04/2018,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2018,Wednesday,ANZAC Day,National holiday
+13/05/2018,Sunday,Mother's Day,Observance
+04/06/2018,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2018,Thursday,June Solstice,Season
+02/09/2018,Sunday,Father's Day,Observance
+23/09/2018,Sunday,September Equinox,Season
+24/09/2018,Monday,South Canterbury Anniversary Day,Local holiday
+19/10/2018,Friday,Hawke's Bay Anniversary Day,Local holiday
+22/10/2018,Monday,Labour Day,National holiday
+29/10/2018,Monday,Marlborough Anniversary Day,Local holiday
+31/10/2018,Wednesday,Halloween,Observance
+05/11/2018,Monday,Guy Fawkes Night,Observance
+07/11/2018,Wednesday,Diwali/Deepavali,Observance
+16/11/2018,Friday,Canterbury Anniversary Day,Local holiday
+03/12/2018,Monday,Chatham Islands Anniversary Day,Local holiday
+03/12/2018,Monday,Westland Anniversary Day,Local holiday
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,Boxing Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+02/01/2019,Wednesday,Day after New Year's Day,National holiday
+21/01/2019,Monday,Wellington Anniversary Day,Local holiday
+28/01/2019,Monday,Northland Anniversary Day,Local holiday
+28/01/2019,Monday,Auckland Anniversary Day,Local holiday
+04/02/2019,Monday,Nelson Anniversary Day,Local holiday
+06/02/2019,Wednesday,Waitangi Day,National holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+11/03/2019,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2019,Thursday,March Equinox,Season
+25/03/2019,Monday,Otago Anniversary Day,Local holiday
+01/04/2019,Monday,April Fools,Observance
+19/04/2019,Friday,Good Friday,National holiday
+20/04/2019,Saturday,Holy Saturday,Observance
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,National holiday
+23/04/2019,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2019,Thursday,ANZAC Day,National holiday
+12/05/2019,Sunday,Mother's Day,Observance
+03/06/2019,Monday,Queen Elizabeth II's Birthday,National holiday
+22/06/2019,Saturday,June Solstice,Season
+01/09/2019,Sunday,Father's Day,Observance
+23/09/2019,Monday,South Canterbury Anniversary Day,Local holiday
+23/09/2019,Monday,September Equinox,Season
+25/10/2019,Friday,Hawke's Bay Anniversary Day,Local holiday
+27/10/2019,Sunday,Diwali/Deepavali,Observance
+28/10/2019,Monday,Labour Day,National holiday
+31/10/2019,Thursday,Halloween,Observance
+04/11/2019,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2019,Tuesday,Guy Fawkes Night,Observance
+15/11/2019,Friday,Canterbury Anniversary Day,Local holiday
+02/12/2019,Monday,Chatham Islands Anniversary Day,Local holiday
+02/12/2019,Monday,Westland Anniversary Day,Local holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,National holiday
+26/12/2019,Thursday,Boxing Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+02/01/2020,Thursday,Day after New Year's Day,National holiday
+20/01/2020,Monday,Wellington Anniversary Day,Local holiday
+27/01/2020,Monday,Northland Anniversary Day,Local holiday
+27/01/2020,Monday,Auckland Anniversary Day,Local holiday
+03/02/2020,Monday,Nelson Anniversary Day,Local holiday
+06/02/2020,Thursday,Waitangi Day,National holiday
+14/02/2020,Friday,Valentine's Day,Observance
+09/03/2020,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2020,Friday,March Equinox,Season
+23/03/2020,Monday,Otago Anniversary Day,Local holiday
+01/04/2020,Wednesday,April Fools,Observance
+10/04/2020,Friday,Good Friday,National holiday
+11/04/2020,Saturday,Holy Saturday,Observance
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,National holiday
+14/04/2020,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2020,Saturday,ANZAC Day,National holiday
+27/04/2020,Monday,Day off for ANZAC Day,National holiday
+10/05/2020,Sunday,Mother's Day,Observance
+01/06/2020,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2020,Sunday,June Solstice,Season
+06/09/2020,Sunday,Father's Day,Observance
+23/09/2020,Wednesday,September Equinox,Season
+28/09/2020,Monday,South Canterbury Anniversary Day,Local holiday
+23/10/2020,Friday,Hawke's Bay Anniversary Day,Local holiday
+26/10/2020,Monday,Labour Day,National holiday
+31/10/2020,Saturday,Halloween,Observance
+02/11/2020,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2020,Thursday,Guy Fawkes Night,Observance
+13/11/2020,Friday,Canterbury Anniversary Day,Local holiday
+14/11/2020,Saturday,Diwali/Deepavali,Observance
+30/11/2020,Monday,Chatham Islands Anniversary Day,Local holiday
+30/11/2020,Monday,Westland Anniversary Day,Local holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,National holiday
+26/12/2020,Saturday,Boxing Day,National holiday
+28/12/2020,Monday,Day off for Boxing Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+02/01/2021,Saturday,Day after New Year's Day,National holiday
+04/01/2021,Monday,Day off for Day after New Year's Day,National holiday
+25/01/2021,Monday,Wellington Anniversary Day,Local holiday
+01/02/2021,Monday,Northland Anniversary Day,Local holiday
+01/02/2021,Monday,Auckland Anniversary Day,Local holiday
+01/02/2021,Monday,Nelson Anniversary Day,Local holiday
+06/02/2021,Saturday,Waitangi Day,National holiday
+08/02/2021,Monday,Day off for Waitangi Day,National holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+08/03/2021,Monday,Taranaki Anniversary Day,Local holiday
+20/03/2021,Saturday,March Equinox,Season
+22/03/2021,Monday,Otago Anniversary Day,Local holiday
+01/04/2021,Thursday,April Fools,Observance
+02/04/2021,Friday,Good Friday,National holiday
+03/04/2021,Saturday,Holy Saturday,Observance
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,National holiday
+06/04/2021,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2021,Sunday,ANZAC Day,National holiday
+26/04/2021,Monday,Day off for ANZAC Day,National holiday
+09/05/2021,Sunday,Mother's Day,Observance
+07/06/2021,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2021,Monday,June Solstice,Season
+05/09/2021,Sunday,Father's Day,Observance
+23/09/2021,Thursday,September Equinox,Season
+27/09/2021,Monday,South Canterbury Anniversary Day,Local holiday
+22/10/2021,Friday,Hawke's Bay Anniversary Day,Local holiday
+25/10/2021,Monday,Labour Day,National holiday
+31/10/2021,Sunday,Halloween,Observance
+01/11/2021,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2021,Friday,Guy Fawkes Night,Observance
+12/11/2021,Friday,Canterbury Anniversary Day,Local holiday
+29/11/2021,Monday,Chatham Islands Anniversary Day,Local holiday
+29/11/2021,Monday,Westland Anniversary Day,Local holiday
+22/12/2021,Wednesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,National holiday
+26/12/2021,Sunday,Boxing Day,National holiday
+27/12/2021,Monday,Day off for Christmas Day,National holiday
+28/12/2021,Tuesday,Day off for Boxing Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+02/01/2022,Sunday,Day after New Year's Day,National holiday
+03/01/2022,Monday,Day off for New Year's Day,National holiday
+04/01/2022,Tuesday,Day off for Day after New Year's Day,National holiday
+24/01/2022,Monday,Wellington Anniversary Day,Local holiday
+31/01/2022,Monday,Northland Anniversary Day,Local holiday
+31/01/2022,Monday,Auckland Anniversary Day,Local holiday
+31/01/2022,Monday,Nelson Anniversary Day,Local holiday
+06/02/2022,Sunday,Waitangi Day,National holiday
+07/02/2022,Monday,Day off for Waitangi Day,National holiday
+14/02/2022,Monday,Valentine's Day,Observance
+14/03/2022,Monday,Taranaki Anniversary Day,Local holiday
+21/03/2022,Monday,Otago Anniversary Day,Local holiday
+21/03/2022,Monday,March Equinox,Season
+01/04/2022,Friday,April Fools,Observance
+15/04/2022,Friday,Good Friday,National holiday
+16/04/2022,Saturday,Holy Saturday,Observance
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,National holiday
+19/04/2022,Tuesday,Southland Anniversary Day,Local holiday
+25/04/2022,Monday,ANZAC Day,National holiday
+08/05/2022,Sunday,Mother's Day,Observance
+06/06/2022,Monday,Queen Elizabeth II's Birthday,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+24/06/2022,Friday,Matariki,National holiday
+04/09/2022,Sunday,Father's Day,Observance
+23/09/2022,Friday,September Equinox,Season
+26/09/2022,Monday,Queen Elizabeth II Memorial Day,National holiday
+26/09/2022,Monday,South Canterbury Anniversary Day,Local holiday
+21/10/2022,Friday,Hawke's Bay Anniversary Day,Local holiday
+24/10/2022,Monday,Labour Day,National holiday
+31/10/2022,Monday,Halloween,Observance
+31/10/2022,Monday,Marlborough Anniversary Day,Local holiday
+05/11/2022,Saturday,Guy Fawkes Night,Observance
+11/11/2022,Friday,Canterbury Anniversary Day,Local holiday
+28/11/2022,Monday,Chatham Islands Anniversary Day,Local holiday
+28/11/2022,Monday,Westland Anniversary Day,Local holiday
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,Boxing Day,National holiday
+27/12/2022,Tuesday,Day off for Christmas Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

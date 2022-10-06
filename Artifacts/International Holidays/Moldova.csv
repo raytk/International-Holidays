@@ -1,0 +1,753 @@
+Date,Day,Name,Type
+01/01/2010,Friday,New Year's Day,National holiday
+07/01/2010,Thursday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2010,Friday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2010,Friday,Mihai Eminescu Commemoration Day,Observance
+27/01/2010,Wednesday,Holocaust Remembrance Day,Observance
+14/02/2010,Sunday,Valentine's Day,Observance
+15/02/2010,Monday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2010,Monday,Martisor (first day of spring),Observance
+02/03/2010,Tuesday,Remembrance and Gratitude Day,Observance
+08/03/2010,Monday,International Women's Day,National holiday
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2010,Friday,Orthodox Good Friday,"Observance, Orthodox"
+03/04/2010,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+04/04/2010,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+05/04/2010,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+07/04/2010,Wednesday,Remembrance and Freedom Day,Observance
+12/04/2010,Monday,Memorial Day/Parents' Day,National holiday
+17/04/2010,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+26/04/2010,Monday,Day of Victims of Nuclear Accidents,Observance
+27/04/2010,Tuesday,State Flag Day,Observance
+28/04/2010,Wednesday,Occupational Health and Safety Day,Observance
+01/05/2010,Saturday,International Day of Solidarity of Workers,National holiday
+09/05/2010,Sunday,Victory Day,National holiday
+09/05/2010,Sunday,Europe Day,Observance
+15/05/2010,Saturday,Family Day,Observance
+22/05/2010,Saturday,Bălți Day,Local holiday
+30/05/2010,Sunday,Dniester Day,Observance
+01/06/2010,Tuesday,International Children's Day,Observance
+05/06/2010,Saturday,World Environment Day,Observance
+21/06/2010,Monday,June Solstice,Season
+22/06/2010,Tuesday,Victims of Fascism Day,Observance
+23/06/2010,Wednesday,Statehood Day,Observance
+26/06/2010,Saturday,Day Against Illicit Drug Consumption and Trafficking,Observance
+27/06/2010,Sunday,Peoples Port Day,Observance
+30/06/2010,Wednesday,Competition Day,Observance
+02/07/2010,Friday,Stephen the Great Day,Observance
+06/07/2010,Tuesday,Victims of Stalinism Day,Observance
+29/07/2010,Thursday,Constitution Day,Observance
+27/08/2010,Friday,Independence Day,National holiday
+31/08/2010,Tuesday,Language Day,National holiday
+23/09/2010,Thursday,September Equinox,Season
+25/09/2010,Saturday,National Apple Festival,Observance
+26/09/2010,Sunday,National Apple Festival,Observance
+10/10/2010,Sunday,Wine Day,Observance
+14/10/2010,Thursday,Chișinău Day,Local holiday
+16/10/2010,Saturday,National Food Day,Observance
+31/10/2010,Sunday,Halloween,Observance
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+21/11/2010,Sunday,Cahul Day,Local holiday
+10/12/2010,Friday,International Human Rights Day,Observance
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+07/01/2011,Friday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2011,Saturday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2011,Saturday,Mihai Eminescu Commemoration Day,Observance
+27/01/2011,Thursday,Holocaust Remembrance Day,Observance
+14/02/2011,Monday,Valentine's Day,Observance
+15/02/2011,Tuesday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2011,Tuesday,Martisor (first day of spring),Observance
+02/03/2011,Wednesday,Remembrance and Gratitude Day,Observance
+08/03/2011,Tuesday,International Women's Day,National holiday
+21/03/2011,Monday,March Equinox,Season
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2011,Thursday,Remembrance and Freedom Day,Observance
+16/04/2011,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+22/04/2011,Friday,Orthodox Good Friday,"Observance, Orthodox"
+23/04/2011,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+24/04/2011,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+25/04/2011,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+26/04/2011,Tuesday,Day of Victims of Nuclear Accidents,Observance
+27/04/2011,Wednesday,State Flag Day,Observance
+28/04/2011,Thursday,Occupational Health and Safety Day,Observance
+01/05/2011,Sunday,International Day of Solidarity of Workers,National holiday
+02/05/2011,Monday,Memorial Day/Parents' Day,National holiday
+09/05/2011,Monday,Victory Day,National holiday
+09/05/2011,Monday,Europe Day,Observance
+15/05/2011,Sunday,Family Day,Observance
+22/05/2011,Sunday,Bălți Day,Local holiday
+29/05/2011,Sunday,Dniester Day,Observance
+01/06/2011,Wednesday,International Children's Day,Observance
+05/06/2011,Sunday,World Environment Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+22/06/2011,Wednesday,Victims of Fascism Day,Observance
+23/06/2011,Thursday,Statehood Day,Observance
+26/06/2011,Sunday,Day Against Illicit Drug Consumption and Trafficking,Observance
+26/06/2011,Sunday,Peoples Port Day,Observance
+30/06/2011,Thursday,Competition Day,Observance
+02/07/2011,Saturday,Stephen the Great Day,Observance
+06/07/2011,Wednesday,Victims of Stalinism Day,Observance
+29/07/2011,Friday,Constitution Day,Observance
+27/08/2011,Saturday,Independence Day,National holiday
+31/08/2011,Wednesday,Language Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+24/09/2011,Saturday,National Apple Festival,Observance
+25/09/2011,Sunday,National Apple Festival,Observance
+09/10/2011,Sunday,Wine Day,Observance
+14/10/2011,Friday,Chișinău Day,Local holiday
+16/10/2011,Sunday,National Food Day,Observance
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2011,Monday,Halloween,Observance
+21/11/2011,Monday,Cahul Day,Local holiday
+10/12/2011,Saturday,International Human Rights Day,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+07/01/2012,Saturday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2012,Sunday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2012,Sunday,Mihai Eminescu Commemoration Day,Observance
+27/01/2012,Friday,Holocaust Remembrance Day,Observance
+14/02/2012,Tuesday,Valentine's Day,Observance
+15/02/2012,Wednesday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2012,Thursday,Martisor (first day of spring),Observance
+02/03/2012,Friday,Remembrance and Gratitude Day,Observance
+08/03/2012,Thursday,International Women's Day,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2012,Saturday,Remembrance and Freedom Day,Observance
+13/04/2012,Friday,Orthodox Good Friday,"Observance, Orthodox"
+14/04/2012,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+15/04/2012,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+16/04/2012,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+21/04/2012,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+23/04/2012,Monday,Memorial Day/Parents' Day,National holiday
+26/04/2012,Thursday,Day of Victims of Nuclear Accidents,Observance
+27/04/2012,Friday,State Flag Day,Observance
+28/04/2012,Saturday,Occupational Health and Safety Day,Observance
+01/05/2012,Tuesday,International Day of Solidarity of Workers,National holiday
+09/05/2012,Wednesday,Victory Day,National holiday
+09/05/2012,Wednesday,Europe Day,Observance
+15/05/2012,Tuesday,Family Day,Observance
+22/05/2012,Tuesday,Bălți Day,Local holiday
+27/05/2012,Sunday,Dniester Day,Observance
+01/06/2012,Friday,International Children's Day,Observance
+05/06/2012,Tuesday,World Environment Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+22/06/2012,Friday,Victims of Fascism Day,Observance
+23/06/2012,Saturday,Statehood Day,Observance
+24/06/2012,Sunday,Peoples Port Day,Observance
+26/06/2012,Tuesday,Day Against Illicit Drug Consumption and Trafficking,Observance
+30/06/2012,Saturday,Competition Day,Observance
+02/07/2012,Monday,Stephen the Great Day,Observance
+06/07/2012,Friday,Victims of Stalinism Day,Observance
+29/07/2012,Sunday,Constitution Day,Observance
+27/08/2012,Monday,Independence Day,National holiday
+31/08/2012,Friday,Language Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+29/09/2012,Saturday,National Apple Festival,Observance
+30/09/2012,Sunday,National Apple Festival,Observance
+06/10/2012,Saturday,Wine Day,Observance
+07/10/2012,Sunday,Wine Day,Observance
+14/10/2012,Sunday,Chișinău Day,Local holiday
+16/10/2012,Tuesday,National Food Day,Observance
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2012,Wednesday,Halloween,Observance
+21/11/2012,Wednesday,Cahul Day,Local holiday
+10/12/2012,Monday,International Human Rights Day,Observance
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+07/01/2013,Monday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2013,Tuesday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2013,Tuesday,Mihai Eminescu Commemoration Day,Observance
+27/01/2013,Sunday,Holocaust Remembrance Day,Observance
+14/02/2013,Thursday,Valentine's Day,Observance
+15/02/2013,Friday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2013,Friday,Martisor (first day of spring),Observance
+02/03/2013,Saturday,Remembrance and Gratitude Day,Observance
+08/03/2013,Friday,International Women's Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2013,Sunday,Remembrance and Freedom Day,Observance
+20/04/2013,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+26/04/2013,Friday,Day of Victims of Nuclear Accidents,Observance
+27/04/2013,Saturday,State Flag Day,Observance
+28/04/2013,Sunday,Occupational Health and Safety Day,Observance
+01/05/2013,Wednesday,International Day of Solidarity of Workers,National holiday
+03/05/2013,Friday,Orthodox Good Friday,"Observance, Orthodox"
+04/05/2013,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+05/05/2013,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+06/05/2013,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+09/05/2013,Thursday,Victory Day,National holiday
+09/05/2013,Thursday,Europe Day,Observance
+13/05/2013,Monday,Memorial Day/Parents' Day,National holiday
+15/05/2013,Wednesday,Family Day,Observance
+22/05/2013,Wednesday,Bălți Day,Local holiday
+26/05/2013,Sunday,Dniester Day,Observance
+01/06/2013,Saturday,International Children's Day,Observance
+05/06/2013,Wednesday,World Environment Day,Observance
+21/06/2013,Friday,June Solstice,Season
+22/06/2013,Saturday,Victims of Fascism Day,Observance
+23/06/2013,Sunday,Statehood Day,Observance
+26/06/2013,Wednesday,Day Against Illicit Drug Consumption and Trafficking,Observance
+30/06/2013,Sunday,Peoples Port Day,Observance
+30/06/2013,Sunday,Competition Day,Observance
+02/07/2013,Tuesday,Stephen the Great Day,Observance
+06/07/2013,Saturday,Victims of Stalinism Day,Observance
+29/07/2013,Monday,Constitution Day,Observance
+27/08/2013,Tuesday,Independence Day,National holiday
+31/08/2013,Saturday,Language Day,National holiday
+22/09/2013,Sunday,September Equinox,Season
+28/09/2013,Saturday,National Apple Festival,Observance
+29/09/2013,Sunday,National Apple Festival,Observance
+05/10/2013,Saturday,Wine Day,Observance
+06/10/2013,Sunday,Wine Day,Observance
+14/10/2013,Monday,Chișinău Day,Local holiday
+16/10/2013,Wednesday,National Food Day,Observance
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2013,Thursday,Halloween,Observance
+21/11/2013,Thursday,Cahul Day,Local holiday
+10/12/2013,Tuesday,International Human Rights Day,Observance
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+06/01/2014,Monday,Orthodox Christmas holiday,"National holiday, Orthodox"
+07/01/2014,Tuesday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2014,Wednesday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2014,Wednesday,Mihai Eminescu Commemoration Day,Observance
+18/01/2014,Saturday,Special Working Day,Observance
+27/01/2014,Monday,Holocaust Remembrance Day,Observance
+14/02/2014,Friday,Valentine's Day,Observance
+15/02/2014,Saturday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2014,Saturday,Martisor (first day of spring),Observance
+02/03/2014,Sunday,Remembrance and Gratitude Day,Observance
+08/03/2014,Saturday,International Women's Day,National holiday
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2014,Monday,Remembrance and Freedom Day,Observance
+18/04/2014,Friday,Orthodox Good Friday,"Observance, Orthodox"
+19/04/2014,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+19/04/2014,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+20/04/2014,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+21/04/2014,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+26/04/2014,Saturday,Day of Victims of Nuclear Accidents,Observance
+27/04/2014,Sunday,State Flag Day,Observance
+28/04/2014,Monday,Memorial Day/Parents' Day,National holiday
+28/04/2014,Monday,Occupational Health and Safety Day,Observance
+01/05/2014,Thursday,International Day of Solidarity of Workers,National holiday
+02/05/2014,Friday,International Day of Solidarity of Workers holiday,National holiday
+09/05/2014,Friday,Victory Day,National holiday
+09/05/2014,Friday,Europe Day,Observance
+15/05/2014,Thursday,Family Day,Observance
+17/05/2014,Saturday,Special Working Day,Observance
+22/05/2014,Thursday,Bălți Day,Local holiday
+25/05/2014,Sunday,Dniester Day,Observance
+01/06/2014,Sunday,International Children's Day,Observance
+05/06/2014,Thursday,World Environment Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+22/06/2014,Sunday,Victims of Fascism Day,Observance
+23/06/2014,Monday,Statehood Day,Observance
+26/06/2014,Thursday,Day Against Illicit Drug Consumption and Trafficking,Observance
+29/06/2014,Sunday,Peoples Port Day,Observance
+30/06/2014,Monday,Competition Day,Observance
+02/07/2014,Wednesday,Stephen the Great Day,Observance
+06/07/2014,Sunday,Victims of Stalinism Day,Observance
+29/07/2014,Tuesday,Constitution Day,Observance
+27/08/2014,Wednesday,Independence Day,National holiday
+31/08/2014,Sunday,Language Day,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+27/09/2014,Saturday,National Apple Festival,Observance
+28/09/2014,Sunday,National Apple Festival,Observance
+04/10/2014,Saturday,Wine Day,Observance
+05/10/2014,Sunday,Wine Day,Observance
+14/10/2014,Tuesday,Chișinău Day,Local holiday
+16/10/2014,Thursday,National Food Day,Observance
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2014,Friday,Halloween,Observance
+21/11/2014,Friday,Cahul Day,Local holiday
+10/12/2014,Wednesday,International Human Rights Day,Observance
+13/12/2014,Saturday,Special Working Day,Observance
+20/12/2014,Saturday,Special Working Day,Observance
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,Christmas Day holiday,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+07/01/2015,Wednesday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2015,Thursday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+09/01/2015,Friday,Orthodox Christmas holiday,"National holiday, Orthodox"
+15/01/2015,Thursday,Mihai Eminescu Commemoration Day,Observance
+17/01/2015,Saturday,Special Working Day,Observance
+27/01/2015,Tuesday,Holocaust Remembrance Day,Observance
+31/01/2015,Saturday,Special Working Day,Observance
+14/02/2015,Saturday,Valentine's Day,Observance
+15/02/2015,Sunday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2015,Sunday,Martisor (first day of spring),Observance
+02/03/2015,Monday,Remembrance and Gratitude Day,Observance
+08/03/2015,Sunday,International Women's Day,National holiday
+21/03/2015,Saturday,March Equinox,Season
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2015,Tuesday,Remembrance and Freedom Day,Observance
+10/04/2015,Friday,Orthodox Good Friday,"Observance, Orthodox"
+11/04/2015,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+12/04/2015,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+13/04/2015,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+18/04/2015,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+20/04/2015,Monday,Memorial Day/Parents' Day,National holiday
+26/04/2015,Sunday,Day of Victims of Nuclear Accidents,Observance
+27/04/2015,Monday,State Flag Day,Observance
+28/04/2015,Tuesday,Occupational Health and Safety Day,Observance
+01/05/2015,Friday,International Day of Solidarity of Workers,National holiday
+09/05/2015,Saturday,Victory Day,National holiday
+09/05/2015,Saturday,Europe Day,Observance
+15/05/2015,Friday,Family Day,Observance
+22/05/2015,Friday,Bălți Day,Local holiday
+31/05/2015,Sunday,Dniester Day,Observance
+01/06/2015,Monday,International Children's Day,Observance
+05/06/2015,Friday,World Environment Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+22/06/2015,Monday,Victims of Fascism Day,Observance
+23/06/2015,Tuesday,Statehood Day,Observance
+26/06/2015,Friday,Day Against Illicit Drug Consumption and Trafficking,Observance
+28/06/2015,Sunday,Peoples Port Day,Observance
+30/06/2015,Tuesday,Competition Day,Observance
+02/07/2015,Thursday,Stephen the Great Day,Observance
+06/07/2015,Monday,Victims of Stalinism Day,Observance
+29/07/2015,Wednesday,Constitution Day,Observance
+22/08/2015,Saturday,Special Working Day,Observance
+27/08/2015,Thursday,Independence Day,National holiday
+28/08/2015,Friday,Independence Day holiday,National holiday
+31/08/2015,Monday,Language Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+26/09/2015,Saturday,National Apple Festival,Observance
+27/09/2015,Sunday,National Apple Festival,Observance
+03/10/2015,Saturday,Wine Day,Observance
+04/10/2015,Sunday,Wine Day,Observance
+14/10/2015,Wednesday,Chișinău Day,Local holiday
+16/10/2015,Friday,National Food Day,Observance
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2015,Saturday,Halloween,Observance
+21/11/2015,Saturday,Cahul Day,Local holiday
+10/12/2015,Thursday,International Human Rights Day,Observance
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+07/01/2016,Thursday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2016,Friday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2016,Friday,Mihai Eminescu Commemoration Day,Observance
+27/01/2016,Wednesday,Holocaust Remembrance Day,Observance
+14/02/2016,Sunday,Valentine's Day,Observance
+15/02/2016,Monday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2016,Tuesday,Martisor (first day of spring),Observance
+02/03/2016,Wednesday,Remembrance and Gratitude Day,Observance
+07/03/2016,Monday,International Women's Day holiday,National holiday
+08/03/2016,Tuesday,International Women's Day,National holiday
+12/03/2016,Saturday,Special working day,Observance
+20/03/2016,Sunday,March Equinox,Season
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2016,Thursday,Remembrance and Freedom Day,Observance
+16/04/2016,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+26/04/2016,Tuesday,Day of Victims of Nuclear Accidents,Observance
+27/04/2016,Wednesday,State Flag Day,Observance
+28/04/2016,Thursday,Occupational Health and Safety Day,Observance
+29/04/2016,Friday,Orthodox Good Friday,"Observance, Orthodox"
+30/04/2016,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+01/05/2016,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+01/05/2016,Sunday,International Day of Solidarity of Workers,National holiday
+02/05/2016,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+09/05/2016,Monday,Victory Day,National holiday
+09/05/2016,Monday,Memorial Day/Parents' Day,National holiday
+14/05/2016,Saturday,Europe Day,Observance
+15/05/2016,Sunday,Family Day,Observance
+22/05/2016,Sunday,Bălți Day,Local holiday
+29/05/2016,Sunday,Dniester Day,Observance
+01/06/2016,Wednesday,International Children's Day,National holiday
+05/06/2016,Sunday,World Environment Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+22/06/2016,Wednesday,Victims of Fascism Day,Observance
+23/06/2016,Thursday,Statehood Day,Observance
+26/06/2016,Sunday,Day Against Illicit Drug Consumption and Trafficking,Observance
+26/06/2016,Sunday,Peoples Port Day,Observance
+30/06/2016,Thursday,Competition Day,Observance
+02/07/2016,Saturday,Stephen the Great Day,Observance
+06/07/2016,Wednesday,Victims of Stalinism Day,Observance
+29/07/2016,Friday,Constitution Day,Observance
+27/08/2016,Saturday,Independence Day,National holiday
+31/08/2016,Wednesday,Language Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+24/09/2016,Saturday,National Apple Festival,Observance
+25/09/2016,Sunday,National Apple Festival,Observance
+01/10/2016,Saturday,Wine Day,Observance
+02/10/2016,Sunday,Wine Day,Observance
+14/10/2016,Friday,Chișinău Day,Local holiday
+16/10/2016,Sunday,National Food Day,Observance
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2016,Monday,Halloween,Observance
+21/11/2016,Monday,Cahul Day,Local holiday
+10/12/2016,Saturday,International Human Rights Day,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+07/01/2017,Saturday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2017,Sunday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2017,Sunday,Mihai Eminescu Commemoration Day,Observance
+27/01/2017,Friday,Holocaust Remembrance Day,Observance
+14/02/2017,Tuesday,Valentine's Day,Observance
+15/02/2017,Wednesday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2017,Wednesday,Martisor (first day of spring),Observance
+02/03/2017,Thursday,Remembrance and Gratitude Day,Observance
+08/03/2017,Wednesday,International Women's Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2017,Friday,Remembrance and Freedom Day,Observance
+14/04/2017,Friday,Orthodox Good Friday,"Observance, Orthodox"
+15/04/2017,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+15/04/2017,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+16/04/2017,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+17/04/2017,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+24/04/2017,Monday,Memorial Day/Parents' Day,National holiday
+26/04/2017,Wednesday,Day of Victims of Nuclear Accidents,Observance
+27/04/2017,Thursday,State Flag Day,Observance
+28/04/2017,Friday,Occupational Health and Safety Day,Observance
+01/05/2017,Monday,International Day of Solidarity of Workers,National holiday
+08/05/2017,Monday,Victory Day holiday,National holiday
+09/05/2017,Tuesday,Victory Day,National holiday
+09/05/2017,Tuesday,Europe Day,Observance
+13/05/2017,Saturday,Special Working Day,Observance
+15/05/2017,Monday,Family Day,Observance
+22/05/2017,Monday,Bălți Day,Local holiday
+28/05/2017,Sunday,Dniester Day,Observance
+01/06/2017,Thursday,International Children's Day,National holiday
+02/06/2017,Friday,Chrildren's Day Extra Holiday,National holiday
+05/06/2017,Monday,World Environment Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+22/06/2017,Thursday,Victims of Fascism Day,Observance
+23/06/2017,Friday,Statehood Day,Observance
+25/06/2017,Sunday,Peoples Port Day,Observance
+26/06/2017,Monday,Day Against Illicit Drug Consumption and Trafficking,Observance
+30/06/2017,Friday,Competition Day,Observance
+02/07/2017,Sunday,Stephen the Great Day,Observance
+06/07/2017,Thursday,Victims of Stalinism Day,Observance
+29/07/2017,Saturday,Constitution Day,Observance
+27/08/2017,Sunday,Independence Day,National holiday
+31/08/2017,Thursday,Language Day,National holiday
+01/09/2017,Friday,Language Day Extra Holiday,National holiday
+09/09/2017,Saturday,Special Working Day,Observance
+22/09/2017,Friday,September Equinox,Season
+24/09/2017,Sunday,National Apple Festival,Observance
+30/09/2017,Saturday,National Apple Festival,Observance
+01/10/2017,Sunday,Wine Day,Observance
+07/10/2017,Saturday,Wine Day,Observance
+14/10/2017,Saturday,Chișinău Day,Local holiday
+16/10/2017,Monday,National Food Day,Observance
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2017,Tuesday,Halloween,Observance
+21/11/2017,Tuesday,Cahul Day,Local holiday
+10/12/2017,Sunday,International Human Rights Day,Observance
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+07/01/2018,Sunday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2018,Monday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2018,Monday,Mihai Eminescu Commemoration Day,Observance
+27/01/2018,Saturday,Holocaust Remembrance Day,Observance
+14/02/2018,Wednesday,Valentine's Day,Observance
+15/02/2018,Thursday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2018,Thursday,Martisor (first day of spring),Observance
+02/03/2018,Friday,Remembrance and Gratitude Day,Observance
+08/03/2018,Thursday,International Women's Day,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2018,Friday,Orthodox Good Friday,"Observance, Orthodox"
+07/04/2018,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+07/04/2018,Saturday,Remembrance and Freedom Day,Observance
+08/04/2018,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+09/04/2018,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+16/04/2018,Monday,Memorial Day/Parents' Day,National holiday
+21/04/2018,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+26/04/2018,Thursday,Day of Victims of Nuclear Accidents,Observance
+27/04/2018,Friday,State Flag Day,Observance
+28/04/2018,Saturday,Occupational Health and Safety Day,Observance
+01/05/2018,Tuesday,International Day of Solidarity of Workers,National holiday
+09/05/2018,Wednesday,Victory Day,National holiday
+09/05/2018,Wednesday,Europe Day,Observance
+15/05/2018,Tuesday,Family Day,Observance
+22/05/2018,Tuesday,Bălți Day,Local holiday
+27/05/2018,Sunday,Dniester Day,Observance
+01/06/2018,Friday,International Children's Day,National holiday
+05/06/2018,Tuesday,World Environment Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+22/06/2018,Friday,Victims of Fascism Day,Observance
+23/06/2018,Saturday,Statehood Day,Observance
+24/06/2018,Sunday,Peoples Port Day,Observance
+26/06/2018,Tuesday,Day Against Illicit Drug Consumption and Trafficking,Observance
+30/06/2018,Saturday,Competition Day,Observance
+02/07/2018,Monday,Stephen the Great Day,Observance
+06/07/2018,Friday,Victims of Stalinism Day,Observance
+29/07/2018,Sunday,Constitution Day,Observance
+27/08/2018,Monday,Independence Day,National holiday
+31/08/2018,Friday,Language Day,National holiday
+23/09/2018,Sunday,September Equinox,Season
+29/09/2018,Saturday,National Apple Festival,Observance
+30/09/2018,Sunday,National Apple Festival,Observance
+06/10/2018,Saturday,Wine Day,Observance
+07/10/2018,Sunday,Wine Day,Observance
+14/10/2018,Sunday,Chișinău Day,Local holiday
+16/10/2018,Tuesday,National Food Day,Observance
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2018,Wednesday,Halloween,Observance
+21/11/2018,Wednesday,Cahul Day,Local holiday
+10/12/2018,Monday,International Human Rights Day,Observance
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+07/01/2019,Monday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2019,Tuesday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2019,Tuesday,Mihai Eminescu Commemoration Day,Observance
+27/01/2019,Sunday,Holocaust Remembrance Day,Observance
+14/02/2019,Thursday,Valentine's Day,Observance
+15/02/2019,Friday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2019,Friday,Martisor (first day of spring),Observance
+02/03/2019,Saturday,Remembrance and Gratitude Day,Observance
+08/03/2019,Friday,International Women's Day,National holiday
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2019,Sunday,Remembrance and Freedom Day,Observance
+13/04/2019,Saturday,Special working day,Observance
+20/04/2019,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+26/04/2019,Friday,Orthodox Good Friday,"Observance, Orthodox"
+26/04/2019,Friday,Day of Victims of Nuclear Accidents,Observance
+27/04/2019,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+27/04/2019,Saturday,State Flag Day,Observance
+28/04/2019,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+28/04/2019,Sunday,Occupational Health and Safety Day,Observance
+29/04/2019,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+30/04/2019,Tuesday,Orthodox Easter Monday holiday,National holiday
+01/05/2019,Wednesday,International Day of Solidarity of Workers,National holiday
+06/05/2019,Monday,Memorial Day/Parents' Day,National holiday
+09/05/2019,Thursday,Victory Day,National holiday
+09/05/2019,Thursday,Europe Day,Observance
+10/05/2019,Friday,Victory Day holiday,National holiday
+15/05/2019,Wednesday,Family Day,Observance
+18/05/2019,Saturday,Special Working Day,Observance
+22/05/2019,Wednesday,Bălți Day,Local holiday
+26/05/2019,Sunday,Dniester Day,Observance
+01/06/2019,Saturday,International Children's Day,National holiday
+05/06/2019,Wednesday,World Environment Day,Observance
+21/06/2019,Friday,June Solstice,Season
+22/06/2019,Saturday,Victims of Fascism Day,Observance
+23/06/2019,Sunday,Statehood Day,Observance
+26/06/2019,Wednesday,Day Against Illicit Drug Consumption and Trafficking,Observance
+30/06/2019,Sunday,Peoples Port Day,Observance
+30/06/2019,Sunday,Competition Day,Observance
+02/07/2019,Tuesday,Stephen the Great Day,Observance
+06/07/2019,Saturday,Victims of Stalinism Day,Observance
+29/07/2019,Monday,Constitution Day,Observance
+17/08/2019,Saturday,Special Working Day,Observance
+26/08/2019,Monday,Independence Day holiday,National holiday
+27/08/2019,Tuesday,Independence Day,National holiday
+31/08/2019,Saturday,Language Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+28/09/2019,Saturday,National Apple Festival,Observance
+29/09/2019,Sunday,National Apple Festival,Observance
+05/10/2019,Saturday,Wine Day,Observance
+06/10/2019,Sunday,Wine Day,Observance
+14/10/2019,Monday,Chișinău Day,Local holiday
+16/10/2019,Wednesday,National Food Day,Observance
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2019,Thursday,Halloween,Observance
+21/11/2019,Thursday,Cahul Day,Local holiday
+10/12/2019,Tuesday,International Human Rights Day,Observance
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+07/01/2020,Tuesday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2020,Wednesday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2020,Wednesday,Mihai Eminescu Commemoration Day,Observance
+27/01/2020,Monday,Holocaust Remembrance Day,Observance
+14/02/2020,Friday,Valentine's Day,Observance
+15/02/2020,Saturday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2020,Sunday,Martisor (first day of spring),Observance
+02/03/2020,Monday,Remembrance and Gratitude Day,Observance
+08/03/2020,Sunday,International Women's Day,National holiday
+20/03/2020,Friday,March Equinox,Season
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2020,Tuesday,Remembrance and Freedom Day,Observance
+17/04/2020,Friday,Orthodox Good Friday,"Observance, Orthodox"
+18/04/2020,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+18/04/2020,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+19/04/2020,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+20/04/2020,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+26/04/2020,Sunday,Day of Victims of Nuclear Accidents,Observance
+27/04/2020,Monday,Memorial Day/Parents' Day,National holiday
+27/04/2020,Monday,State Flag Day,Observance
+28/04/2020,Tuesday,Occupational Health and Safety Day,Observance
+01/05/2020,Friday,International Day of Solidarity of Workers,National holiday
+09/05/2020,Saturday,Victory Day,National holiday
+09/05/2020,Saturday,Europe Day,Observance
+15/05/2020,Friday,Family Day,Observance
+22/05/2020,Friday,Bălți Day,Local holiday
+31/05/2020,Sunday,Dniester Day,Observance
+01/06/2020,Monday,International Children's Day,Observance
+05/06/2020,Friday,World Environment Day,Observance
+21/06/2020,Sunday,June Solstice,Season
+22/06/2020,Monday,Victims of Fascism Day,Observance
+23/06/2020,Tuesday,Statehood Day,Observance
+26/06/2020,Friday,Day Against Illicit Drug Consumption and Trafficking,Observance
+28/06/2020,Sunday,Peoples Port Day,Observance
+30/06/2020,Tuesday,Competition Day,Observance
+02/07/2020,Thursday,Stephen the Great Day,Observance
+06/07/2020,Monday,Victims of Stalinism Day,Observance
+29/07/2020,Wednesday,Constitution Day,Observance
+27/08/2020,Thursday,Independence Day,National holiday
+31/08/2020,Monday,Language Day,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+26/09/2020,Saturday,National Apple Festival,Observance
+27/09/2020,Sunday,National Apple Festival,Observance
+03/10/2020,Saturday,Wine Day,Observance
+04/10/2020,Sunday,Wine Day,Observance
+14/10/2020,Wednesday,Chișinău Day,Local holiday
+16/10/2020,Friday,National Food Day,Observance
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2020,Saturday,Halloween,Observance
+21/11/2020,Saturday,Cahul Day,Local holiday
+10/12/2020,Thursday,International Human Rights Day,Observance
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+07/01/2021,Thursday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2021,Friday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2021,Friday,Mihai Eminescu Commemoration Day,Observance
+27/01/2021,Wednesday,Holocaust Remembrance Day,Observance
+14/02/2021,Sunday,Valentine's Day,Observance
+15/02/2021,Monday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2021,Monday,Martisor (first day of spring),Observance
+02/03/2021,Tuesday,Remembrance and Gratitude Day,Observance
+08/03/2021,Monday,International Women's Day,National holiday
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2021,Wednesday,Remembrance and Freedom Day,Observance
+17/04/2021,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+26/04/2021,Monday,Day of Victims of Nuclear Accidents,Observance
+27/04/2021,Tuesday,State Flag Day,Observance
+28/04/2021,Wednesday,Occupational Health and Safety Day,Observance
+30/04/2021,Friday,Orthodox Good Friday,"Observance, Orthodox"
+01/05/2021,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+01/05/2021,Saturday,International Day of Solidarity of Workers,National holiday
+02/05/2021,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+03/05/2021,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+09/05/2021,Sunday,Victory Day,National holiday
+09/05/2021,Sunday,Europe Day,Observance
+10/05/2021,Monday,Memorial Day/Parents' Day,National holiday
+15/05/2021,Saturday,Family Day,Observance
+22/05/2021,Saturday,Bălți Day,Local holiday
+30/05/2021,Sunday,Dniester Day,Observance
+01/06/2021,Tuesday,International Children's Day,Observance
+05/06/2021,Saturday,World Environment Day,Observance
+21/06/2021,Monday,June Solstice,Season
+22/06/2021,Tuesday,Victims of Fascism Day,Observance
+23/06/2021,Wednesday,Statehood Day,Observance
+26/06/2021,Saturday,Day Against Illicit Drug Consumption and Trafficking,Observance
+27/06/2021,Sunday,Peoples Port Day,Observance
+30/06/2021,Wednesday,Competition Day,Observance
+02/07/2021,Friday,Stephen the Great Day,Observance
+06/07/2021,Tuesday,Victims of Stalinism Day,Observance
+29/07/2021,Thursday,Constitution Day,Observance
+27/08/2021,Friday,Independence Day,National holiday
+30/08/2021,Monday,Public Holiday,National holiday
+31/08/2021,Tuesday,Language Day,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+25/09/2021,Saturday,National Apple Festival,Observance
+26/09/2021,Sunday,National Apple Festival,Observance
+02/10/2021,Saturday,Wine Day,Observance
+03/10/2021,Sunday,Wine Day,Observance
+14/10/2021,Thursday,Chișinău Day,Local holiday
+16/10/2021,Saturday,National Food Day,Observance
+31/10/2021,Sunday,Halloween,Observance
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+21/11/2021,Sunday,Cahul Day,Local holiday
+10/12/2021,Friday,International Human Rights Day,Observance
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+07/01/2022,Friday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2022,Saturday,Orthodox Christmas Day holiday,"National holiday, Orthodox"
+15/01/2022,Saturday,Mihai Eminescu Commemoration Day,Observance
+27/01/2022,Thursday,Holocaust Remembrance Day,Observance
+14/02/2022,Monday,Valentine's Day,Observance
+15/02/2022,Tuesday,Day of Commemoration of the Victims of the Afghanistan War,Observance
+01/03/2022,Tuesday,Martisor (first day of spring),Observance
+02/03/2022,Wednesday,Remembrance and Gratitude Day,Observance
+08/03/2022,Tuesday,International Women's Day,National holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2022,Thursday,Remembrance and Freedom Day,Observance
+16/04/2022,Saturday,Day of Victims of Organized Famine of 1946-1947,Observance
+22/04/2022,Friday,Orthodox Good Friday,"Observance, Orthodox"
+23/04/2022,Saturday,Orthodox Holy Saturday,"Observance, Orthodox"
+24/04/2022,Sunday,Orthodox Easter Sunday,"National holiday, Orthodox"
+25/04/2022,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+26/04/2022,Tuesday,Day of Victims of Nuclear Accidents,Observance
+27/04/2022,Wednesday,State Flag Day,Observance
+28/04/2022,Thursday,Occupational Health and Safety Day,Observance
+01/05/2022,Sunday,International Day of Solidarity of Workers,National holiday
+02/05/2022,Monday,Memorial Day/Parents' Day,National holiday
+09/05/2022,Monday,Victory Day,National holiday
+09/05/2022,Monday,Europe Day,Observance
+15/05/2022,Sunday,Family Day,Observance
+22/05/2022,Sunday,Bălți Day,Local holiday
+29/05/2022,Sunday,Dniester Day,Observance
+01/06/2022,Wednesday,International Children's Day,National holiday
+05/06/2022,Sunday,World Environment Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+22/06/2022,Wednesday,Victims of Fascism Day,Observance
+23/06/2022,Thursday,Statehood Day,Observance
+26/06/2022,Sunday,Day Against Illicit Drug Consumption and Trafficking,Observance
+26/06/2022,Sunday,Peoples Port Day,Observance
+30/06/2022,Thursday,Competition Day,Observance
+02/07/2022,Saturday,Stephen the Great Day,Observance
+06/07/2022,Wednesday,Victims of Stalinism Day,Observance
+29/07/2022,Friday,Constitution Day,Observance
+27/08/2022,Saturday,Independence Day,National holiday
+31/08/2022,Wednesday,Language Day,National holiday
+23/09/2022,Friday,September Equinox,Season
+24/09/2022,Saturday,National Apple Festival,Observance
+25/09/2022,Sunday,National Apple Festival,Observance
+01/10/2022,Saturday,Wine Day,Observance
+02/10/2022,Sunday,Wine Day,Observance
+14/10/2022,Friday,Chișinău Day,Local holiday
+16/10/2022,Sunday,National Food Day,Observance
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2022,Monday,Halloween,Observance
+21/11/2022,Monday,Cahul Day,Local holiday
+10/12/2022,Saturday,International Human Rights Day,Observance
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

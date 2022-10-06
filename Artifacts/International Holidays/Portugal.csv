@@ -1,0 +1,964 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+14/02/2000,Monday,Valentine's Day,Observance
+07/03/2000,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2000,Sunday,St. Joseph's Day,District Holiday
+19/03/2000,Sunday,Father's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+26/03/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+21/04/2000,Friday,Good Friday,National holiday
+23/04/2000,Sunday,Easter Sunday,National holiday
+25/04/2000,Tuesday,Liberty Day,National holiday
+01/05/2000,Monday,Labor Day / May Day,National holiday
+07/05/2000,Sunday,Mother's Day,Observance
+12/05/2000,Friday,St. Joana's Day,District Holiday
+22/05/2000,Monday,Leiria Day,District Holiday
+23/05/2000,Tuesday,Portalegre Day,District Holiday
+01/06/2000,Thursday,Ascension Day,District Holiday
+10/06/2000,Saturday,Portugal Day,National holiday
+12/06/2000,Monday,Azores Day,Regional Holiday
+13/06/2000,Tuesday,St. Anthony's Day,District Holiday
+21/06/2000,Wednesday,June Solstice,Season
+22/06/2000,Thursday,Corpus Christi,National holiday
+24/06/2000,Saturday,St. John's Day,District Holiday
+29/06/2000,Thursday,St. Peter's Day,District Holiday
+01/07/2000,Saturday,Madeira Day,Regional Holiday
+04/07/2000,Tuesday,St. Elizabeth's Day,District Holiday
+15/08/2000,Tuesday,Assumption of Mary,National holiday
+20/08/2000,Sunday,Our Lady of Sorrows,District Holiday
+22/08/2000,Tuesday,Our Lady of Graces,District Holiday
+07/09/2000,Thursday,Faro Day,District Holiday
+15/09/2000,Friday,Birth of Bocage,District Holiday
+21/09/2000,Thursday,St. Matthew's Day,District Holiday
+22/09/2000,Friday,September Equinox,Season
+05/10/2000,Thursday,Republic Day,National holiday
+29/10/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2000,Wednesday,All Saints' Day,National holiday
+27/11/2000,Monday,Foral of Sancho I,District Holiday
+01/12/2000,Friday,Restoration of Independence,National holiday
+08/12/2000,Friday,Feast of the Immaculate Conception,National holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+27/02/2001,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2001,Monday,St. Joseph's Day,District Holiday
+19/03/2001,Monday,Father's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+13/04/2001,Friday,Good Friday,National holiday
+15/04/2001,Sunday,Easter Sunday,National holiday
+25/04/2001,Wednesday,Liberty Day,National holiday
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+06/05/2001,Sunday,Mother's Day,Observance
+12/05/2001,Saturday,St. Joana's Day,District Holiday
+22/05/2001,Tuesday,Leiria Day,District Holiday
+23/05/2001,Wednesday,Portalegre Day,District Holiday
+24/05/2001,Thursday,Ascension Day,District Holiday
+04/06/2001,Monday,Azores Day,Regional Holiday
+10/06/2001,Sunday,Portugal Day,National holiday
+13/06/2001,Wednesday,St. Anthony's Day,District Holiday
+14/06/2001,Thursday,Corpus Christi,National holiday
+21/06/2001,Thursday,June Solstice,Season
+24/06/2001,Sunday,St. John's Day,District Holiday
+29/06/2001,Friday,St. Peter's Day,District Holiday
+01/07/2001,Sunday,Madeira Day,Regional Holiday
+04/07/2001,Wednesday,St. Elizabeth's Day,District Holiday
+15/08/2001,Wednesday,Assumption of Mary,National holiday
+20/08/2001,Monday,Our Lady of Sorrows,District Holiday
+22/08/2001,Wednesday,Our Lady of Graces,District Holiday
+07/09/2001,Friday,Faro Day,District Holiday
+15/09/2001,Saturday,Birth of Bocage,District Holiday
+21/09/2001,Friday,St. Matthew's Day,District Holiday
+23/09/2001,Sunday,September Equinox,Season
+05/10/2001,Friday,Republic Day,National holiday
+28/10/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2001,Thursday,All Saints' Day,National holiday
+27/11/2001,Tuesday,Foral of Sancho I,District Holiday
+01/12/2001,Saturday,Restoration of Independence,National holiday
+08/12/2001,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+12/02/2002,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+19/03/2002,Tuesday,St. Joseph's Day,District Holiday
+19/03/2002,Tuesday,Father's Day,Observance
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,National holiday
+31/03/2002,Sunday,Easter Sunday,National holiday
+31/03/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+25/04/2002,Thursday,Liberty Day,National holiday
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+05/05/2002,Sunday,Mother's Day,Observance
+09/05/2002,Thursday,Ascension Day,District Holiday
+12/05/2002,Sunday,St. Joana's Day,District Holiday
+20/05/2002,Monday,Azores Day,Regional Holiday
+22/05/2002,Wednesday,Leiria Day,District Holiday
+23/05/2002,Thursday,Portalegre Day,District Holiday
+30/05/2002,Thursday,Corpus Christi,National holiday
+10/06/2002,Monday,Portugal Day,National holiday
+13/06/2002,Thursday,St. Anthony's Day,District Holiday
+21/06/2002,Friday,June Solstice,Season
+24/06/2002,Monday,St. John's Day,District Holiday
+29/06/2002,Saturday,St. Peter's Day,District Holiday
+01/07/2002,Monday,Madeira Day,Regional Holiday
+04/07/2002,Thursday,St. Elizabeth's Day,District Holiday
+15/08/2002,Thursday,Assumption of Mary,National holiday
+20/08/2002,Tuesday,Our Lady of Sorrows,District Holiday
+22/08/2002,Thursday,Our Lady of Graces,District Holiday
+07/09/2002,Saturday,Faro Day,District Holiday
+15/09/2002,Sunday,Birth of Bocage,District Holiday
+21/09/2002,Saturday,St. Matthew's Day,District Holiday
+23/09/2002,Monday,September Equinox,Season
+05/10/2002,Saturday,Republic Day,National holiday
+27/10/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2002,Friday,All Saints' Day,National holiday
+27/11/2002,Wednesday,Foral of Sancho I,District Holiday
+01/12/2002,Sunday,Restoration of Independence,National holiday
+08/12/2002,Sunday,Feast of the Immaculate Conception,National holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+14/02/2003,Friday,Valentine's Day,Observance
+04/03/2003,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2003,Wednesday,St. Joseph's Day,District Holiday
+19/03/2003,Wednesday,Father's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+18/04/2003,Friday,Good Friday,National holiday
+20/04/2003,Sunday,Easter Sunday,National holiday
+25/04/2003,Friday,Liberty Day,National holiday
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+04/05/2003,Sunday,Mother's Day,Observance
+12/05/2003,Monday,St. Joana's Day,District Holiday
+22/05/2003,Thursday,Leiria Day,District Holiday
+23/05/2003,Friday,Portalegre Day,District Holiday
+29/05/2003,Thursday,Ascension Day,District Holiday
+09/06/2003,Monday,Azores Day,Regional Holiday
+10/06/2003,Tuesday,Portugal Day,National holiday
+13/06/2003,Friday,St. Anthony's Day,District Holiday
+19/06/2003,Thursday,Corpus Christi,National holiday
+21/06/2003,Saturday,June Solstice,Season
+24/06/2003,Tuesday,St. John's Day,District Holiday
+29/06/2003,Sunday,St. Peter's Day,District Holiday
+01/07/2003,Tuesday,Madeira Day,Regional Holiday
+04/07/2003,Friday,St. Elizabeth's Day,District Holiday
+15/08/2003,Friday,Assumption of Mary,National holiday
+20/08/2003,Wednesday,Our Lady of Sorrows,District Holiday
+22/08/2003,Friday,Our Lady of Graces,District Holiday
+07/09/2003,Sunday,Faro Day,District Holiday
+15/09/2003,Monday,Birth of Bocage,District Holiday
+21/09/2003,Sunday,St. Matthew's Day,District Holiday
+23/09/2003,Tuesday,September Equinox,Season
+05/10/2003,Sunday,Republic Day,National holiday
+26/10/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2003,Saturday,All Saints' Day,National holiday
+27/11/2003,Thursday,Foral of Sancho I,District Holiday
+01/12/2003,Monday,Restoration of Independence,National holiday
+08/12/2003,Monday,Feast of the Immaculate Conception,National holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+24/02/2004,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2004,Friday,St. Joseph's Day,District Holiday
+19/03/2004,Friday,Father's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+28/03/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+09/04/2004,Friday,Good Friday,National holiday
+11/04/2004,Sunday,Easter Sunday,National holiday
+25/04/2004,Sunday,Liberty Day,National holiday
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+02/05/2004,Sunday,Mother's Day,Observance
+12/05/2004,Wednesday,St. Joana's Day,District Holiday
+20/05/2004,Thursday,Ascension Day,District Holiday
+22/05/2004,Saturday,Leiria Day,District Holiday
+23/05/2004,Sunday,Portalegre Day,District Holiday
+31/05/2004,Monday,Azores Day,Regional Holiday
+10/06/2004,Thursday,Corpus Christi,National holiday
+10/06/2004,Thursday,Portugal Day,National holiday
+13/06/2004,Sunday,St. Anthony's Day,District Holiday
+21/06/2004,Monday,June Solstice,Season
+24/06/2004,Thursday,St. John's Day,District Holiday
+29/06/2004,Tuesday,St. Peter's Day,District Holiday
+01/07/2004,Thursday,Madeira Day,Regional Holiday
+04/07/2004,Sunday,St. Elizabeth's Day,District Holiday
+15/08/2004,Sunday,Assumption of Mary,National holiday
+20/08/2004,Friday,Our Lady of Sorrows,District Holiday
+22/08/2004,Sunday,Our Lady of Graces,District Holiday
+07/09/2004,Tuesday,Faro Day,District Holiday
+15/09/2004,Wednesday,Birth of Bocage,District Holiday
+21/09/2004,Tuesday,St. Matthew's Day,District Holiday
+22/09/2004,Wednesday,September Equinox,Season
+05/10/2004,Tuesday,Republic Day,National holiday
+31/10/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2004,Monday,All Saints' Day,National holiday
+27/11/2004,Saturday,Foral of Sancho I,District Holiday
+01/12/2004,Wednesday,Restoration of Independence,National holiday
+08/12/2004,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+08/02/2005,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+14/02/2005,Monday,Valentine's Day,Observance
+19/03/2005,Saturday,St. Joseph's Day,District Holiday
+19/03/2005,Saturday,Father's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,National holiday
+27/03/2005,Sunday,Easter Sunday,National holiday
+27/03/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+25/04/2005,Monday,Liberty Day,National holiday
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+01/05/2005,Sunday,Mother's Day,Observance
+05/05/2005,Thursday,Ascension Day,District Holiday
+12/05/2005,Thursday,St. Joana's Day,District Holiday
+16/05/2005,Monday,Azores Day,Regional Holiday
+22/05/2005,Sunday,Leiria Day,District Holiday
+23/05/2005,Monday,Portalegre Day,District Holiday
+26/05/2005,Thursday,Corpus Christi,National holiday
+10/06/2005,Friday,Portugal Day,National holiday
+13/06/2005,Monday,St. Anthony's Day,District Holiday
+21/06/2005,Tuesday,June Solstice,Season
+24/06/2005,Friday,St. John's Day,District Holiday
+29/06/2005,Wednesday,St. Peter's Day,District Holiday
+01/07/2005,Friday,Madeira Day,Regional Holiday
+04/07/2005,Monday,St. Elizabeth's Day,District Holiday
+15/08/2005,Monday,Assumption of Mary,National holiday
+20/08/2005,Saturday,Our Lady of Sorrows,District Holiday
+22/08/2005,Monday,Our Lady of Graces,District Holiday
+07/09/2005,Wednesday,Faro Day,District Holiday
+15/09/2005,Thursday,Birth of Bocage,District Holiday
+21/09/2005,Wednesday,St. Matthew's Day,District Holiday
+22/09/2005,Thursday,September Equinox,Season
+05/10/2005,Wednesday,Republic Day,National holiday
+30/10/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2005,Tuesday,All Saints' Day,National holiday
+27/11/2005,Sunday,Foral of Sancho I,District Holiday
+01/12/2005,Thursday,Restoration of Independence,National holiday
+08/12/2005,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+28/02/2006,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2006,Sunday,St. Joseph's Day,District Holiday
+19/03/2006,Sunday,Father's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2006,Friday,Good Friday,National holiday
+16/04/2006,Sunday,Easter Sunday,National holiday
+25/04/2006,Tuesday,Liberty Day,National holiday
+01/05/2006,Monday,Labor Day / May Day,National holiday
+07/05/2006,Sunday,Mother's Day,Observance
+12/05/2006,Friday,St. Joana's Day,District Holiday
+22/05/2006,Monday,Leiria Day,District Holiday
+23/05/2006,Tuesday,Portalegre Day,District Holiday
+25/05/2006,Thursday,Ascension Day,District Holiday
+05/06/2006,Monday,Azores Day,Regional Holiday
+10/06/2006,Saturday,Portugal Day,National holiday
+13/06/2006,Tuesday,St. Anthony's Day,District Holiday
+15/06/2006,Thursday,Corpus Christi,National holiday
+21/06/2006,Wednesday,June Solstice,Season
+24/06/2006,Saturday,St. John's Day,District Holiday
+29/06/2006,Thursday,St. Peter's Day,District Holiday
+01/07/2006,Saturday,Madeira Day,Regional Holiday
+04/07/2006,Tuesday,St. Elizabeth's Day,District Holiday
+15/08/2006,Tuesday,Assumption of Mary,National holiday
+20/08/2006,Sunday,Our Lady of Sorrows,District Holiday
+22/08/2006,Tuesday,Our Lady of Graces,District Holiday
+07/09/2006,Thursday,Faro Day,District Holiday
+15/09/2006,Friday,Birth of Bocage,District Holiday
+21/09/2006,Thursday,St. Matthew's Day,District Holiday
+23/09/2006,Saturday,September Equinox,Season
+05/10/2006,Thursday,Republic Day,National holiday
+29/10/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2006,Wednesday,All Saints' Day,National holiday
+27/11/2006,Monday,Foral of Sancho I,District Holiday
+01/12/2006,Friday,Restoration of Independence,National holiday
+08/12/2006,Friday,Feast of the Immaculate Conception,National holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+20/02/2007,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2007,Monday,St. Joseph's Day,District Holiday
+19/03/2007,Monday,Father's Day,Observance
+21/03/2007,Wednesday,March Equinox,Season
+25/03/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2007,Friday,Good Friday,National holiday
+08/04/2007,Sunday,Easter Sunday,National holiday
+25/04/2007,Wednesday,Liberty Day,National holiday
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+06/05/2007,Sunday,Mother's Day,Observance
+12/05/2007,Saturday,St. Joana's Day,District Holiday
+17/05/2007,Thursday,Ascension Day,District Holiday
+22/05/2007,Tuesday,Leiria Day,District Holiday
+23/05/2007,Wednesday,Portalegre Day,District Holiday
+28/05/2007,Monday,Azores Day,Regional Holiday
+07/06/2007,Thursday,Corpus Christi,National holiday
+10/06/2007,Sunday,Portugal Day,National holiday
+13/06/2007,Wednesday,St. Anthony's Day,District Holiday
+21/06/2007,Thursday,June Solstice,Season
+24/06/2007,Sunday,St. John's Day,District Holiday
+29/06/2007,Friday,St. Peter's Day,District Holiday
+01/07/2007,Sunday,Madeira Day,Regional Holiday
+04/07/2007,Wednesday,St. Elizabeth's Day,District Holiday
+15/08/2007,Wednesday,Assumption of Mary,National holiday
+20/08/2007,Monday,Our Lady of Sorrows,District Holiday
+22/08/2007,Wednesday,Our Lady of Graces,District Holiday
+07/09/2007,Friday,Faro Day,District Holiday
+15/09/2007,Saturday,Birth of Bocage,District Holiday
+21/09/2007,Friday,St. Matthew's Day,District Holiday
+23/09/2007,Sunday,September Equinox,Season
+05/10/2007,Friday,Republic Day,National holiday
+28/10/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2007,Thursday,All Saints' Day,National holiday
+27/11/2007,Tuesday,Foral of Sancho I,District Holiday
+01/12/2007,Saturday,Restoration of Independence,National holiday
+08/12/2007,Saturday,Feast of the Immaculate Conception,National holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+05/02/2008,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+19/03/2008,Wednesday,St. Joseph's Day,District Holiday
+19/03/2008,Wednesday,Father's Day,Observance
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,National holiday
+23/03/2008,Sunday,Easter Sunday,National holiday
+30/03/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+25/04/2008,Friday,Liberty Day,National holiday
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+01/05/2008,Thursday,Ascension Day,District Holiday
+04/05/2008,Sunday,Mother's Day,Observance
+12/05/2008,Monday,St. Joana's Day,District Holiday
+12/05/2008,Monday,Azores Day,Regional Holiday
+22/05/2008,Thursday,Corpus Christi,National holiday
+22/05/2008,Thursday,Leiria Day,District Holiday
+23/05/2008,Friday,Portalegre Day,District Holiday
+10/06/2008,Tuesday,Portugal Day,National holiday
+13/06/2008,Friday,St. Anthony's Day,District Holiday
+21/06/2008,Saturday,June Solstice,Season
+24/06/2008,Tuesday,St. John's Day,District Holiday
+29/06/2008,Sunday,St. Peter's Day,District Holiday
+01/07/2008,Tuesday,Madeira Day,Regional Holiday
+04/07/2008,Friday,St. Elizabeth's Day,District Holiday
+15/08/2008,Friday,Assumption of Mary,National holiday
+20/08/2008,Wednesday,Our Lady of Sorrows,District Holiday
+22/08/2008,Friday,Our Lady of Graces,District Holiday
+07/09/2008,Sunday,Faro Day,District Holiday
+15/09/2008,Monday,Birth of Bocage,District Holiday
+21/09/2008,Sunday,St. Matthew's Day,District Holiday
+22/09/2008,Monday,September Equinox,Season
+05/10/2008,Sunday,Republic Day,National holiday
+26/10/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2008,Saturday,All Saints' Day,National holiday
+27/11/2008,Thursday,Foral of Sancho I,District Holiday
+01/12/2008,Monday,Restoration of Independence,National holiday
+08/12/2008,Monday,Feast of the Immaculate Conception,National holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+24/02/2009,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2009,Thursday,St. Joseph's Day,District Holiday
+19/03/2009,Thursday,Father's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+29/03/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2009,Friday,Good Friday,National holiday
+12/04/2009,Sunday,Easter Sunday,National holiday
+25/04/2009,Saturday,Liberty Day,National holiday
+01/05/2009,Friday,Labor Day / May Day,National holiday
+03/05/2009,Sunday,Mother's Day,Observance
+12/05/2009,Tuesday,St. Joana's Day,District Holiday
+21/05/2009,Thursday,Ascension Day,District Holiday
+22/05/2009,Friday,Leiria Day,District Holiday
+23/05/2009,Saturday,Portalegre Day,District Holiday
+01/06/2009,Monday,Azores Day,Regional Holiday
+10/06/2009,Wednesday,Portugal Day,National holiday
+11/06/2009,Thursday,Corpus Christi,National holiday
+13/06/2009,Saturday,St. Anthony's Day,District Holiday
+21/06/2009,Sunday,June Solstice,Season
+24/06/2009,Wednesday,St. John's Day,District Holiday
+29/06/2009,Monday,St. Peter's Day,District Holiday
+01/07/2009,Wednesday,Madeira Day,Regional Holiday
+04/07/2009,Saturday,St. Elizabeth's Day,District Holiday
+15/08/2009,Saturday,Assumption of Mary,National holiday
+20/08/2009,Thursday,Our Lady of Sorrows,District Holiday
+22/08/2009,Saturday,Our Lady of Graces,District Holiday
+07/09/2009,Monday,Faro Day,District Holiday
+15/09/2009,Tuesday,Birth of Bocage,District Holiday
+21/09/2009,Monday,St. Matthew's Day,District Holiday
+22/09/2009,Tuesday,September Equinox,Season
+05/10/2009,Monday,Republic Day,National holiday
+25/10/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2009,Sunday,All Saints' Day,National holiday
+27/11/2009,Friday,Foral of Sancho I,District Holiday
+01/12/2009,Tuesday,Restoration of Independence,National holiday
+08/12/2009,Tuesday,Feast of the Immaculate Conception,National holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+16/02/2010,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2010,Friday,St. Joseph's Day,District Holiday
+19/03/2010,Friday,Father's Day,Observance
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2010,Friday,Good Friday,National holiday
+04/04/2010,Sunday,Easter Sunday,National holiday
+25/04/2010,Sunday,Liberty Day,National holiday
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+02/05/2010,Sunday,Mother's Day,Observance
+12/05/2010,Wednesday,St. Joana's Day,District Holiday
+13/05/2010,Thursday,Ascension Day,District Holiday
+22/05/2010,Saturday,Leiria Day,District Holiday
+23/05/2010,Sunday,Portalegre Day,District Holiday
+24/05/2010,Monday,Azores Day,Regional Holiday
+03/06/2010,Thursday,Corpus Christi,National holiday
+10/06/2010,Thursday,Portugal Day,National holiday
+13/06/2010,Sunday,St. Anthony's Day,District Holiday
+21/06/2010,Monday,June Solstice,Season
+24/06/2010,Thursday,St. John's Day,District Holiday
+29/06/2010,Tuesday,St. Peter's Day,District Holiday
+01/07/2010,Thursday,Madeira Day,Regional Holiday
+04/07/2010,Sunday,St. Elizabeth's Day,District Holiday
+15/08/2010,Sunday,Assumption of Mary,National holiday
+20/08/2010,Friday,Our Lady of Sorrows,District Holiday
+22/08/2010,Sunday,Our Lady of Graces,District Holiday
+07/09/2010,Tuesday,Faro Day,District Holiday
+15/09/2010,Wednesday,Birth of Bocage,District Holiday
+21/09/2010,Tuesday,St. Matthew's Day,District Holiday
+23/09/2010,Thursday,September Equinox,Season
+05/10/2010,Tuesday,Republic Day,National holiday
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2010,Monday,All Saints' Day,National holiday
+27/11/2010,Saturday,Foral of Sancho I,District Holiday
+01/12/2010,Wednesday,Restoration of Independence,National holiday
+08/12/2010,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2010,Tuesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+14/02/2011,Monday,Valentine's Day,Observance
+08/03/2011,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2011,Saturday,St. Joseph's Day,District Holiday
+19/03/2011,Saturday,Father's Day,Observance
+20/03/2011,Sunday,March Equinox,Season
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/04/2011,Friday,Good Friday,National holiday
+24/04/2011,Sunday,Easter Sunday,National holiday
+25/04/2011,Monday,Liberty Day,National holiday
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+01/05/2011,Sunday,Mother's Day,Observance
+12/05/2011,Thursday,St. Joana's Day,District Holiday
+22/05/2011,Sunday,Leiria Day,District Holiday
+23/05/2011,Monday,Portalegre Day,District Holiday
+02/06/2011,Thursday,Ascension Day,District Holiday
+10/06/2011,Friday,Portugal Day,National holiday
+13/06/2011,Monday,St. Anthony's Day,District Holiday
+13/06/2011,Monday,Azores Day,Regional Holiday
+21/06/2011,Tuesday,June Solstice,Season
+23/06/2011,Thursday,Corpus Christi,National holiday
+24/06/2011,Friday,St. John's Day,District Holiday
+29/06/2011,Wednesday,St. Peter's Day,District Holiday
+01/07/2011,Friday,Madeira Day,Regional Holiday
+04/07/2011,Monday,St. Elizabeth's Day,District Holiday
+15/08/2011,Monday,Assumption of Mary,National holiday
+20/08/2011,Saturday,Our Lady of Sorrows,District Holiday
+22/08/2011,Monday,Our Lady of Graces,District Holiday
+07/09/2011,Wednesday,Faro Day,District Holiday
+15/09/2011,Thursday,Birth of Bocage,District Holiday
+21/09/2011,Wednesday,St. Matthew's Day,District Holiday
+23/09/2011,Friday,September Equinox,Season
+05/10/2011,Wednesday,Republic Day,National holiday
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2011,Tuesday,All Saints' Day,National holiday
+27/11/2011,Sunday,Foral of Sancho I,District Holiday
+01/12/2011,Thursday,Restoration of Independence,National holiday
+08/12/2011,Thursday,Feast of the Immaculate Conception,National holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+21/02/2012,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2012,Monday,St. Joseph's Day,District Holiday
+19/03/2012,Monday,Father's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2012,Friday,Good Friday,National holiday
+08/04/2012,Sunday,Easter Sunday,National holiday
+25/04/2012,Wednesday,Liberty Day,National holiday
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+06/05/2012,Sunday,Mother's Day,Observance
+12/05/2012,Saturday,St. Joana's Day,District Holiday
+17/05/2012,Thursday,Ascension Day,District Holiday
+22/05/2012,Tuesday,Leiria Day,District Holiday
+23/05/2012,Wednesday,Portalegre Day,District Holiday
+28/05/2012,Monday,Azores Day,Regional Holiday
+07/06/2012,Thursday,Corpus Christi,National holiday
+10/06/2012,Sunday,Portugal Day,National holiday
+13/06/2012,Wednesday,St. Anthony's Day,District Holiday
+21/06/2012,Thursday,June Solstice,Season
+24/06/2012,Sunday,St. John's Day,District Holiday
+29/06/2012,Friday,St. Peter's Day,District Holiday
+01/07/2012,Sunday,Madeira Day,Regional Holiday
+04/07/2012,Wednesday,St. Elizabeth's Day,District Holiday
+15/08/2012,Wednesday,Assumption of Mary,National holiday
+20/08/2012,Monday,Our Lady of Sorrows,District Holiday
+22/08/2012,Wednesday,Our Lady of Graces,District Holiday
+07/09/2012,Friday,Faro Day,District Holiday
+15/09/2012,Saturday,Birth of Bocage,District Holiday
+21/09/2012,Friday,St. Matthew's Day,District Holiday
+22/09/2012,Saturday,September Equinox,Season
+05/10/2012,Friday,Republic Day,National holiday
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2012,Thursday,All Saints' Day,National holiday
+27/11/2012,Tuesday,Foral of Sancho I,District Holiday
+01/12/2012,Saturday,Restoration of Independence,National holiday
+08/12/2012,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+12/02/2013,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+19/03/2013,Tuesday,St. Joseph's Day,District Holiday
+19/03/2013,Tuesday,Father's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,National holiday
+31/03/2013,Sunday,Easter Sunday,National holiday
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+25/04/2013,Thursday,Liberty Day,National holiday
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+05/05/2013,Sunday,Mother's Day,Observance
+09/05/2013,Thursday,Ascension Day,District Holiday
+12/05/2013,Sunday,St. Joana's Day,District Holiday
+20/05/2013,Monday,Azores Day,Regional Holiday
+22/05/2013,Wednesday,Leiria Day,District Holiday
+23/05/2013,Thursday,Portalegre Day,District Holiday
+10/06/2013,Monday,Portugal Day,National holiday
+13/06/2013,Thursday,St. Anthony's Day,District Holiday
+21/06/2013,Friday,June Solstice,Season
+24/06/2013,Monday,St. John's Day,District Holiday
+29/06/2013,Saturday,St. Peter's Day,District Holiday
+01/07/2013,Monday,Madeira Day,Regional Holiday
+04/07/2013,Thursday,St. Elizabeth's Day,District Holiday
+15/08/2013,Thursday,Assumption of Mary,National holiday
+20/08/2013,Tuesday,Our Lady of Sorrows,District Holiday
+22/08/2013,Thursday,Our Lady of Graces,District Holiday
+07/09/2013,Saturday,Faro Day,District Holiday
+15/09/2013,Sunday,Birth of Bocage,District Holiday
+21/09/2013,Saturday,St. Matthew's Day,District Holiday
+22/09/2013,Sunday,September Equinox,Season
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+27/11/2013,Wednesday,Foral of Sancho I,District Holiday
+08/12/2013,Sunday,Feast of the Immaculate Conception,National holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+14/02/2014,Friday,Valentine's Day,Observance
+04/03/2014,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2014,Wednesday,St. Joseph's Day,District Holiday
+19/03/2014,Wednesday,Father's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+18/04/2014,Friday,Good Friday,National holiday
+20/04/2014,Sunday,Easter Sunday,National holiday
+25/04/2014,Friday,Liberty Day,National holiday
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+04/05/2014,Sunday,Mother's Day,Observance
+12/05/2014,Monday,St. Joana's Day,District Holiday
+22/05/2014,Thursday,Leiria Day,District Holiday
+23/05/2014,Friday,Portalegre Day,District Holiday
+29/05/2014,Thursday,Ascension Day,District Holiday
+09/06/2014,Monday,Azores Day,Regional Holiday
+10/06/2014,Tuesday,Portugal Day,National holiday
+13/06/2014,Friday,St. Anthony's Day,District Holiday
+21/06/2014,Saturday,June Solstice,Season
+24/06/2014,Tuesday,St. John's Day,District Holiday
+29/06/2014,Sunday,St. Peter's Day,District Holiday
+01/07/2014,Tuesday,Madeira Day,Regional Holiday
+04/07/2014,Friday,St. Elizabeth's Day,District Holiday
+15/08/2014,Friday,Assumption of Mary,National holiday
+20/08/2014,Wednesday,Our Lady of Sorrows,District Holiday
+22/08/2014,Friday,Our Lady of Graces,District Holiday
+07/09/2014,Sunday,Faro Day,District Holiday
+15/09/2014,Monday,Birth of Bocage,District Holiday
+21/09/2014,Sunday,St. Matthew's Day,District Holiday
+23/09/2014,Tuesday,September Equinox,Season
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+27/11/2014,Thursday,Foral of Sancho I,District Holiday
+08/12/2014,Monday,Feast of the Immaculate Conception,National holiday
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+17/02/2015,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2015,Thursday,St. Joseph's Day,District Holiday
+19/03/2015,Thursday,Father's Day,Observance
+20/03/2015,Friday,March Equinox,Season
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+03/04/2015,Friday,Good Friday,National holiday
+05/04/2015,Sunday,Easter Sunday,National holiday
+21/04/2015,Tuesday,Our Lady of Mércoles,District Holiday
+25/04/2015,Saturday,Liberty Day,National holiday
+01/05/2015,Friday,Labor Day / May Day,National holiday
+03/05/2015,Sunday,Mother's Day,Observance
+12/05/2015,Tuesday,St. Joana's Day,District Holiday
+14/05/2015,Thursday,Ascension Day,District Holiday
+22/05/2015,Friday,Leiria Day,District Holiday
+23/05/2015,Saturday,Portalegre Day,District Holiday
+25/05/2015,Monday,Azores Day,Regional Holiday
+10/06/2015,Wednesday,Portugal Day,National holiday
+13/06/2015,Saturday,St. Anthony's Day,District Holiday
+21/06/2015,Sunday,June Solstice,Season
+24/06/2015,Wednesday,St. John's Day,District Holiday
+29/06/2015,Monday,St. Peter's Day,District Holiday
+01/07/2015,Wednesday,Madeira Day,Regional Holiday
+04/07/2015,Saturday,St. Elizabeth's Day,District Holiday
+15/08/2015,Saturday,Assumption of Mary,National holiday
+20/08/2015,Thursday,Our Lady of Sorrows,District Holiday
+22/08/2015,Saturday,Our Lady of Graces,District Holiday
+07/09/2015,Monday,Faro Day,District Holiday
+15/09/2015,Tuesday,Birth of Bocage,District Holiday
+21/09/2015,Monday,St. Matthew's Day,District Holiday
+23/09/2015,Wednesday,September Equinox,Season
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+27/11/2015,Friday,Foral of Sancho I,District Holiday
+08/12/2015,Tuesday,Feast of the Immaculate Conception,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+09/02/2016,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+19/03/2016,Saturday,St. Joseph's Day,District Holiday
+19/03/2016,Saturday,Father's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,National holiday
+27/03/2016,Sunday,Easter Sunday,National holiday
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+12/04/2016,Tuesday,Our Lady of Mércoles,District Holiday
+25/04/2016,Monday,Liberty Day,National holiday
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+01/05/2016,Sunday,Mother's Day,Observance
+05/05/2016,Thursday,Ascension Day,District Holiday
+12/05/2016,Thursday,St. Joana's Day,District Holiday
+16/05/2016,Monday,Azores Day,Regional Holiday
+22/05/2016,Sunday,Leiria Day,District Holiday
+23/05/2016,Monday,Portalegre Day,District Holiday
+26/05/2016,Thursday,Corpus Christi,National holiday
+10/06/2016,Friday,Portugal Day,National holiday
+13/06/2016,Monday,St. Anthony's Day,District Holiday
+20/06/2016,Monday,June Solstice,Season
+24/06/2016,Friday,St. John's Day,District Holiday
+29/06/2016,Wednesday,St. Peter's Day,District Holiday
+01/07/2016,Friday,Madeira Day,Regional Holiday
+04/07/2016,Monday,St. Elizabeth's Day,District Holiday
+15/08/2016,Monday,Assumption of Mary,National holiday
+20/08/2016,Saturday,Our Lady of Sorrows,District Holiday
+22/08/2016,Monday,Our Lady of Graces,District Holiday
+07/09/2016,Wednesday,Faro Day,District Holiday
+15/09/2016,Thursday,Birth of Bocage,District Holiday
+21/09/2016,Wednesday,St. Matthew's Day,District Holiday
+22/09/2016,Thursday,September Equinox,Season
+05/10/2016,Wednesday,Republic Day,National holiday
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2016,Tuesday,All Saints' Day,National holiday
+27/11/2016,Sunday,Foral of Sancho I,District Holiday
+01/12/2016,Thursday,Restoration of Independence,National holiday
+08/12/2016,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+28/02/2017,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2017,Sunday,St. Joseph's Day,District Holiday
+19/03/2017,Sunday,Father's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2017,Friday,Good Friday,National holiday
+16/04/2017,Sunday,Easter Sunday,National holiday
+25/04/2017,Tuesday,Liberty Day,National holiday
+01/05/2017,Monday,Labor Day / May Day,National holiday
+02/05/2017,Tuesday,Our Lady of Mércoles,District Holiday
+07/05/2017,Sunday,Mother's Day,Observance
+12/05/2017,Friday,St. Joana's Day,District Holiday
+12/05/2017,Friday,Papal Visit,Observance
+22/05/2017,Monday,Leiria Day,District Holiday
+23/05/2017,Tuesday,Portalegre Day,District Holiday
+25/05/2017,Thursday,Ascension Day,District Holiday
+05/06/2017,Monday,Azores Day,Regional Holiday
+10/06/2017,Saturday,Portugal Day,National holiday
+13/06/2017,Tuesday,St. Anthony's Day,District Holiday
+15/06/2017,Thursday,Corpus Christi,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+24/06/2017,Saturday,St. John's Day,District Holiday
+29/06/2017,Thursday,St. Peter's Day,District Holiday
+01/07/2017,Saturday,Madeira Day,Regional Holiday
+04/07/2017,Tuesday,St. Elizabeth's Day,District Holiday
+15/08/2017,Tuesday,Assumption of Mary,National holiday
+20/08/2017,Sunday,Our Lady of Sorrows,District Holiday
+22/08/2017,Tuesday,Our Lady of Graces,District Holiday
+07/09/2017,Thursday,Faro Day,District Holiday
+15/09/2017,Friday,Birth of Bocage,District Holiday
+21/09/2017,Thursday,St. Matthew's Day,District Holiday
+22/09/2017,Friday,September Equinox,Season
+05/10/2017,Thursday,Republic Day,National holiday
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2017,Wednesday,All Saints' Day,National holiday
+27/11/2017,Monday,Foral of Sancho I,District Holiday
+01/12/2017,Friday,Restoration of Independence,National holiday
+08/12/2017,Friday,Feast of the Immaculate Conception,National holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+13/02/2018,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+19/03/2018,Monday,St. Joseph's Day,District Holiday
+19/03/2018,Monday,Father's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+30/03/2018,Friday,Good Friday,National holiday
+01/04/2018,Sunday,Easter Sunday,National holiday
+17/04/2018,Tuesday,Our Lady of Mércoles,District Holiday
+25/04/2018,Wednesday,Liberty Day,National holiday
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+06/05/2018,Sunday,Mother's Day,Observance
+10/05/2018,Thursday,Ascension Day,District Holiday
+12/05/2018,Saturday,St. Joana's Day,District Holiday
+21/05/2018,Monday,Azores Day,Regional Holiday
+22/05/2018,Tuesday,Leiria Day,District Holiday
+23/05/2018,Wednesday,Portalegre Day,District Holiday
+31/05/2018,Thursday,Corpus Christi,National holiday
+10/06/2018,Sunday,Portugal Day,National holiday
+13/06/2018,Wednesday,St. Anthony's Day,District Holiday
+21/06/2018,Thursday,June Solstice,Season
+24/06/2018,Sunday,St. John's Day,District Holiday
+29/06/2018,Friday,St. Peter's Day,District Holiday
+01/07/2018,Sunday,Madeira Day,Regional Holiday
+04/07/2018,Wednesday,St. Elizabeth's Day,District Holiday
+15/08/2018,Wednesday,Assumption of Mary,National holiday
+20/08/2018,Monday,Our Lady of Sorrows,District Holiday
+22/08/2018,Wednesday,Our Lady of Graces,District Holiday
+07/09/2018,Friday,Faro Day,District Holiday
+15/09/2018,Saturday,Birth of Bocage,District Holiday
+21/09/2018,Friday,St. Matthew's Day,District Holiday
+23/09/2018,Sunday,September Equinox,Season
+05/10/2018,Friday,Republic Day,National holiday
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2018,Thursday,All Saints' Day,National holiday
+27/11/2018,Tuesday,Foral of Sancho I,District Holiday
+01/12/2018,Saturday,Restoration of Independence,National holiday
+08/12/2018,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+05/03/2019,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2019,Tuesday,St. Joseph's Day,District Holiday
+19/03/2019,Tuesday,Father's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+19/04/2019,Friday,Good Friday,National holiday
+21/04/2019,Sunday,Easter Sunday,National holiday
+25/04/2019,Thursday,Liberty Day,National holiday
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+05/05/2019,Sunday,Mother's Day,Observance
+07/05/2019,Tuesday,Our Lady of Mércoles,District Holiday
+12/05/2019,Sunday,St. Joana's Day,District Holiday
+22/05/2019,Wednesday,Leiria Day,District Holiday
+23/05/2019,Thursday,Portalegre Day,District Holiday
+30/05/2019,Thursday,Ascension Day,District Holiday
+10/06/2019,Monday,Portugal Day,National holiday
+10/06/2019,Monday,Azores Day,Regional Holiday
+13/06/2019,Thursday,St. Anthony's Day,District Holiday
+20/06/2019,Thursday,Corpus Christi,National holiday
+21/06/2019,Friday,June Solstice,Season
+24/06/2019,Monday,St. John's Day,District Holiday
+29/06/2019,Saturday,St. Peter's Day,District Holiday
+01/07/2019,Monday,Madeira Day,Regional Holiday
+04/07/2019,Thursday,St. Elizabeth's Day,District Holiday
+15/08/2019,Thursday,Assumption of Mary,National holiday
+20/08/2019,Tuesday,Our Lady of Sorrows,District Holiday
+22/08/2019,Thursday,Our Lady of Graces,District Holiday
+07/09/2019,Saturday,Faro Day,District Holiday
+15/09/2019,Sunday,Birth of Bocage,District Holiday
+21/09/2019,Saturday,St. Matthew's Day,District Holiday
+23/09/2019,Monday,September Equinox,Season
+05/10/2019,Saturday,Republic Day,National holiday
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2019,Friday,All Saints' Day,National holiday
+27/11/2019,Wednesday,Foral of Sancho I,District Holiday
+01/12/2019,Sunday,Restoration of Independence,National holiday
+08/12/2019,Sunday,Feast of the Immaculate Conception,National holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+14/02/2020,Friday,Valentine's Day,Observance
+25/02/2020,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2020,Thursday,St. Joseph's Day,District Holiday
+19/03/2020,Thursday,Father's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2020,Friday,Good Friday,National holiday
+12/04/2020,Sunday,Easter Sunday,National holiday
+25/04/2020,Saturday,Liberty Day,National holiday
+28/04/2020,Tuesday,Our Lady of Mércoles,District Holiday
+01/05/2020,Friday,Labor Day / May Day,National holiday
+03/05/2020,Sunday,Mother's Day,Observance
+12/05/2020,Tuesday,St. Joana's Day,District Holiday
+21/05/2020,Thursday,Ascension Day,District Holiday
+22/05/2020,Friday,Leiria Day,District Holiday
+23/05/2020,Saturday,Portalegre Day,District Holiday
+01/06/2020,Monday,Azores Day,Regional Holiday
+10/06/2020,Wednesday,Portugal Day,National holiday
+11/06/2020,Thursday,Corpus Christi,National holiday
+13/06/2020,Saturday,St. Anthony's Day,District Holiday
+20/06/2020,Saturday,June Solstice,Season
+24/06/2020,Wednesday,St. John's Day,District Holiday
+29/06/2020,Monday,St. Peter's Day,District Holiday
+01/07/2020,Wednesday,Madeira Day,Regional Holiday
+04/07/2020,Saturday,St. Elizabeth's Day,District Holiday
+15/08/2020,Saturday,Assumption of Mary,National holiday
+20/08/2020,Thursday,Our Lady of Sorrows,District Holiday
+22/08/2020,Saturday,Our Lady of Graces,District Holiday
+07/09/2020,Monday,Faro Day,District Holiday
+15/09/2020,Tuesday,Birth of Bocage,District Holiday
+21/09/2020,Monday,St. Matthew's Day,District Holiday
+22/09/2020,Tuesday,September Equinox,Season
+05/10/2020,Monday,Republic Day,National holiday
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2020,Sunday,All Saints' Day,National holiday
+27/11/2020,Friday,Foral of Sancho I,District Holiday
+01/12/2020,Tuesday,Restoration of Independence,National holiday
+08/12/2020,Tuesday,Feast of the Immaculate Conception,National holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+16/02/2021,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2021,Friday,St. Joseph's Day,District Holiday
+19/03/2021,Friday,Father's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2021,Friday,Good Friday,National holiday
+04/04/2021,Sunday,Easter Sunday,National holiday
+20/04/2021,Tuesday,Our Lady of Mércoles,District Holiday
+25/04/2021,Sunday,Liberty Day,National holiday
+01/05/2021,Saturday,Labor Day / May Day,National holiday
+02/05/2021,Sunday,Mother's Day,Observance
+12/05/2021,Wednesday,St. Joana's Day,District Holiday
+13/05/2021,Thursday,Ascension Day,District Holiday
+22/05/2021,Saturday,Leiria Day,District Holiday
+23/05/2021,Sunday,Portalegre Day,District Holiday
+24/05/2021,Monday,Azores Day,Regional Holiday
+03/06/2021,Thursday,Corpus Christi,National holiday
+10/06/2021,Thursday,Portugal Day,National holiday
+13/06/2021,Sunday,St. Anthony's Day,District Holiday
+21/06/2021,Monday,June Solstice,Season
+24/06/2021,Thursday,St. John's Day,District Holiday
+29/06/2021,Tuesday,St. Peter's Day,District Holiday
+01/07/2021,Thursday,Madeira Day,Regional Holiday
+04/07/2021,Sunday,St. Elizabeth's Day,District Holiday
+15/08/2021,Sunday,Assumption of Mary,National holiday
+20/08/2021,Friday,Our Lady of Sorrows,District Holiday
+22/08/2021,Sunday,Our Lady of Graces,District Holiday
+07/09/2021,Tuesday,Faro Day,District Holiday
+15/09/2021,Wednesday,Birth of Bocage,District Holiday
+21/09/2021,Tuesday,St. Matthew's Day,District Holiday
+22/09/2021,Wednesday,September Equinox,Season
+05/10/2021,Tuesday,Republic Day,National holiday
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2021,Monday,All Saints' Day,National holiday
+27/11/2021,Saturday,Foral of Sancho I,District Holiday
+01/12/2021,Wednesday,Restoration of Independence,National holiday
+08/12/2021,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+14/02/2022,Monday,Valentine's Day,Observance
+01/03/2022,Tuesday,Carnival / Shrove Tuesday / Pancake Day,Optional Holiday
+19/03/2022,Saturday,St. Joseph's Day,District Holiday
+19/03/2022,Saturday,Father's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+15/04/2022,Friday,Good Friday,National holiday
+17/04/2022,Sunday,Easter Sunday,National holiday
+25/04/2022,Monday,Liberty Day,National holiday
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+01/05/2022,Sunday,Mother's Day,Observance
+03/05/2022,Tuesday,Our Lady of Mércoles,District Holiday
+12/05/2022,Thursday,St. Joana's Day,District Holiday
+22/05/2022,Sunday,Leiria Day,District Holiday
+23/05/2022,Monday,Portalegre Day,District Holiday
+26/05/2022,Thursday,Ascension Day,District Holiday
+06/06/2022,Monday,Azores Day,Regional Holiday
+10/06/2022,Friday,Portugal Day,National holiday
+13/06/2022,Monday,St. Anthony's Day,District Holiday
+16/06/2022,Thursday,Corpus Christi,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+24/06/2022,Friday,St. John's Day,District Holiday
+29/06/2022,Wednesday,St. Peter's Day,District Holiday
+01/07/2022,Friday,Madeira Day,Regional Holiday
+04/07/2022,Monday,St. Elizabeth's Day,District Holiday
+15/08/2022,Monday,Assumption of Mary,National holiday
+20/08/2022,Saturday,Our Lady of Sorrows,District Holiday
+22/08/2022,Monday,Our Lady of Graces,District Holiday
+07/09/2022,Wednesday,Faro Day,District Holiday
+15/09/2022,Thursday,Birth of Bocage,District Holiday
+21/09/2022,Wednesday,St. Matthew's Day,District Holiday
+23/09/2022,Friday,September Equinox,Season
+05/10/2022,Wednesday,Republic Day,National holiday
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2022,Tuesday,All Saints' Day,National holiday
+27/11/2022,Sunday,Foral of Sancho I,District Holiday
+01/12/2022,Thursday,Restoration of Independence,National holiday
+08/12/2022,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

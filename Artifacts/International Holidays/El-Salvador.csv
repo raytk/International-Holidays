@@ -1,0 +1,656 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+16/01/2000,Sunday,Signing of the Peace Accords,Observance
+08/03/2000,Wednesday,Women's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+16/04/2000,Sunday,Palm Sunday,"Observance, Christian"
+20/04/2000,Thursday,Maundy Thursday,"National holiday, Christian"
+21/04/2000,Friday,Good Friday,"National holiday, Christian"
+22/04/2000,Saturday,Holy Saturday,"National holiday, Christian"
+23/04/2000,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2000,Monday,Labor Day / May Day,National holiday
+03/05/2000,Wednesday,Cross Day,Observance
+07/05/2000,Sunday,Soldiers' Day,Observance
+10/05/2000,Wednesday,Mothers' Day,National holiday
+17/06/2000,Saturday,Fathers' Day,Observance
+20/06/2000,Tuesday,June Solstice,Season
+22/06/2000,Thursday,Teachers' Day,Optional holiday
+03/08/2000,Thursday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2000,Saturday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2000,Sunday,Celebrations of San Salvador,National holiday
+15/09/2000,Friday,Independence Day,National holiday
+22/09/2000,Friday,September Equinox,Season
+01/10/2000,Sunday,Children's Day,Observance
+12/10/2000,Thursday,Columbus Day,Observance
+02/11/2000,Thursday,All Saints Day,National holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2000,Monday,Christmas Day,"National holiday, Christian"
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+16/01/2001,Tuesday,Signing of the Peace Accords,Observance
+08/03/2001,Thursday,Women's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+08/04/2001,Sunday,Palm Sunday,"Observance, Christian"
+12/04/2001,Thursday,Maundy Thursday,"National holiday, Christian"
+13/04/2001,Friday,Good Friday,"National holiday, Christian"
+14/04/2001,Saturday,Holy Saturday,"National holiday, Christian"
+15/04/2001,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+03/05/2001,Thursday,Cross Day,Observance
+07/05/2001,Monday,Soldiers' Day,Observance
+10/05/2001,Thursday,Mothers' Day,National holiday
+17/06/2001,Sunday,Fathers' Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+22/06/2001,Friday,Teachers' Day,Optional holiday
+03/08/2001,Friday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2001,Sunday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2001,Monday,Celebrations of San Salvador,National holiday
+15/09/2001,Saturday,Independence Day,National holiday
+22/09/2001,Saturday,September Equinox,Season
+01/10/2001,Monday,Children's Day,Observance
+12/10/2001,Friday,Columbus Day,Observance
+02/11/2001,Friday,All Saints Day,National holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,"Observance, Christian"
+25/12/2001,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+16/01/2002,Wednesday,Signing of the Peace Accords,Observance
+08/03/2002,Friday,Women's Day,Observance
+20/03/2002,Wednesday,March Equinox,Season
+24/03/2002,Sunday,Palm Sunday,"Observance, Christian"
+28/03/2002,Thursday,Maundy Thursday,"National holiday, Christian"
+29/03/2002,Friday,Good Friday,"National holiday, Christian"
+30/03/2002,Saturday,Holy Saturday,"National holiday, Christian"
+31/03/2002,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+03/05/2002,Friday,Cross Day,Observance
+07/05/2002,Tuesday,Soldiers' Day,Observance
+10/05/2002,Friday,Mothers' Day,National holiday
+17/06/2002,Monday,Fathers' Day,Observance
+21/06/2002,Friday,June Solstice,Season
+22/06/2002,Saturday,Teachers' Day,Optional holiday
+03/08/2002,Saturday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2002,Monday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2002,Tuesday,Celebrations of San Salvador,National holiday
+15/09/2002,Sunday,Independence Day,National holiday
+22/09/2002,Sunday,September Equinox,Season
+01/10/2002,Tuesday,Children's Day,Observance
+12/10/2002,Saturday,Columbus Day,Observance
+02/11/2002,Saturday,All Saints Day,National holiday
+21/12/2002,Saturday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2002,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+16/01/2003,Thursday,Signing of the Peace Accords,Observance
+08/03/2003,Saturday,Women's Day,Observance
+20/03/2003,Thursday,March Equinox,Season
+13/04/2003,Sunday,Palm Sunday,"Observance, Christian"
+17/04/2003,Thursday,Maundy Thursday,"National holiday, Christian"
+18/04/2003,Friday,Good Friday,"National holiday, Christian"
+19/04/2003,Saturday,Holy Saturday,"National holiday, Christian"
+20/04/2003,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+03/05/2003,Saturday,Cross Day,Observance
+07/05/2003,Wednesday,Soldiers' Day,Observance
+10/05/2003,Saturday,Mothers' Day,National holiday
+17/06/2003,Tuesday,Fathers' Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+22/06/2003,Sunday,Teachers' Day,Optional holiday
+03/08/2003,Sunday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2003,Tuesday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2003,Wednesday,Celebrations of San Salvador,National holiday
+15/09/2003,Monday,Independence Day,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+01/10/2003,Wednesday,Children's Day,Observance
+12/10/2003,Sunday,Columbus Day,Observance
+02/11/2003,Sunday,All Saints Day,National holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2003,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+16/01/2004,Friday,Signing of the Peace Accords,Observance
+08/03/2004,Monday,Women's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+04/04/2004,Sunday,Palm Sunday,"Observance, Christian"
+08/04/2004,Thursday,Maundy Thursday,"National holiday, Christian"
+09/04/2004,Friday,Good Friday,"National holiday, Christian"
+10/04/2004,Saturday,Holy Saturday,"National holiday, Christian"
+11/04/2004,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+03/05/2004,Monday,Cross Day,Observance
+07/05/2004,Friday,Soldiers' Day,Observance
+10/05/2004,Monday,Mothers' Day,National holiday
+17/06/2004,Thursday,Fathers' Day,Observance
+20/06/2004,Sunday,June Solstice,Season
+22/06/2004,Tuesday,Teachers' Day,Optional holiday
+03/08/2004,Tuesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2004,Thursday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2004,Friday,Celebrations of San Salvador,National holiday
+15/09/2004,Wednesday,Independence Day,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+01/10/2004,Friday,Children's Day,Observance
+12/10/2004,Tuesday,Columbus Day,Observance
+02/11/2004,Tuesday,All Saints Day,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,"Observance, Christian"
+25/12/2004,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+16/01/2005,Sunday,Signing of the Peace Accords,Observance
+08/03/2005,Tuesday,Women's Day,Observance
+20/03/2005,Sunday,Palm Sunday,"Observance, Christian"
+20/03/2005,Sunday,March Equinox,Season
+24/03/2005,Thursday,Maundy Thursday,"National holiday, Christian"
+25/03/2005,Friday,Good Friday,"National holiday, Christian"
+26/03/2005,Saturday,Holy Saturday,"National holiday, Christian"
+27/03/2005,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+03/05/2005,Tuesday,Cross Day,Observance
+07/05/2005,Saturday,Soldiers' Day,Observance
+10/05/2005,Tuesday,Mothers' Day,National holiday
+17/06/2005,Friday,Fathers' Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+22/06/2005,Wednesday,Teachers' Day,Optional holiday
+03/08/2005,Wednesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2005,Friday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2005,Saturday,Celebrations of San Salvador,National holiday
+15/09/2005,Thursday,Independence Day,National holiday
+22/09/2005,Thursday,September Equinox,Season
+01/10/2005,Saturday,Children's Day,Observance
+12/10/2005,Wednesday,Columbus Day,Observance
+02/11/2005,Wednesday,All Saints Day,National holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2005,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2005,Monday,Christmas Day observed,"National holiday, Christian"
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+16/01/2006,Monday,Signing of the Peace Accords,Observance
+08/03/2006,Wednesday,Women's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+09/04/2006,Sunday,Palm Sunday,"Observance, Christian"
+13/04/2006,Thursday,Maundy Thursday,"National holiday, Christian"
+14/04/2006,Friday,Good Friday,"National holiday, Christian"
+15/04/2006,Saturday,Holy Saturday,"National holiday, Christian"
+16/04/2006,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2006,Monday,Labor Day / May Day,National holiday
+03/05/2006,Wednesday,Cross Day,Observance
+07/05/2006,Sunday,Soldiers' Day,Observance
+10/05/2006,Wednesday,Mothers' Day,National holiday
+17/06/2006,Saturday,Fathers' Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+22/06/2006,Thursday,Teachers' Day,Optional holiday
+03/08/2006,Thursday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2006,Saturday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2006,Sunday,Celebrations of San Salvador,National holiday
+15/09/2006,Friday,Independence Day,National holiday
+22/09/2006,Friday,September Equinox,Season
+01/10/2006,Sunday,Children's Day,Observance
+12/10/2006,Thursday,Columbus Day,Observance
+02/11/2006,Thursday,All Saints Day,National holiday
+21/12/2006,Thursday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2006,Monday,Christmas Day,"National holiday, Christian"
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+16/01/2007,Tuesday,Signing of the Peace Accords,Observance
+08/03/2007,Thursday,Women's Day,Observance
+20/03/2007,Tuesday,March Equinox,Season
+01/04/2007,Sunday,Palm Sunday,"Observance, Christian"
+05/04/2007,Thursday,Maundy Thursday,"National holiday, Christian"
+06/04/2007,Friday,Good Friday,"National holiday, Christian"
+07/04/2007,Saturday,Holy Saturday,"National holiday, Christian"
+08/04/2007,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+03/05/2007,Thursday,Cross Day,Observance
+07/05/2007,Monday,Soldiers' Day,Observance
+10/05/2007,Thursday,Mothers' Day,National holiday
+17/06/2007,Sunday,Fathers' Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+22/06/2007,Friday,Teachers' Day,Optional holiday
+03/08/2007,Friday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2007,Sunday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2007,Monday,Celebrations of San Salvador,National holiday
+15/09/2007,Saturday,Independence Day,National holiday
+23/09/2007,Sunday,September Equinox,Season
+01/10/2007,Monday,Children's Day,Observance
+12/10/2007,Friday,Columbus Day,Observance
+02/11/2007,Friday,All Saints Day,National holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,"Observance, Christian"
+25/12/2007,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+16/01/2008,Wednesday,Signing of the Peace Accords,Observance
+08/03/2008,Saturday,Women's Day,Observance
+16/03/2008,Sunday,Palm Sunday,"Observance, Christian"
+19/03/2008,Wednesday,March Equinox,Season
+20/03/2008,Thursday,Maundy Thursday,"National holiday, Christian"
+21/03/2008,Friday,Good Friday,"National holiday, Christian"
+22/03/2008,Saturday,Holy Saturday,"National holiday, Christian"
+23/03/2008,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+03/05/2008,Saturday,Cross Day,Observance
+07/05/2008,Wednesday,Soldiers' Day,Observance
+10/05/2008,Saturday,Mothers' Day,National holiday
+17/06/2008,Tuesday,Fathers' Day,Observance
+20/06/2008,Friday,June Solstice,Season
+22/06/2008,Sunday,Teachers' Day,Optional holiday
+03/08/2008,Sunday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2008,Tuesday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2008,Wednesday,Celebrations of San Salvador,National holiday
+15/09/2008,Monday,Independence Day,National holiday
+22/09/2008,Monday,September Equinox,Season
+01/10/2008,Wednesday,Children's Day,Observance
+12/10/2008,Sunday,Columbus Day,Observance
+02/11/2008,Sunday,All Saints Day,National holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2008,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+16/01/2009,Friday,Signing of the Peace Accords,Observance
+08/03/2009,Sunday,Women's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+05/04/2009,Sunday,Palm Sunday,"Observance, Christian"
+09/04/2009,Thursday,Maundy Thursday,"National holiday, Christian"
+10/04/2009,Friday,Good Friday,"National holiday, Christian"
+11/04/2009,Saturday,Holy Saturday,"National holiday, Christian"
+12/04/2009,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2009,Friday,Labor Day / May Day,National holiday
+03/05/2009,Sunday,Cross Day,Observance
+07/05/2009,Thursday,Soldiers' Day,Observance
+10/05/2009,Sunday,Mothers' Day,National holiday
+17/06/2009,Wednesday,Fathers' Day,Observance
+20/06/2009,Saturday,June Solstice,Season
+22/06/2009,Monday,Teachers' Day,Optional holiday
+03/08/2009,Monday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2009,Wednesday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2009,Thursday,Celebrations of San Salvador,National holiday
+15/09/2009,Tuesday,Independence Day,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+01/10/2009,Thursday,Children's Day,Observance
+12/10/2009,Monday,Columbus Day,Observance
+02/11/2009,Monday,All Saints Day,National holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,"Observance, Christian"
+25/12/2009,Friday,Christmas Day,"National holiday, Christian"
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+16/01/2010,Saturday,Signing of the Peace Accords,Observance
+08/03/2010,Monday,Women's Day,Observance
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Palm Sunday,"Observance, Christian"
+01/04/2010,Thursday,Maundy Thursday,"National holiday, Christian"
+02/04/2010,Friday,Good Friday,"National holiday, Christian"
+03/04/2010,Saturday,Holy Saturday,"National holiday, Christian"
+04/04/2010,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+03/05/2010,Monday,Cross Day,Observance
+07/05/2010,Friday,Soldiers' Day,Observance
+10/05/2010,Monday,Mothers' Day,National holiday
+17/06/2010,Thursday,Fathers' Day,Observance
+21/06/2010,Monday,June Solstice,Season
+22/06/2010,Tuesday,Teachers' Day,Optional holiday
+03/08/2010,Tuesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2010,Thursday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2010,Friday,Celebrations of San Salvador,National holiday
+15/09/2010,Wednesday,Independence Day,National holiday
+22/09/2010,Wednesday,September Equinox,Season
+01/10/2010,Friday,Children's Day,Observance
+12/10/2010,Tuesday,Columbus Day,Observance
+02/11/2010,Tuesday,All Saints Day,National holiday
+21/12/2010,Tuesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,"Observance, Christian"
+25/12/2010,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+16/01/2011,Sunday,Signing of the Peace Accords,Observance
+08/03/2011,Tuesday,Women's Day,Observance
+20/03/2011,Sunday,March Equinox,Season
+17/04/2011,Sunday,Palm Sunday,"Observance, Christian"
+21/04/2011,Thursday,Maundy Thursday,"National holiday, Christian"
+22/04/2011,Friday,Good Friday,"National holiday, Christian"
+23/04/2011,Saturday,Holy Saturday,"National holiday, Christian"
+24/04/2011,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+03/05/2011,Tuesday,Cross Day,Observance
+07/05/2011,Saturday,Soldiers' Day,Observance
+10/05/2011,Tuesday,Mothers' Day,National holiday
+17/06/2011,Friday,Fathers' Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+22/06/2011,Wednesday,Teachers' Day,Optional holiday
+03/08/2011,Wednesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2011,Friday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2011,Saturday,Celebrations of San Salvador,National holiday
+15/09/2011,Thursday,Independence Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+01/10/2011,Saturday,Children's Day,Observance
+12/10/2011,Wednesday,Columbus Day,Observance
+02/11/2011,Wednesday,All Saints Day,National holiday
+21/12/2011,Wednesday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2011,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2011,Monday,Christmas Day observed,"National holiday, Christian"
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+16/01/2012,Monday,Signing of the Peace Accords,Observance
+08/03/2012,Thursday,Women's Day,Observance
+19/03/2012,Monday,March Equinox,Season
+01/04/2012,Sunday,Palm Sunday,"Observance, Christian"
+05/04/2012,Thursday,Maundy Thursday,"National holiday, Christian"
+06/04/2012,Friday,Good Friday,"National holiday, Christian"
+07/04/2012,Saturday,Holy Saturday,"National holiday, Christian"
+08/04/2012,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+03/05/2012,Thursday,Cross Day,Observance
+07/05/2012,Monday,Soldiers' Day,Observance
+10/05/2012,Thursday,Mothers' Day,National holiday
+17/06/2012,Sunday,Fathers' Day,Observance
+20/06/2012,Wednesday,June Solstice,Season
+22/06/2012,Friday,Teachers' Day,Optional holiday
+03/08/2012,Friday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2012,Sunday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2012,Monday,Celebrations of San Salvador,National holiday
+15/09/2012,Saturday,Independence Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+01/10/2012,Monday,Children's Day,Observance
+12/10/2012,Friday,Columbus Day,Observance
+02/11/2012,Friday,All Saints Day,National holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,"Observance, Christian"
+25/12/2012,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+16/01/2013,Wednesday,Signing of the Peace Accords,Observance
+08/03/2013,Friday,Women's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+24/03/2013,Sunday,Palm Sunday,"Observance, Christian"
+28/03/2013,Thursday,Maundy Thursday,"National holiday, Christian"
+29/03/2013,Friday,Good Friday,"National holiday, Christian"
+30/03/2013,Saturday,Holy Saturday,"National holiday, Christian"
+31/03/2013,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+03/05/2013,Friday,Cross Day,Observance
+07/05/2013,Tuesday,Soldiers' Day,Observance
+10/05/2013,Friday,Mothers' Day,National holiday
+17/06/2013,Monday,Fathers' Day,National holiday
+20/06/2013,Thursday,June Solstice,Season
+22/06/2013,Saturday,Teachers' Day,Optional holiday
+03/08/2013,Saturday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2013,Monday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2013,Tuesday,Celebrations of San Salvador,National holiday
+15/09/2013,Sunday,Independence Day,National holiday
+22/09/2013,Sunday,September Equinox,Season
+01/10/2013,Tuesday,Children's Day,Observance
+12/10/2013,Saturday,Columbus Day,Observance
+02/11/2013,Saturday,All Saints Day,National holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2013,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+16/01/2014,Thursday,Signing of the Peace Accords,Observance
+08/03/2014,Saturday,Women's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+13/04/2014,Sunday,Palm Sunday,"Observance, Christian"
+17/04/2014,Thursday,Maundy Thursday,"National holiday, Christian"
+18/04/2014,Friday,Good Friday,"National holiday, Christian"
+19/04/2014,Saturday,Holy Saturday,"National holiday, Christian"
+20/04/2014,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+03/05/2014,Saturday,Cross Day,Observance
+07/05/2014,Wednesday,Soldiers' Day,Observance
+10/05/2014,Saturday,Mothers' Day,National holiday
+17/06/2014,Tuesday,Fathers' Day,National holiday
+21/06/2014,Saturday,June Solstice,Season
+22/06/2014,Sunday,Teachers' Day,Optional holiday
+03/08/2014,Sunday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2014,Tuesday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2014,Wednesday,Celebrations of San Salvador,National holiday
+15/09/2014,Monday,Independence Day,National holiday
+22/09/2014,Monday,September Equinox,Season
+01/10/2014,Wednesday,Children's Day,Observance
+12/10/2014,Sunday,Columbus Day,Observance
+02/11/2014,Sunday,All Saints Day,National holiday
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2014,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+16/01/2015,Friday,Signing of the Peace Accords,Observance
+08/03/2015,Sunday,Women's Day,Observance
+20/03/2015,Friday,March Equinox,Season
+26/03/2015,Thursday,"National Day of Life, Peace and Justice",National holiday
+29/03/2015,Sunday,Palm Sunday,"Observance, Christian"
+02/04/2015,Thursday,Maundy Thursday,"National holiday, Christian"
+03/04/2015,Friday,Good Friday,"National holiday, Christian"
+04/04/2015,Saturday,Holy Saturday,"National holiday, Christian"
+05/04/2015,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2015,Friday,Labor Day / May Day,National holiday
+03/05/2015,Sunday,Cross Day,Observance
+07/05/2015,Thursday,Soldiers' Day,Observance
+10/05/2015,Sunday,Mothers' Day,National holiday
+23/05/2015,Saturday,Beatification of monseñor Romero,National holiday
+17/06/2015,Wednesday,Fathers' Day,National holiday
+21/06/2015,Sunday,June Solstice,Season
+22/06/2015,Monday,Teachers' Day,Optional holiday
+03/08/2015,Monday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2015,Wednesday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2015,Thursday,Celebrations of San Salvador,National holiday
+15/09/2015,Tuesday,Independence Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+01/10/2015,Thursday,Children's Day,Observance
+12/10/2015,Monday,Columbus Day,Observance
+02/11/2015,Monday,All Saints Day,National holiday
+21/12/2015,Monday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,"Observance, Christian"
+25/12/2015,Friday,Christmas Day,"National holiday, Christian"
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+16/01/2016,Saturday,Signing of the Peace Accords,Observance
+08/03/2016,Tuesday,Women's Day,Observance
+19/03/2016,Saturday,March Equinox,Season
+20/03/2016,Sunday,Palm Sunday,"Observance, Christian"
+24/03/2016,Thursday,Maundy Thursday,"National holiday, Christian"
+25/03/2016,Friday,Good Friday,"National holiday, Christian"
+26/03/2016,Saturday,Holy Saturday,"National holiday, Christian"
+26/03/2016,Saturday,"National Day of Life, Peace and Justice",Observance
+27/03/2016,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+03/05/2016,Tuesday,Cross Day,Observance
+07/05/2016,Saturday,Soldiers' Day,Observance
+10/05/2016,Tuesday,Mothers' Day,National holiday
+17/06/2016,Friday,Fathers' Day,National holiday
+20/06/2016,Monday,June Solstice,Season
+22/06/2016,Wednesday,Teachers' Day,Optional holiday
+03/08/2016,Wednesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2016,Friday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2016,Saturday,Celebrations of San Salvador,National holiday
+15/09/2016,Thursday,Independence Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+01/10/2016,Saturday,Children's Day,Observance
+12/10/2016,Wednesday,Columbus Day,Observance
+02/11/2016,Wednesday,All Saints Day,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2016,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2016,Monday,Christmas Day observed,"National holiday, Christian"
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+16/01/2017,Monday,Signing of the Peace Accords,Observance
+08/03/2017,Wednesday,Women's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,"National Day of Life, Peace and Justice",Observance
+09/04/2017,Sunday,Palm Sunday,"Observance, Christian"
+13/04/2017,Thursday,Maundy Thursday,"National holiday, Christian"
+14/04/2017,Friday,Good Friday,"National holiday, Christian"
+15/04/2017,Saturday,Holy Saturday,"National holiday, Christian"
+16/04/2017,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2017,Monday,Labor Day / May Day,National holiday
+03/05/2017,Wednesday,Cross Day,Observance
+07/05/2017,Sunday,Soldiers' Day,Observance
+10/05/2017,Wednesday,Mothers' Day,National holiday
+17/06/2017,Saturday,Fathers' Day,National holiday
+20/06/2017,Tuesday,June Solstice,Season
+22/06/2017,Thursday,Teachers' Day,Optional holiday
+03/08/2017,Thursday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2017,Saturday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2017,Sunday,Celebrations of San Salvador,National holiday
+15/09/2017,Friday,Independence Day,National holiday
+22/09/2017,Friday,September Equinox,Season
+01/10/2017,Sunday,Children's Day,Observance
+12/10/2017,Thursday,Columbus Day,Observance
+02/11/2017,Thursday,All Saints Day,National holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2017,Monday,Christmas Day,"National holiday, Christian"
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+16/01/2018,Tuesday,Signing of the Peace Accords,Observance
+08/03/2018,Thursday,Women's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Palm Sunday,"Observance, Christian"
+26/03/2018,Monday,"National Day of Life, Peace and Justice",Observance
+29/03/2018,Thursday,Maundy Thursday,"National holiday, Christian"
+30/03/2018,Friday,Good Friday,"National holiday, Christian"
+31/03/2018,Saturday,Holy Saturday,"National holiday, Christian"
+01/04/2018,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+03/05/2018,Thursday,Cross Day,Observance
+07/05/2018,Monday,Soldiers' Day,Observance
+10/05/2018,Thursday,Mothers' Day,National holiday
+17/06/2018,Sunday,Fathers' Day,National holiday
+21/06/2018,Thursday,June Solstice,Season
+22/06/2018,Friday,Teachers' Day,Optional holiday
+03/08/2018,Friday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2018,Sunday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2018,Monday,Celebrations of San Salvador,National holiday
+15/09/2018,Saturday,Independence Day,National holiday
+22/09/2018,Saturday,September Equinox,Season
+01/10/2018,Monday,Children's Day,Observance
+12/10/2018,Friday,Columbus Day,Observance
+02/11/2018,Friday,All Saints Day,National holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,"Observance, Christian"
+25/12/2018,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+16/01/2019,Wednesday,Signing of the Peace Accords,Observance
+08/03/2019,Friday,Women's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+26/03/2019,Tuesday,"National Day of Life, Peace and Justice",Observance
+14/04/2019,Sunday,Palm Sunday,"Observance, Christian"
+18/04/2019,Thursday,Maundy Thursday,"National holiday, Christian"
+19/04/2019,Friday,Good Friday,"National holiday, Christian"
+20/04/2019,Saturday,Holy Saturday,"National holiday, Christian"
+21/04/2019,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+03/05/2019,Friday,Cross Day,Observance
+07/05/2019,Tuesday,Soldiers' Day,Observance
+10/05/2019,Friday,Mothers' Day,National holiday
+17/06/2019,Monday,Fathers' Day,National holiday
+21/06/2019,Friday,June Solstice,Season
+22/06/2019,Saturday,Teachers' Day,Optional holiday
+03/08/2019,Saturday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2019,Monday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2019,Tuesday,Celebrations of San Salvador,National holiday
+15/09/2019,Sunday,Independence Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+01/10/2019,Tuesday,Children's Day,Observance
+12/10/2019,Saturday,Columbus Day,Observance
+02/11/2019,Saturday,All Saints Day,National holiday
+21/12/2019,Saturday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2019,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+16/01/2020,Thursday,Signing of the Peace Accords,Observance
+08/03/2020,Sunday,Women's Day,Observance
+19/03/2020,Thursday,March Equinox,Season
+26/03/2020,Thursday,"National Day of Life, Peace and Justice",Observance
+05/04/2020,Sunday,Palm Sunday,"Observance, Christian"
+09/04/2020,Thursday,Maundy Thursday,"National holiday, Christian"
+10/04/2020,Friday,Good Friday,"National holiday, Christian"
+11/04/2020,Saturday,Holy Saturday,"National holiday, Christian"
+12/04/2020,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2020,Friday,Labor Day / May Day,National holiday
+03/05/2020,Sunday,Cross Day,Observance
+07/05/2020,Thursday,Soldiers' Day,Observance
+10/05/2020,Sunday,Mothers' Day,National holiday
+17/06/2020,Wednesday,Fathers' Day,National holiday
+20/06/2020,Saturday,June Solstice,Season
+22/06/2020,Monday,Teachers' Day,Optional holiday
+03/08/2020,Monday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2020,Wednesday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2020,Thursday,Celebrations of San Salvador,National holiday
+15/09/2020,Tuesday,Independence Day,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+01/10/2020,Thursday,Children's Day,Observance
+12/10/2020,Monday,Columbus Day,Observance
+02/11/2020,Monday,All Saints Day,National holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,"Observance, Christian"
+25/12/2020,Friday,Christmas Day,"National holiday, Christian"
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+16/01/2021,Saturday,Signing of the Peace Accords,Observance
+08/03/2021,Monday,Women's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+26/03/2021,Friday,"National Day of Life, Peace and Justice",Observance
+28/03/2021,Sunday,Palm Sunday,"Observance, Christian"
+01/04/2021,Thursday,Maundy Thursday,"National holiday, Christian"
+02/04/2021,Friday,Good Friday,"National holiday, Christian"
+03/04/2021,Saturday,Holy Saturday,"National holiday, Christian"
+04/04/2021,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2021,Saturday,Labor Day / May Day,National holiday
+03/05/2021,Monday,Cross Day,Observance
+07/05/2021,Friday,Soldiers' Day,Observance
+10/05/2021,Monday,Mothers' Day,National holiday
+17/06/2021,Thursday,Fathers' Day,National holiday
+20/06/2021,Sunday,June Solstice,Season
+22/06/2021,Tuesday,Teachers' Day,Optional holiday
+03/08/2021,Tuesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2021,Thursday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2021,Friday,Celebrations of San Salvador,National holiday
+15/09/2021,Wednesday,Independence Day,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+01/10/2021,Friday,Children's Day,Observance
+12/10/2021,Tuesday,Columbus Day,Observance
+02/11/2021,Tuesday,All Saints Day,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,"Observance, Christian"
+25/12/2021,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+16/01/2022,Sunday,Signing of the Peace Accords,Observance
+08/03/2022,Tuesday,Women's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+26/03/2022,Saturday,"National Day of Life, Peace and Justice",Observance
+10/04/2022,Sunday,Palm Sunday,"Observance, Christian"
+14/04/2022,Thursday,Maundy Thursday,"National holiday, Christian"
+15/04/2022,Friday,Good Friday,"National holiday, Christian"
+16/04/2022,Saturday,Holy Saturday,"National holiday, Christian"
+17/04/2022,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+03/05/2022,Tuesday,Cross Day,Observance
+07/05/2022,Saturday,Soldiers' Day,Observance
+10/05/2022,Tuesday,Mothers' Day,National holiday
+17/06/2022,Friday,Fathers' Day,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+22/06/2022,Wednesday,Teachers' Day,Optional holiday
+03/08/2022,Wednesday,San Salvador Day 1 (S. Salvador only),Local holiday
+05/08/2022,Friday,San Salvador Day 2 (S. Salvador only),Local holiday
+06/08/2022,Saturday,Celebrations of San Salvador,National holiday
+15/09/2022,Thursday,Independence Day,National holiday
+22/09/2022,Thursday,September Equinox,Season
+01/10/2022,Saturday,Children's Day,Observance
+02/11/2022,Wednesday,All Saints Day,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2022,Sunday,Christmas Day,"National holiday, Christian"
+31/12/2022,Saturday,New Year's Eve,Observance

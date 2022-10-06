@@ -1,0 +1,321 @@
+Date,Day,Name,Type
+01/01/2011,Saturday,New Year's Day,Official holiday
+15/02/2011,Tuesday,The Prophet's Birthday,Official holiday
+25/02/2011,Friday,National Day,Official holiday
+26/02/2011,Saturday,Liberation Day,Official holiday
+21/03/2011,Monday,March Equinox,Season
+21/06/2011,Tuesday,June Solstice,Season
+29/06/2011,Wednesday,Isra and Miraj,Official holiday
+30/08/2011,Tuesday,Eid al-Fitr,Official holiday
+31/08/2011,Wednesday,Eid al-Fitr holiday,Official holiday
+01/09/2011,Thursday,Eid al-Fitr holiday,Official holiday
+23/09/2011,Friday,September Equinox,Season
+05/11/2011,Saturday,Waqfat Arafat Day,Official holiday
+06/11/2011,Sunday,Eid al-Adha,Official holiday
+07/11/2011,Monday,Eid al-Adha holiday,Official holiday
+08/11/2011,Tuesday,Eid al-Adha holiday,Official holiday
+26/11/2011,Saturday,Islamic New Year,Official holiday
+22/12/2011,Thursday,December Solstice,Season
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,Official holiday
+05/02/2012,Sunday,The Prophet's Birthday,Official holiday
+25/02/2012,Saturday,National Day,Official holiday
+26/02/2012,Sunday,Liberation Day,Official holiday
+27/02/2012,Monday,National Day holiday,Official holiday
+20/03/2012,Tuesday,March Equinox,Season
+17/06/2012,Sunday,Isra and Miraj,Official holiday
+21/06/2012,Thursday,June Solstice,Season
+19/08/2012,Sunday,Eid al-Fitr,Official holiday
+20/08/2012,Monday,Eid al-Fitr holiday,Official holiday
+21/08/2012,Tuesday,Eid al-Fitr holiday,Official holiday
+22/09/2012,Saturday,September Equinox,Season
+25/10/2012,Thursday,Waqfat Arafat Day,Official holiday
+26/10/2012,Friday,Eid al-Adha,Official holiday
+27/10/2012,Saturday,Eid al-Adha holiday,Official holiday
+28/10/2012,Sunday,Eid al-Adha holiday,Official holiday
+29/10/2012,Monday,Eid al-Adha holiday,Official holiday
+15/11/2012,Thursday,Islamic New Year,Official holiday
+21/12/2012,Friday,December Solstice,Season
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,Official holiday
+24/01/2013,Thursday,The Prophet's Birthday,Official holiday
+25/02/2013,Monday,National Day,Official holiday
+26/02/2013,Tuesday,Liberation Day,Official holiday
+20/03/2013,Wednesday,March Equinox,Season
+06/06/2013,Thursday,Isra and Miraj,Official holiday
+21/06/2013,Friday,June Solstice,Season
+08/08/2013,Thursday,Eid al-Fitr,Official holiday
+09/08/2013,Friday,Eid al-Fitr holiday,Official holiday
+10/08/2013,Saturday,Eid al-Fitr holiday,Official holiday
+11/08/2013,Sunday,Eid al-Fitr holiday,Government Holiday
+22/09/2013,Sunday,September Equinox,Season
+16/10/2013,Wednesday,Eid al-Adha holiday,Official holiday
+17/10/2013,Thursday,Eid al-Adha holiday,Official holiday
+05/11/2013,Tuesday,Islamic New Year,Official holiday
+21/12/2013,Saturday,December Solstice,Season
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,Official holiday
+16/01/2014,Thursday,The Prophet's Birthday,Official holiday
+25/02/2014,Tuesday,National Day,Official holiday
+26/02/2014,Wednesday,Liberation Day,Official holiday
+20/03/2014,Thursday,March Equinox,Season
+29/05/2014,Thursday,Isra and Miraj,Official holiday
+21/06/2014,Saturday,June Solstice,Season
+28/07/2014,Monday,Eid al-Fitr,Official holiday
+29/07/2014,Tuesday,Eid al-Fitr holiday,Official holiday
+30/07/2014,Wednesday,Eid al-Fitr holiday,Official holiday
+23/09/2014,Tuesday,September Equinox,Season
+03/10/2014,Friday,Waqfat Arafat Day,Official holiday
+04/10/2014,Saturday,Eid al-Adha,Official holiday
+05/10/2014,Sunday,Eid al-Adha holiday,Official holiday
+06/10/2014,Monday,Eid al-Adha holiday,Official holiday
+07/10/2014,Tuesday,Eid al-Adha holiday,Official holiday
+25/10/2014,Saturday,Islamic New Year,Official holiday
+22/12/2014,Monday,December Solstice,Season
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,Official holiday
+25/02/2015,Wednesday,National Day,Official holiday
+26/02/2015,Thursday,Liberation Day,Official holiday
+21/03/2015,Saturday,March Equinox,Season
+16/05/2015,Saturday,Isra and Miraj,Official holiday
+21/06/2015,Sunday,June Solstice,Season
+17/07/2015,Friday,Eid al-Fitr holiday,Government Holiday
+18/07/2015,Saturday,Eid al-Fitr,Official holiday
+19/07/2015,Sunday,Eid al-Fitr holiday,Official holiday
+20/07/2015,Monday,Eid al-Fitr holiday,Official holiday
+23/09/2015,Wednesday,September Equinox,Season
+25/09/2015,Friday,Eid al-Adha holiday,Official holiday
+26/09/2015,Saturday,Eid al-Adha holiday,Official holiday
+27/09/2015,Sunday,Eid al-Adha holiday,Official holiday
+15/10/2015,Thursday,Islamic New Year,Official holiday
+22/12/2015,Tuesday,December Solstice,Season
+23/12/2015,Wednesday,The Prophet's Birthday,Official holiday
+31/12/2015,Thursday,New Year's Eve,Official holiday
+01/01/2016,Friday,New Year's Day,Official holiday
+25/02/2016,Thursday,National Day,Official holiday
+26/02/2016,Friday,Liberation Day,Official holiday
+20/03/2016,Sunday,March Equinox,Season
+05/05/2016,Thursday,Isra and Miraj,Official holiday
+21/06/2016,Tuesday,June Solstice,Season
+05/07/2016,Tuesday,Eid al-Fitr holiday,Government Holiday
+06/07/2016,Wednesday,Eid al-Fitr,Official holiday
+07/07/2016,Thursday,Eid al-Fitr holiday,Official holiday
+08/07/2016,Friday,Eid al-Fitr holiday,Official holiday
+09/07/2016,Saturday,Eid al-Fitr holiday,Government Holiday
+14/09/2016,Wednesday,Eid al-Adha holiday,Official holiday
+15/09/2016,Thursday,Eid al-Adha holiday,Official holiday
+22/09/2016,Thursday,September Equinox,Season
+03/10/2016,Monday,Islamic New Year,Official holiday
+12/12/2016,Monday,The Prophet's Birthday,Official holiday
+21/12/2016,Wednesday,December Solstice,Season
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,Official holiday
+25/02/2017,Saturday,National Day,Official holiday
+26/02/2017,Sunday,Liberation Day,Official holiday
+20/03/2017,Monday,March Equinox,Season
+27/04/2017,Thursday,Isra and Miraj,Official holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid al-Fitr,Official holiday
+27/06/2017,Tuesday,Eid al-Fitr holiday,Official holiday
+28/06/2017,Wednesday,Eid al-Fitr holiday,Official holiday
+03/09/2017,Sunday,Eid al-Adha holiday,Official holiday
+04/09/2017,Monday,Eid al-Adha holiday,Official holiday
+22/09/2017,Friday,Islamic New Year,Official holiday
+22/09/2017,Friday,September Equinox,Season
+01/12/2017,Friday,The Prophet's Birthday,Official holiday
+21/12/2017,Thursday,December Solstice,Season
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,Official holiday
+25/02/2018,Sunday,National Day,Official holiday
+26/02/2018,Monday,Liberation Day,Official holiday
+20/03/2018,Tuesday,March Equinox,Season
+15/04/2018,Sunday,Isra and Miraj,Official holiday
+15/06/2018,Friday,Eid al-Fitr,Official holiday
+16/06/2018,Saturday,Eid al-Fitr holiday,Official holiday
+17/06/2018,Sunday,Eid al-Fitr holiday,Official holiday
+18/06/2018,Monday,Eid al-Fitr holiday,Government Holiday
+21/06/2018,Thursday,June Solstice,Season
+19/08/2018,Sunday,Eid al-Adha holiday,Official holiday
+20/08/2018,Monday,Waqfat Arafat Day,Official holiday
+21/08/2018,Tuesday,Eid al-Adha,Official holiday
+22/08/2018,Wednesday,Eid al-Adha holiday,Official holiday
+23/08/2018,Thursday,Eid al-Adha holiday,Official holiday
+11/09/2018,Tuesday,Islamic New Year,Official holiday
+23/09/2018,Sunday,September Equinox,Season
+22/11/2018,Thursday,The Prophet's Birthday,Official holiday
+22/12/2018,Saturday,December Solstice,Season
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,Official holiday
+24/02/2019,Sunday,National and Liberation Day Holiday,Official holiday
+25/02/2019,Monday,National Day,Official holiday
+26/02/2019,Tuesday,Liberation Day,Official holiday
+21/03/2019,Thursday,March Equinox,Season
+03/04/2019,Wednesday,Isra and Miraj,Official holiday
+04/06/2019,Tuesday,Eid al-Fitr,Official holiday
+05/06/2019,Wednesday,Eid al-Fitr holiday,Official holiday
+06/06/2019,Thursday,Eid al-Fitr holiday,Official holiday
+21/06/2019,Friday,June Solstice,Season
+10/08/2019,Saturday,Waqfat Arafat Day,Official holiday
+11/08/2019,Sunday,Eid al-Adha,Official holiday
+12/08/2019,Monday,Eid al-Adha holiday,Official holiday
+13/08/2019,Tuesday,Eid al-Adha holiday,Official holiday
+31/08/2019,Saturday,Islamic New Year,Official holiday
+23/09/2019,Monday,September Equinox,Season
+09/11/2019,Saturday,The Prophet's Birthday,Official holiday
+22/12/2019,Sunday,December Solstice,Season
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,Official holiday
+02/01/2020,Thursday,New Year's Day Holiday,Official holiday
+11/01/2020,Saturday,Mourning Holiday for Sultan Qaboos Bin Said,Government Holiday
+12/01/2020,Sunday,Mourning Holiday for Sultan Qaboos Bin Said,Government Holiday
+13/01/2020,Monday,Mourning Holiday for Sultan Qaboos Bin Said,Government Holiday
+25/02/2020,Tuesday,National Day,Official holiday
+26/02/2020,Wednesday,Liberation Day,Official holiday
+27/02/2020,Thursday,National and Liberation Day Holiday,Official holiday
+12/03/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+13/03/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+14/03/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+15/03/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+16/03/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+17/03/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+18/03/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+19/03/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+20/03/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+20/03/2020,Friday,March Equinox,Season
+21/03/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+22/03/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+22/03/2020,Sunday,Isra and Miraj,Official holiday
+23/03/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+24/03/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+25/03/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+26/03/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+27/03/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+28/03/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+29/03/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+30/03/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+31/03/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+01/04/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+02/04/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+03/04/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+04/04/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+05/04/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+06/04/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+07/04/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+08/04/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+09/04/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+10/04/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+11/04/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+12/04/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+13/04/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+14/04/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+15/04/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+16/04/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+17/04/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+18/04/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+19/04/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+20/04/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+21/04/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+22/04/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+23/04/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+24/04/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+25/04/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+26/04/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+27/04/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+28/04/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+29/04/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+30/04/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+01/05/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+02/05/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+03/05/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+04/05/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+05/05/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+06/05/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+07/05/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+08/05/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+09/05/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+10/05/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+11/05/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+12/05/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+13/05/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+14/05/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+15/05/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+16/05/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+17/05/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+18/05/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+19/05/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+20/05/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+21/05/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+22/05/2020,Friday,Public Holiday,Non-Working Day (COVID-19)
+23/05/2020,Saturday,Public Holiday,Non-Working Day (COVID-19)
+24/05/2020,Sunday,Public Holiday,Non-Working Day (COVID-19)
+24/05/2020,Sunday,Eid al-Fitr,Official holiday
+25/05/2020,Monday,Public Holiday,Non-Working Day (COVID-19)
+25/05/2020,Monday,Eid al-Fitr holiday,Official holiday
+26/05/2020,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+26/05/2020,Tuesday,Eid al-Fitr holiday,Official holiday
+27/05/2020,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+28/05/2020,Thursday,Public Holiday,Non-Working Day (COVID-19)
+21/06/2020,Sunday,June Solstice,Season
+30/07/2020,Thursday,Waqfat Arafat Day,Official holiday
+31/07/2020,Friday,Eid al-Adha,Official holiday
+01/08/2020,Saturday,Eid al-Adha holiday,Official holiday
+02/08/2020,Sunday,Eid al-Adha holiday,Official holiday
+03/08/2020,Monday,Eid al-Adha holiday,Official holiday
+20/08/2020,Thursday,Islamic New Year,Official holiday
+22/09/2020,Tuesday,September Equinox,Season
+29/10/2020,Thursday,The Prophet's Birthday,Official holiday
+21/12/2020,Monday,December Solstice,Season
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,Official holiday
+03/01/2021,Sunday,New Year's Day Holiday,Government Holiday
+25/02/2021,Thursday,National Day,Official holiday
+26/02/2021,Friday,Liberation Day,Official holiday
+11/03/2021,Thursday,Isra and Miraj,Official holiday
+20/03/2021,Saturday,March Equinox,Season
+12/05/2021,Wednesday,Eid al-Fitr holiday,Government Holiday
+13/05/2021,Thursday,Eid al-Fitr,Official holiday
+14/05/2021,Friday,Eid al-Fitr holiday,Official holiday
+15/05/2021,Saturday,Eid al-Fitr holiday,Official holiday
+16/05/2021,Sunday,Eid al-Fitr holiday,Government Holiday
+21/06/2021,Monday,June Solstice,Season
+18/07/2021,Sunday,Eid al-Adha holiday,Official holiday
+19/07/2021,Monday,Waqfat Arafat Day,Official holiday
+20/07/2021,Tuesday,Eid al-Adha,Official holiday
+21/07/2021,Wednesday,Eid al-Adha holiday,Official holiday
+22/07/2021,Thursday,Eid al-Adha holiday,Official holiday
+08/08/2021,Sunday,Islamic New Year holiday,Official holiday
+09/08/2021,Monday,Islamic New Year,Official holiday
+22/09/2021,Wednesday,September Equinox,Season
+21/10/2021,Thursday,The Prophet's Birthday,Official holiday
+21/12/2021,Tuesday,December Solstice,Season
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,Official holiday
+02/01/2022,Sunday,New Year's Day Holiday,Government Holiday
+25/02/2022,Friday,National Day,Official holiday
+26/02/2022,Saturday,Liberation Day,Official holiday
+27/02/2022,Sunday,Public Sector Holiday,Government Holiday
+28/02/2022,Monday,Public Sector Holiday,Government Holiday
+01/03/2022,Tuesday,Isra and Miraj,Official holiday
+02/03/2022,Wednesday,Public Sector Holiday,Government Holiday
+03/03/2022,Thursday,Public Sector Holiday,Government Holiday
+20/03/2022,Sunday,March Equinox,Season
+01/05/2022,Sunday,Eid al-Fitr holiday,Government Holiday
+02/05/2022,Monday,Eid al-Fitr,Official holiday
+03/05/2022,Tuesday,Eid al-Fitr holiday,Official holiday
+04/05/2022,Wednesday,Eid al-Fitr holiday,Official holiday
+05/05/2022,Thursday,Eid al-Fitr holiday,Government Holiday
+21/06/2022,Tuesday,June Solstice,Season
+08/07/2022,Friday,Waqfat Arafat Day,Official holiday
+09/07/2022,Saturday,Eid al-Adha,Official holiday
+10/07/2022,Sunday,Eid al-Adha holiday,Official holiday
+11/07/2022,Monday,Eid al-Adha holiday,Official holiday
+12/07/2022,Tuesday,Public Sector Holiday,Government Holiday
+13/07/2022,Wednesday,Public Sector Holiday,Government Holiday
+14/07/2022,Thursday,Public Sector Holiday,Government Holiday
+30/07/2022,Saturday,Islamic New Year,Official holiday
+31/07/2022,Sunday,Islamic New Year Holiday,Official holiday
+23/09/2022,Friday,September Equinox,Season
+29/09/2022,Thursday,Parliamentary Elections Holiday,Government Holiday
+09/10/2022,Sunday,The Prophet's Birthday,Official holiday
+22/12/2022,Thursday,December Solstice,Season
+31/12/2022,Saturday,New Year's Eve,Observance

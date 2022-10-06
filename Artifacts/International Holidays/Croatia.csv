@@ -1,0 +1,717 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+06/01/2000,Thursday,Epiphany,National holiday
+07/01/2000,Friday,Orthodox Christmas Day,Optional holiday
+08/01/2000,Saturday,Ramadan Bayram,Optional holiday
+16/03/2000,Thursday,Kurban Bayram,Optional holiday
+19/03/2000,Sunday,Father's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,National holiday
+30/04/2000,Sunday,Orthodox Easter Day,Optional holiday
+01/05/2000,Monday,Labor Day / May Day,National holiday
+01/05/2000,Monday,Orthodox Easter Monday,Optional holiday
+14/05/2000,Sunday,Mother's Day,Observance
+21/05/2000,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+21/06/2000,Wednesday,June Solstice,Season
+22/06/2000,Thursday,Corpus Christi,National holiday
+22/06/2000,Thursday,Day of Antifascist Struggle,National holiday
+25/06/2000,Sunday,Statehood Day,National holiday
+05/08/2000,Saturday,Homeland Thanksgiving Day,National holiday
+15/08/2000,Tuesday,Assumption of Mary,National holiday
+22/09/2000,Friday,September Equinox,Season
+30/09/2000,Saturday,Rosh Hashana,Optional holiday
+08/10/2000,Sunday,Independence Day,Observance
+09/10/2000,Monday,Yom Kippur,Optional holiday
+01/11/2000,Wednesday,All Saints' Day,National holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,National holiday
+26/12/2000,Tuesday,St Stephen's Day,National holiday
+28/12/2000,Thursday,Ramadan Bayram,Optional holiday
+01/01/2001,Monday,New Year's Day,National holiday
+06/01/2001,Saturday,Epiphany,National holiday
+07/01/2001,Sunday,Orthodox Christmas Day,Optional holiday
+06/03/2001,Tuesday,Kurban Bayram,Optional holiday
+19/03/2001,Monday,Father's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+15/04/2001,Sunday,Easter Sunday,Observance
+15/04/2001,Sunday,Orthodox Easter Day,Optional holiday
+16/04/2001,Monday,Easter Monday,National holiday
+16/04/2001,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+13/05/2001,Sunday,Mother's Day,Observance
+20/05/2001,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+14/06/2001,Thursday,Corpus Christi,National holiday
+21/06/2001,Thursday,June Solstice,Season
+22/06/2001,Friday,Day of Antifascist Struggle,National holiday
+25/06/2001,Monday,Statehood Day,National holiday
+05/08/2001,Sunday,Homeland Thanksgiving Day,National holiday
+15/08/2001,Wednesday,Assumption of Mary,National holiday
+18/09/2001,Tuesday,Rosh Hashana,Optional holiday
+23/09/2001,Sunday,September Equinox,Season
+27/09/2001,Thursday,Yom Kippur,Optional holiday
+08/10/2001,Monday,Independence Day,Observance
+01/11/2001,Thursday,All Saints' Day,National holiday
+17/12/2001,Monday,Ramadan Bayram,Optional holiday
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,National holiday
+26/12/2001,Wednesday,St Stephen's Day,National holiday
+01/01/2002,Tuesday,New Year's Day,National holiday
+06/01/2002,Sunday,Epiphany,National holiday
+07/01/2002,Monday,Orthodox Christmas Day,Optional holiday
+23/02/2002,Saturday,Kurban Bayram,Optional holiday
+19/03/2002,Tuesday,Father's Day,Observance
+20/03/2002,Wednesday,March Equinox,Season
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,National holiday
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+05/05/2002,Sunday,Orthodox Easter Day,Optional holiday
+06/05/2002,Monday,Orthodox Easter Monday,Optional holiday
+12/05/2002,Sunday,Mother's Day,Observance
+19/05/2002,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+30/05/2002,Thursday,Corpus Christi,National holiday
+21/06/2002,Friday,June Solstice,Season
+22/06/2002,Saturday,Day of Antifascist Struggle,National holiday
+25/06/2002,Tuesday,Statehood Day,National holiday
+05/08/2002,Monday,Homeland Thanksgiving Day,National holiday
+15/08/2002,Thursday,Assumption of Mary,National holiday
+07/09/2002,Saturday,Rosh Hashana,Optional holiday
+16/09/2002,Monday,Yom Kippur,Optional holiday
+23/09/2002,Monday,September Equinox,Season
+08/10/2002,Tuesday,Independence Day,Observance
+01/11/2002,Friday,All Saints' Day,National holiday
+06/12/2002,Friday,Ramadan Bayram,Optional holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,National holiday
+26/12/2002,Thursday,St Stephen's Day,National holiday
+01/01/2003,Wednesday,New Year's Day,National holiday
+06/01/2003,Monday,Epiphany,National holiday
+07/01/2003,Tuesday,Orthodox Christmas Day,Optional holiday
+12/02/2003,Wednesday,Kurban Bayram,Optional holiday
+19/03/2003,Wednesday,Father's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,National holiday
+27/04/2003,Sunday,Orthodox Easter Day,Optional holiday
+28/04/2003,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+11/05/2003,Sunday,Mother's Day,Observance
+18/05/2003,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+19/06/2003,Thursday,Corpus Christi,National holiday
+21/06/2003,Saturday,June Solstice,Season
+22/06/2003,Sunday,Day of Antifascist Struggle,National holiday
+25/06/2003,Wednesday,Statehood Day,National holiday
+05/08/2003,Tuesday,Homeland Thanksgiving Day,National holiday
+15/08/2003,Friday,Assumption of Mary,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+27/09/2003,Saturday,Rosh Hashana,Optional holiday
+06/10/2003,Monday,Yom Kippur,Optional holiday
+08/10/2003,Wednesday,Independence Day,Observance
+01/11/2003,Saturday,All Saints' Day,National holiday
+26/11/2003,Wednesday,Ramadan Bayram,Optional holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,National holiday
+26/12/2003,Friday,St Stephen's Day,National holiday
+01/01/2004,Thursday,New Year's Day,National holiday
+06/01/2004,Tuesday,Epiphany,National holiday
+07/01/2004,Wednesday,Orthodox Christmas Day,Optional holiday
+02/02/2004,Monday,Kurban Bayram,Optional holiday
+19/03/2004,Friday,Father's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+11/04/2004,Sunday,Easter Sunday,Observance
+11/04/2004,Sunday,Orthodox Easter Day,Optional holiday
+12/04/2004,Monday,Easter Monday,National holiday
+12/04/2004,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+09/05/2004,Sunday,Mother's Day,Observance
+16/05/2004,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+10/06/2004,Thursday,Corpus Christi,National holiday
+21/06/2004,Monday,June Solstice,Season
+22/06/2004,Tuesday,Day of Antifascist Struggle,National holiday
+25/06/2004,Friday,Statehood Day,National holiday
+05/08/2004,Thursday,Homeland Thanksgiving Day,National holiday
+15/08/2004,Sunday,Assumption of Mary,National holiday
+16/09/2004,Thursday,Rosh Hashana,Optional holiday
+22/09/2004,Wednesday,September Equinox,Season
+25/09/2004,Saturday,Yom Kippur,Optional holiday
+08/10/2004,Friday,Independence Day,Observance
+01/11/2004,Monday,All Saints' Day,National holiday
+14/11/2004,Sunday,Ramadan Bayram,Optional holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,National holiday
+26/12/2004,Sunday,St Stephen's Day,National holiday
+01/01/2005,Saturday,New Year's Day,National holiday
+06/01/2005,Thursday,Epiphany,National holiday
+07/01/2005,Friday,Orthodox Christmas Day,Optional holiday
+21/01/2005,Friday,Kurban Bayram,Optional holiday
+19/03/2005,Saturday,Father's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,National holiday
+01/05/2005,Sunday,Orthodox Easter Day,Optional holiday
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+02/05/2005,Monday,Orthodox Easter Monday,Optional holiday
+08/05/2005,Sunday,Mother's Day,Observance
+15/05/2005,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+26/05/2005,Thursday,Corpus Christi,National holiday
+21/06/2005,Tuesday,June Solstice,Season
+22/06/2005,Wednesday,Day of Antifascist Struggle,National holiday
+25/06/2005,Saturday,Statehood Day,National holiday
+05/08/2005,Friday,Homeland Thanksgiving Day,National holiday
+15/08/2005,Monday,Assumption of Mary,National holiday
+23/09/2005,Friday,September Equinox,Season
+04/10/2005,Tuesday,Rosh Hashana,Optional holiday
+08/10/2005,Saturday,Independence Day,Observance
+13/10/2005,Thursday,Yom Kippur,Optional holiday
+01/11/2005,Tuesday,All Saints' Day,National holiday
+04/11/2005,Friday,Ramadan Bayram,Optional holiday
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,St Stephen's Day,National holiday
+01/01/2006,Sunday,New Year's Day,National holiday
+06/01/2006,Friday,Epiphany,National holiday
+07/01/2006,Saturday,Orthodox Christmas Day,Optional holiday
+10/01/2006,Tuesday,Kurban Bayram,Optional holiday
+19/03/2006,Sunday,Father's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,National holiday
+23/04/2006,Sunday,Orthodox Easter Day,Optional holiday
+24/04/2006,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2006,Monday,Labor Day / May Day,National holiday
+14/05/2006,Sunday,Mother's Day,Observance
+21/05/2006,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+15/06/2006,Thursday,Corpus Christi,National holiday
+21/06/2006,Wednesday,June Solstice,Season
+22/06/2006,Thursday,Day of Antifascist Struggle,National holiday
+25/06/2006,Sunday,Statehood Day,National holiday
+05/08/2006,Saturday,Homeland Thanksgiving Day,National holiday
+15/08/2006,Tuesday,Assumption of Mary,National holiday
+23/09/2006,Saturday,Rosh Hashana,Optional holiday
+23/09/2006,Saturday,September Equinox,Season
+25/09/2006,Monday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+02/10/2006,Monday,Yom Kippur,Optional holiday
+08/10/2006,Sunday,Independence Day,Observance
+24/10/2006,Tuesday,Ramadan Bayram,Optional holiday
+01/11/2006,Wednesday,All Saints' Day,National holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,National holiday
+26/12/2006,Tuesday,St Stephen's Day,National holiday
+31/12/2006,Sunday,Kurban Bayram,Optional holiday
+01/01/2007,Monday,New Year's Day,National holiday
+06/01/2007,Saturday,Epiphany,National holiday
+07/01/2007,Sunday,Orthodox Christmas Day,Optional holiday
+19/03/2007,Monday,Father's Day,Observance
+21/03/2007,Wednesday,March Equinox,Season
+08/04/2007,Sunday,Easter Sunday,Observance
+08/04/2007,Sunday,Orthodox Easter Day,Optional holiday
+09/04/2007,Monday,Easter Monday,National holiday
+09/04/2007,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+13/05/2007,Sunday,Mother's Day,Observance
+20/05/2007,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+07/06/2007,Thursday,Corpus Christi,National holiday
+21/06/2007,Thursday,June Solstice,Season
+22/06/2007,Friday,Day of Antifascist Struggle,National holiday
+25/06/2007,Monday,Statehood Day,National holiday
+05/08/2007,Sunday,Homeland Thanksgiving Day,National holiday
+15/08/2007,Wednesday,Assumption of Mary,National holiday
+13/09/2007,Thursday,Rosh Hashana,Optional holiday
+22/09/2007,Saturday,Yom Kippur,Optional holiday
+23/09/2007,Sunday,September Equinox,Season
+25/09/2007,Tuesday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+08/10/2007,Monday,Independence Day,Observance
+13/10/2007,Saturday,Ramadan Bayram,Optional holiday
+01/11/2007,Thursday,All Saints' Day,National holiday
+20/12/2007,Thursday,Kurban Bayram,Optional holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,National holiday
+26/12/2007,Wednesday,St Stephen's Day,National holiday
+01/01/2008,Tuesday,New Year's Day,National holiday
+06/01/2008,Sunday,Epiphany,National holiday
+07/01/2008,Monday,Orthodox Christmas Day,Optional holiday
+19/03/2008,Wednesday,Father's Day,Observance
+20/03/2008,Thursday,March Equinox,Season
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,National holiday
+27/04/2008,Sunday,Orthodox Easter Day,Optional holiday
+28/04/2008,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+11/05/2008,Sunday,Mother's Day,Observance
+18/05/2008,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+22/05/2008,Thursday,Corpus Christi,National holiday
+21/06/2008,Saturday,June Solstice,Season
+22/06/2008,Sunday,Day of Antifascist Struggle,National holiday
+25/06/2008,Wednesday,Statehood Day,National holiday
+05/08/2008,Tuesday,Victory Day,National holiday
+15/08/2008,Friday,Assumption of Mary,National holiday
+22/09/2008,Monday,September Equinox,Season
+25/09/2008,Thursday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+30/09/2008,Tuesday,Rosh Hashana,Optional holiday
+02/10/2008,Thursday,Ramadan Bayram,Optional holiday
+08/10/2008,Wednesday,Independence Day,Observance
+09/10/2008,Thursday,Yom Kippur,Optional holiday
+01/11/2008,Saturday,All Saints' Day,National holiday
+09/12/2008,Tuesday,Kurban Bayram,Optional holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,National holiday
+26/12/2008,Friday,St Stephen's Day,National holiday
+01/01/2009,Thursday,New Year's Day,National holiday
+06/01/2009,Tuesday,Epiphany,National holiday
+07/01/2009,Wednesday,Orthodox Christmas Day,Optional holiday
+19/03/2009,Thursday,Father's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,National holiday
+19/04/2009,Sunday,Orthodox Easter Day,Optional holiday
+20/04/2009,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2009,Friday,Labor Day / May Day,National holiday
+10/05/2009,Sunday,Mother's Day,Observance
+17/05/2009,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+11/06/2009,Thursday,Corpus Christi,National holiday
+21/06/2009,Sunday,June Solstice,Season
+22/06/2009,Monday,Day of Antifascist Struggle,National holiday
+25/06/2009,Thursday,Statehood Day,National holiday
+05/08/2009,Wednesday,Victory Day,National holiday
+15/08/2009,Saturday,Assumption of Mary,National holiday
+19/09/2009,Saturday,Rosh Hashana,Optional holiday
+21/09/2009,Monday,Ramadan Bayram,Optional holiday
+22/09/2009,Tuesday,September Equinox,Season
+25/09/2009,Friday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+28/09/2009,Monday,Yom Kippur,Optional holiday
+08/10/2009,Thursday,Independence Day,Observance
+01/11/2009,Sunday,All Saints' Day,National holiday
+28/11/2009,Saturday,Kurban Bayram,Optional holiday
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,National holiday
+26/12/2009,Saturday,St Stephen's Day,National holiday
+01/01/2010,Friday,New Year's Day,National holiday
+06/01/2010,Wednesday,Epiphany,National holiday
+07/01/2010,Thursday,Orthodox Christmas Day,Optional holiday
+19/03/2010,Friday,Father's Day,Observance
+20/03/2010,Saturday,March Equinox,Season
+04/04/2010,Sunday,Easter Sunday,Observance
+04/04/2010,Sunday,Orthodox Easter Day,Optional holiday
+05/04/2010,Monday,Easter Monday,National holiday
+05/04/2010,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+09/05/2010,Sunday,Mother's Day,Observance
+16/05/2010,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+03/06/2010,Thursday,Corpus Christi,National holiday
+21/06/2010,Monday,June Solstice,Season
+22/06/2010,Tuesday,Day of Antifascist Struggle,National holiday
+25/06/2010,Friday,Statehood Day,National holiday
+05/08/2010,Thursday,Victory Day,National holiday
+15/08/2010,Sunday,Assumption of Mary,National holiday
+09/09/2010,Thursday,Rosh Hashana,Optional holiday
+10/09/2010,Friday,Ramadan Bayram,Optional holiday
+18/09/2010,Saturday,Yom Kippur,Optional holiday
+23/09/2010,Thursday,September Equinox,Season
+25/09/2010,Saturday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+08/10/2010,Friday,Independence Day,Observance
+01/11/2010,Monday,All Saints' Day,National holiday
+17/11/2010,Wednesday,Kurban Bayram,Optional holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,National holiday
+26/12/2010,Sunday,St Stephen's Day,National holiday
+01/01/2011,Saturday,New Year's Day,National holiday
+06/01/2011,Thursday,Epiphany,National holiday
+07/01/2011,Friday,Orthodox Christmas Day,Optional holiday
+19/03/2011,Saturday,Father's Day,Observance
+21/03/2011,Monday,March Equinox,Season
+24/04/2011,Sunday,Easter Sunday,Observance
+24/04/2011,Sunday,Orthodox Easter Day,Optional holiday
+25/04/2011,Monday,Easter Monday,National holiday
+25/04/2011,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+08/05/2011,Sunday,Mother's Day,Observance
+15/05/2011,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+21/06/2011,Tuesday,June Solstice,Season
+22/06/2011,Wednesday,Day of Antifascist Struggle,National holiday
+23/06/2011,Thursday,Corpus Christi,National holiday
+25/06/2011,Saturday,Statehood Day,National holiday
+05/08/2011,Friday,Victory Day,National holiday
+15/08/2011,Monday,Assumption of Mary,National holiday
+31/08/2011,Wednesday,Ramadan Bayram,Optional holiday
+23/09/2011,Friday,September Equinox,Season
+25/09/2011,Sunday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+29/09/2011,Thursday,Rosh Hashana,Optional holiday
+08/10/2011,Saturday,Independence Day,Observance
+08/10/2011,Saturday,Yom Kippur,Optional holiday
+01/11/2011,Tuesday,All Saints' Day,National holiday
+07/11/2011,Monday,Kurban Bayram,Optional holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,St Stephen's Day,National holiday
+01/01/2012,Sunday,New Year's Day,National holiday
+06/01/2012,Friday,Epiphany,National holiday
+07/01/2012,Saturday,Orthodox Christmas Day,Optional holiday
+15/03/2012,Thursday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2012,Monday,Father's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,National holiday
+15/04/2012,Sunday,Orthodox Easter Day,Optional holiday
+16/04/2012,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2012,Monday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+13/05/2012,Sunday,Mother's Day,Observance
+20/05/2012,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+07/06/2012,Thursday,Corpus Christi,National holiday
+21/06/2012,Thursday,June Solstice,Season
+22/06/2012,Friday,Day of Antifascist Struggle,National holiday
+25/06/2012,Monday,Statehood Day,National holiday
+05/08/2012,Sunday,Victory Day,National holiday
+15/08/2012,Wednesday,Assumption of Mary,National holiday
+19/08/2012,Sunday,Ramadan Bayram,Optional holiday
+23/08/2012,Thursday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+17/09/2012,Monday,Rosh Hashana,Optional holiday
+22/09/2012,Saturday,September Equinox,Season
+25/09/2012,Tuesday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+26/09/2012,Wednesday,Yom Kippur,Optional holiday
+08/10/2012,Monday,Independence Day,Observance
+26/10/2012,Friday,Kurban Bayram,Optional holiday
+01/11/2012,Thursday,All Saints' Day,National holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,National holiday
+26/12/2012,Wednesday,St Stephen's Day,National holiday
+01/01/2013,Tuesday,New Year's Day,National holiday
+06/01/2013,Sunday,Epiphany,National holiday
+07/01/2013,Monday,Orthodox Christmas Day,Optional holiday
+15/03/2013,Friday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2013,Tuesday,Father's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,National holiday
+30/04/2013,Tuesday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+05/05/2013,Sunday,Orthodox Easter Day,Optional holiday
+06/05/2013,Monday,Orthodox Easter Monday,Optional holiday
+12/05/2013,Sunday,Mother's Day,Observance
+19/05/2013,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+30/05/2013,Thursday,Corpus Christi,National holiday
+21/06/2013,Friday,June Solstice,Season
+22/06/2013,Saturday,Day of Antifascist Struggle,National holiday
+25/06/2013,Tuesday,Statehood Day,National holiday
+05/08/2013,Monday,Victory Day,National holiday
+08/08/2013,Thursday,Ramadan Bayram,Optional holiday
+15/08/2013,Thursday,Assumption of Mary,National holiday
+23/08/2013,Friday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+05/09/2013,Thursday,Rosh Hashana,Optional holiday
+14/09/2013,Saturday,Yom Kippur,Optional holiday
+22/09/2013,Sunday,September Equinox,Season
+25/09/2013,Wednesday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+08/10/2013,Tuesday,Independence Day,Observance
+15/10/2013,Tuesday,Kurban Bayram,Optional holiday
+01/11/2013,Friday,All Saints' Day,National holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,National holiday
+26/12/2013,Thursday,St Stephen's Day,National holiday
+01/01/2014,Wednesday,New Year's Day,National holiday
+06/01/2014,Monday,Epiphany,National holiday
+07/01/2014,Tuesday,Orthodox Christmas Day,Optional holiday
+15/03/2014,Saturday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2014,Wednesday,Father's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+20/04/2014,Sunday,Easter Sunday,Observance
+20/04/2014,Sunday,Orthodox Easter Day,Optional holiday
+21/04/2014,Monday,Easter Monday,National holiday
+21/04/2014,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2014,Wednesday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+11/05/2014,Sunday,Mother's Day,Observance
+18/05/2014,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+19/06/2014,Thursday,Corpus Christi,National holiday
+21/06/2014,Saturday,June Solstice,Season
+22/06/2014,Sunday,Day of Antifascist Struggle,National holiday
+25/06/2014,Wednesday,Statehood Day,National holiday
+29/07/2014,Tuesday,Ramadan Bayram,Optional holiday
+05/08/2014,Tuesday,Victory Day,National holiday
+15/08/2014,Friday,Assumption of Mary,National holiday
+23/08/2014,Saturday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+23/09/2014,Tuesday,September Equinox,Season
+25/09/2014,Thursday,Rosh Hashana,Optional holiday
+25/09/2014,Thursday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+04/10/2014,Saturday,Yom Kippur,Optional holiday
+05/10/2014,Sunday,Kurban Bayram,Optional holiday
+08/10/2014,Wednesday,Independence Day,Observance
+01/11/2014,Saturday,All Saints' Day,National holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,St Stephen's Day,National holiday
+01/01/2015,Thursday,New Year's Day,National holiday
+06/01/2015,Tuesday,Epiphany,National holiday
+07/01/2015,Wednesday,Orthodox Christmas Day,Optional holiday
+15/03/2015,Sunday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2015,Thursday,Father's Day,Observance
+20/03/2015,Friday,March Equinox,Season
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,National holiday
+12/04/2015,Sunday,Orthodox Easter Day,Optional holiday
+13/04/2015,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2015,Thursday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2015,Friday,Labor Day / May Day,National holiday
+10/05/2015,Sunday,Mother's Day,Observance
+17/05/2015,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+04/06/2015,Thursday,Corpus Christi,National holiday
+21/06/2015,Sunday,June Solstice,Season
+22/06/2015,Monday,Day of Antifascist Struggle,National holiday
+25/06/2015,Thursday,Statehood Day,National holiday
+18/07/2015,Saturday,Ramadan Bayram,Optional holiday
+05/08/2015,Wednesday,Victory Day,National holiday
+15/08/2015,Saturday,Assumption of Mary,National holiday
+23/08/2015,Sunday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+14/09/2015,Monday,Rosh Hashana,Optional holiday
+23/09/2015,Wednesday,Yom Kippur,Optional holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Kurban Bayram,Optional holiday
+25/09/2015,Friday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+08/10/2015,Thursday,Independence Day,Observance
+01/11/2015,Sunday,All Saints' Day,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,National holiday
+26/12/2015,Saturday,St Stephen's Day,National holiday
+01/01/2016,Friday,New Year's Day,National holiday
+06/01/2016,Wednesday,Epiphany,National holiday
+07/01/2016,Thursday,Orthodox Christmas Day,Optional holiday
+15/03/2016,Tuesday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2016,Saturday,Father's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,National holiday
+30/04/2016,Saturday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2016,Sunday,Orthodox Easter Day,Optional holiday
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+02/05/2016,Monday,Orthodox Easter Monday,Optional holiday
+08/05/2016,Sunday,Mother's Day,Observance
+15/05/2016,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+26/05/2016,Thursday,Corpus Christi,National holiday
+21/06/2016,Tuesday,June Solstice,Season
+22/06/2016,Wednesday,Day of Antifascist Struggle,National holiday
+25/06/2016,Saturday,Statehood Day,National holiday
+07/07/2016,Thursday,Ramadan Bayram,Optional holiday
+05/08/2016,Friday,Victory Day,National holiday
+15/08/2016,Monday,Assumption of Mary,National holiday
+23/08/2016,Tuesday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+13/09/2016,Tuesday,Kurban Bayram,Optional holiday
+22/09/2016,Thursday,September Equinox,Season
+25/09/2016,Sunday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+03/10/2016,Monday,Rosh Hashana,Optional holiday
+08/10/2016,Saturday,Independence Day,Observance
+12/10/2016,Wednesday,Yom Kippur,Optional holiday
+01/11/2016,Tuesday,All Saints' Day,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,St Stephen's Day,National holiday
+01/01/2017,Sunday,New Year's Day,National holiday
+06/01/2017,Friday,Epiphany,National holiday
+07/01/2017,Saturday,Orthodox Christmas Day,Optional holiday
+15/03/2017,Wednesday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2017,Sunday,Father's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+16/04/2017,Sunday,Easter Sunday,Observance
+16/04/2017,Sunday,Orthodox Easter Day,Optional holiday
+17/04/2017,Monday,Easter Monday,National holiday
+17/04/2017,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2017,Sunday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2017,Monday,Labor Day / May Day,National holiday
+14/05/2017,Sunday,Mother's Day,Observance
+21/05/2017,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+15/06/2017,Thursday,Corpus Christi,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+22/06/2017,Thursday,Day of Antifascist Struggle,National holiday
+25/06/2017,Sunday,Statehood Day,National holiday
+26/06/2017,Monday,Ramadan Bayram,Optional holiday
+05/08/2017,Saturday,Victory Day,National holiday
+15/08/2017,Tuesday,Assumption of Mary,National holiday
+23/08/2017,Wednesday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+02/09/2017,Saturday,Kurban Bayram,Optional holiday
+21/09/2017,Thursday,Rosh Hashana,Optional holiday
+22/09/2017,Friday,September Equinox,Season
+25/09/2017,Monday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+30/09/2017,Saturday,Yom Kippur,Optional holiday
+08/10/2017,Sunday,Independence Day,Observance
+01/11/2017,Wednesday,All Saints' Day,National holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,National holiday
+26/12/2017,Tuesday,St Stephen's Day,National holiday
+01/01/2018,Monday,New Year's Day,National holiday
+06/01/2018,Saturday,Epiphany,National holiday
+07/01/2018,Sunday,Orthodox Christmas Day,Optional holiday
+15/03/2018,Thursday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2018,Monday,Father's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,National holiday
+08/04/2018,Sunday,Orthodox Easter Day,Optional holiday
+09/04/2018,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2018,Monday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+13/05/2018,Sunday,Mother's Day,Observance
+20/05/2018,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+31/05/2018,Thursday,Corpus Christi,National holiday
+15/06/2018,Friday,Ramadan Bayram,Optional holiday
+21/06/2018,Thursday,June Solstice,Season
+22/06/2018,Friday,Day of Antifascist Struggle,National holiday
+25/06/2018,Monday,Statehood Day,National holiday
+05/08/2018,Sunday,Victory Day,National holiday
+15/08/2018,Wednesday,Assumption of Mary,National holiday
+22/08/2018,Wednesday,Kurban Bayram,Optional holiday
+23/08/2018,Thursday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+10/09/2018,Monday,Rosh Hashana,Optional holiday
+19/09/2018,Wednesday,Yom Kippur,Optional holiday
+23/09/2018,Sunday,September Equinox,Season
+25/09/2018,Tuesday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+08/10/2018,Monday,Independence Day,Observance
+01/11/2018,Thursday,All Saints' Day,National holiday
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,St Stephen's Day,National holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+06/01/2019,Sunday,Epiphany,National holiday
+07/01/2019,Monday,Orthodox Christmas Day,Optional holiday
+15/03/2019,Friday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2019,Tuesday,Father's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,National holiday
+28/04/2019,Sunday,Orthodox Easter Day,Optional holiday
+29/04/2019,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2019,Tuesday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+12/05/2019,Sunday,Mother's Day,Observance
+19/05/2019,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+05/06/2019,Wednesday,Ramadan Bayram,Optional holiday
+20/06/2019,Thursday,Corpus Christi,National holiday
+21/06/2019,Friday,June Solstice,Season
+22/06/2019,Saturday,Day of Antifascist Struggle,National holiday
+25/06/2019,Tuesday,Statehood Day,National holiday
+05/08/2019,Monday,Victory Day,National holiday
+11/08/2019,Sunday,Kurban Bayram,Optional holiday
+15/08/2019,Thursday,Assumption of Mary,National holiday
+23/08/2019,Friday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+23/09/2019,Monday,September Equinox,Season
+25/09/2019,Wednesday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+30/09/2019,Monday,Rosh Hashana,Optional holiday
+08/10/2019,Tuesday,Independence Day,Observance
+09/10/2019,Wednesday,Yom Kippur,Optional holiday
+01/11/2019,Friday,All Saints' Day,National holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,National holiday
+26/12/2019,Thursday,St Stephen's Day,National holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+06/01/2020,Monday,Epiphany,National holiday
+07/01/2020,Tuesday,Orthodox Christmas Day,Optional holiday
+09/01/2020,Thursday,Međimurje Unification Day,Observance
+15/01/2020,Wednesday,Day of the International Recognition of the Republic of Croatia,Observance
+15/01/2020,Wednesday,Day of Peaceful Reintegration of the Croatian Danube Region,Observance
+15/03/2020,Sunday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2020,Thursday,Father's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+12/04/2020,Sunday,Easter Sunday,National holiday
+13/04/2020,Monday,Easter Monday,National holiday
+19/04/2020,Sunday,Orthodox Easter Day,Optional holiday
+20/04/2020,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2020,Thursday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2020,Friday,Labor Day / May Day,National holiday
+09/05/2020,Saturday,Europe Day and Victory Day Over Fascism,Observance
+10/05/2020,Sunday,Mother's Day,Observance
+17/05/2020,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+24/05/2020,Sunday,Ramadan Bayram,Optional holiday
+30/05/2020,Saturday,Statehood Day,National holiday
+11/06/2020,Thursday,Corpus Christi,National holiday
+20/06/2020,Saturday,June Solstice,Season
+22/06/2020,Monday,Day of Antifascist Struggle,National holiday
+25/06/2020,Thursday,Independence Day,Observance
+31/07/2020,Friday,Kurban Bayram,Optional holiday
+05/08/2020,Wednesday,Victory Day,National holiday
+15/08/2020,Saturday,Assumption of Mary,National holiday
+23/08/2020,Sunday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+30/08/2020,Sunday,Day of Remembrance of Missing Persons in the Homeland War,Observance
+19/09/2020,Saturday,Rosh Hashana,Optional holiday
+22/09/2020,Tuesday,September Equinox,Season
+25/09/2020,Friday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+28/09/2020,Monday,Yom Kippur,Optional holiday
+08/10/2020,Thursday,Day of the Croatian Parliament,Observance
+01/11/2020,Sunday,All Saints' Day,National holiday
+18/11/2020,Wednesday,Remembrance Day,National holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,National holiday
+26/12/2020,Saturday,St Stephen's Day,National holiday
+01/01/2021,Friday,New Year's Day,National holiday
+06/01/2021,Wednesday,Epiphany,National holiday
+07/01/2021,Thursday,Orthodox Christmas Day,Optional holiday
+09/01/2021,Saturday,Međimurje Unification Day,Observance
+15/01/2021,Friday,Day of the International Recognition of the Republic of Croatia,Observance
+15/01/2021,Friday,Day of Peaceful Reintegration of the Croatian Danube Region,Observance
+15/03/2021,Monday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2021,Friday,Father's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+04/04/2021,Sunday,Easter Sunday,National holiday
+05/04/2021,Monday,Easter Monday,National holiday
+30/04/2021,Friday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2021,Saturday,Labor Day / May Day,National holiday
+02/05/2021,Sunday,Orthodox Easter Day,Optional holiday
+03/05/2021,Monday,Orthodox Easter Monday,Optional holiday
+09/05/2021,Sunday,Mother's Day,Observance
+09/05/2021,Sunday,Europe Day and Victory Day Over Fascism,Observance
+13/05/2021,Thursday,Ramadan Bayram,Optional holiday
+16/05/2021,Sunday,Remembrance Day of Croatian Victims in the Fight for Freedom and Independence,Observance
+30/05/2021,Sunday,Statehood Day,National holiday
+03/06/2021,Thursday,Corpus Christi,National holiday
+21/06/2021,Monday,June Solstice,Season
+22/06/2021,Tuesday,Day of Antifascist Struggle,National holiday
+25/06/2021,Friday,Independence Day,Observance
+20/07/2021,Tuesday,Kurban Bayram,Optional holiday
+05/08/2021,Thursday,Victory Day,National holiday
+15/08/2021,Sunday,Assumption of Mary,National holiday
+23/08/2021,Monday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+30/08/2021,Monday,Day of Remembrance of Missing Persons in the Homeland War,Observance
+07/09/2021,Tuesday,Rosh Hashana,Optional holiday
+16/09/2021,Thursday,Yom Kippur,Optional holiday
+22/09/2021,Wednesday,September Equinox,Season
+25/09/2021,Saturday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+08/10/2021,Friday,Day of the Croatian Parliament,Observance
+01/11/2021,Monday,All Saints' Day,National holiday
+18/11/2021,Thursday,Remembrance Day,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,National holiday
+26/12/2021,Sunday,St Stephen's Day,National holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+06/01/2022,Thursday,Epiphany,National holiday
+07/01/2022,Friday,Orthodox Christmas Day,Optional holiday
+09/01/2022,Sunday,Međimurje Unification Day,Observance
+15/01/2022,Saturday,Day of the International Recognition of the Republic of Croatia,Observance
+15/01/2022,Saturday,Day of Peaceful Reintegration of the Croatian Danube Region,Observance
+15/03/2022,Tuesday,Day of the Establishment of the National Protection in the Republic of Croatia,Observance
+19/03/2022,Saturday,Father's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+17/04/2022,Sunday,Easter Sunday,National holiday
+18/04/2022,Monday,Easter Monday,National holiday
+24/04/2022,Sunday,Orthodox Easter Day,Optional holiday
+25/04/2022,Monday,Orthodox Easter Monday,Optional holiday
+30/04/2022,Saturday,Day of the Deaths of Zrinski and Frankopan,Observance
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+02/05/2022,Monday,Ramadan Bayram,Optional holiday
+08/05/2022,Sunday,Mother's Day,Observance
+09/05/2022,Monday,Europe Day and Victory Day Over Fascism,Observance
+30/05/2022,Monday,Statehood Day,National holiday
+16/06/2022,Thursday,Corpus Christi,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+22/06/2022,Wednesday,Day of Antifascist Struggle,National holiday
+25/06/2022,Saturday,Independence Day,Observance
+09/07/2022,Saturday,Kurban Bayram,Optional holiday
+05/08/2022,Friday,Victory Day,National holiday
+15/08/2022,Monday,Assumption of Mary,National holiday
+23/08/2022,Tuesday,European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes,Observance
+30/08/2022,Tuesday,Day of Remembrance of Missing Persons in the Homeland War,Observance
+23/09/2022,Friday,September Equinox,Season
+25/09/2022,Sunday,"Unification Day of Istria, Rijeka, Zadar, and the Islands",Observance
+26/09/2022,Monday,Rosh Hashana,Optional holiday
+05/10/2022,Wednesday,Yom Kippur,Optional holiday
+08/10/2022,Saturday,Day of the Croatian Parliament,Observance
+01/11/2022,Tuesday,All Saints' Day,National holiday
+18/11/2022,Friday,Remembrance Day,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,St Stephen's Day,National holiday

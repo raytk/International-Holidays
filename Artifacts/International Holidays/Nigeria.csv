@@ -1,0 +1,678 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+08/01/2000,Saturday,Id el Fitr,Public Holiday
+14/02/2000,Monday,Valentine's Day,Observance
+08/03/2000,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2000,Wednesday,Women's Day,Observance
+16/03/2000,Thursday,Id el Kabir,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+02/04/2000,Sunday,Mothering Sunday,Observance
+21/04/2000,Friday,Good Friday,Public Holiday
+22/04/2000,Saturday,Holy Saturday,"Observance, Christian"
+23/04/2000,Sunday,Easter Sunday,"Observance, Christian"
+24/04/2000,Monday,Easter Monday,Public Holiday
+01/05/2000,Monday,Workers' Day,Public Holiday
+27/05/2000,Saturday,Children's Day,Observance
+29/05/2000,Monday,Democracy Day,Public Holiday
+15/06/2000,Thursday,Id el Maulud,Public Holiday
+18/06/2000,Sunday,Father's Day,Observance
+21/06/2000,Wednesday,June Solstice,Season
+22/09/2000,Friday,September Equinox,Season
+01/10/2000,Sunday,National Day,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+28/12/2000,Thursday,Id el Fitr,Public Holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,Public Holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+28/02/2001,Wednesday,Ash Wednesday,"Observance, Christian"
+06/03/2001,Tuesday,Id el Kabir,Public Holiday
+08/03/2001,Thursday,Women's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Mothering Sunday,Observance
+13/04/2001,Friday,Good Friday,Public Holiday
+14/04/2001,Saturday,Holy Saturday,"Observance, Christian"
+15/04/2001,Sunday,Easter Sunday,"Observance, Christian"
+16/04/2001,Monday,Easter Monday,Public Holiday
+01/05/2001,Tuesday,Workers' Day,Public Holiday
+27/05/2001,Sunday,Children's Day,Observance
+29/05/2001,Tuesday,Democracy Day,Public Holiday
+04/06/2001,Monday,Id el Maulud,Public Holiday
+17/06/2001,Sunday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+23/09/2001,Sunday,September Equinox,Season
+01/10/2001,Monday,National Day,Public Holiday
+17/12/2001,Monday,Id el Fitr,Public Holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,"Observance, Christian"
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+13/02/2002,Wednesday,Ash Wednesday,"Observance, Christian"
+14/02/2002,Thursday,Valentine's Day,Observance
+23/02/2002,Saturday,Id el Kabir,Public Holiday
+08/03/2002,Friday,Women's Day,Observance
+10/03/2002,Sunday,Mothering Sunday,Observance
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+30/03/2002,Saturday,Holy Saturday,"Observance, Christian"
+31/03/2002,Sunday,Easter Sunday,"Observance, Christian"
+01/04/2002,Monday,Easter Monday,Public Holiday
+01/05/2002,Wednesday,Workers' Day,Public Holiday
+24/05/2002,Friday,Id el Maulud,Public Holiday
+27/05/2002,Monday,Children's Day,Observance
+29/05/2002,Wednesday,Democracy Day,Public Holiday
+16/06/2002,Sunday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+23/09/2002,Monday,September Equinox,Season
+01/10/2002,Tuesday,National Day,Public Holiday
+06/12/2002,Friday,Id el Fitr,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+12/02/2003,Wednesday,Id el Kabir,Public Holiday
+14/02/2003,Friday,Valentine's Day,Observance
+05/03/2003,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2003,Saturday,Women's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Mothering Sunday,Observance
+18/04/2003,Friday,Good Friday,Public Holiday
+19/04/2003,Saturday,Holy Saturday,"Observance, Christian"
+20/04/2003,Sunday,Easter Sunday,"Observance, Christian"
+21/04/2003,Monday,Easter Monday,Public Holiday
+01/05/2003,Thursday,Workers' Day,Public Holiday
+14/05/2003,Wednesday,Id el Maulud,Public Holiday
+27/05/2003,Tuesday,Children's Day,Observance
+29/05/2003,Thursday,Democracy Day,Public Holiday
+15/06/2003,Sunday,Father's Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+23/09/2003,Tuesday,September Equinox,Season
+01/10/2003,Wednesday,National Day,Public Holiday
+26/11/2003,Wednesday,Id el Fitr,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,Public Holiday
+02/02/2004,Monday,Id el Kabir,Public Holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+25/02/2004,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2004,Monday,Women's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+21/03/2004,Sunday,Mothering Sunday,Observance
+09/04/2004,Friday,Good Friday,Public Holiday
+10/04/2004,Saturday,Holy Saturday,"Observance, Christian"
+11/04/2004,Sunday,Easter Sunday,"Observance, Christian"
+12/04/2004,Monday,Easter Monday,Public Holiday
+01/05/2004,Saturday,Workers' Day,Public Holiday
+02/05/2004,Sunday,Id el Maulud,Public Holiday
+27/05/2004,Thursday,Children's Day,Observance
+29/05/2004,Saturday,Democracy Day,Public Holiday
+12/06/2004,Saturday,June 12 Commemoration,Local holiday
+20/06/2004,Sunday,Father's Day,Observance
+21/06/2004,Monday,June Solstice,Season
+22/09/2004,Wednesday,September Equinox,Season
+01/10/2004,Friday,National Day,Public Holiday
+14/11/2004,Sunday,Id el Fitr,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,"Observance, Christian"
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,Public Holiday
+21/01/2005,Friday,Id el Kabir,Public Holiday
+09/02/2005,Wednesday,Ash Wednesday,"Observance, Christian"
+14/02/2005,Monday,Valentine's Day,Observance
+06/03/2005,Sunday,Mothering Sunday,Observance
+08/03/2005,Tuesday,Women's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+26/03/2005,Saturday,Holy Saturday,"Observance, Christian"
+27/03/2005,Sunday,Easter Sunday,"Observance, Christian"
+28/03/2005,Monday,Easter Monday,Public Holiday
+21/04/2005,Thursday,Id el Maulud,Public Holiday
+01/05/2005,Sunday,Workers' Day,Public Holiday
+27/05/2005,Friday,Children's Day,Observance
+29/05/2005,Sunday,Democracy Day,Public Holiday
+12/06/2005,Sunday,June 12 Commemoration,Local holiday
+19/06/2005,Sunday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+22/09/2005,Thursday,September Equinox,Season
+01/10/2005,Saturday,National Day,Public Holiday
+04/11/2005,Friday,Id el Fitr,Public Holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,Public Holiday
+10/01/2006,Tuesday,Id el Kabir,Public Holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+01/03/2006,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2006,Wednesday,Women's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Mothering Sunday,Observance
+11/04/2006,Tuesday,Id el Maulud,Public Holiday
+14/04/2006,Friday,Good Friday,Public Holiday
+15/04/2006,Saturday,Holy Saturday,"Observance, Christian"
+16/04/2006,Sunday,Easter Sunday,"Observance, Christian"
+17/04/2006,Monday,Easter Monday,Public Holiday
+01/05/2006,Monday,Workers' Day,Public Holiday
+27/05/2006,Saturday,Children's Day,Observance
+29/05/2006,Monday,Democracy Day,Public Holiday
+12/06/2006,Monday,June 12 Commemoration,Local holiday
+18/06/2006,Sunday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+23/09/2006,Saturday,September Equinox,Season
+01/10/2006,Sunday,National Day,Public Holiday
+24/10/2006,Tuesday,Id el Fitr,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+31/12/2006,Sunday,Id el Kabir,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+02/01/2007,Tuesday,New Year Holiday,Public Holiday
+03/01/2007,Wednesday,New Year Holiday,Public Holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+21/02/2007,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2007,Thursday,Women's Day,Observance
+18/03/2007,Sunday,Mothering Sunday,Observance
+21/03/2007,Wednesday,March Equinox,Season
+31/03/2007,Saturday,Id el Maulud,Public Holiday
+06/04/2007,Friday,Good Friday,Public Holiday
+07/04/2007,Saturday,Holy Saturday,"Observance, Christian"
+08/04/2007,Sunday,Easter Sunday,"Observance, Christian"
+09/04/2007,Monday,Easter Monday,Public Holiday
+01/05/2007,Tuesday,Workers' Day,Public Holiday
+27/05/2007,Sunday,Children's Day,Observance
+29/05/2007,Tuesday,Democracy Day,Public Holiday
+12/06/2007,Tuesday,June 12 Commemoration,Local holiday
+17/06/2007,Sunday,Father's Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+23/09/2007,Sunday,September Equinox,Season
+01/10/2007,Monday,National Day,Public Holiday
+12/10/2007,Friday,Id el Fitr,Observance
+20/12/2007,Thursday,Id el Kabir,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,"Observance, Christian"
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+06/02/2008,Wednesday,Ash Wednesday,"Observance, Christian"
+14/02/2008,Thursday,Valentine's Day,Observance
+02/03/2008,Sunday,Mothering Sunday,Observance
+08/03/2008,Saturday,Women's Day,Observance
+20/03/2008,Thursday,Id el Maulud,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+22/03/2008,Saturday,Holy Saturday,"Observance, Christian"
+23/03/2008,Sunday,Easter Sunday,"Observance, Christian"
+24/03/2008,Monday,Easter Monday,Public Holiday
+01/05/2008,Thursday,Workers' Day,Public Holiday
+27/05/2008,Tuesday,Children's Day,Observance
+29/05/2008,Thursday,Democracy Day,Public Holiday
+12/06/2008,Thursday,June 12 Commemoration,Local holiday
+15/06/2008,Sunday,Father's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+22/09/2008,Monday,September Equinox,Season
+29/09/2008,Monday,Id el Fitr,Observance
+30/09/2008,Tuesday,Id el Fitr holiday,Public Holiday
+01/10/2008,Wednesday,National Day,Public Holiday
+09/12/2008,Tuesday,Id el Kabir,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,Public Holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+25/02/2009,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2009,Sunday,Women's Day,Observance
+09/03/2009,Monday,Id el Maulud,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+22/03/2009,Sunday,Mothering Sunday,Observance
+10/04/2009,Friday,Good Friday,Public Holiday
+11/04/2009,Saturday,Holy Saturday,"Observance, Christian"
+12/04/2009,Sunday,Easter Sunday,"Observance, Christian"
+13/04/2009,Monday,Easter Monday,Public Holiday
+01/05/2009,Friday,Workers' Day,Public Holiday
+27/05/2009,Wednesday,Children's Day,Observance
+29/05/2009,Friday,Democracy Day,Public Holiday
+12/06/2009,Friday,June 12 Commemoration,Local holiday
+21/06/2009,Sunday,Father's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+21/09/2009,Monday,Id el Fitr,Observance
+22/09/2009,Tuesday,Id el Fitr holiday,Public Holiday
+22/09/2009,Tuesday,September Equinox,Season
+01/10/2009,Thursday,National Day,Public Holiday
+28/11/2009,Saturday,Id el Kabir,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Public Holiday
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,Public Holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+17/02/2010,Wednesday,Ash Wednesday,"Observance, Christian"
+26/02/2010,Friday,Id el Maulud,Public Holiday
+08/03/2010,Monday,Women's Day,Observance
+14/03/2010,Sunday,Mothering Sunday,Observance
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+03/04/2010,Saturday,Holy Saturday,"Observance, Christian"
+04/04/2010,Sunday,Easter Sunday,"Observance, Christian"
+05/04/2010,Monday,Easter Monday,Public Holiday
+01/05/2010,Saturday,Workers' Day,Public Holiday
+03/05/2010,Monday,Workers' Day holiday,Public Holiday
+27/05/2010,Thursday,Children's Day,Observance
+29/05/2010,Saturday,Democracy Day,Public Holiday
+12/06/2010,Saturday,June 12 Commemoration,Local holiday
+20/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+09/09/2010,Thursday,Id el Fitr,Observance
+10/09/2010,Friday,Id el Fitr holiday,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+01/10/2010,Friday,National Day,Public Holiday
+17/11/2010,Wednesday,Id el Kabir,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,"Observance, Christian"
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,Public Holiday
+14/02/2011,Monday,Valentine's Day,Observance
+16/02/2011,Wednesday,Id el Maulud,Public Holiday
+08/03/2011,Tuesday,Women's Day,Observance
+09/03/2011,Wednesday,Ash Wednesday,"Observance, Christian"
+21/03/2011,Monday,March Equinox,Season
+03/04/2011,Sunday,Mothering Sunday,Observance
+22/04/2011,Friday,Good Friday,Public Holiday
+23/04/2011,Saturday,Holy Saturday,"Observance, Christian"
+24/04/2011,Sunday,Easter Sunday,"Observance, Christian"
+25/04/2011,Monday,Easter Monday,Public Holiday
+01/05/2011,Sunday,Workers' Day,Public Holiday
+27/05/2011,Friday,Children's Day,Observance
+29/05/2011,Sunday,Democracy Day,Public Holiday
+12/06/2011,Sunday,June 12 Commemoration,Local holiday
+19/06/2011,Sunday,Father's Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+30/08/2011,Tuesday,Id el Fitr,Observance
+31/08/2011,Wednesday,Id el Fitr holiday,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+01/10/2011,Saturday,National Day,Public Holiday
+07/11/2011,Monday,Id el Kabir,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+27/12/2011,Tuesday,Boxing Day Holiday,Public Holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,Public Holiday
+05/02/2012,Sunday,Id el Maulud,Public Holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+22/02/2012,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2012,Thursday,Women's Day,Observance
+18/03/2012,Sunday,Mothering Sunday,Observance
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+07/04/2012,Saturday,Holy Saturday,"Observance, Christian"
+08/04/2012,Sunday,Easter Sunday,"Observance, Christian"
+09/04/2012,Monday,Easter Monday,Public Holiday
+01/05/2012,Tuesday,Workers' Day,Public Holiday
+27/05/2012,Sunday,Children's Day,Observance
+29/05/2012,Tuesday,Democracy Day,Public Holiday
+12/06/2012,Tuesday,June 12 Commemoration,Local holiday
+17/06/2012,Sunday,Father's Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+20/08/2012,Monday,Id el Fitr,Observance
+21/08/2012,Tuesday,Id el Fitr holiday,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+01/10/2012,Monday,National Day,Public Holiday
+25/10/2012,Thursday,Id el Kabir additional holiday,Public Holiday
+26/10/2012,Friday,Id el Kabir,Public Holiday
+15/11/2012,Thursday,Al-Hijra,Local holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,"Observance, Christian"
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+24/01/2013,Thursday,Id el Maulud,Public Holiday
+13/02/2013,Wednesday,Ash Wednesday,"Observance, Christian"
+14/02/2013,Thursday,Valentine's Day,Observance
+08/03/2013,Friday,Women's Day,Observance
+10/03/2013,Sunday,Mothering Sunday,Observance
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+30/03/2013,Saturday,Holy Saturday,"Observance, Christian"
+31/03/2013,Sunday,Easter Sunday,"Observance, Christian"
+01/04/2013,Monday,Easter Monday,Public Holiday
+01/05/2013,Wednesday,Workers' Day,Public Holiday
+27/05/2013,Monday,Children's Day,Observance
+29/05/2013,Wednesday,Democracy Day,Public Holiday
+12/06/2013,Wednesday,June 12 Commemoration,Local holiday
+16/06/2013,Sunday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+08/08/2013,Thursday,Id el Fitr,Observance
+09/08/2013,Friday,Id el Fitr holiday,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+01/10/2013,Tuesday,National Day,Public Holiday
+15/10/2013,Tuesday,Id el Kabir,Public Holiday
+16/10/2013,Wednesday,Id el Kabir additional holiday,Public Holiday
+05/11/2013,Tuesday,Al-Hijra,Local holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+13/01/2014,Monday,Id el Maulud,Public Holiday
+14/02/2014,Friday,Valentine's Day,Observance
+05/03/2014,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2014,Saturday,Women's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Mothering Sunday,Observance
+18/04/2014,Friday,Good Friday,Public Holiday
+19/04/2014,Saturday,Holy Saturday,"Observance, Christian"
+20/04/2014,Sunday,Easter Sunday,"Observance, Christian"
+21/04/2014,Monday,Easter Monday,Public Holiday
+01/05/2014,Thursday,Workers' Day,Public Holiday
+27/05/2014,Tuesday,Children's Day,Observance
+29/05/2014,Thursday,Democracy Day,Public Holiday
+12/06/2014,Thursday,June 12 Commemoration,Local holiday
+15/06/2014,Sunday,Father's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+28/07/2014,Monday,Id el Fitr,Public Holiday
+29/07/2014,Tuesday,Id el Fitr holiday,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+01/10/2014,Wednesday,National Day,Public Holiday
+06/10/2014,Monday,Id el Kabir,Public Holiday
+07/10/2014,Tuesday,Id el Kabir additional holiday,Public Holiday
+25/10/2014,Saturday,Al-Hijra,Local holiday
+11/11/2014,Tuesday,Id el Maulud Holiday,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,"Observance, Christian"
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,Public Holiday
+02/01/2015,Friday,Id el Maulud,Public Holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+18/02/2015,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2015,Sunday,Women's Day,Observance
+15/03/2015,Sunday,Mothering Sunday,Observance
+20/03/2015,Friday,March Equinox,Season
+28/03/2015,Saturday,Presidential Election Day,Public Holiday
+03/04/2015,Friday,Good Friday,Public Holiday
+04/04/2015,Saturday,Holy Saturday,"Observance, Christian"
+05/04/2015,Sunday,Easter Sunday,"Observance, Christian"
+06/04/2015,Monday,Easter Monday,Public Holiday
+01/05/2015,Friday,Workers' Day,Public Holiday
+27/05/2015,Wednesday,Children's Day,Observance
+29/05/2015,Friday,Democracy Day,Public Holiday
+12/06/2015,Friday,June 12 Commemoration,Local holiday
+21/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+17/07/2015,Friday,Id el Fitr,Observance
+18/07/2015,Saturday,Id el Fitr,Public Holiday
+19/07/2015,Sunday,Id el Fitr holiday,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Id el Kabir,Public Holiday
+25/09/2015,Friday,Id el Kabir additional holiday,Public Holiday
+01/10/2015,Thursday,National Day,Public Holiday
+15/10/2015,Thursday,Al-Hijra,Local holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Public Holiday
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,Public Holiday
+10/02/2016,Wednesday,Ash Wednesday,"Observance, Christian"
+14/02/2016,Sunday,Valentine's Day,Observance
+06/03/2016,Sunday,Mothering Sunday,Observance
+08/03/2016,Tuesday,Women's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+26/03/2016,Saturday,Holy Saturday,"Observance, Christian"
+27/03/2016,Sunday,Easter Sunday,"Observance, Christian"
+28/03/2016,Monday,Easter Monday,Public Holiday
+01/05/2016,Sunday,Workers' Day,Public Holiday
+02/05/2016,Monday,Workers' Day holiday,Public Holiday
+27/05/2016,Friday,Children's Day,Observance
+30/05/2016,Monday,Democracy Day,Public Holiday
+12/06/2016,Sunday,June 12 Commemoration,Local holiday
+19/06/2016,Sunday,Father's Day,Observance
+20/06/2016,Monday,June Solstice,Season
+05/07/2016,Tuesday,Id el Fitr holiday,Public Holiday
+06/07/2016,Wednesday,Id el Fitr,Public Holiday
+20/08/2016,Saturday,Isese Day,Local holiday
+12/09/2016,Monday,Id el Kabir,Public Holiday
+13/09/2016,Tuesday,Id el Kabir additional holiday,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+01/10/2016,Saturday,National Day,Public Holiday
+04/10/2016,Tuesday,Al-Hijra Holiday,Local holiday
+12/12/2016,Monday,Id el Maulud,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,Public Holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+01/03/2017,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2017,Wednesday,Women's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Mothering Sunday,Observance
+14/04/2017,Friday,Good Friday,Public Holiday
+15/04/2017,Saturday,Holy Saturday,"Observance, Christian"
+16/04/2017,Sunday,Easter Sunday,"Observance, Christian"
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,Workers' Day,Public Holiday
+27/05/2017,Saturday,Children's Day,Observance
+29/05/2017,Monday,Democracy Day,Public Holiday
+12/06/2017,Monday,June 12 Commemoration,Local holiday
+18/06/2017,Sunday,Father's Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Id el Fitr,Public Holiday
+27/06/2017,Tuesday,Id el Fitr holiday,Public Holiday
+20/08/2017,Sunday,Isese Day,Local holiday
+02/09/2017,Saturday,Id el Kabir,Public Holiday
+03/09/2017,Sunday,Id el Kabir additional holiday,Public Holiday
+22/09/2017,Friday,Al-Hijra,Local holiday
+22/09/2017,Friday,September Equinox,Season
+01/10/2017,Sunday,National Day,Public Holiday
+01/12/2017,Friday,Id el Maulud,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+22/12/2017,Friday,Sambisa Memorial Day,Local holiday
+24/12/2017,Sunday,Christmas Eve,"Observance, Christian"
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,Public Holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+14/02/2018,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2018,Thursday,Women's Day,Observance
+11/03/2018,Sunday,Mothering Sunday,Observance
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+31/03/2018,Saturday,Holy Saturday,"Observance, Christian"
+01/04/2018,Sunday,Easter Sunday,"Observance, Christian"
+02/04/2018,Monday,Easter Monday,Public Holiday
+01/05/2018,Tuesday,Workers' Day,Public Holiday
+27/05/2018,Sunday,Children's Day,Observance
+29/05/2018,Tuesday,Democracy Day,Public Holiday
+12/06/2018,Tuesday,June 12 Commemoration,Local holiday
+15/06/2018,Friday,Id el Fitr,Public Holiday
+16/06/2018,Saturday,Id el Fitr holiday,Public Holiday
+17/06/2018,Sunday,Id el Fitr holiday,Public Holiday
+17/06/2018,Sunday,Father's Day,Observance
+18/06/2018,Monday,Id el Fitr additional holiday,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+20/08/2018,Monday,Isese Day,Local holiday
+21/08/2018,Tuesday,Id el Kabir additional holiday,Public Holiday
+22/08/2018,Wednesday,Id el Kabir,Public Holiday
+11/09/2018,Tuesday,Al-Hijra,Local holiday
+23/09/2018,Sunday,September Equinox,Season
+01/10/2018,Monday,National Day,Public Holiday
+20/11/2018,Tuesday,Id el Maulud Holiday,Public Holiday
+21/11/2018,Wednesday,Id el Maulud,Public Holiday
+21/12/2018,Friday,December Solstice,Season
+22/12/2018,Saturday,Sambisa Memorial Day,Local holiday
+24/12/2018,Monday,Christmas Eve,"Observance, Christian"
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+21/01/2019,Monday,President Buhari's Re-Election Campaign Holiday,Local holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+22/02/2019,Friday,Election Day,Public Holiday
+06/03/2019,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2019,Friday,Women's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Mothering Sunday,Observance
+19/04/2019,Friday,Good Friday,Public Holiday
+20/04/2019,Saturday,Holy Saturday,"Observance, Christian"
+21/04/2019,Sunday,Easter Sunday,"Observance, Christian"
+22/04/2019,Monday,Easter Monday,Public Holiday
+25/04/2019,Thursday,Presidential Visit,Local holiday
+01/05/2019,Wednesday,Workers' Day,Public Holiday
+27/05/2019,Monday,Children's Day,Observance
+29/05/2019,Wednesday,Presidential Inauguration Holiday,Public Holiday
+04/06/2019,Tuesday,Id el Fitr,Public Holiday
+05/06/2019,Wednesday,Id el Fitr holiday,Public Holiday
+12/06/2019,Wednesday,Democracy Day,Public Holiday
+16/06/2019,Sunday,Father's Day,Observance
+21/06/2019,Friday,June Solstice,Season
+12/08/2019,Monday,Id el Kabir,Public Holiday
+13/08/2019,Tuesday,Id el Kabir additional holiday,Public Holiday
+20/08/2019,Tuesday,Isese Day,Local holiday
+30/08/2019,Friday,Al-Hijra Holiday,Local holiday
+31/08/2019,Saturday,Al-Hijra,Local holiday
+02/09/2019,Monday,Al-Hijra Holiday,Local holiday
+23/09/2019,Monday,September Equinox,Season
+01/10/2019,Tuesday,National Day,Public Holiday
+09/11/2019,Saturday,Id el Maulud,Public Holiday
+11/11/2019,Monday,Id el Maulud Holiday,Public Holiday
+18/11/2019,Monday,Nnamdi Azikiwe Day,Local holiday
+22/12/2019,Sunday,Sambisa Memorial Day,Local holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,"Observance, Christian"
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+14/02/2020,Friday,Valentine's Day,Observance
+26/02/2020,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2020,Sunday,Women's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+22/03/2020,Sunday,Mothering Sunday,Observance
+10/04/2020,Friday,Good Friday,Public Holiday
+11/04/2020,Saturday,Holy Saturday,"Observance, Christian"
+12/04/2020,Sunday,Easter Sunday,"Observance, Christian"
+13/04/2020,Monday,Easter Monday,Public Holiday
+01/05/2020,Friday,Workers' Day,Public Holiday
+24/05/2020,Sunday,Id el Fitr,Observance
+25/05/2020,Monday,Id el Fitr holiday,Public Holiday
+26/05/2020,Tuesday,Id el Fitr holiday,Public Holiday
+27/05/2020,Wednesday,Children's Day,Observance
+12/06/2020,Friday,Democracy Day,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Father's Day,Observance
+30/07/2020,Thursday,Id el Kabir additional holiday,Public Holiday
+31/07/2020,Friday,Id el Kabir,Public Holiday
+20/08/2020,Thursday,Isese Day,Local holiday
+20/08/2020,Thursday,Al-Hijra,Local holiday
+22/09/2020,Tuesday,September Equinox,Season
+01/10/2020,Thursday,National Day,Public Holiday
+29/10/2020,Thursday,Id el Maulud,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+22/12/2020,Tuesday,Sambisa Memorial Day,Local holiday
+24/12/2020,Thursday,Christmas Eve,"Observance, Christian"
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,Public Holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+17/02/2021,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2021,Monday,Women's Day,Observance
+14/03/2021,Sunday,Mothering Sunday,Observance
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+03/04/2021,Saturday,Holy Saturday,"Observance, Christian"
+04/04/2021,Sunday,Easter Sunday,"Observance, Christian"
+05/04/2021,Monday,Easter Monday,Public Holiday
+01/05/2021,Saturday,Workers' Day,Public Holiday
+03/05/2021,Monday,Day off for Workers' Day,Public Holiday
+12/05/2021,Wednesday,Id el Fitr holiday,Public Holiday
+13/05/2021,Thursday,Id el Fitr,Public Holiday
+27/05/2021,Thursday,Children's Day,Observance
+12/06/2021,Saturday,Democracy Day,Public Holiday
+14/06/2021,Monday,Day off for Democracy Day,Public Holiday
+20/06/2021,Sunday,Father's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+20/07/2021,Tuesday,Id el Kabir,Public Holiday
+21/07/2021,Wednesday,Id el Kabir additional holiday,Public Holiday
+09/08/2021,Monday,Al-Hijra Holiday,Local holiday
+10/08/2021,Tuesday,Al-Hijra Holiday,Local holiday
+20/08/2021,Friday,Isese Day,Local holiday
+27/08/2021,Friday,State Creation Anniversary Day,Local holiday
+22/09/2021,Wednesday,September Equinox,Season
+01/10/2021,Friday,National Day,Public Holiday
+19/10/2021,Tuesday,Id el Maulud,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+22/12/2021,Wednesday,Sambisa Memorial Day,Local holiday
+24/12/2021,Friday,Christmas Eve,"Observance, Christian"
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Day off for Christmas Day,Public Holiday
+28/12/2021,Tuesday,Day off for Boxing Day,Public Holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,Public Holiday
+03/01/2022,Monday,Day off for New Year's Day,Public Holiday
+14/02/2022,Monday,Valentine's Day,Observance
+02/03/2022,Wednesday,Ash Wednesday,"Observance, Christian"
+08/03/2022,Tuesday,Women's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Mothering Sunday,Observance
+15/04/2022,Friday,Good Friday,Public Holiday
+16/04/2022,Saturday,Holy Saturday,"Observance, Christian"
+17/04/2022,Sunday,Easter Sunday,"Observance, Christian"
+18/04/2022,Monday,Easter Monday,Public Holiday
+01/05/2022,Sunday,Workers' Day,Public Holiday
+02/05/2022,Monday,Day off for Workers' Day,Public Holiday
+02/05/2022,Monday,Id el Fitr,Public Holiday
+03/05/2022,Tuesday,Id el Fitr holiday,Public Holiday
+27/05/2022,Friday,Children's Day,Observance
+12/06/2022,Sunday,Democracy Day,Public Holiday
+13/06/2022,Monday,Day off for Democracy Day,Public Holiday
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+09/07/2022,Saturday,Id el Kabir,Public Holiday
+11/07/2022,Monday,Id el Kabir additional holiday,Public Holiday
+12/07/2022,Tuesday,Id el Kabir additional holiday,Public Holiday
+29/07/2022,Friday,Al-Hijra Holiday,Local holiday
+30/07/2022,Saturday,Al-Hijra,Local holiday
+01/08/2022,Monday,Al-Hijra Holiday,Local holiday
+20/08/2022,Saturday,Isese Day,Local holiday
+23/09/2022,Friday,September Equinox,Season
+01/10/2022,Saturday,National Day,Public Holiday
+03/10/2022,Monday,Day off for National Day,Public Holiday
+08/10/2022,Saturday,Id el Maulud (Tentative Date),Public Holiday
+10/10/2022,Monday,Day off for Id el Maulud (Tentative Date),Public Holiday
+21/12/2022,Wednesday,December Solstice,Season
+22/12/2022,Thursday,Sambisa Memorial Day,Local holiday
+24/12/2022,Saturday,Christmas Eve,"Observance, Christian"
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+27/12/2022,Tuesday,Day off for Christmas Day,Public Holiday
+31/12/2022,Saturday,New Year's Eve,Observance

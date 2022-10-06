@@ -1,0 +1,866 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+03/01/2000,Monday,Day off for New Year's Day,National holiday
+07/01/2000,Friday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2000,Friday,Orthodox New Year,"Observance, Orthodox"
+22/01/2000,Saturday,Ukrainian Unity Day,Observance
+14/02/2000,Monday,Valentine's Day,Observance
+23/02/2000,Wednesday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2000,Wednesday,International Women's Day,National holiday
+20/03/2000,Monday,March Equinox,Season
+23/03/2000,Thursday,Cultural Workers and Folk Artists Day,Observance
+26/03/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2000,Saturday,April Fools,Observance
+30/04/2000,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+01/05/2000,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2000,Monday,Labor Day,National holiday
+09/05/2000,Tuesday,Victory Day,National holiday
+14/05/2000,Sunday,Mother's Day,Observance
+20/05/2000,Saturday,Europe Day,Observance
+28/05/2000,Sunday,Kyiv Day,Observance
+06/06/2000,Tuesday,Journalists' Day,Observance
+18/06/2000,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+19/06/2000,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2000,Wednesday,June Solstice,Season
+28/06/2000,Wednesday,Constitution Day,National holiday
+06/07/2000,Thursday,Kupala Night,Observance
+24/08/2000,Thursday,Independence Day,National holiday
+22/09/2000,Friday,September Equinox,Season
+29/10/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2000,Wednesday,Army Day,Observance
+19/12/2000,Tuesday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2000,Thursday,December Solstice,Season
+01/01/2001,Monday,New Year's Day,National holiday
+07/01/2001,Sunday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2001,Monday,Day off for Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2001,Sunday,Orthodox New Year,"Observance, Orthodox"
+22/01/2001,Monday,Ukrainian Unity Day,Observance
+14/02/2001,Wednesday,Valentine's Day,Observance
+23/02/2001,Friday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2001,Thursday,International Women's Day,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+23/03/2001,Friday,Cultural Workers and Folk Artists Day,Observance
+25/03/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2001,Sunday,April Fools,Observance
+15/04/2001,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+16/04/2001,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2001,Tuesday,Labor Day,National holiday
+09/05/2001,Wednesday,Victory Day,National holiday
+13/05/2001,Sunday,Mother's Day,Observance
+19/05/2001,Saturday,Europe Day,Observance
+27/05/2001,Sunday,Kyiv Day,Observance
+03/06/2001,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+04/06/2001,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+06/06/2001,Wednesday,Journalists' Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+22/06/2001,Friday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2001,Thursday,Constitution Day,National holiday
+06/07/2001,Friday,Kupala Night,Observance
+24/08/2001,Friday,Independence Day,National holiday
+23/09/2001,Sunday,September Equinox,Season
+28/10/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2001,Thursday,Army Day,Observance
+19/12/2001,Wednesday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2001,Friday,December Solstice,Season
+01/01/2002,Tuesday,New Year's Day,National holiday
+07/01/2002,Monday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2002,Monday,Orthodox New Year,"Observance, Orthodox"
+22/01/2002,Tuesday,Ukrainian Unity Day,Observance
+14/02/2002,Thursday,Valentine's Day,Observance
+23/02/2002,Saturday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2002,Friday,International Women's Day,National holiday
+20/03/2002,Wednesday,March Equinox,Season
+23/03/2002,Saturday,Cultural Workers and Folk Artists Day,Observance
+31/03/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2002,Monday,April Fools,Observance
+01/05/2002,Wednesday,Labor Day,National holiday
+05/05/2002,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+06/05/2002,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+09/05/2002,Thursday,Victory Day,National holiday
+12/05/2002,Sunday,Mother's Day,Observance
+18/05/2002,Saturday,Europe Day,Observance
+26/05/2002,Sunday,Kyiv Day,Observance
+06/06/2002,Thursday,Journalists' Day,Observance
+21/06/2002,Friday,June Solstice,Season
+22/06/2002,Saturday,Day of Mourning and Commemoration of War Victims,Observance
+23/06/2002,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+24/06/2002,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+28/06/2002,Friday,Constitution Day,National holiday
+06/07/2002,Saturday,Kupala Night,Observance
+24/08/2002,Saturday,Independence Day,National holiday
+26/08/2002,Monday,Day off for Independence Day,National holiday
+23/09/2002,Monday,September Equinox,Season
+27/10/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2002,Friday,Army Day,Observance
+19/12/2002,Thursday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2002,Sunday,December Solstice,Season
+01/01/2003,Wednesday,New Year's Day,National holiday
+07/01/2003,Tuesday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2003,Tuesday,Orthodox New Year,"Observance, Orthodox"
+22/01/2003,Wednesday,Ukrainian Unity Day,Observance
+14/02/2003,Friday,Valentine's Day,Observance
+23/02/2003,Sunday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2003,Saturday,International Women's Day,National holiday
+10/03/2003,Monday,Day off for International Women's Day,National holiday
+21/03/2003,Friday,March Equinox,Season
+23/03/2003,Sunday,Cultural Workers and Folk Artists Day,Observance
+30/03/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2003,Tuesday,April Fools,Observance
+27/04/2003,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+28/04/2003,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2003,Thursday,Labor Day,National holiday
+09/05/2003,Friday,Victory Day,National holiday
+11/05/2003,Sunday,Mother's Day,Observance
+17/05/2003,Saturday,Europe Day,Observance
+25/05/2003,Sunday,Kyiv Day,Observance
+06/06/2003,Friday,Journalists' Day,Observance
+15/06/2003,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+16/06/2003,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2003,Saturday,June Solstice,Season
+22/06/2003,Sunday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2003,Saturday,Constitution Day,National holiday
+30/06/2003,Monday,Day off for Constitution Day,National holiday
+06/07/2003,Sunday,Kupala Night,Observance
+24/08/2003,Sunday,Independence Day,National holiday
+25/08/2003,Monday,Day off for Independence Day,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+26/10/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2003,Saturday,Army Day,Observance
+19/12/2003,Friday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2003,Monday,December Solstice,Season
+01/01/2004,Thursday,New Year's Day,National holiday
+07/01/2004,Wednesday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2004,Wednesday,Orthodox New Year,"Observance, Orthodox"
+22/01/2004,Thursday,Ukrainian Unity Day,Observance
+14/02/2004,Saturday,Valentine's Day,Observance
+23/02/2004,Monday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2004,Monday,International Women's Day,National holiday
+20/03/2004,Saturday,March Equinox,Season
+23/03/2004,Tuesday,Cultural Workers and Folk Artists Day,Observance
+28/03/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2004,Thursday,April Fools,Observance
+11/04/2004,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+12/04/2004,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2004,Saturday,Labor Day,National holiday
+03/05/2004,Monday,Day off for Labor Day,National holiday
+09/05/2004,Sunday,Mother's Day,Observance
+09/05/2004,Sunday,Victory Day,National holiday
+10/05/2004,Monday,Day off for Victory Day,National holiday
+15/05/2004,Saturday,Europe Day,Observance
+30/05/2004,Sunday,Kyiv Day,Observance
+30/05/2004,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+31/05/2004,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+01/06/2004,Tuesday,Child Protection Day,Observance
+06/06/2004,Sunday,Journalists' Day,Observance
+21/06/2004,Monday,June Solstice,Season
+22/06/2004,Tuesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2004,Monday,Constitution Day,National holiday
+06/07/2004,Tuesday,Kupala Night,Observance
+24/08/2004,Tuesday,Independence Day,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+31/10/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2004,Monday,Army Day,Observance
+19/12/2004,Sunday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2004,Tuesday,December Solstice,Season
+01/01/2005,Saturday,New Year's Day,National holiday
+03/01/2005,Monday,Day off for New Year's Day,National holiday
+07/01/2005,Friday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2005,Friday,Orthodox New Year,"Observance, Orthodox"
+22/01/2005,Saturday,Ukrainian Unity Day,Observance
+14/02/2005,Monday,Valentine's Day,Observance
+23/02/2005,Wednesday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2005,Tuesday,International Women's Day,National holiday
+20/03/2005,Sunday,March Equinox,Season
+23/03/2005,Wednesday,Cultural Workers and Folk Artists Day,Observance
+27/03/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2005,Friday,April Fools,Observance
+01/05/2005,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+01/05/2005,Sunday,Labor Day,National holiday
+02/05/2005,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+02/05/2005,Monday,Day off for Labor Day,National holiday
+08/05/2005,Sunday,Mother's Day,Observance
+09/05/2005,Monday,Victory Day,National holiday
+21/05/2005,Saturday,Europe Day,Observance
+29/05/2005,Sunday,Kyiv Day,Observance
+01/06/2005,Wednesday,Child Protection Day,Observance
+06/06/2005,Monday,Journalists' Day,Observance
+19/06/2005,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+20/06/2005,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2005,Tuesday,June Solstice,Season
+22/06/2005,Wednesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2005,Tuesday,Constitution Day,National holiday
+06/07/2005,Wednesday,Kupala Night,Observance
+24/08/2005,Wednesday,Independence Day,National holiday
+23/09/2005,Friday,September Equinox,Season
+30/10/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2005,Tuesday,Army Day,Observance
+19/12/2005,Monday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2005,Wednesday,December Solstice,Season
+01/01/2006,Sunday,New Year's Day,National holiday
+02/01/2006,Monday,Day off for New Year's Day,National holiday
+07/01/2006,Saturday,Orthodox Christmas Day,"National holiday, Orthodox"
+09/01/2006,Monday,Day off for Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2006,Saturday,Orthodox New Year,"Observance, Orthodox"
+22/01/2006,Sunday,Ukrainian Unity Day,Observance
+14/02/2006,Tuesday,Valentine's Day,Observance
+23/02/2006,Thursday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2006,Wednesday,International Women's Day,National holiday
+20/03/2006,Monday,March Equinox,Season
+23/03/2006,Thursday,Cultural Workers and Folk Artists Day,Observance
+26/03/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2006,Saturday,April Fools,Observance
+23/04/2006,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+24/04/2006,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2006,Monday,Labor Day,National holiday
+09/05/2006,Tuesday,Victory Day,National holiday
+14/05/2006,Sunday,Mother's Day,Observance
+20/05/2006,Saturday,Europe Day,Observance
+28/05/2006,Sunday,Kyiv Day,Observance
+01/06/2006,Thursday,Child Protection Day,Observance
+06/06/2006,Tuesday,Journalists' Day,Observance
+11/06/2006,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+12/06/2006,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2006,Wednesday,June Solstice,Season
+22/06/2006,Thursday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2006,Wednesday,Constitution Day,National holiday
+06/07/2006,Thursday,Kupala Night,Observance
+24/08/2006,Thursday,Independence Day,National holiday
+23/09/2006,Saturday,September Equinox,Season
+29/10/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2006,Wednesday,Army Day,Observance
+19/12/2006,Tuesday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2006,Friday,December Solstice,Season
+01/01/2007,Monday,New Year's Day,National holiday
+07/01/2007,Sunday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2007,Monday,Day off for Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2007,Sunday,Orthodox New Year,"Observance, Orthodox"
+22/01/2007,Monday,Ukrainian Unity Day,Observance
+14/02/2007,Wednesday,Valentine's Day,Observance
+23/02/2007,Friday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2007,Thursday,International Women's Day,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+23/03/2007,Friday,Cultural Workers and Folk Artists Day,Observance
+25/03/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2007,Sunday,April Fools,Observance
+08/04/2007,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+09/04/2007,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2007,Tuesday,Labor Day,National holiday
+09/05/2007,Wednesday,Victory Day,National holiday
+13/05/2007,Sunday,Mother's Day,Observance
+19/05/2007,Saturday,Europe Day,Observance
+27/05/2007,Sunday,Kyiv Day,Observance
+27/05/2007,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+28/05/2007,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+01/06/2007,Friday,Child Protection Day,Observance
+06/06/2007,Wednesday,Journalists' Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+22/06/2007,Friday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2007,Thursday,Constitution Day,National holiday
+06/07/2007,Friday,Kupala Night,Observance
+24/08/2007,Friday,Independence Day,National holiday
+23/09/2007,Sunday,September Equinox,Season
+28/10/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2007,Thursday,Army Day,Observance
+19/12/2007,Wednesday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2007,Saturday,December Solstice,Season
+01/01/2008,Tuesday,New Year's Day,National holiday
+07/01/2008,Monday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2008,Monday,Orthodox New Year,"Observance, Orthodox"
+22/01/2008,Tuesday,Ukrainian Unity Day,Observance
+14/02/2008,Thursday,Valentine's Day,Observance
+23/02/2008,Saturday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2008,Saturday,International Women's Day,National holiday
+10/03/2008,Monday,Day off for International Women's Day,National holiday
+20/03/2008,Thursday,March Equinox,Season
+23/03/2008,Sunday,Cultural Workers and Folk Artists Day,Observance
+30/03/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2008,Tuesday,April Fools,Observance
+27/04/2008,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+28/04/2008,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2008,Thursday,Labor Day,National holiday
+09/05/2008,Friday,Victory Day,National holiday
+11/05/2008,Sunday,Mother's Day,Observance
+17/05/2008,Saturday,Europe Day,Observance
+25/05/2008,Sunday,Kyiv Day,Observance
+01/06/2008,Sunday,Child Protection Day,Observance
+06/06/2008,Friday,Journalists' Day,Observance
+15/06/2008,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+16/06/2008,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2008,Saturday,June Solstice,Season
+22/06/2008,Sunday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2008,Saturday,Constitution Day,National holiday
+30/06/2008,Monday,Day off for Constitution Day,National holiday
+06/07/2008,Sunday,Kupala Night,Observance
+28/07/2008,Monday,Baptism of Kyivan Rus,Observance
+24/08/2008,Sunday,Independence Day,National holiday
+25/08/2008,Monday,Day off for Independence Day,National holiday
+22/09/2008,Monday,September Equinox,Season
+26/10/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2008,Saturday,Army Day,Observance
+19/12/2008,Friday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2008,Sunday,December Solstice,Season
+01/01/2009,Thursday,New Year's Day,National holiday
+07/01/2009,Wednesday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2009,Wednesday,Orthodox New Year,"Observance, Orthodox"
+22/01/2009,Thursday,Ukrainian Unity Day,Observance
+14/02/2009,Saturday,Valentine's Day,Observance
+23/02/2009,Monday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2009,Sunday,International Women's Day,National holiday
+09/03/2009,Monday,Day off for International Women's Day,National holiday
+20/03/2009,Friday,March Equinox,Season
+23/03/2009,Monday,Cultural Workers and Folk Artists Day,Observance
+29/03/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2009,Wednesday,April Fools,Observance
+19/04/2009,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+20/04/2009,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2009,Friday,Labor Day,National holiday
+09/05/2009,Saturday,Victory Day,National holiday
+10/05/2009,Sunday,Mother's Day,Observance
+11/05/2009,Monday,Day off for Victory Day,National holiday
+16/05/2009,Saturday,Europe Day,Observance
+31/05/2009,Sunday,Kyiv Day,Observance
+01/06/2009,Monday,Child Protection Day,Observance
+06/06/2009,Saturday,Journalists' Day,Observance
+07/06/2009,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+08/06/2009,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2009,Sunday,June Solstice,Season
+22/06/2009,Monday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2009,Sunday,Constitution Day,National holiday
+29/06/2009,Monday,Day off for Constitution Day,National holiday
+06/07/2009,Monday,Kupala Night,Observance
+28/07/2009,Tuesday,Baptism of Kyivan Rus,Observance
+24/08/2009,Monday,Independence Day,National holiday
+23/09/2009,Wednesday,September Equinox,Season
+25/10/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2009,Sunday,Army Day,Observance
+19/12/2009,Saturday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2009,Monday,December Solstice,Season
+01/01/2010,Friday,New Year's Day,National holiday
+07/01/2010,Thursday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2010,Thursday,Orthodox New Year,"Observance, Orthodox"
+22/01/2010,Friday,Ukrainian Unity Day,Observance
+14/02/2010,Sunday,Valentine's Day,Observance
+23/02/2010,Tuesday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2010,Monday,International Women's Day,National holiday
+20/03/2010,Saturday,March Equinox,Season
+23/03/2010,Tuesday,Cultural Workers and Folk Artists Day,Observance
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2010,Thursday,April Fools,Observance
+04/04/2010,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+05/04/2010,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2010,Saturday,Labor Day,National holiday
+03/05/2010,Monday,Day off for Labor Day,National holiday
+09/05/2010,Sunday,Mother's Day,Observance
+09/05/2010,Sunday,Victory Day,National holiday
+10/05/2010,Monday,Day off for Victory Day,National holiday
+15/05/2010,Saturday,Europe Day,Observance
+23/05/2010,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+24/05/2010,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+30/05/2010,Sunday,Kyiv Day,Observance
+01/06/2010,Tuesday,Child Protection Day,Observance
+06/06/2010,Sunday,Journalists' Day,Observance
+21/06/2010,Monday,June Solstice,Season
+22/06/2010,Tuesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2010,Monday,Constitution Day,National holiday
+06/07/2010,Tuesday,Kupala Night,Observance
+28/07/2010,Wednesday,Baptism of Kyivan Rus,Observance
+24/08/2010,Tuesday,Independence Day,National holiday
+23/09/2010,Thursday,September Equinox,Season
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2010,Monday,Army Day,Observance
+19/12/2010,Sunday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2010,Wednesday,December Solstice,Season
+01/01/2011,Saturday,New Year's Day,National holiday
+03/01/2011,Monday,Day off for New Year's Day,National holiday
+07/01/2011,Friday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2011,Friday,Orthodox New Year,"Observance, Orthodox"
+22/01/2011,Saturday,Ukrainian Unity Day,Observance
+14/02/2011,Monday,Valentine's Day,Observance
+23/02/2011,Wednesday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2011,Tuesday,International Women's Day,National holiday
+21/03/2011,Monday,March Equinox,Season
+23/03/2011,Wednesday,Cultural Workers and Folk Artists Day,Observance
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2011,Friday,April Fools,Observance
+24/04/2011,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+25/04/2011,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2011,Sunday,Labor Day,National holiday
+02/05/2011,Monday,Day off for Labor Day,National holiday
+08/05/2011,Sunday,Mother's Day,Observance
+09/05/2011,Monday,Victory Day,National holiday
+21/05/2011,Saturday,Europe Day,Observance
+29/05/2011,Sunday,Kyiv Day,Observance
+01/06/2011,Wednesday,Child Protection Day,Observance
+06/06/2011,Monday,Journalists' Day,Observance
+12/06/2011,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+13/06/2011,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2011,Tuesday,June Solstice,Season
+22/06/2011,Wednesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2011,Tuesday,Constitution Day,National holiday
+06/07/2011,Wednesday,Kupala Night,Observance
+08/07/2011,Friday,Family Day,Observance
+28/07/2011,Thursday,Baptism of Kyivan Rus,Observance
+01/08/2011,Monday,Navy Day,Observance
+24/08/2011,Wednesday,Independence Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/12/2011,Tuesday,Army Day,Observance
+19/12/2011,Monday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2011,Thursday,December Solstice,Season
+01/01/2012,Sunday,New Year's Day,National holiday
+02/01/2012,Monday,Day off for New Year's Day,National holiday
+07/01/2012,Saturday,Orthodox Christmas Day,"National holiday, Orthodox"
+09/01/2012,Monday,Day off for Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2012,Saturday,Orthodox New Year,"Observance, Orthodox"
+22/01/2012,Sunday,Ukrainian Unity Day,Observance
+14/02/2012,Tuesday,Valentine's Day,Observance
+23/02/2012,Thursday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2012,Thursday,International Women's Day,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2012,Sunday,April Fools,Observance
+15/04/2012,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+16/04/2012,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2012,Tuesday,Labor Day,National holiday
+09/05/2012,Wednesday,Victory Day,National holiday
+13/05/2012,Sunday,Mother's Day,Observance
+19/05/2012,Saturday,Europe Day,Observance
+27/05/2012,Sunday,Kyiv Day,Observance
+01/06/2012,Friday,Child Protection Day,Observance
+03/06/2012,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+04/06/2012,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+06/06/2012,Wednesday,Journalists' Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+22/06/2012,Friday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2012,Thursday,Constitution Day,National holiday
+01/07/2012,Sunday,Navy Day,Observance
+06/07/2012,Friday,Kupala Night,Observance
+08/07/2012,Sunday,Family Day,Observance
+28/07/2012,Saturday,Baptism of Kyivan Rus,Observance
+24/08/2012,Friday,Independence Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2012,Friday,Cultural Workers and Folk Artists Day,Observance
+06/12/2012,Thursday,Army Day,Observance
+19/12/2012,Wednesday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2012,Friday,December Solstice,Season
+01/01/2013,Tuesday,New Year's Day,National holiday
+07/01/2013,Monday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2013,Monday,Orthodox New Year,"Observance, Orthodox"
+22/01/2013,Tuesday,Ukrainian Unity Day,Observance
+14/02/2013,Thursday,Valentine's Day,Observance
+23/02/2013,Saturday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2013,Friday,International Women's Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2013,Monday,April Fools,Observance
+01/05/2013,Wednesday,Labor Day,National holiday
+05/05/2013,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+06/05/2013,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+09/05/2013,Thursday,Victory Day,National holiday
+12/05/2013,Sunday,Mother's Day,Observance
+18/05/2013,Saturday,Europe Day,Observance
+26/05/2013,Sunday,Kyiv Day,Observance
+01/06/2013,Saturday,Child Protection Day,Observance
+06/06/2013,Thursday,Journalists' Day,Observance
+21/06/2013,Friday,June Solstice,Season
+22/06/2013,Saturday,Day of Mourning and Commemoration of War Victims,Observance
+23/06/2013,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+24/06/2013,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+28/06/2013,Friday,Constitution Day,National holiday
+06/07/2013,Saturday,Kupala Night,Observance
+07/07/2013,Sunday,Navy Day,Observance
+08/07/2013,Monday,Family Day,Observance
+28/07/2013,Sunday,Baptism of Kyivan Rus,Observance
+24/08/2013,Saturday,Independence Day,National holiday
+26/08/2013,Monday,Day off for Independence Day,National holiday
+22/09/2013,Sunday,September Equinox,Season
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2013,Saturday,Cultural Workers and Folk Artists Day,Observance
+06/12/2013,Friday,Army Day,Observance
+19/12/2013,Thursday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2013,Saturday,December Solstice,Season
+01/01/2014,Wednesday,New Year's Day,National holiday
+02/01/2014,Thursday,New Year's Day Holiday,National holiday
+03/01/2014,Friday,New Year's Day Holiday,National holiday
+06/01/2014,Monday,New Year's Day Holiday,National holiday
+07/01/2014,Tuesday,Orthodox Christmas Day,"National holiday, Orthodox"
+11/01/2014,Saturday,Special Working Day,Working day on weekend
+14/01/2014,Tuesday,Orthodox New Year,"Observance, Orthodox"
+22/01/2014,Wednesday,Ukrainian Unity Day,Observance
+25/01/2014,Saturday,Special Working Day,Working day on weekend
+08/02/2014,Saturday,Special Working Day,Working day on weekend
+14/02/2014,Friday,Valentine's Day,Observance
+23/02/2014,Sunday,Day of Defenders and Defenders of Ukraine,Observance
+08/03/2014,Saturday,International Women's Day,National holiday
+10/03/2014,Monday,Day off for International Women's Day,National holiday
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2014,Tuesday,April Fools,Observance
+20/04/2014,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+21/04/2014,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2014,Thursday,Labor Day,National holiday
+09/05/2014,Friday,Victory Day,National holiday
+11/05/2014,Sunday,Mother's Day,Observance
+17/05/2014,Saturday,Europe Day,Observance
+25/05/2014,Sunday,Kyiv Day,Observance
+01/06/2014,Sunday,Child Protection Day,Observance
+06/06/2014,Friday,Journalists' Day,Observance
+08/06/2014,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+09/06/2014,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2014,Saturday,June Solstice,Season
+22/06/2014,Sunday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2014,Saturday,Constitution Day,National holiday
+30/06/2014,Monday,Day off for Constitution Day,National holiday
+06/07/2014,Sunday,Navy Day,Observance
+06/07/2014,Sunday,Kupala Night,Observance
+08/07/2014,Tuesday,Family Day,Observance
+28/07/2014,Monday,Baptism of Kyivan Rus,Observance
+24/08/2014,Sunday,Independence Day,National holiday
+25/08/2014,Monday,Day off for Independence Day,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2014,Sunday,Cultural Workers and Folk Artists Day,Observance
+21/11/2014,Friday,Dignity and Freedom Day,Observance
+06/12/2014,Saturday,Army Day,Observance
+19/12/2014,Friday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2014,Monday,December Solstice,Season
+01/01/2015,Thursday,New Year's Day,National holiday
+02/01/2015,Friday,New Year's Day Holiday,National holiday
+07/01/2015,Wednesday,Orthodox Christmas Day,"National holiday, Orthodox"
+09/01/2015,Friday,Orthodox Christmas Holiday,"National holiday, Orthodox"
+14/01/2015,Wednesday,Orthodox New Year,"Observance, Orthodox"
+17/01/2015,Saturday,Special Working Day,Working day on weekend
+22/01/2015,Thursday,Ukrainian Unity Day,Observance
+31/01/2015,Saturday,Special Working Day,Working day on weekend
+14/02/2015,Saturday,Special Working Day,Working day on weekend
+14/02/2015,Saturday,Valentine's Day,Observance
+08/03/2015,Sunday,International Women's Day,National holiday
+09/03/2015,Monday,Day off for International Women's Day,National holiday
+21/03/2015,Saturday,March Equinox,Season
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2015,Wednesday,April Fools,Observance
+12/04/2015,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+13/04/2015,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2015,Friday,Labor Day,National holiday
+09/05/2015,Saturday,Victory Day,National holiday
+10/05/2015,Sunday,Mother's Day,Observance
+11/05/2015,Monday,Day off for Victory Day,National holiday
+16/05/2015,Saturday,Europe Day,Observance
+31/05/2015,Sunday,Kyiv Day,Observance
+31/05/2015,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+01/06/2015,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+01/06/2015,Monday,Child Protection Day,Observance
+06/06/2015,Saturday,Journalists' Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+22/06/2015,Monday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2015,Sunday,Constitution Day,National holiday
+29/06/2015,Monday,Day off for Constitution Day,National holiday
+05/07/2015,Sunday,Navy Day,Observance
+06/07/2015,Monday,Kupala Night,Observance
+08/07/2015,Wednesday,Family Day,Observance
+28/07/2015,Tuesday,Baptism of Kyivan Rus,Observance
+24/08/2015,Monday,Independence Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+14/10/2015,Wednesday,Day of Defenders and Defenders of Ukraine,National holiday
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2015,Monday,Cultural Workers and Folk Artists Day,Observance
+21/11/2015,Saturday,Dignity and Freedom Day,Observance
+06/12/2015,Sunday,Army Day,Observance
+19/12/2015,Saturday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2015,Tuesday,December Solstice,Season
+01/01/2016,Friday,New Year's Day,National holiday
+07/01/2016,Thursday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2016,Thursday,Orthodox New Year,"Observance, Orthodox"
+16/01/2016,Saturday,Special Working Day,Working day on weekend
+22/01/2016,Friday,Ukrainian Unity Day,Observance
+14/02/2016,Sunday,Valentine's Day,Observance
+08/03/2016,Tuesday,International Women's Day,National holiday
+20/03/2016,Sunday,March Equinox,Season
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2016,Friday,April Fools,Observance
+01/05/2016,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+01/05/2016,Sunday,Labor Day,National holiday
+02/05/2016,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+02/05/2016,Monday,Day off for Labor Day,National holiday
+08/05/2016,Sunday,Mother's Day,Observance
+09/05/2016,Monday,Victory Day,National holiday
+21/05/2016,Saturday,Europe Day,Observance
+29/05/2016,Sunday,Kyiv Day,Observance
+01/06/2016,Wednesday,Child Protection Day,Observance
+06/06/2016,Monday,Journalists' Day,Observance
+19/06/2016,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+20/06/2016,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2016,Tuesday,June Solstice,Season
+22/06/2016,Wednesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2016,Tuesday,Constitution Day,National holiday
+03/07/2016,Sunday,Navy Day,Observance
+06/07/2016,Wednesday,Kupala Night,Observance
+08/07/2016,Friday,Family Day,Observance
+28/07/2016,Thursday,Baptism of Kyivan Rus,Observance
+24/08/2016,Wednesday,Independence Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+14/10/2016,Friday,Day of Defenders and Defenders of Ukraine,National holiday
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2016,Wednesday,Cultural Workers and Folk Artists Day,Observance
+21/11/2016,Monday,Dignity and Freedom Day,Observance
+06/12/2016,Tuesday,Army Day,Observance
+19/12/2016,Monday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2016,Wednesday,December Solstice,Season
+01/01/2017,Sunday,New Year's Day,National holiday
+02/01/2017,Monday,Day off for New Year's Day,National holiday
+07/01/2017,Saturday,Orthodox Christmas Day,"National holiday, Orthodox"
+09/01/2017,Monday,Day off for Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2017,Saturday,Orthodox New Year,"Observance, Orthodox"
+22/01/2017,Sunday,Ukrainian Unity Day,Observance
+14/02/2017,Tuesday,Valentine's Day,Observance
+08/03/2017,Wednesday,International Women's Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2017,Saturday,April Fools,Observance
+16/04/2017,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+17/04/2017,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2017,Monday,Labor Day,National holiday
+09/05/2017,Tuesday,Victory Day,National holiday
+14/05/2017,Sunday,Mother's Day,Observance
+20/05/2017,Saturday,Europe Day,Observance
+28/05/2017,Sunday,Kyiv Day,Observance
+01/06/2017,Thursday,Child Protection Day,Observance
+04/06/2017,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+05/06/2017,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+06/06/2017,Tuesday,Journalists' Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+22/06/2017,Thursday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2017,Wednesday,Constitution Day,National holiday
+02/07/2017,Sunday,Navy Day,Observance
+06/07/2017,Thursday,Kupala Night,Observance
+08/07/2017,Saturday,Family Day,Observance
+28/07/2017,Friday,Baptism of Kyivan Rus,Observance
+24/08/2017,Thursday,Independence Day,National holiday
+22/09/2017,Friday,September Equinox,Season
+14/10/2017,Saturday,Day of Defenders and Defenders of Ukraine,National holiday
+16/10/2017,Monday,Day off for Day of Defenders and Defenders of Ukraine,National holiday
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2017,Thursday,Cultural Workers and Folk Artists Day,Observance
+21/11/2017,Tuesday,Dignity and Freedom Day,Observance
+06/12/2017,Wednesday,Army Day,Observance
+19/12/2017,Tuesday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Catholic Christmas Day,National holiday
+01/01/2018,Monday,New Year's Day,National holiday
+07/01/2018,Sunday,Orthodox Christmas Day,"National holiday, Orthodox"
+08/01/2018,Monday,Day off for Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2018,Sunday,Orthodox New Year,"Observance, Orthodox"
+22/01/2018,Monday,Ukrainian Unity Day,Observance
+14/02/2018,Wednesday,Valentine's Day,Observance
+03/03/2018,Saturday,Special Working Day,Working day on weekend
+08/03/2018,Thursday,International Women's Day,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2018,Sunday,April Fools,Observance
+08/04/2018,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+09/04/2018,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2018,Tuesday,Labor Day,National holiday
+05/05/2018,Saturday,Special Working Day,Working day on weekend
+09/05/2018,Wednesday,Victory Day,National holiday
+13/05/2018,Sunday,Mother's Day,Observance
+19/05/2018,Saturday,Europe Day,Observance
+27/05/2018,Sunday,Kyiv Day,Observance
+27/05/2018,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+28/05/2018,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+01/06/2018,Friday,Child Protection Day,Observance
+06/06/2018,Wednesday,Journalists' Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+22/06/2018,Friday,Day of Mourning and Commemoration of War Victims,Observance
+23/06/2018,Saturday,Special Working Day,Working day on weekend
+28/06/2018,Thursday,Constitution Day,National holiday
+29/06/2018,Friday,Constitution Day Holiday,National holiday
+01/07/2018,Sunday,Navy Day,Observance
+06/07/2018,Friday,Kupala Night,Observance
+08/07/2018,Sunday,Family Day,Observance
+28/07/2018,Saturday,Baptism of Kyivan Rus,Observance
+24/08/2018,Friday,Independence Day,National holiday
+23/09/2018,Sunday,September Equinox,Season
+14/10/2018,Sunday,Day of Defenders and Defenders of Ukraine,National holiday
+15/10/2018,Monday,Day off for Day of Defenders and Defenders of Ukraine,National holiday
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2018,Friday,Cultural Workers and Folk Artists Day,Observance
+21/11/2018,Wednesday,Dignity and Freedom Day,Observance
+06/12/2018,Thursday,Army Day,Observance
+19/12/2018,Wednesday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Catholic Christmas Day,National holiday
+29/12/2018,Saturday,Special Working Day,Working day on weekend
+31/12/2018,Monday,New Year's Day Holiday,National holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+07/01/2019,Monday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2019,Monday,Orthodox New Year,"Observance, Orthodox"
+22/01/2019,Tuesday,Ukrainian Unity Day,Observance
+14/02/2019,Thursday,Valentine's Day,Observance
+08/03/2019,Friday,International Women's Day,National holiday
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2019,Monday,April Fools,Observance
+28/04/2019,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+29/04/2019,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2019,Wednesday,Labor Day,National holiday
+09/05/2019,Thursday,Victory Day,National holiday
+12/05/2019,Sunday,Mother's Day,Observance
+18/05/2019,Saturday,Europe Day,Observance
+26/05/2019,Sunday,Kyiv Day,Observance
+01/06/2019,Saturday,Child Protection Day,Observance
+06/06/2019,Thursday,Journalists' Day,Observance
+16/06/2019,Sunday,Father's Day,Observance
+16/06/2019,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+17/06/2019,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2019,Friday,June Solstice,Season
+22/06/2019,Saturday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2019,Friday,Constitution Day,National holiday
+06/07/2019,Saturday,Kupala Night,Observance
+07/07/2019,Sunday,Navy Day,Observance
+08/07/2019,Monday,Family Day,Observance
+28/07/2019,Sunday,Baptism of Kyivan Rus,Observance
+24/08/2019,Saturday,Independence Day,National holiday
+26/08/2019,Monday,Day off for Independence Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+14/10/2019,Monday,Day of Defenders and Defenders of Ukraine,National holiday
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2019,Saturday,Cultural Workers and Folk Artists Day,Observance
+21/11/2019,Thursday,Dignity and Freedom Day,Observance
+06/12/2019,Friday,Army Day,Observance
+19/12/2019,Thursday,St. Nicholas Day,"Observance, Orthodox"
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Catholic Christmas Day,National holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+07/01/2020,Tuesday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2020,Tuesday,Orthodox New Year,"Observance, Orthodox"
+22/01/2020,Wednesday,Ukrainian Unity Day,Observance
+14/02/2020,Friday,Valentine's Day,Observance
+08/03/2020,Sunday,International Women's Day,National holiday
+09/03/2020,Monday,Day off for International Women's Day,National holiday
+20/03/2020,Friday,March Equinox,Season
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2020,Wednesday,April Fools,Observance
+19/04/2020,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+20/04/2020,Monday,Orthodox Easter Monday,"National holiday, Orthodox"
+01/05/2020,Friday,Labor Day,National holiday
+09/05/2020,Saturday,Victory Day,National holiday
+10/05/2020,Sunday,Mother's Day,Observance
+11/05/2020,Monday,Day off for Victory Day,National holiday
+16/05/2020,Saturday,Europe Day,Observance
+24/05/2020,Sunday,Ramadan Bayram,Muslim
+31/05/2020,Sunday,Kyiv Day,Observance
+01/06/2020,Monday,Child Protection Day,Observance
+06/06/2020,Saturday,Journalists' Day,Observance
+07/06/2020,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+08/06/2020,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2020,Sunday,Father's Day,Observance
+21/06/2020,Sunday,June Solstice,Season
+22/06/2020,Monday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2020,Sunday,Constitution Day,National holiday
+29/06/2020,Monday,Day off for Constitution Day,National holiday
+05/07/2020,Sunday,Navy Day,Observance
+06/07/2020,Monday,Kupala Night,Observance
+08/07/2020,Wednesday,Family Day,Observance
+28/07/2020,Tuesday,Baptism of Kyivan Rus,Observance
+31/07/2020,Friday,Qurban Bayram,Muslim
+24/08/2020,Monday,Independence Day,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+14/10/2020,Wednesday,Day of Defenders and Defenders of Ukraine,National holiday
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2020,Monday,Cultural Workers and Folk Artists Day,Observance
+21/11/2020,Saturday,Dignity and Freedom Day,Observance
+06/12/2020,Sunday,Army Day,Observance
+19/12/2020,Saturday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Catholic Christmas Day,National holiday
+01/01/2021,Friday,New Year's Day,National holiday
+07/01/2021,Thursday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2021,Thursday,Orthodox New Year,"Observance, Orthodox"
+22/01/2021,Friday,Ukrainian Unity Day,Observance
+14/02/2021,Sunday,Valentine's Day,Observance
+08/03/2021,Monday,International Women's Day,National holiday
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2021,Thursday,April Fools,Observance
+01/05/2021,Saturday,Labor Day,National holiday
+02/05/2021,Sunday,Othodox Easter Day,"National holiday, Orthodox"
+03/05/2021,Monday,Day off for Labor Day,National holiday
+04/05/2021,Tuesday,Orthodox Easter Monday,"National holiday, Orthodox"
+09/05/2021,Sunday,Mother's Day,Observance
+09/05/2021,Sunday,Victory Day,National holiday
+10/05/2021,Monday,Day off for Victory Day,National holiday
+13/05/2021,Thursday,Ramadan Bayram,Muslim
+15/05/2021,Saturday,Europe Day,Observance
+30/05/2021,Sunday,Kyiv Day,Observance
+01/06/2021,Tuesday,Child Protection Day,Observance
+06/06/2021,Sunday,Journalists' Day,Observance
+20/06/2021,Sunday,Father's Day,Observance
+20/06/2021,Sunday,Orthodox Pentecost,"National holiday, Orthodox"
+21/06/2021,Monday,Orthodox Pentecost Holiday,"National holiday, Orthodox"
+21/06/2021,Monday,June Solstice,Season
+22/06/2021,Tuesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2021,Monday,Constitution Day,National holiday
+04/07/2021,Sunday,Navy Day,Observance
+06/07/2021,Tuesday,Kupala Night,Observance
+08/07/2021,Thursday,Family Day,Observance
+20/07/2021,Tuesday,Qurban Bayram,Muslim
+28/07/2021,Wednesday,Baptism of Kyivan Rus,Observance
+21/08/2021,Saturday,Extra Working Day,Working day on weekend
+23/08/2021,Monday,Public Holiday for Independence Day,National holiday
+24/08/2021,Tuesday,Independence Day,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+14/10/2021,Thursday,Day of Defenders and Defenders of Ukraine,National holiday
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2021,Tuesday,Cultural Workers and Folk Artists Day,Observance
+21/11/2021,Sunday,Dignity and Freedom Day,Observance
+06/12/2021,Monday,Army Day,Observance
+19/12/2021,Sunday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Catholic Christmas Day,National holiday
+27/12/2021,Monday,Day off for Catholic Christmas Day,National holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+03/01/2022,Monday,Day off for New Year's Day,National holiday
+07/01/2022,Friday,Orthodox Christmas Day,"National holiday, Orthodox"
+14/01/2022,Friday,Orthodox New Year,"Observance, Orthodox"
+22/01/2022,Saturday,Ukrainian Unity Day,Observance
+14/02/2022,Monday,Valentine's Day,Observance
+16/02/2022,Wednesday,Unity Day,National holiday
+08/03/2022,Tuesday,International Women's Day,National holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2022,Friday,April Fools,Observance
+24/04/2022,Sunday,Othodox Easter Day (Suspended),Suspended National Holiday
+25/04/2022,Monday,Orthodox Easter Monday (Suspended),Suspended National Holiday
+01/05/2022,Sunday,Labor Day (Suspended),Suspended National Holiday
+02/05/2022,Monday,Labor Day (Suspended) observed,Suspended National Holiday
+03/05/2022,Tuesday,Ramadan Bayram (Tentative Date),Muslim
+08/05/2022,Sunday,Mother's Day,Observance
+09/05/2022,Monday,Victory Day (Suspended),Suspended National Holiday
+21/05/2022,Saturday,Europe Day,Observance
+29/05/2022,Sunday,Kyiv Day,Observance
+01/06/2022,Wednesday,Child Protection Day,Observance
+06/06/2022,Monday,Journalists' Day,Observance
+12/06/2022,Sunday,Orthodox Pentecost (Suspended),Suspended National Holiday
+13/06/2022,Monday,Orthodox Pentecost Holiday (Suspended),Suspended National Holiday
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+22/06/2022,Wednesday,Day of Mourning and Commemoration of War Victims,Observance
+28/06/2022,Tuesday,Constitution Day (Suspended),Suspended National Holiday
+03/07/2022,Sunday,Navy Day,Observance
+06/07/2022,Wednesday,Kupala Night,Observance
+08/07/2022,Friday,Family Day,Observance
+10/07/2022,Sunday,Qurban Bayram (Tentative Date),Muslim
+28/07/2022,Thursday,Baptism of Kyivan Rus,Observance
+28/07/2022,Thursday,Ukrainian Statehood Day,Observance
+24/08/2022,Wednesday,Independence Day (Suspended),Suspended National Holiday
+23/09/2022,Friday,September Equinox,Season
+14/10/2022,Friday,Day of Defenders and Defenders of Ukraine (Suspended),Suspended National Holiday
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/11/2022,Wednesday,Cultural Workers and Folk Artists Day,Observance
+21/11/2022,Monday,Dignity and Freedom Day,Observance
+06/12/2022,Tuesday,Army Day,Observance
+19/12/2022,Monday,St. Nicholas Day,"Observance, Orthodox"
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Catholic Christmas Day (Suspended),Suspended National Holiday
+26/12/2022,Monday,Catholic Christmas Day (Suspended) observed,Suspended National Holiday

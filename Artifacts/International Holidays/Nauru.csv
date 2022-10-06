@@ -1,0 +1,393 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+03/01/2000,Monday,New Year's Day observed,Public Holiday
+31/01/2000,Monday,Independence Day,Public Holiday
+01/02/2000,Tuesday,Independence Day Holiday,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+24/04/2000,Monday,Easter Monday,Public Holiday
+25/04/2000,Tuesday,Easter Tuesday,Public Holiday
+17/05/2000,Wednesday,Constitution Day,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+23/09/2000,Saturday,September Equinox,Season
+26/10/2000,Thursday,Angam Day,Public Holiday
+22/12/2000,Friday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Christmas Day observed,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+31/01/2001,Wednesday,Independence Day,Public Holiday
+01/02/2001,Thursday,Independence Day Holiday,Public Holiday
+21/03/2001,Wednesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+16/04/2001,Monday,Easter Monday,Public Holiday
+17/04/2001,Tuesday,Easter Tuesday,Public Holiday
+17/05/2001,Thursday,Constitution Day,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+23/09/2001,Sunday,September Equinox,Season
+26/10/2001,Friday,Angam Day,Public Holiday
+22/12/2001,Saturday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+31/01/2002,Thursday,Independence Day,Public Holiday
+01/02/2002,Friday,Independence Day Holiday,Public Holiday
+21/03/2002,Thursday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+01/04/2002,Monday,Easter Monday,Public Holiday
+02/04/2002,Tuesday,Easter Tuesday,Public Holiday
+17/05/2002,Friday,Constitution Day,Public Holiday
+22/06/2002,Saturday,June Solstice,Season
+23/09/2002,Monday,September Equinox,Season
+26/10/2002,Saturday,Angam Day,Public Holiday
+28/10/2002,Monday,Angam Day observed,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+31/01/2003,Friday,Independence Day,Public Holiday
+01/02/2003,Saturday,Independence Day Holiday,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+21/04/2003,Monday,Easter Monday,Public Holiday
+22/04/2003,Tuesday,Easter Tuesday,Public Holiday
+17/05/2003,Saturday,Constitution Day,Public Holiday
+19/05/2003,Monday,Constitution Day observed,Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+23/09/2003,Tuesday,September Equinox,Season
+26/10/2003,Sunday,Angam Day,Public Holiday
+27/10/2003,Monday,Angam Day observed,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+31/01/2004,Saturday,Independence Day,Public Holiday
+01/02/2004,Sunday,Independence Day Holiday,Public Holiday
+02/02/2004,Monday,Day off for Independence Day,Public Holiday
+03/02/2004,Tuesday,Day off for Independence Day Holiday,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+12/04/2004,Monday,Easter Monday,Public Holiday
+13/04/2004,Tuesday,Easter Tuesday,Public Holiday
+17/05/2004,Monday,Constitution Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+23/09/2004,Thursday,September Equinox,Season
+26/10/2004,Tuesday,Angam Day,Public Holiday
+22/12/2004,Wednesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+27/12/2004,Monday,Christmas Day observed,Public Holiday
+28/12/2004,Tuesday,Boxing Day observed,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+03/01/2005,Monday,New Year's Day observed,Public Holiday
+31/01/2005,Monday,Independence Day,Public Holiday
+01/02/2005,Tuesday,Independence Day Holiday,Public Holiday
+21/03/2005,Monday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+28/03/2005,Monday,Easter Monday,Public Holiday
+29/03/2005,Tuesday,Easter Tuesday,Public Holiday
+17/05/2005,Tuesday,Constitution Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+23/09/2005,Friday,September Equinox,Season
+26/10/2005,Wednesday,Angam Day,Public Holiday
+22/12/2005,Thursday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+27/12/2005,Tuesday,Christmas Day observed,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,New Year's Day observed,Public Holiday
+31/01/2006,Tuesday,Independence Day,Public Holiday
+01/02/2006,Wednesday,Independence Day Holiday,Public Holiday
+21/03/2006,Tuesday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+17/04/2006,Monday,Easter Monday,Public Holiday
+18/04/2006,Tuesday,Easter Tuesday,Public Holiday
+17/05/2006,Wednesday,Constitution Day,Public Holiday
+22/06/2006,Thursday,June Solstice,Season
+23/09/2006,Saturday,September Equinox,Season
+26/10/2006,Thursday,Angam Day,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Christmas Day observed,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+31/01/2007,Wednesday,Independence Day,Public Holiday
+01/02/2007,Thursday,Independence Day Holiday,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+09/04/2007,Monday,Easter Monday,Public Holiday
+10/04/2007,Tuesday,Easter Tuesday,Public Holiday
+17/05/2007,Thursday,Constitution Day,Public Holiday
+22/06/2007,Friday,June Solstice,Season
+23/09/2007,Sunday,September Equinox,Season
+26/10/2007,Friday,Angam Day,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+31/01/2008,Thursday,Independence Day,Public Holiday
+01/02/2008,Friday,Independence Day Holiday,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+24/03/2008,Monday,Easter Monday,Public Holiday
+25/03/2008,Tuesday,Easter Tuesday,Public Holiday
+17/05/2008,Saturday,Constitution Day,Public Holiday
+19/05/2008,Monday,Constitution Day observed,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+23/09/2008,Tuesday,September Equinox,Season
+26/10/2008,Sunday,Angam Day,Public Holiday
+27/10/2008,Monday,Angam Day observed,Public Holiday
+22/12/2008,Monday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+31/01/2009,Saturday,Independence Day,Public Holiday
+01/02/2009,Sunday,Independence Day Holiday,Public Holiday
+02/02/2009,Monday,Day off for Independence Day,Public Holiday
+03/02/2009,Tuesday,Day off for Independence Day Holiday,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+13/04/2009,Monday,Easter Monday,Public Holiday
+14/04/2009,Tuesday,Easter Tuesday,Public Holiday
+17/05/2009,Sunday,Constitution Day,Public Holiday
+18/05/2009,Monday,Constitution Day observed,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+23/09/2009,Wednesday,September Equinox,Season
+26/10/2009,Monday,Angam Day,Public Holiday
+22/12/2009,Tuesday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+28/12/2009,Monday,Boxing Day observed,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+31/01/2010,Sunday,Independence Day,Public Holiday
+01/02/2010,Monday,Independence Day Holiday,Public Holiday
+02/02/2010,Tuesday,Day off for Independence Day,Public Holiday
+21/03/2010,Sunday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+05/04/2010,Monday,Easter Monday,Public Holiday
+06/04/2010,Tuesday,Easter Tuesday,Public Holiday
+17/05/2010,Monday,Constitution Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+23/09/2010,Thursday,September Equinox,Season
+26/10/2010,Tuesday,Angam Day,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+27/12/2010,Monday,Christmas Day observed,Public Holiday
+28/12/2010,Tuesday,Boxing Day observed,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+03/01/2011,Monday,New Year's Day observed,Public Holiday
+31/01/2011,Monday,Independence Day,Public Holiday
+01/02/2011,Tuesday,Independence Day Holiday,Public Holiday
+21/03/2011,Monday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+25/04/2011,Monday,Easter Monday,Public Holiday
+26/04/2011,Tuesday,Easter Tuesday,Public Holiday
+17/05/2011,Tuesday,Constitution Day,Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+23/09/2011,Friday,September Equinox,Season
+26/10/2011,Wednesday,Angam Day,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+27/12/2011,Tuesday,Christmas Day observed,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,New Year's Day observed,Public Holiday
+31/01/2012,Tuesday,Independence Day,Public Holiday
+01/02/2012,Wednesday,Independence Day Holiday,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+09/04/2012,Monday,Easter Monday,Public Holiday
+10/04/2012,Tuesday,Easter Tuesday,Public Holiday
+17/05/2012,Thursday,Constitution Day,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+23/09/2012,Sunday,September Equinox,Season
+26/10/2012,Friday,Angam Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+31/01/2013,Thursday,Independence Day,Public Holiday
+01/02/2013,Friday,Independence Day Holiday,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+01/04/2013,Monday,Easter Monday,Public Holiday
+02/04/2013,Tuesday,Easter Tuesday,Public Holiday
+17/05/2013,Friday,Constitution Day,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+23/09/2013,Monday,September Equinox,Season
+26/10/2013,Saturday,Angam Day,Public Holiday
+28/10/2013,Monday,Angam Day observed,Public Holiday
+22/12/2013,Sunday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+31/01/2014,Friday,Independence Day,Public Holiday
+01/02/2014,Saturday,Independence Day Holiday,Public Holiday
+21/03/2014,Friday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+21/04/2014,Monday,Easter Monday,Public Holiday
+22/04/2014,Tuesday,Easter Tuesday,Public Holiday
+17/05/2014,Saturday,Constitution Day,Public Holiday
+19/05/2014,Monday,Constitution Day observed,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+23/09/2014,Tuesday,September Equinox,Season
+26/10/2014,Sunday,Angam Day,Public Holiday
+27/10/2014,Monday,Angam Day observed,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+31/01/2015,Saturday,Independence Day,Public Holiday
+01/02/2015,Sunday,Independence Day Holiday,Public Holiday
+02/02/2015,Monday,Day off for Independence Day,Public Holiday
+03/02/2015,Tuesday,Day off for Independence Day Holiday,Public Holiday
+21/03/2015,Saturday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+06/04/2015,Monday,Easter Monday,Public Holiday
+07/04/2015,Tuesday,Easter Tuesday,Public Holiday
+17/05/2015,Sunday,Constitution Day,Public Holiday
+18/05/2015,Monday,Constitution Day observed,Public Holiday
+22/06/2015,Monday,June Solstice,Season
+23/09/2015,Wednesday,September Equinox,Season
+26/10/2015,Monday,Angam Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+28/12/2015,Monday,Boxing Day observed,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+31/01/2016,Sunday,Independence Day,Public Holiday
+01/02/2016,Monday,Independence Day Holiday,Public Holiday
+02/02/2016,Tuesday,Day off for Independence Day,Public Holiday
+08/03/2016,Tuesday,International Women's Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+28/03/2016,Monday,Easter Monday,Public Holiday
+29/03/2016,Tuesday,Easter Tuesday,Public Holiday
+17/05/2016,Tuesday,Constitution Day,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+01/07/2016,Friday,RONPhos Handover,Public Holiday
+23/09/2016,Friday,September Equinox,Season
+26/10/2016,Wednesday,Angam Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+27/12/2016,Tuesday,Christmas Day observed,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,New Year's Day observed,Public Holiday
+31/01/2017,Tuesday,Independence Day,Public Holiday
+01/02/2017,Wednesday,Independence Day Holiday,Public Holiday
+08/03/2017,Wednesday,International Women's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+17/04/2017,Monday,Easter Monday,Public Holiday
+18/04/2017,Tuesday,Easter Tuesday,Public Holiday
+17/05/2017,Wednesday,Constitution Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+01/07/2017,Saturday,RONPhos Handover,Public Holiday
+03/07/2017,Monday,Day off for RONPhos Handover,Public Holiday
+23/09/2017,Saturday,September Equinox,Season
+26/10/2017,Thursday,Angam Day,Public Holiday
+22/12/2017,Friday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Christmas Day observed,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+31/01/2018,Wednesday,Independence Day,Public Holiday
+01/02/2018,Thursday,Independence Day Holiday,Public Holiday
+08/03/2018,Thursday,International Women's Day,Public Holiday
+21/03/2018,Wednesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+02/04/2018,Monday,Easter Monday,Public Holiday
+03/04/2018,Tuesday,Easter Tuesday,Public Holiday
+17/05/2018,Thursday,Constitution Day,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+01/07/2018,Sunday,RONPhos Handover,Public Holiday
+02/07/2018,Monday,Day off for RONPhos Handover,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+26/10/2018,Friday,Angam Day,Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+31/01/2019,Thursday,Independence Day,Public Holiday
+01/02/2019,Friday,Independence Day Holiday,Public Holiday
+08/03/2019,Friday,International Women's Day,Public Holiday
+21/03/2019,Thursday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+22/04/2019,Monday,Easter Monday,Public Holiday
+23/04/2019,Tuesday,Easter Tuesday,Public Holiday
+17/05/2019,Friday,Constitution Day,Public Holiday
+22/06/2019,Saturday,June Solstice,Season
+01/07/2019,Monday,RONPhos Handover,Half day holiday
+19/08/2019,Monday,Day of the Tribes,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+26/10/2019,Saturday,Angam Day,Public Holiday
+28/10/2019,Monday,Angam Day observed,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+31/01/2020,Friday,Independence Day,Public Holiday
+01/02/2020,Saturday,Independence Day Holiday,Public Holiday
+08/03/2020,Sunday,International Women's Day,Public Holiday
+09/03/2020,Monday,International Women's Day observed,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+13/04/2020,Monday,Easter Monday,Public Holiday
+14/04/2020,Tuesday,Easter Tuesday,Public Holiday
+17/05/2020,Sunday,Constitution Day,Public Holiday
+18/05/2020,Monday,Constitution Day observed,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+01/07/2020,Wednesday,RONPhos Handover,Public Holiday
+19/08/2020,Wednesday,Day of the Tribes,Public Holiday
+23/09/2020,Wednesday,September Equinox,Season
+25/09/2020,Friday,Sir Hammer DeRoburt Day,Public Holiday
+26/10/2020,Monday,Angam Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+28/12/2020,Monday,Boxing Day observed,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+31/01/2021,Sunday,Independence Day,Public Holiday
+01/02/2021,Monday,Independence Day Holiday,Public Holiday
+02/02/2021,Tuesday,Day off for Independence Day,Public Holiday
+08/03/2021,Monday,International Women's Day,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+05/04/2021,Monday,Easter Monday,Public Holiday
+06/04/2021,Tuesday,Easter Tuesday,Public Holiday
+17/05/2021,Monday,Constitution Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+01/07/2021,Thursday,RONPhos Handover,Public Holiday
+19/08/2021,Thursday,Day of the Tribes,Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+25/09/2021,Saturday,Sir Hammer DeRoburt Day,Public Holiday
+27/09/2021,Monday,Sir Hammer DeRoburt Day observed,Public Holiday
+26/10/2021,Tuesday,Angam Day,Public Holiday
+22/12/2021,Wednesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Christmas Day observed,Public Holiday
+28/12/2021,Tuesday,Boxing Day observed,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+03/01/2022,Monday,New Year's Day observed,Public Holiday
+31/01/2022,Monday,Independence Day,Public Holiday
+01/02/2022,Tuesday,Independence Day Holiday,Public Holiday
+08/03/2022,Tuesday,International Women's Day,Public Holiday
+21/03/2022,Monday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+18/04/2022,Monday,Easter Monday,Public Holiday
+19/04/2022,Tuesday,Easter Tuesday,Public Holiday
+17/05/2022,Tuesday,Constitution Day,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+01/07/2022,Friday,RONPhos Handover,Public Holiday
+19/08/2022,Friday,Day of the Tribes,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+25/09/2022,Sunday,Sir Hammer DeRoburt Day,Public Holiday
+26/09/2022,Monday,Sir Hammer DeRoburt Day observed,Public Holiday
+26/10/2022,Wednesday,Angam Day,Public Holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+27/12/2022,Tuesday,Christmas Day observed,Public Holiday

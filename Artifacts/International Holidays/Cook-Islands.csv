@@ -1,0 +1,408 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+02/01/2000,Sunday,Day After New Year's Day,Public Holiday
+03/01/2000,Monday,New Year's Day observed,Public Holiday
+04/01/2000,Tuesday,Day After New Year's Day observed,Public Holiday
+19/03/2000,Sunday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,Public Holiday
+25/04/2000,Tuesday,ANZAC Day,Public Holiday
+05/06/2000,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2000,Tuesday,June Solstice,Season
+04/08/2000,Friday,Constitution Day,Public Holiday
+22/09/2000,Friday,September Equinox,Season
+26/10/2000,Thursday,Gospel Day,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+02/01/2001,Tuesday,Day After New Year's Day,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,Public Holiday
+25/04/2001,Wednesday,ANZAC Day,Public Holiday
+04/06/2001,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2001,Wednesday,June Solstice,Season
+04/08/2001,Saturday,Constitution Day,Public Holiday
+06/08/2001,Monday,Constitution Day observed,Public Holiday
+22/09/2001,Saturday,September Equinox,Season
+26/10/2001,Friday,Gospel Day,Public Holiday
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+02/01/2002,Wednesday,Day After New Year's Day,Public Holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,Public Holiday
+25/04/2002,Thursday,ANZAC Day,Public Holiday
+03/06/2002,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+04/08/2002,Sunday,Constitution Day,Public Holiday
+05/08/2002,Monday,Constitution Day observed,Public Holiday
+22/09/2002,Sunday,September Equinox,Season
+26/10/2002,Saturday,Gospel Day,Public Holiday
+28/10/2002,Monday,Gospel Day observed,Public Holiday
+21/12/2002,Saturday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+02/01/2003,Thursday,Day After New Year's Day,Public Holiday
+20/03/2003,Thursday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,Public Holiday
+25/04/2003,Friday,ANZAC Day,Public Holiday
+02/06/2003,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2003,Saturday,June Solstice,Season
+04/08/2003,Monday,Constitution Day,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+26/10/2003,Sunday,Gospel Day,Public Holiday
+27/10/2003,Monday,Gospel Day observed,Public Holiday
+21/12/2003,Sunday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+02/01/2004,Friday,Day After New Year's Day,Public Holiday
+19/03/2004,Friday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,Public Holiday
+25/04/2004,Sunday,ANZAC Day,Public Holiday
+26/04/2004,Monday,ANZAC Day observed,Public Holiday
+07/06/2004,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2004,Sunday,June Solstice,Season
+04/08/2004,Wednesday,Constitution Day,Public Holiday
+22/09/2004,Wednesday,September Equinox,Season
+26/10/2004,Tuesday,Gospel Day,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+27/12/2004,Monday,Christmas Day observed,Public Holiday
+28/12/2004,Tuesday,Boxing Day observed,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+02/01/2005,Sunday,Day After New Year's Day,Public Holiday
+03/01/2005,Monday,New Year's Day observed,Public Holiday
+04/01/2005,Tuesday,Day After New Year's Day observed,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,Public Holiday
+25/04/2005,Monday,ANZAC Day,Public Holiday
+06/06/2005,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2005,Monday,June Solstice,Season
+04/08/2005,Thursday,Constitution Day,Public Holiday
+22/09/2005,Thursday,September Equinox,Season
+26/10/2005,Wednesday,Gospel Day,Public Holiday
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Christmas Day observed,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+27/12/2005,Tuesday,Boxing Day observed,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,New Year's Day observed,Public Holiday
+02/01/2006,Monday,Day After New Year's Day,Public Holiday
+03/01/2006,Tuesday,Day After New Year's Day observed,Public Holiday
+20/03/2006,Monday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Public Holiday
+25/04/2006,Tuesday,ANZAC Day,Public Holiday
+05/06/2006,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+04/08/2006,Friday,Constitution Day,Public Holiday
+22/09/2006,Friday,September Equinox,Season
+26/10/2006,Thursday,Gospel Day,Public Holiday
+21/12/2006,Thursday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+02/01/2007,Tuesday,Day After New Year's Day,Public Holiday
+20/03/2007,Tuesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Public Holiday
+25/04/2007,Wednesday,ANZAC Day,Public Holiday
+04/06/2007,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2007,Thursday,June Solstice,Season
+04/08/2007,Saturday,Constitution Day,Public Holiday
+06/08/2007,Monday,Constitution Day observed,Public Holiday
+22/09/2007,Saturday,September Equinox,Season
+26/10/2007,Friday,Gospel Day,Public Holiday
+21/12/2007,Friday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+02/01/2008,Wednesday,Day After New Year's Day,Public Holiday
+19/03/2008,Wednesday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Public Holiday
+25/04/2008,Friday,ANZAC Day,Public Holiday
+02/06/2008,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2008,Friday,June Solstice,Season
+04/08/2008,Monday,Constitution Day,Public Holiday
+22/09/2008,Monday,September Equinox,Season
+26/10/2008,Sunday,Gospel Day,Public Holiday
+27/10/2008,Monday,Gospel Day observed,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+02/01/2009,Friday,Day After New Year's Day,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Public Holiday
+25/04/2009,Saturday,ANZAC Day,Public Holiday
+01/06/2009,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2009,Saturday,June Solstice,Season
+04/08/2009,Tuesday,Constitution Day,Public Holiday
+22/09/2009,Tuesday,September Equinox,Season
+26/10/2009,Monday,Gospel Day,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+28/12/2009,Monday,Boxing Day observed,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+02/01/2010,Saturday,Day After New Year's Day,Public Holiday
+04/01/2010,Monday,Day After New Year's Day observed,Public Holiday
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,Public Holiday
+25/04/2010,Sunday,ANZAC Day,Public Holiday
+26/04/2010,Monday,ANZAC Day observed,Public Holiday
+07/06/2010,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+04/08/2010,Wednesday,Constitution Day,Public Holiday
+22/09/2010,Wednesday,September Equinox,Season
+26/10/2010,Tuesday,Gospel Day,Public Holiday
+21/12/2010,Tuesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+27/12/2010,Monday,Christmas Day observed,Public Holiday
+28/12/2010,Tuesday,Boxing Day observed,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+02/01/2011,Sunday,Day After New Year's Day,Public Holiday
+03/01/2011,Monday,New Year's Day observed,Public Holiday
+04/01/2011,Tuesday,Day After New Year's Day observed,Public Holiday
+20/03/2011,Sunday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Public Holiday
+25/04/2011,Monday,ANZAC Day,Public Holiday
+06/06/2011,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2011,Tuesday,June Solstice,Season
+04/08/2011,Thursday,Constitution Day,Public Holiday
+22/09/2011,Thursday,September Equinox,Season
+26/10/2011,Wednesday,Gospel Day,Public Holiday
+21/12/2011,Wednesday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Christmas Day observed,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+27/12/2011,Tuesday,Boxing Day observed,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,New Year's Day observed,Public Holiday
+02/01/2012,Monday,Day After New Year's Day,Public Holiday
+03/01/2012,Tuesday,Day After New Year's Day observed,Public Holiday
+19/03/2012,Monday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Public Holiday
+25/04/2012,Wednesday,ANZAC Day,Public Holiday
+04/06/2012,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2012,Wednesday,June Solstice,Season
+06/07/2012,Friday,Ui Ariki Day,Public Holiday
+04/08/2012,Saturday,Constitution Day,Public Holiday
+06/08/2012,Monday,Constitution Day observed,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+26/10/2012,Friday,Gospel Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+02/01/2013,Wednesday,Day After New Year's Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Public Holiday
+25/04/2013,Thursday,ANZAC Day,Public Holiday
+03/06/2013,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2013,Thursday,June Solstice,Season
+05/07/2013,Friday,Ui Ariki Day,Public Holiday
+04/08/2013,Sunday,Constitution Day,Public Holiday
+05/08/2013,Monday,Constitution Day observed,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+26/10/2013,Saturday,Gospel Day,Public Holiday
+28/10/2013,Monday,Gospel Day observed,Public Holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+02/01/2014,Thursday,Day After New Year's Day,Public Holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Public Holiday
+25/04/2014,Friday,ANZAC Day,Public Holiday
+02/06/2014,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+04/07/2014,Friday,Ui Ariki Day,Public Holiday
+04/08/2014,Monday,Constitution Day,Public Holiday
+22/09/2014,Monday,September Equinox,Season
+26/10/2014,Sunday,Gospel Day,Public Holiday
+27/10/2014,Monday,Gospel Day observed,Public Holiday
+21/12/2014,Sunday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+02/01/2015,Friday,Day After New Year's Day,Public Holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Public Holiday
+25/04/2015,Saturday,ANZAC Day,Public Holiday
+01/06/2015,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2015,Sunday,June Solstice,Season
+03/07/2015,Friday,Ui Ariki Day,Public Holiday
+04/08/2015,Tuesday,Constitution Day,Public Holiday
+22/09/2015,Tuesday,September Equinox,Season
+26/10/2015,Monday,Gospel Day,Public Holiday
+21/12/2015,Monday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+28/12/2015,Monday,Boxing Day observed,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+02/01/2016,Saturday,Day After New Year's Day,Public Holiday
+04/01/2016,Monday,Day After New Year's Day observed,Public Holiday
+19/03/2016,Saturday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Public Holiday
+25/04/2016,Monday,ANZAC Day,Public Holiday
+06/06/2016,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2016,Monday,June Solstice,Season
+01/07/2016,Friday,Ui Ariki Day,Public Holiday
+04/08/2016,Thursday,Constitution Day,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+26/10/2016,Wednesday,Gospel Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Christmas Day observed,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+27/12/2016,Tuesday,Boxing Day observed,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,New Year's Day observed,Public Holiday
+02/01/2017,Monday,Day After New Year's Day,Public Holiday
+03/01/2017,Tuesday,Day After New Year's Day observed,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Public Holiday
+25/04/2017,Tuesday,ANZAC Day,Public Holiday
+05/06/2017,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2017,Tuesday,June Solstice,Season
+07/07/2017,Friday,Ui Ariki Day,Public Holiday
+04/08/2017,Friday,Constitution Day,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+26/10/2017,Thursday,Gospel Day,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+02/01/2018,Tuesday,Day After New Year's Day,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Public Holiday
+25/04/2018,Wednesday,ANZAC Day,Public Holiday
+04/06/2018,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+06/07/2018,Friday,Ui Ariki Day,Public Holiday
+04/08/2018,Saturday,Constitution Day,Public Holiday
+06/08/2018,Monday,Constitution Day observed,Public Holiday
+22/09/2018,Saturday,September Equinox,Season
+26/10/2018,Friday,Gospel Day,Public Holiday
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+02/01/2019,Wednesday,Day After New Year's Day,Public Holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Public Holiday
+25/04/2019,Thursday,ANZAC Day,Public Holiday
+03/06/2019,Monday,Queen Elizabeth II's Birthday,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+05/07/2019,Friday,Ui Ariki Day,Public Holiday
+04/08/2019,Sunday,Constitution Day,Public Holiday
+05/08/2019,Monday,Constitution Day observed,Public Holiday
+22/09/2019,Sunday,September Equinox,Season
+26/10/2019,Saturday,Gospel Day,Public Holiday
+28/10/2019,Monday,Gospel Day observed,Public Holiday
+21/12/2019,Saturday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+02/01/2020,Thursday,Day After New Year's Day,Public Holiday
+19/03/2020,Thursday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Public Holiday
+25/04/2020,Saturday,ANZAC Day,Public Holiday
+01/06/2020,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+03/07/2020,Friday,Ui Ariki Day,Public Holiday
+04/08/2020,Tuesday,Constitution Day,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+26/10/2020,Monday,Gospel Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+28/12/2020,Monday,Boxing Day observed,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+02/01/2021,Saturday,Day After New Year's Day,Public Holiday
+04/01/2021,Monday,Day After New Year's Day observed,Public Holiday
+19/03/2021,Friday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Public Holiday
+25/04/2021,Sunday,ANZAC Day,Public Holiday
+26/04/2021,Monday,ANZAC Day observed,Public Holiday
+07/06/2021,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2021,Sunday,June Solstice,Season
+02/07/2021,Friday,Ui Ariki Day,Public Holiday
+04/08/2021,Wednesday,Constitution Day,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+26/10/2021,Tuesday,Gospel Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Christmas Day observed,Public Holiday
+28/12/2021,Tuesday,Boxing Day observed,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+02/01/2022,Sunday,Day After New Year's Day,Public Holiday
+03/01/2022,Monday,New Year's Day observed,Public Holiday
+04/01/2022,Tuesday,Day After New Year's Day observed,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Public Holiday
+25/04/2022,Monday,ANZAC Day,Public Holiday
+06/06/2022,Monday,Queen Elizabeth II's Birthday,Public Holiday
+20/06/2022,Monday,June Solstice,Season
+01/07/2022,Friday,Ui Ariki Day,Public Holiday
+04/08/2022,Thursday,Constitution Day,Public Holiday
+22/09/2022,Thursday,September Equinox,Season
+30/09/2022,Friday,Queen Elizabeth II’s Memorial Public Holiday,Public Holiday
+26/10/2022,Wednesday,Gospel Day,Public Holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Christmas Day observed,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+27/12/2022,Tuesday,Boxing Day observed,Public Holiday

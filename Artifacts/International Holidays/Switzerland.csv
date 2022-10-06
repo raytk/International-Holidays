@@ -1,0 +1,978 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Common local holiday
+02/01/2000,Sunday,Berchtold Day,Common local holiday
+06/01/2000,Thursday,Epiphany,Common local holiday
+14/02/2000,Monday,Valentine's Day,Observance
+01/03/2000,Wednesday,Republic Day,Common local holiday
+19/03/2000,Sunday,Saint Joseph's Day,Common local holiday
+20/03/2000,Monday,March Equinox,Season
+26/03/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2000,Thursday,Näfelser Fahrt,Common local holiday
+21/04/2000,Friday,Good Friday,Common local holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,Common local holiday
+01/05/2000,Monday,May Day (Half-Day),Common local holiday
+14/05/2000,Sunday,Mother's Day,Observance
+01/06/2000,Thursday,Ascension Day,Common local holiday
+11/06/2000,Sunday,Pentecost,Observance
+12/06/2000,Monday,Pentecost Monday,Common local holiday
+21/06/2000,Wednesday,June Solstice,Season
+22/06/2000,Thursday,Corpus Christi,Common local holiday
+23/06/2000,Friday,Jura Independence Day,Common local holiday
+29/06/2000,Thursday,St. Peter and St. Paul,Common local holiday
+01/08/2000,Tuesday,Swiss National Day,National holiday
+15/08/2000,Tuesday,Assumption of Mary,Common local holiday
+07/09/2000,Thursday,Jeune Genevois,Common local holiday
+09/09/2000,Saturday,Knabenschiessen,Observance
+10/09/2000,Sunday,Knabenschiessen,Observance
+11/09/2000,Monday,Knabenschiessen,Observance
+17/09/2000,Sunday,Swiss Federal Fast,Common local holiday
+18/09/2000,Monday,Federal Fast Monday,Common local holiday
+22/09/2000,Friday,Mauritius Day,Common local holiday
+22/09/2000,Friday,September Equinox,Season
+25/09/2000,Monday,St. Nicholas of Flüe,Common local holiday
+29/10/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2000,Wednesday,All Saints' Day,Common local holiday
+08/12/2000,Friday,Immaculate Conception,Common local holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,Common local holiday
+26/12/2000,Tuesday,St. Stephen's Day,Common local holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+31/12/2000,Sunday,Restoration Day,Common local holiday
+01/01/2001,Monday,New Year's Day,Common local holiday
+02/01/2001,Tuesday,Berchtold Day,Common local holiday
+06/01/2001,Saturday,Epiphany,Common local holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+01/03/2001,Thursday,Republic Day,Common local holiday
+19/03/2001,Monday,Saint Joseph's Day,Common local holiday
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+05/04/2001,Thursday,Näfelser Fahrt,Common local holiday
+13/04/2001,Friday,Good Friday,Common local holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,Common local holiday
+01/05/2001,Tuesday,May Day (Half-Day),Common local holiday
+13/05/2001,Sunday,Mother's Day,Observance
+24/05/2001,Thursday,Ascension Day,Common local holiday
+03/06/2001,Sunday,Pentecost,Observance
+04/06/2001,Monday,Pentecost Monday,Common local holiday
+14/06/2001,Thursday,Corpus Christi,Common local holiday
+21/06/2001,Thursday,June Solstice,Season
+23/06/2001,Saturday,Jura Independence Day,Common local holiday
+29/06/2001,Friday,St. Peter and St. Paul,Common local holiday
+01/08/2001,Wednesday,Swiss National Day,National holiday
+15/08/2001,Wednesday,Assumption of Mary,Common local holiday
+06/09/2001,Thursday,Jeune Genevois,Common local holiday
+08/09/2001,Saturday,Knabenschiessen,Observance
+09/09/2001,Sunday,Knabenschiessen,Observance
+10/09/2001,Monday,Knabenschiessen,Observance
+16/09/2001,Sunday,Swiss Federal Fast,Common local holiday
+17/09/2001,Monday,Federal Fast Monday,Common local holiday
+22/09/2001,Saturday,Mauritius Day,Common local holiday
+23/09/2001,Sunday,September Equinox,Season
+25/09/2001,Tuesday,St. Nicholas of Flüe,Common local holiday
+28/10/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2001,Thursday,All Saints' Day,Common local holiday
+08/12/2001,Saturday,Immaculate Conception,Common local holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,Common local holiday
+26/12/2001,Wednesday,St. Stephen's Day,Common local holiday
+31/12/2001,Monday,New Year's Eve,Observance
+31/12/2001,Monday,Restoration Day,Common local holiday
+01/01/2002,Tuesday,New Year's Day,Common local holiday
+02/01/2002,Wednesday,Berchtold Day,Common local holiday
+06/01/2002,Sunday,Epiphany,Common local holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+01/03/2002,Friday,Republic Day,Common local holiday
+19/03/2002,Tuesday,Saint Joseph's Day,Common local holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Common local holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+31/03/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2002,Monday,Easter Monday,Common local holiday
+04/04/2002,Thursday,Näfelser Fahrt,Common local holiday
+01/05/2002,Wednesday,May Day (Half-Day),Common local holiday
+09/05/2002,Thursday,Ascension Day,Common local holiday
+12/05/2002,Sunday,Mother's Day,Observance
+19/05/2002,Sunday,Pentecost,Observance
+20/05/2002,Monday,Pentecost Monday,Common local holiday
+30/05/2002,Thursday,Corpus Christi,Common local holiday
+21/06/2002,Friday,June Solstice,Season
+23/06/2002,Sunday,Jura Independence Day,Common local holiday
+29/06/2002,Saturday,St. Peter and St. Paul,Common local holiday
+01/08/2002,Thursday,Swiss National Day,National holiday
+15/08/2002,Thursday,Assumption of Mary,Common local holiday
+05/09/2002,Thursday,Jeune Genevois,Common local holiday
+07/09/2002,Saturday,Knabenschiessen,Observance
+08/09/2002,Sunday,Knabenschiessen,Observance
+09/09/2002,Monday,Knabenschiessen,Observance
+15/09/2002,Sunday,Swiss Federal Fast,Common local holiday
+16/09/2002,Monday,Federal Fast Monday,Common local holiday
+22/09/2002,Sunday,Mauritius Day,Common local holiday
+23/09/2002,Monday,September Equinox,Season
+25/09/2002,Wednesday,St. Nicholas of Flüe,Common local holiday
+27/10/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2002,Friday,All Saints' Day,Common local holiday
+08/12/2002,Sunday,Immaculate Conception,Common local holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,Common local holiday
+26/12/2002,Thursday,St. Stephen's Day,Common local holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+31/12/2002,Tuesday,Restoration Day,Common local holiday
+01/01/2003,Wednesday,New Year's Day,Common local holiday
+02/01/2003,Thursday,Berchtold Day,Common local holiday
+06/01/2003,Monday,Epiphany,Common local holiday
+14/02/2003,Friday,Valentine's Day,Observance
+01/03/2003,Saturday,Republic Day,Common local holiday
+19/03/2003,Wednesday,Saint Joseph's Day,Common local holiday
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+03/04/2003,Thursday,Näfelser Fahrt,Common local holiday
+18/04/2003,Friday,Good Friday,Common local holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,Common local holiday
+01/05/2003,Thursday,May Day (Half-Day),Common local holiday
+11/05/2003,Sunday,Mother's Day,Observance
+29/05/2003,Thursday,Ascension Day,Common local holiday
+08/06/2003,Sunday,Pentecost,Observance
+09/06/2003,Monday,Pentecost Monday,Common local holiday
+19/06/2003,Thursday,Corpus Christi,Common local holiday
+21/06/2003,Saturday,June Solstice,Season
+23/06/2003,Monday,Jura Independence Day,Common local holiday
+29/06/2003,Sunday,St. Peter and St. Paul,Common local holiday
+01/08/2003,Friday,Swiss National Day,National holiday
+15/08/2003,Friday,Assumption of Mary,Common local holiday
+11/09/2003,Thursday,Jeune Genevois,Common local holiday
+13/09/2003,Saturday,Knabenschiessen,Observance
+14/09/2003,Sunday,Knabenschiessen,Observance
+15/09/2003,Monday,Knabenschiessen,Observance
+21/09/2003,Sunday,Swiss Federal Fast,Common local holiday
+22/09/2003,Monday,Federal Fast Monday,Common local holiday
+22/09/2003,Monday,Mauritius Day,Common local holiday
+23/09/2003,Tuesday,September Equinox,Season
+25/09/2003,Thursday,St. Nicholas of Flüe,Common local holiday
+26/10/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2003,Saturday,All Saints' Day,Common local holiday
+08/12/2003,Monday,Immaculate Conception,Common local holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,Common local holiday
+26/12/2003,Friday,St. Stephen's Day,Common local holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+31/12/2003,Wednesday,Restoration Day,Common local holiday
+01/01/2004,Thursday,New Year's Day,Common local holiday
+02/01/2004,Friday,Berchtold Day,Common local holiday
+06/01/2004,Tuesday,Epiphany,Common local holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+01/03/2004,Monday,Republic Day,Common local holiday
+19/03/2004,Friday,Saint Joseph's Day,Common local holiday
+20/03/2004,Saturday,March Equinox,Season
+28/03/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2004,Thursday,Näfelser Fahrt,Common local holiday
+09/04/2004,Friday,Good Friday,Common local holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,Common local holiday
+01/05/2004,Saturday,May Day (Half-Day),Common local holiday
+09/05/2004,Sunday,Mother's Day,Observance
+20/05/2004,Thursday,Ascension Day,Common local holiday
+30/05/2004,Sunday,Pentecost,Observance
+31/05/2004,Monday,Pentecost Monday,Common local holiday
+10/06/2004,Thursday,Corpus Christi,Common local holiday
+21/06/2004,Monday,June Solstice,Season
+23/06/2004,Wednesday,Jura Independence Day,Common local holiday
+29/06/2004,Tuesday,St. Peter and St. Paul,Common local holiday
+01/08/2004,Sunday,Swiss National Day,National holiday
+15/08/2004,Sunday,Assumption of Mary,Common local holiday
+09/09/2004,Thursday,Jeune Genevois,Common local holiday
+11/09/2004,Saturday,Knabenschiessen,Observance
+12/09/2004,Sunday,Knabenschiessen,Observance
+13/09/2004,Monday,Knabenschiessen,Observance
+19/09/2004,Sunday,Swiss Federal Fast,Common local holiday
+20/09/2004,Monday,Federal Fast Monday,Common local holiday
+22/09/2004,Wednesday,Mauritius Day,Common local holiday
+22/09/2004,Wednesday,September Equinox,Season
+25/09/2004,Saturday,St. Nicholas of Flüe,Common local holiday
+31/10/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2004,Monday,All Saints' Day,Common local holiday
+08/12/2004,Wednesday,Immaculate Conception,Common local holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,Common local holiday
+26/12/2004,Sunday,St. Stephen's Day,Common local holiday
+31/12/2004,Friday,New Year's Eve,Observance
+31/12/2004,Friday,Restoration Day,Common local holiday
+01/01/2005,Saturday,New Year's Day,Common local holiday
+02/01/2005,Sunday,Berchtold Day,Common local holiday
+06/01/2005,Thursday,Epiphany,Common local holiday
+14/02/2005,Monday,Valentine's Day,Observance
+01/03/2005,Tuesday,Republic Day,Common local holiday
+19/03/2005,Saturday,Saint Joseph's Day,Common local holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Common local holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+27/03/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2005,Monday,Easter Monday,Common local holiday
+07/04/2005,Thursday,Näfelser Fahrt,Common local holiday
+01/05/2005,Sunday,May Day (Half-Day),Common local holiday
+05/05/2005,Thursday,Ascension Day,Common local holiday
+08/05/2005,Sunday,Mother's Day,Observance
+15/05/2005,Sunday,Pentecost,Observance
+16/05/2005,Monday,Pentecost Monday,Common local holiday
+26/05/2005,Thursday,Corpus Christi,Common local holiday
+21/06/2005,Tuesday,June Solstice,Season
+23/06/2005,Thursday,Jura Independence Day,Common local holiday
+29/06/2005,Wednesday,St. Peter and St. Paul,Common local holiday
+01/08/2005,Monday,Swiss National Day,National holiday
+15/08/2005,Monday,Assumption of Mary,Common local holiday
+08/09/2005,Thursday,Jeune Genevois,Common local holiday
+10/09/2005,Saturday,Knabenschiessen,Observance
+11/09/2005,Sunday,Knabenschiessen,Observance
+12/09/2005,Monday,Knabenschiessen,Observance
+18/09/2005,Sunday,Swiss Federal Fast,Common local holiday
+19/09/2005,Monday,Federal Fast Monday,Common local holiday
+22/09/2005,Thursday,Mauritius Day,Common local holiday
+23/09/2005,Friday,September Equinox,Season
+25/09/2005,Sunday,St. Nicholas of Flüe,Common local holiday
+30/10/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2005,Tuesday,All Saints' Day,Common local holiday
+08/12/2005,Thursday,Immaculate Conception,Common local holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Common local holiday
+26/12/2005,Monday,St. Stephen's Day,Common local holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+31/12/2005,Saturday,Restoration Day,Common local holiday
+01/01/2006,Sunday,New Year's Day,Common local holiday
+02/01/2006,Monday,Berchtold Day,Common local holiday
+06/01/2006,Friday,Epiphany,Common local holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+01/03/2006,Wednesday,Republic Day,Common local holiday
+19/03/2006,Sunday,Saint Joseph's Day,Common local holiday
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2006,Thursday,Näfelser Fahrt,Common local holiday
+14/04/2006,Friday,Good Friday,Common local holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Common local holiday
+01/05/2006,Monday,May Day (Half-Day),Common local holiday
+14/05/2006,Sunday,Mother's Day,Observance
+25/05/2006,Thursday,Ascension Day,Common local holiday
+04/06/2006,Sunday,Pentecost,Observance
+05/06/2006,Monday,Pentecost Monday,Common local holiday
+15/06/2006,Thursday,Corpus Christi,Common local holiday
+21/06/2006,Wednesday,June Solstice,Season
+23/06/2006,Friday,Jura Independence Day,Common local holiday
+29/06/2006,Thursday,St. Peter and St. Paul,Common local holiday
+01/08/2006,Tuesday,Swiss National Day,National holiday
+15/08/2006,Tuesday,Assumption of Mary,Common local holiday
+07/09/2006,Thursday,Jeune Genevois,Common local holiday
+09/09/2006,Saturday,Knabenschiessen,Observance
+10/09/2006,Sunday,Knabenschiessen,Observance
+11/09/2006,Monday,Knabenschiessen,Observance
+17/09/2006,Sunday,Swiss Federal Fast,Common local holiday
+18/09/2006,Monday,Federal Fast Monday,Common local holiday
+22/09/2006,Friday,Mauritius Day,Common local holiday
+23/09/2006,Saturday,September Equinox,Season
+25/09/2006,Monday,St. Nicholas of Flüe,Common local holiday
+29/10/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2006,Wednesday,All Saints' Day,Common local holiday
+08/12/2006,Friday,Immaculate Conception,Common local holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Common local holiday
+26/12/2006,Tuesday,St. Stephen's Day,Common local holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+31/12/2006,Sunday,Restoration Day,Common local holiday
+01/01/2007,Monday,New Year's Day,Common local holiday
+02/01/2007,Tuesday,Berchtold Day,Common local holiday
+06/01/2007,Saturday,Epiphany,Common local holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+01/03/2007,Thursday,Republic Day,Common local holiday
+19/03/2007,Monday,Saint Joseph's Day,Common local holiday
+21/03/2007,Wednesday,March Equinox,Season
+25/03/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+05/04/2007,Thursday,Näfelser Fahrt,Common local holiday
+06/04/2007,Friday,Good Friday,Common local holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Common local holiday
+01/05/2007,Tuesday,May Day (Half-Day),Common local holiday
+13/05/2007,Sunday,Mother's Day,Observance
+17/05/2007,Thursday,Ascension Day,Common local holiday
+27/05/2007,Sunday,Pentecost,Observance
+28/05/2007,Monday,Pentecost Monday,Common local holiday
+03/06/2007,Sunday,Father's Day,Observance
+07/06/2007,Thursday,Corpus Christi,Common local holiday
+21/06/2007,Thursday,June Solstice,Season
+23/06/2007,Saturday,Jura Independence Day,Common local holiday
+29/06/2007,Friday,St. Peter and St. Paul,Common local holiday
+01/08/2007,Wednesday,Swiss National Day,National holiday
+15/08/2007,Wednesday,Assumption of Mary,Common local holiday
+06/09/2007,Thursday,Jeune Genevois,Common local holiday
+08/09/2007,Saturday,Knabenschiessen,Observance
+09/09/2007,Sunday,Knabenschiessen,Observance
+10/09/2007,Monday,Knabenschiessen,Observance
+16/09/2007,Sunday,Swiss Federal Fast,Common local holiday
+17/09/2007,Monday,Federal Fast Monday,Common local holiday
+22/09/2007,Saturday,Mauritius Day,Common local holiday
+23/09/2007,Sunday,September Equinox,Season
+25/09/2007,Tuesday,St. Nicholas of Flüe,Common local holiday
+28/10/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2007,Thursday,All Saints' Day,Common local holiday
+08/12/2007,Saturday,Immaculate Conception,Common local holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Common local holiday
+26/12/2007,Wednesday,St. Stephen's Day,Common local holiday
+31/12/2007,Monday,New Year's Eve,Observance
+31/12/2007,Monday,Restoration Day,Common local holiday
+01/01/2008,Tuesday,New Year's Day,Common local holiday
+02/01/2008,Wednesday,Berchtold Day,Common local holiday
+06/01/2008,Sunday,Epiphany,Common local holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+01/03/2008,Saturday,Republic Day,Common local holiday
+19/03/2008,Wednesday,Saint Joseph's Day,Common local holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Common local holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Common local holiday
+30/03/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+03/04/2008,Thursday,Näfelser Fahrt,Common local holiday
+01/05/2008,Thursday,May Day (Half-Day),Common local holiday
+01/05/2008,Thursday,Ascension Day,Common local holiday
+11/05/2008,Sunday,Mother's Day,Observance
+11/05/2008,Sunday,Pentecost,Observance
+12/05/2008,Monday,Pentecost Monday,Common local holiday
+22/05/2008,Thursday,Corpus Christi,Common local holiday
+01/06/2008,Sunday,Father's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+23/06/2008,Monday,Jura Independence Day,Common local holiday
+29/06/2008,Sunday,St. Peter and St. Paul,Common local holiday
+01/08/2008,Friday,Swiss National Day,National holiday
+15/08/2008,Friday,Assumption of Mary,Common local holiday
+11/09/2008,Thursday,Jeune Genevois,Common local holiday
+13/09/2008,Saturday,Knabenschiessen,Observance
+14/09/2008,Sunday,Knabenschiessen,Observance
+15/09/2008,Monday,Knabenschiessen,Observance
+21/09/2008,Sunday,Swiss Federal Fast,Common local holiday
+22/09/2008,Monday,Federal Fast Monday,Common local holiday
+22/09/2008,Monday,Mauritius Day,Common local holiday
+22/09/2008,Monday,September Equinox,Season
+25/09/2008,Thursday,St. Nicholas of Flüe,Common local holiday
+26/10/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2008,Saturday,All Saints' Day,Common local holiday
+08/12/2008,Monday,Immaculate Conception,Common local holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Common local holiday
+26/12/2008,Friday,St. Stephen's Day,Common local holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+31/12/2008,Wednesday,Restoration Day,Common local holiday
+01/01/2009,Thursday,New Year's Day,Common local holiday
+02/01/2009,Friday,Berchtold Day,Common local holiday
+06/01/2009,Tuesday,Epiphany,Common local holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+01/03/2009,Sunday,Republic Day,Common local holiday
+19/03/2009,Thursday,Saint Joseph's Day,Common local holiday
+20/03/2009,Friday,March Equinox,Season
+29/03/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2009,Thursday,Näfelser Fahrt,Common local holiday
+10/04/2009,Friday,Good Friday,Common local holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Common local holiday
+20/04/2009,Monday,Sechseläuten,Observance
+01/05/2009,Friday,May Day (Half-Day),Common local holiday
+10/05/2009,Sunday,Mother's Day,Observance
+21/05/2009,Thursday,Ascension Day,Common local holiday
+31/05/2009,Sunday,Pentecost,Observance
+01/06/2009,Monday,Pentecost Monday,Common local holiday
+07/06/2009,Sunday,Father's Day,Observance
+11/06/2009,Thursday,Corpus Christi,Common local holiday
+21/06/2009,Sunday,June Solstice,Season
+23/06/2009,Tuesday,Jura Independence Day,Common local holiday
+29/06/2009,Monday,St. Peter and St. Paul,Common local holiday
+01/08/2009,Saturday,Swiss National Day,National holiday
+15/08/2009,Saturday,Assumption of Mary,Common local holiday
+10/09/2009,Thursday,Jeune Genevois,Common local holiday
+12/09/2009,Saturday,Knabenschiessen,Observance
+13/09/2009,Sunday,Knabenschiessen,Observance
+14/09/2009,Monday,Knabenschiessen,Observance
+20/09/2009,Sunday,Swiss Federal Fast,Common local holiday
+21/09/2009,Monday,Federal Fast Monday,Common local holiday
+22/09/2009,Tuesday,Mauritius Day,Common local holiday
+22/09/2009,Tuesday,September Equinox,Season
+25/09/2009,Friday,St. Nicholas of Flüe,Common local holiday
+25/10/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2009,Sunday,All Saints' Day,Common local holiday
+08/12/2009,Tuesday,Immaculate Conception,Common local holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Common local holiday
+26/12/2009,Saturday,St. Stephen's Day,Common local holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+31/12/2009,Thursday,Restoration Day,Common local holiday
+01/01/2010,Friday,New Year's Day,Common local holiday
+02/01/2010,Saturday,Berchtold Day,Common local holiday
+06/01/2010,Wednesday,Epiphany,Common local holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+01/03/2010,Monday,Republic Day,Common local holiday
+19/03/2010,Friday,Saint Joseph's Day,Common local holiday
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2010,Thursday,Näfelser Fahrt,Common local holiday
+02/04/2010,Friday,Good Friday,Common local holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,Common local holiday
+19/04/2010,Monday,Sechseläuten,Observance
+01/05/2010,Saturday,May Day (Half-Day),Common local holiday
+09/05/2010,Sunday,Mother's Day,Observance
+13/05/2010,Thursday,Ascension Day,Common local holiday
+23/05/2010,Sunday,Pentecost,Observance
+24/05/2010,Monday,Pentecost Monday,Common local holiday
+03/06/2010,Thursday,Corpus Christi,Common local holiday
+06/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+23/06/2010,Wednesday,Jura Independence Day,Common local holiday
+29/06/2010,Tuesday,St. Peter and St. Paul,Common local holiday
+01/08/2010,Sunday,Swiss National Day,National holiday
+15/08/2010,Sunday,Assumption of Mary,Common local holiday
+09/09/2010,Thursday,Jeune Genevois,Common local holiday
+11/09/2010,Saturday,Knabenschiessen,Observance
+12/09/2010,Sunday,Knabenschiessen,Observance
+13/09/2010,Monday,Knabenschiessen,Observance
+19/09/2010,Sunday,Swiss Federal Fast,Common local holiday
+20/09/2010,Monday,Federal Fast Monday,Common local holiday
+22/09/2010,Wednesday,Mauritius Day,Common local holiday
+23/09/2010,Thursday,September Equinox,Season
+25/09/2010,Saturday,St. Nicholas of Flüe,Common local holiday
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2010,Monday,All Saints' Day,Common local holiday
+08/12/2010,Wednesday,Immaculate Conception,Common local holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Common local holiday
+26/12/2010,Sunday,St. Stephen's Day,Common local holiday
+31/12/2010,Friday,New Year's Eve,Observance
+31/12/2010,Friday,Restoration Day,Common local holiday
+01/01/2011,Saturday,New Year's Day,Common local holiday
+02/01/2011,Sunday,Berchtold Day,Common local holiday
+06/01/2011,Thursday,Epiphany,Common local holiday
+14/02/2011,Monday,Valentine's Day,Observance
+01/03/2011,Tuesday,Republic Day,Common local holiday
+19/03/2011,Saturday,Saint Joseph's Day,Common local holiday
+21/03/2011,Monday,March Equinox,Season
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2011,Thursday,Näfelser Fahrt,Common local holiday
+11/04/2011,Monday,Sechseläuten,Observance
+22/04/2011,Friday,Good Friday,Common local holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Common local holiday
+01/05/2011,Sunday,May Day (Half-Day),Common local holiday
+08/05/2011,Sunday,Mother's Day,Observance
+02/06/2011,Thursday,Ascension Day,Common local holiday
+05/06/2011,Sunday,Father's Day,Observance
+12/06/2011,Sunday,Pentecost,Observance
+13/06/2011,Monday,Pentecost Monday,Common local holiday
+21/06/2011,Tuesday,June Solstice,Season
+23/06/2011,Thursday,Corpus Christi,Common local holiday
+23/06/2011,Thursday,Jura Independence Day,Common local holiday
+29/06/2011,Wednesday,St. Peter and St. Paul,Common local holiday
+01/08/2011,Monday,Swiss National Day,National holiday
+15/08/2011,Monday,Assumption of Mary,Common local holiday
+08/09/2011,Thursday,Jeune Genevois,Common local holiday
+10/09/2011,Saturday,Knabenschiessen,Observance
+11/09/2011,Sunday,Knabenschiessen,Observance
+12/09/2011,Monday,Knabenschiessen,Observance
+18/09/2011,Sunday,Swiss Federal Fast,Common local holiday
+19/09/2011,Monday,Federal Fast Monday,Common local holiday
+22/09/2011,Thursday,Mauritius Day,Common local holiday
+23/09/2011,Friday,September Equinox,Season
+25/09/2011,Sunday,St. Nicholas of Flüe,Common local holiday
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2011,Tuesday,All Saints' Day,Common local holiday
+08/12/2011,Thursday,Immaculate Conception,Common local holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Common local holiday
+26/12/2011,Monday,St. Stephen's Day,Common local holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+31/12/2011,Saturday,Restoration Day,Common local holiday
+01/01/2012,Sunday,New Year's Day,Common local holiday
+02/01/2012,Monday,Berchtold Day,Common local holiday
+06/01/2012,Friday,Epiphany,Common local holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+01/03/2012,Thursday,Republic Day,Common local holiday
+19/03/2012,Monday,Saint Joseph's Day,Common local holiday
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+05/04/2012,Thursday,Näfelser Fahrt,Common local holiday
+06/04/2012,Friday,Good Friday,Common local holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Common local holiday
+16/04/2012,Monday,Sechseläuten,Observance
+01/05/2012,Tuesday,May Day (Half-Day),Common local holiday
+13/05/2012,Sunday,Mother's Day,Observance
+17/05/2012,Thursday,Ascension Day,Common local holiday
+27/05/2012,Sunday,Pentecost,Observance
+28/05/2012,Monday,Pentecost Monday,Common local holiday
+03/06/2012,Sunday,Father's Day,Observance
+07/06/2012,Thursday,Corpus Christi,Common local holiday
+21/06/2012,Thursday,June Solstice,Season
+23/06/2012,Saturday,Jura Independence Day,Common local holiday
+29/06/2012,Friday,St. Peter and St. Paul,Common local holiday
+01/08/2012,Wednesday,Swiss National Day,National holiday
+15/08/2012,Wednesday,Assumption of Mary,Common local holiday
+06/09/2012,Thursday,Jeune Genevois,Common local holiday
+08/09/2012,Saturday,Knabenschiessen,Observance
+09/09/2012,Sunday,Knabenschiessen,Observance
+10/09/2012,Monday,Knabenschiessen,Observance
+16/09/2012,Sunday,Swiss Federal Fast,Common local holiday
+17/09/2012,Monday,Federal Fast Monday,Common local holiday
+22/09/2012,Saturday,Mauritius Day,Common local holiday
+22/09/2012,Saturday,September Equinox,Season
+25/09/2012,Tuesday,St. Nicholas of Flüe,Common local holiday
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2012,Thursday,All Saints' Day,Common local holiday
+08/12/2012,Saturday,Immaculate Conception,Common local holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Common local holiday
+26/12/2012,Wednesday,St. Stephen's Day,Common local holiday
+31/12/2012,Monday,New Year's Eve,Observance
+31/12/2012,Monday,Restoration Day,Common local holiday
+01/01/2013,Tuesday,New Year's Day,Common local holiday
+02/01/2013,Wednesday,Berchtold Day,Common local holiday
+06/01/2013,Sunday,Epiphany,Common local holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+01/03/2013,Friday,Republic Day,Common local holiday
+19/03/2013,Tuesday,Saint Joseph's Day,Common local holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Common local holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2013,Monday,Easter Monday,Common local holiday
+04/04/2013,Thursday,Näfelser Fahrt,Common local holiday
+15/04/2013,Monday,Sechseläuten,Observance
+01/05/2013,Wednesday,May Day (Half-Day),Common local holiday
+09/05/2013,Thursday,Ascension Day,Common local holiday
+12/05/2013,Sunday,Mother's Day,Observance
+19/05/2013,Sunday,Pentecost,Observance
+20/05/2013,Monday,Pentecost Monday,Common local holiday
+30/05/2013,Thursday,Corpus Christi,Common local holiday
+02/06/2013,Sunday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+23/06/2013,Sunday,Jura Independence Day,Common local holiday
+29/06/2013,Saturday,St. Peter and St. Paul,Common local holiday
+01/08/2013,Thursday,Swiss National Day,National holiday
+15/08/2013,Thursday,Assumption of Mary,Common local holiday
+05/09/2013,Thursday,Jeune Genevois,Common local holiday
+07/09/2013,Saturday,Knabenschiessen,Observance
+08/09/2013,Sunday,Knabenschiessen,Observance
+09/09/2013,Monday,Knabenschiessen,Observance
+15/09/2013,Sunday,Swiss Federal Fast,Common local holiday
+16/09/2013,Monday,Federal Fast Monday,Common local holiday
+22/09/2013,Sunday,Mauritius Day,Common local holiday
+22/09/2013,Sunday,September Equinox,Season
+25/09/2013,Wednesday,St. Nicholas of Flüe,Common local holiday
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2013,Friday,All Saints' Day,Common local holiday
+08/12/2013,Sunday,Immaculate Conception,Common local holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Common local holiday
+26/12/2013,Thursday,St. Stephen's Day,Common local holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+31/12/2013,Tuesday,Restoration Day,Common local holiday
+01/01/2014,Wednesday,New Year's Day,Common local holiday
+02/01/2014,Thursday,Berchtold Day,Common local holiday
+06/01/2014,Monday,Epiphany,Common local holiday
+14/02/2014,Friday,Valentine's Day,Observance
+01/03/2014,Saturday,Republic Day,Common local holiday
+19/03/2014,Wednesday,Saint Joseph's Day,Common local holiday
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+03/04/2014,Thursday,Näfelser Fahrt,Common local holiday
+18/04/2014,Friday,Good Friday,Common local holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Common local holiday
+28/04/2014,Monday,Sechseläuten,Observance
+01/05/2014,Thursday,May Day (Half-Day),Common local holiday
+11/05/2014,Sunday,Mother's Day,Observance
+29/05/2014,Thursday,Ascension Day,Common local holiday
+01/06/2014,Sunday,Father's Day,Observance
+08/06/2014,Sunday,Pentecost,Observance
+09/06/2014,Monday,Pentecost Monday,Common local holiday
+19/06/2014,Thursday,Corpus Christi,Common local holiday
+21/06/2014,Saturday,June Solstice,Season
+23/06/2014,Monday,Jura Independence Day,Common local holiday
+29/06/2014,Sunday,St. Peter and St. Paul,Common local holiday
+01/08/2014,Friday,Swiss National Day,National holiday
+15/08/2014,Friday,Assumption of Mary,Common local holiday
+11/09/2014,Thursday,Jeune Genevois,Common local holiday
+13/09/2014,Saturday,Knabenschiessen,Observance
+14/09/2014,Sunday,Knabenschiessen,Observance
+15/09/2014,Monday,Knabenschiessen,Observance
+21/09/2014,Sunday,Swiss Federal Fast,Common local holiday
+22/09/2014,Monday,Federal Fast Monday,Common local holiday
+22/09/2014,Monday,Mauritius Day,Common local holiday
+23/09/2014,Tuesday,September Equinox,Season
+25/09/2014,Thursday,St. Nicholas of Flüe,Common local holiday
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2014,Saturday,All Saints' Day,Common local holiday
+08/12/2014,Monday,Immaculate Conception,Common local holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Common local holiday
+26/12/2014,Friday,St. Stephen's Day,Common local holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+31/12/2014,Wednesday,Restoration Day,Common local holiday
+01/01/2015,Thursday,New Year's Day,Common local holiday
+02/01/2015,Friday,Berchtold Day,Common local holiday
+06/01/2015,Tuesday,Epiphany,Common local holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+01/03/2015,Sunday,Republic Day,Common local holiday
+19/03/2015,Thursday,Saint Joseph's Day,Common local holiday
+20/03/2015,Friday,March Equinox,Season
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2015,Thursday,Näfelser Fahrt,Common local holiday
+03/04/2015,Friday,Good Friday,Common local holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Common local holiday
+13/04/2015,Monday,Sechseläuten,Observance
+01/05/2015,Friday,May Day (Half-Day),Common local holiday
+10/05/2015,Sunday,Mother's Day,Observance
+14/05/2015,Thursday,Ascension Day,Common local holiday
+24/05/2015,Sunday,Pentecost,Observance
+25/05/2015,Monday,Pentecost Monday,Common local holiday
+04/06/2015,Thursday,Corpus Christi,Common local holiday
+07/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+23/06/2015,Tuesday,Jura Independence Day,Common local holiday
+29/06/2015,Monday,St. Peter and St. Paul,Common local holiday
+01/08/2015,Saturday,Swiss National Day,National holiday
+15/08/2015,Saturday,Assumption of Mary,Common local holiday
+10/09/2015,Thursday,Jeune Genevois,Common local holiday
+12/09/2015,Saturday,Knabenschiessen,Observance
+13/09/2015,Sunday,Knabenschiessen,Observance
+14/09/2015,Monday,Knabenschiessen,Observance
+20/09/2015,Sunday,Swiss Federal Fast,Common local holiday
+21/09/2015,Monday,Federal Fast Monday,Common local holiday
+22/09/2015,Tuesday,Mauritius Day,Common local holiday
+23/09/2015,Wednesday,September Equinox,Season
+25/09/2015,Friday,St. Nicholas of Flüe,Common local holiday
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2015,Sunday,All Saints' Day,Common local holiday
+08/12/2015,Tuesday,Immaculate Conception,Common local holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Common local holiday
+26/12/2015,Saturday,St. Stephen's Day,Common local holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+31/12/2015,Thursday,Restoration Day,Common local holiday
+01/01/2016,Friday,New Year's Day,Common local holiday
+02/01/2016,Saturday,Berchtold Day,Common local holiday
+06/01/2016,Wednesday,Epiphany,Common local holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+01/03/2016,Tuesday,Republic Day,Common local holiday
+19/03/2016,Saturday,Saint Joseph's Day,Common local holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Common local holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2016,Monday,Easter Monday,Common local holiday
+07/04/2016,Thursday,Näfelser Fahrt,Common local holiday
+18/04/2016,Monday,Sechseläuten,Observance
+01/05/2016,Sunday,May Day (Half-Day),Common local holiday
+05/05/2016,Thursday,Ascension Day,Common local holiday
+08/05/2016,Sunday,Mother's Day,Observance
+15/05/2016,Sunday,Pentecost,Observance
+16/05/2016,Monday,Pentecost Monday,Common local holiday
+26/05/2016,Thursday,Corpus Christi,Common local holiday
+05/06/2016,Sunday,Father's Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+23/06/2016,Thursday,Jura Independence Day,Common local holiday
+29/06/2016,Wednesday,St. Peter and St. Paul,Common local holiday
+01/08/2016,Monday,Swiss National Day,National holiday
+15/08/2016,Monday,Assumption of Mary,Common local holiday
+08/09/2016,Thursday,Jeune Genevois,Common local holiday
+10/09/2016,Saturday,Knabenschiessen,Observance
+11/09/2016,Sunday,Knabenschiessen,Observance
+12/09/2016,Monday,Knabenschiessen,Observance
+18/09/2016,Sunday,Swiss Federal Fast,Common local holiday
+19/09/2016,Monday,Federal Fast Monday,Common local holiday
+22/09/2016,Thursday,Mauritius Day,Common local holiday
+22/09/2016,Thursday,September Equinox,Season
+25/09/2016,Sunday,St. Nicholas of Flüe,Common local holiday
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2016,Tuesday,All Saints' Day,Common local holiday
+08/12/2016,Thursday,Immaculate Conception,Common local holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Common local holiday
+26/12/2016,Monday,St. Stephen's Day,Common local holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+31/12/2016,Saturday,Restoration Day,Common local holiday
+01/01/2017,Sunday,New Year's Day,Common local holiday
+02/01/2017,Monday,Berchtold Day,Common local holiday
+06/01/2017,Friday,Epiphany,Common local holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+01/03/2017,Wednesday,Republic Day,Common local holiday
+19/03/2017,Sunday,Saint Joseph's Day,Common local holiday
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2017,Thursday,Näfelser Fahrt,Common local holiday
+14/04/2017,Friday,Good Friday,Common local holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Common local holiday
+24/04/2017,Monday,Sechseläuten,Observance
+01/05/2017,Monday,May Day (Half-Day),Common local holiday
+14/05/2017,Sunday,Mother's Day,Observance
+25/05/2017,Thursday,Ascension Day,Common local holiday
+04/06/2017,Sunday,Father's Day,Observance
+04/06/2017,Sunday,Pentecost,Observance
+05/06/2017,Monday,Pentecost Monday,Common local holiday
+15/06/2017,Thursday,Corpus Christi,Common local holiday
+21/06/2017,Wednesday,June Solstice,Season
+23/06/2017,Friday,Jura Independence Day,Common local holiday
+29/06/2017,Thursday,St. Peter and St. Paul,Common local holiday
+01/08/2017,Tuesday,Swiss National Day,National holiday
+15/08/2017,Tuesday,Assumption of Mary,Common local holiday
+07/09/2017,Thursday,Jeune Genevois,Common local holiday
+09/09/2017,Saturday,Knabenschiessen,Observance
+10/09/2017,Sunday,Knabenschiessen,Observance
+11/09/2017,Monday,Knabenschiessen,Observance
+17/09/2017,Sunday,Swiss Federal Fast,Common local holiday
+18/09/2017,Monday,Federal Fast Monday,Common local holiday
+22/09/2017,Friday,Mauritius Day,Common local holiday
+22/09/2017,Friday,September Equinox,Season
+25/09/2017,Monday,St. Nicholas of Flüe,Common local holiday
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2017,Wednesday,All Saints' Day,Common local holiday
+08/12/2017,Friday,Immaculate Conception,Common local holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Common local holiday
+26/12/2017,Tuesday,St. Stephen's Day,Common local holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+31/12/2017,Sunday,Restoration Day,Common local holiday
+01/01/2018,Monday,New Year's Day,Common local holiday
+02/01/2018,Tuesday,Berchtold Day,Common local holiday
+06/01/2018,Saturday,Epiphany,Common local holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+01/03/2018,Thursday,Republic Day,Common local holiday
+19/03/2018,Monday,Saint Joseph's Day,Common local holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+30/03/2018,Friday,Good Friday,Common local holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Common local holiday
+05/04/2018,Thursday,Näfelser Fahrt,Common local holiday
+16/04/2018,Monday,Sechseläuten,Observance
+01/05/2018,Tuesday,May Day (Half-Day),Common local holiday
+10/05/2018,Thursday,Ascension Day,Common local holiday
+13/05/2018,Sunday,Mother's Day,Observance
+20/05/2018,Sunday,Pentecost,Observance
+21/05/2018,Monday,Pentecost Monday,Common local holiday
+31/05/2018,Thursday,Corpus Christi,Common local holiday
+03/06/2018,Sunday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+23/06/2018,Saturday,Jura Independence Day,Common local holiday
+29/06/2018,Friday,St. Peter and St. Paul,Common local holiday
+01/08/2018,Wednesday,Swiss National Day,National holiday
+15/08/2018,Wednesday,Assumption of Mary,Common local holiday
+06/09/2018,Thursday,Jeune Genevois,Common local holiday
+08/09/2018,Saturday,Knabenschiessen,Observance
+09/09/2018,Sunday,Knabenschiessen,Observance
+10/09/2018,Monday,Knabenschiessen,Observance
+16/09/2018,Sunday,Swiss Federal Fast,Common local holiday
+17/09/2018,Monday,Federal Fast Monday,Common local holiday
+22/09/2018,Saturday,Mauritius Day,Common local holiday
+23/09/2018,Sunday,September Equinox,Season
+25/09/2018,Tuesday,St. Nicholas of Flüe,Common local holiday
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2018,Thursday,All Saints' Day,Common local holiday
+08/12/2018,Saturday,Immaculate Conception,Common local holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Common local holiday
+26/12/2018,Wednesday,St. Stephen's Day,Common local holiday
+31/12/2018,Monday,New Year's Eve,Observance
+31/12/2018,Monday,Restoration Day,Common local holiday
+01/01/2019,Tuesday,New Year's Day,Common local holiday
+02/01/2019,Wednesday,Berchtold Day,Common local holiday
+06/01/2019,Sunday,Epiphany,Common local holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+01/03/2019,Friday,Republic Day,Common local holiday
+19/03/2019,Tuesday,Saint Joseph's Day,Common local holiday
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+04/04/2019,Thursday,Näfelser Fahrt,Common local holiday
+08/04/2019,Monday,Sechseläuten,Observance
+19/04/2019,Friday,Good Friday,Common local holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Common local holiday
+01/05/2019,Wednesday,May Day (Half-Day),Common local holiday
+12/05/2019,Sunday,Mother's Day,Observance
+30/05/2019,Thursday,Ascension Day,Common local holiday
+02/06/2019,Sunday,Father's Day,Observance
+09/06/2019,Sunday,Pentecost,Observance
+10/06/2019,Monday,Pentecost Monday,Common local holiday
+20/06/2019,Thursday,Corpus Christi,Common local holiday
+21/06/2019,Friday,June Solstice,Season
+23/06/2019,Sunday,Jura Independence Day,Common local holiday
+29/06/2019,Saturday,St. Peter and St. Paul,Common local holiday
+01/08/2019,Thursday,Swiss National Day,National holiday
+15/08/2019,Thursday,Assumption of Mary,Common local holiday
+05/09/2019,Thursday,Jeune Genevois,Common local holiday
+07/09/2019,Saturday,Knabenschiessen,Observance
+08/09/2019,Sunday,Knabenschiessen,Observance
+09/09/2019,Monday,Knabenschiessen,Observance
+15/09/2019,Sunday,Swiss Federal Fast,Common local holiday
+16/09/2019,Monday,Federal Fast Monday,Common local holiday
+22/09/2019,Sunday,Mauritius Day,Common local holiday
+23/09/2019,Monday,September Equinox,Season
+25/09/2019,Wednesday,St. Nicholas of Flüe,Common local holiday
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2019,Friday,All Saints' Day,Common local holiday
+08/12/2019,Sunday,Immaculate Conception,Common local holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Common local holiday
+26/12/2019,Thursday,St. Stephen's Day,Common local holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+31/12/2019,Tuesday,Restoration Day,Common local holiday
+01/01/2020,Wednesday,New Year's Day,Common local holiday
+02/01/2020,Thursday,Berchtold Day,Common local holiday
+06/01/2020,Monday,Epiphany,Common local holiday
+14/02/2020,Friday,Valentine's Day,Observance
+01/03/2020,Sunday,Republic Day,Common local holiday
+19/03/2020,Thursday,Saint Joseph's Day,Common local holiday
+20/03/2020,Friday,March Equinox,Season
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2020,Thursday,Näfelser Fahrt,Common local holiday
+10/04/2020,Friday,Good Friday,Common local holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Common local holiday
+20/04/2020,Monday,Sechseläuten,Observance
+01/05/2020,Friday,May Day (Half-Day),Common local holiday
+10/05/2020,Sunday,Mother's Day,Observance
+21/05/2020,Thursday,Ascension Day,Common local holiday
+31/05/2020,Sunday,Pentecost,Observance
+01/06/2020,Monday,Pentecost Monday,Common local holiday
+07/06/2020,Sunday,Father's Day,Observance
+11/06/2020,Thursday,Corpus Christi,Common local holiday
+20/06/2020,Saturday,June Solstice,Season
+23/06/2020,Tuesday,Jura Independence Day,Common local holiday
+29/06/2020,Monday,St. Peter and St. Paul,Common local holiday
+01/08/2020,Saturday,Swiss National Day,National holiday
+15/08/2020,Saturday,Assumption of Mary,Common local holiday
+10/09/2020,Thursday,Jeune Genevois,Common local holiday
+12/09/2020,Saturday,Knabenschiessen,Observance
+13/09/2020,Sunday,Knabenschiessen,Observance
+14/09/2020,Monday,Knabenschiessen,Observance
+20/09/2020,Sunday,Swiss Federal Fast,Common local holiday
+21/09/2020,Monday,Federal Fast Monday,Common local holiday
+22/09/2020,Tuesday,Mauritius Day,Common local holiday
+22/09/2020,Tuesday,September Equinox,Season
+25/09/2020,Friday,St. Nicholas of Flüe,Common local holiday
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2020,Sunday,All Saints' Day,Common local holiday
+08/12/2020,Tuesday,Immaculate Conception,Common local holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Common local holiday
+26/12/2020,Saturday,St. Stephen's Day,Common local holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+31/12/2020,Thursday,Restoration Day,Common local holiday
+01/01/2021,Friday,New Year's Day,Common local holiday
+02/01/2021,Saturday,Berchtold Day,Common local holiday
+06/01/2021,Wednesday,Epiphany,Common local holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+01/03/2021,Monday,Republic Day,Common local holiday
+19/03/2021,Friday,Saint Joseph's Day,Common local holiday
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2021,Friday,Good Friday,Common local holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Common local holiday
+08/04/2021,Thursday,Näfelser Fahrt,Common local holiday
+19/04/2021,Monday,Sechseläuten,Observance
+01/05/2021,Saturday,May Day,Common local holiday
+01/05/2021,Saturday,May Day (Half-Day),Half Day Holiday
+01/05/2021,Saturday,May Day (Half-Day),Observance
+09/05/2021,Sunday,Mother's Day,Observance
+13/05/2021,Thursday,Ascension Day,Common local holiday
+23/05/2021,Sunday,Pentecost,Observance
+24/05/2021,Monday,Pentecost Monday,Common local holiday
+03/06/2021,Thursday,Corpus Christi,Common local holiday
+06/06/2021,Sunday,Father's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+23/06/2021,Wednesday,Jura Independence Day,Common local holiday
+29/06/2021,Tuesday,St. Peter and St. Paul,Observance
+01/08/2021,Sunday,Swiss National Day,National holiday
+15/08/2021,Sunday,Assumption of Mary,Common local holiday
+09/09/2021,Thursday,Jeune Genevois,Common local holiday
+11/09/2021,Saturday,Knabenschiessen,Observance
+12/09/2021,Sunday,Knabenschiessen,Observance
+13/09/2021,Monday,Knabenschiessen,Observance
+19/09/2021,Sunday,Swiss Federal Fast,Observance
+20/09/2021,Monday,Federal Fast Monday,Common local holiday
+22/09/2021,Wednesday,Mauritius Day,Common local holiday
+22/09/2021,Wednesday,September Equinox,Season
+25/09/2021,Saturday,St. Nicholas of Flüe,Common local holiday
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2021,Monday,All Saints' Day,Common local holiday
+08/12/2021,Wednesday,Immaculate Conception,Common local holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Common local holiday
+26/12/2021,Sunday,St. Stephen's Day,Common local holiday
+31/12/2021,Friday,New Year's Eve,Observance
+31/12/2021,Friday,Restoration Day,Common local holiday
+01/01/2022,Saturday,New Year's Day,Common local holiday
+02/01/2022,Sunday,Berchtold Day,Common local holiday
+06/01/2022,Thursday,Epiphany,Common local holiday
+14/02/2022,Monday,Valentine's Day,Observance
+01/03/2022,Tuesday,Republic Day,Common local holiday
+19/03/2022,Saturday,Saint Joseph's Day,Common local holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+07/04/2022,Thursday,Näfelser Fahrt,Common local holiday
+15/04/2022,Friday,Good Friday,Common local holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Common local holiday
+25/04/2022,Monday,Sechseläuten,Observance
+01/05/2022,Sunday,May Day,Common local holiday
+01/05/2022,Sunday,May Day (Half-Day),Observance
+01/05/2022,Sunday,May Day (Half-Day),Half Day Holiday
+08/05/2022,Sunday,Mother's Day,Observance
+26/05/2022,Thursday,Ascension Day,Common local holiday
+05/06/2022,Sunday,Father's Day,Observance
+05/06/2022,Sunday,Pentecost,Observance
+06/06/2022,Monday,Pentecost Monday,Common local holiday
+16/06/2022,Thursday,Corpus Christi,Common local holiday
+21/06/2022,Tuesday,June Solstice,Season
+23/06/2022,Thursday,Jura Independence Day,Common local holiday
+29/06/2022,Wednesday,St. Peter and St. Paul,Observance
+01/08/2022,Monday,Swiss National Day,National holiday
+15/08/2022,Monday,Assumption of Mary,Common local holiday
+08/09/2022,Thursday,Jeune Genevois,Common local holiday
+10/09/2022,Saturday,Knabenschiessen,Observance
+11/09/2022,Sunday,Knabenschiessen,Observance
+12/09/2022,Monday,Knabenschiessen,Observance
+18/09/2022,Sunday,Swiss Federal Fast,Observance
+19/09/2022,Monday,Federal Fast Monday,Common local holiday
+22/09/2022,Thursday,Mauritius Day,Common local holiday
+23/09/2022,Friday,September Equinox,Season
+25/09/2022,Sunday,St. Nicholas of Flüe,Common local holiday
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2022,Tuesday,All Saints' Day,Common local holiday
+08/12/2022,Thursday,Immaculate Conception,Common local holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Common local holiday
+26/12/2022,Monday,St. Stephen's Day,Common local holiday
+31/12/2022,Saturday,New Year's Eve,Observance
+31/12/2022,Saturday,Restoration Day,Common local holiday

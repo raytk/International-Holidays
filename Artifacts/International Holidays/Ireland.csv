@@ -1,0 +1,441 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+17/03/2000,Friday,St. Patrick's Day,National holiday
+20/03/2000,Monday,March Equinox,Season
+02/04/2000,Sunday,Mother's Day,Observance
+21/04/2000,Friday,Good Friday,Observance
+23/04/2000,Sunday,Easter,Observance
+24/04/2000,Monday,Easter Monday,National holiday
+01/05/2000,Monday,May Day,National holiday
+05/06/2000,Monday,June Bank Holiday,National holiday
+18/06/2000,Sunday,Father's Day,Observance
+21/06/2000,Wednesday,June Solstice,Season
+07/08/2000,Monday,August Bank Holiday,National holiday
+22/09/2000,Friday,September Equinox,Season
+30/10/2000,Monday,October Bank Holiday,National holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,National holiday
+26/12/2000,Tuesday,St. Stephen's Day,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+17/03/2001,Saturday,St. Patrick's Day,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Mother's Day,Observance
+13/04/2001,Friday,Good Friday,Observance
+15/04/2001,Sunday,Easter,Observance
+16/04/2001,Monday,Easter Monday,National holiday
+07/05/2001,Monday,May Day,National holiday
+04/06/2001,Monday,June Bank Holiday,National holiday
+17/06/2001,Sunday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+06/08/2001,Monday,August Bank Holiday,National holiday
+23/09/2001,Sunday,September Equinox,Season
+29/10/2001,Monday,October Bank Holiday,National holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,National holiday
+26/12/2001,Wednesday,St. Stephen's Day,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+10/03/2002,Sunday,Mother's Day,Observance
+17/03/2002,Sunday,St. Patrick's Day,National holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Observance
+31/03/2002,Sunday,Easter,Observance
+01/04/2002,Monday,Easter Monday,National holiday
+06/05/2002,Monday,May Day,National holiday
+03/06/2002,Monday,June Bank Holiday,National holiday
+16/06/2002,Sunday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+05/08/2002,Monday,August Bank Holiday,National holiday
+23/09/2002,Monday,September Equinox,Season
+28/10/2002,Monday,October Bank Holiday,National holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,National holiday
+26/12/2002,Thursday,St. Stephen's Day,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+17/03/2003,Monday,St. Patrick's Day,National holiday
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Mother's Day,Observance
+18/04/2003,Friday,Good Friday,Observance
+20/04/2003,Sunday,Easter,Observance
+21/04/2003,Monday,Easter Monday,National holiday
+05/05/2003,Monday,May Day,National holiday
+02/06/2003,Monday,June Bank Holiday,National holiday
+15/06/2003,Sunday,Father's Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+04/08/2003,Monday,August Bank Holiday,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+27/10/2003,Monday,October Bank Holiday,National holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,National holiday
+26/12/2003,Friday,St. Stephen's Day,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+17/03/2004,Wednesday,St. Patrick's Day,National holiday
+20/03/2004,Saturday,March Equinox,Season
+21/03/2004,Sunday,Mother's Day,Observance
+09/04/2004,Friday,Good Friday,Observance
+11/04/2004,Sunday,Easter,Observance
+12/04/2004,Monday,Easter Monday,National holiday
+03/05/2004,Monday,May Day,National holiday
+07/06/2004,Monday,June Bank Holiday,National holiday
+20/06/2004,Sunday,Father's Day,Observance
+21/06/2004,Monday,June Solstice,Season
+02/08/2004,Monday,August Bank Holiday,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+25/10/2004,Monday,October Bank Holiday,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,National holiday
+26/12/2004,Sunday,St. Stephen's Day,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+06/03/2005,Sunday,Mother's Day,Observance
+17/03/2005,Thursday,St. Patrick's Day,National holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Observance
+27/03/2005,Sunday,Easter,Observance
+28/03/2005,Monday,Easter Monday,National holiday
+02/05/2005,Monday,May Day,National holiday
+06/06/2005,Monday,June Bank Holiday,National holiday
+19/06/2005,Sunday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+01/08/2005,Monday,August Bank Holiday,National holiday
+22/09/2005,Thursday,September Equinox,Season
+31/10/2005,Monday,October Bank Holiday,National holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,St. Stephen's Day,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+17/03/2006,Friday,St. Patrick's Day,National holiday
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Mother's Day,Observance
+14/04/2006,Friday,Good Friday,Observance
+16/04/2006,Sunday,Easter,Observance
+17/04/2006,Monday,Easter Monday,National holiday
+01/05/2006,Monday,May Day,National holiday
+05/06/2006,Monday,June Bank Holiday,National holiday
+18/06/2006,Sunday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+07/08/2006,Monday,August Bank Holiday,National holiday
+23/09/2006,Saturday,September Equinox,Season
+30/10/2006,Monday,October Bank Holiday,National holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,National holiday
+26/12/2006,Tuesday,St. Stephen's Day,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+17/03/2007,Saturday,St. Patrick's Day,National holiday
+18/03/2007,Sunday,Mother's Day,Observance
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Observance
+08/04/2007,Sunday,Easter,Observance
+09/04/2007,Monday,Easter Monday,National holiday
+07/05/2007,Monday,May Day,National holiday
+04/06/2007,Monday,June Bank Holiday,National holiday
+17/06/2007,Sunday,Father's Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+06/08/2007,Monday,August Bank Holiday,National holiday
+23/09/2007,Sunday,September Equinox,Season
+29/10/2007,Monday,October Bank Holiday,National holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,National holiday
+26/12/2007,Wednesday,St. Stephen's Day,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+02/03/2008,Sunday,Mother's Day,Observance
+17/03/2008,Monday,St. Patrick's Day,National holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Observance
+23/03/2008,Sunday,Easter,Observance
+24/03/2008,Monday,Easter Monday,National holiday
+05/05/2008,Monday,May Day,National holiday
+02/06/2008,Monday,June Bank Holiday,National holiday
+15/06/2008,Sunday,Father's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+04/08/2008,Monday,August Bank Holiday,National holiday
+22/09/2008,Monday,September Equinox,Season
+27/10/2008,Monday,October Bank Holiday,National holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,National holiday
+26/12/2008,Friday,St. Stephen's Day,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+17/03/2009,Tuesday,St. Patrick's Day,National holiday
+20/03/2009,Friday,March Equinox,Season
+22/03/2009,Sunday,Mother's Day,Observance
+10/04/2009,Friday,Good Friday,Observance
+12/04/2009,Sunday,Easter,Observance
+13/04/2009,Monday,Easter Monday,National holiday
+04/05/2009,Monday,May Day,National holiday
+01/06/2009,Monday,June Bank Holiday,National holiday
+21/06/2009,Sunday,Father's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+03/08/2009,Monday,August Bank Holiday,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+26/10/2009,Monday,October Bank Holiday,National holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,National holiday
+26/12/2009,Saturday,St. Stephen's Day,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+14/03/2010,Sunday,Mother's Day,Observance
+17/03/2010,Wednesday,St. Patrick's Day,National holiday
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Observance
+04/04/2010,Sunday,Easter,Observance
+05/04/2010,Monday,Easter Monday,National holiday
+03/05/2010,Monday,May Day,National holiday
+07/06/2010,Monday,June Bank Holiday,National holiday
+20/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+02/08/2010,Monday,August Bank Holiday,National holiday
+23/09/2010,Thursday,September Equinox,Season
+25/10/2010,Monday,October Bank Holiday,National holiday
+21/12/2010,Tuesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,National holiday
+26/12/2010,Sunday,St. Stephen's Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+17/03/2011,Thursday,St. Patrick's Day,National holiday
+20/03/2011,Sunday,March Equinox,Season
+03/04/2011,Sunday,Mother's Day,Observance
+22/04/2011,Friday,Good Friday,Observance
+24/04/2011,Sunday,Easter,Observance
+25/04/2011,Monday,Easter Monday,National holiday
+02/05/2011,Monday,May Day,National holiday
+06/06/2011,Monday,June Bank Holiday,National holiday
+19/06/2011,Sunday,Father's Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+01/08/2011,Monday,August Bank Holiday,National holiday
+23/09/2011,Friday,September Equinox,Season
+31/10/2011,Monday,October Bank Holiday,National holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,St. Stephen's Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+17/03/2012,Saturday,St. Patrick's Day,National holiday
+18/03/2012,Sunday,Mother's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Observance
+08/04/2012,Sunday,Easter,Observance
+09/04/2012,Monday,Easter Monday,National holiday
+07/05/2012,Monday,May Day,National holiday
+04/06/2012,Monday,June Bank Holiday,National holiday
+17/06/2012,Sunday,Father's Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+06/08/2012,Monday,August Bank Holiday,National holiday
+22/09/2012,Saturday,September Equinox,Season
+29/10/2012,Monday,October Bank Holiday,National holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,National holiday
+26/12/2012,Wednesday,St. Stephen's Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+10/03/2013,Sunday,Mother's Day,Observance
+17/03/2013,Sunday,St. Patrick's Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Observance
+31/03/2013,Sunday,Easter,Observance
+01/04/2013,Monday,Easter Monday,National holiday
+06/05/2013,Monday,May Day,National holiday
+03/06/2013,Monday,June Bank Holiday,National holiday
+16/06/2013,Sunday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+05/08/2013,Monday,August Bank Holiday,National holiday
+22/09/2013,Sunday,September Equinox,Season
+28/10/2013,Monday,October Bank Holiday,National holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,National holiday
+26/12/2013,Thursday,St. Stephen's Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+17/03/2014,Monday,St. Patrick's Day,National holiday
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Mother's Day,Observance
+18/04/2014,Friday,Good Friday,Observance
+20/04/2014,Sunday,Easter,Observance
+21/04/2014,Monday,Easter Monday,National holiday
+05/05/2014,Monday,May Day,National holiday
+02/06/2014,Monday,June Bank Holiday,National holiday
+15/06/2014,Sunday,Father's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+04/08/2014,Monday,August Bank Holiday,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+27/10/2014,Monday,October Bank Holiday,National holiday
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,St. Stephen's Day,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+15/03/2015,Sunday,Mother's Day,Observance
+17/03/2015,Tuesday,St. Patrick's Day,National holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Observance
+05/04/2015,Sunday,Easter,Observance
+06/04/2015,Monday,Easter Monday,National holiday
+04/05/2015,Monday,May Day,National holiday
+01/06/2015,Monday,June Bank Holiday,National holiday
+21/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+03/08/2015,Monday,August Bank Holiday,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+26/10/2015,Monday,October Bank Holiday,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,National holiday
+26/12/2015,Saturday,St. Stephen's Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+06/03/2016,Sunday,Mother's Day,Observance
+17/03/2016,Thursday,St. Patrick's Day,National holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Observance
+27/03/2016,Sunday,Easter,Observance
+28/03/2016,Monday,Easter Monday,National holiday
+02/05/2016,Monday,May Day,National holiday
+06/06/2016,Monday,June Bank Holiday,National holiday
+19/06/2016,Sunday,Father's Day,Observance
+20/06/2016,Monday,June Solstice,Season
+01/08/2016,Monday,August Bank Holiday,National holiday
+22/09/2016,Thursday,September Equinox,Season
+31/10/2016,Monday,October Bank Holiday,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,St. Stephen's Day,National holiday
+27/12/2016,Tuesday,Christmas Day observed,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+17/03/2017,Friday,St. Patrick's Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Mother's Day,Observance
+14/04/2017,Friday,Good Friday,Observance
+16/04/2017,Sunday,Easter,Observance
+17/04/2017,Monday,Easter Monday,National holiday
+01/05/2017,Monday,May Day,National holiday
+05/06/2017,Monday,June Bank Holiday,National holiday
+18/06/2017,Sunday,Father's Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+07/08/2017,Monday,August Bank Holiday,National holiday
+22/09/2017,Friday,September Equinox,Season
+30/10/2017,Monday,October Bank Holiday,National holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,National holiday
+26/12/2017,Tuesday,St. Stephen's Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+11/03/2018,Sunday,Mother's Day,Observance
+17/03/2018,Saturday,St. Patrick's Day,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Observance
+01/04/2018,Sunday,Easter,Observance
+02/04/2018,Monday,Easter Monday,National holiday
+07/05/2018,Monday,May Day,National holiday
+04/06/2018,Monday,June Bank Holiday,National holiday
+17/06/2018,Sunday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+06/08/2018,Monday,August Bank Holiday,National holiday
+23/09/2018,Sunday,September Equinox,Season
+29/10/2018,Monday,October Bank Holiday,National holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,St. Stephen's Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+17/03/2019,Sunday,St. Patrick's Day,National holiday
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Mother's Day,Observance
+19/04/2019,Friday,Good Friday,Observance
+21/04/2019,Sunday,Easter,Observance
+22/04/2019,Monday,Easter Monday,National holiday
+06/05/2019,Monday,May Day,National holiday
+03/06/2019,Monday,June Bank Holiday,National holiday
+16/06/2019,Sunday,Father's Day,Observance
+21/06/2019,Friday,June Solstice,Season
+05/08/2019,Monday,August Bank Holiday,National holiday
+23/09/2019,Monday,September Equinox,Season
+28/10/2019,Monday,October Bank Holiday,National holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,National holiday
+26/12/2019,Thursday,St. Stephen's Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+17/03/2020,Tuesday,St. Patrick's Day,National holiday
+20/03/2020,Friday,March Equinox,Season
+22/03/2020,Sunday,Mother's Day,Observance
+10/04/2020,Friday,Good Friday,Observance
+12/04/2020,Sunday,Easter,Observance
+13/04/2020,Monday,Easter Monday,National holiday
+04/05/2020,Monday,May Day,National holiday
+01/06/2020,Monday,June Bank Holiday,National holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Father's Day,Observance
+03/08/2020,Monday,August Bank Holiday,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+26/10/2020,Monday,October Bank Holiday,National holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,National holiday
+26/12/2020,Saturday,St. Stephen's Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+14/03/2021,Sunday,Mother's Day,Observance
+17/03/2021,Wednesday,St. Patrick's Day,National holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Observance
+04/04/2021,Sunday,Easter,Observance
+05/04/2021,Monday,Easter Monday,National holiday
+03/05/2021,Monday,May Day,National holiday
+07/06/2021,Monday,June Bank Holiday,National holiday
+20/06/2021,Sunday,Father's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+02/08/2021,Monday,August Bank Holiday,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+25/10/2021,Monday,October Bank Holiday,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,National holiday
+26/12/2021,Sunday,St. Stephen's Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+03/01/2022,Monday,Day off for New Year's Day,National holiday
+17/03/2022,Thursday,St. Patrick's Day,National holiday
+18/03/2022,Friday,Public Holiday,National holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Mother's Day,Observance
+15/04/2022,Friday,Good Friday,Observance
+17/04/2022,Sunday,Easter,Observance
+18/04/2022,Monday,Easter Monday,National holiday
+02/05/2022,Monday,May Day,National holiday
+06/06/2022,Monday,June Bank Holiday,National holiday
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+01/08/2022,Monday,August Bank Holiday,National holiday
+23/09/2022,Friday,September Equinox,Season
+31/10/2022,Monday,October Bank Holiday,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,St. Stephen's Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

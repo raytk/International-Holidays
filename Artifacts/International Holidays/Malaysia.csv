@@ -1,0 +1,1278 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,State Holiday
+08/01/2000,Saturday,Hari Raya Puasa,Federal Public Holiday
+09/01/2000,Sunday,Hari Raya Puasa Day 2,Federal Public Holiday
+01/02/2000,Tuesday,Federal Territory Day,Federal Territory Holiday
+05/02/2000,Saturday,Lunar New Year's Day,Federal Public Holiday
+06/02/2000,Sunday,Second Day of Lunar New Year,Federal Public Holiday
+06/02/2000,Sunday,Lunar New Year Holiday,State Holiday
+16/03/2000,Thursday,Hari Raya Haji,Federal Public Holiday
+17/03/2000,Friday,Hari Raya Haji (Day 2),Common local holiday
+20/03/2000,Monday,March Equinox,Season
+06/04/2000,Thursday,Muharram/New Year,Federal Public Holiday
+15/04/2000,Saturday,Declaration of Malacca as Historical City,State Holiday
+21/04/2000,Friday,Good Friday,State Holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+26/04/2000,Wednesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2000,Monday,Labour Day,Federal Public Holiday
+07/05/2000,Sunday,Pahang State Holiday,State Holiday
+08/05/2000,Monday,Pahang State Holiday observed,State Holiday
+17/05/2000,Wednesday,Birthday of the Raja of Perlis,Local holiday
+01/06/2000,Thursday,Gawai Dayak,State Holiday
+03/06/2000,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+15/06/2000,Thursday,The Prophet Muhammad's Birthday,Federal Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+08/07/2000,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2000,Saturday,Sarawak Independence Day,State Holiday
+31/08/2000,Thursday,Malaysia's National Day,Federal Public Holiday
+23/09/2000,Saturday,September Equinox,Season
+07/10/2000,Saturday,Birthday of the Governor of Sabah,State Holiday
+13/10/2000,Friday,Birthday of the Governor of Malacca,State Holiday
+14/10/2000,Saturday,Birthday of the Governor of Sarawak,State Holiday
+24/10/2000,Tuesday,Birthday of the Sultan of Pahang,State Holiday
+26/10/2000,Thursday,Isra and Mi'raj,State Holiday
+28/11/2000,Tuesday,First Day of Ramadan,State Holiday
+14/12/2000,Thursday,Nuzul Al-Quran,State Holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,Federal Public Holiday
+28/12/2000,Thursday,Hari Raya Puasa,Federal Public Holiday
+29/12/2000,Friday,Hari Raya Puasa Day 2,Federal Public Holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,State Holiday
+24/01/2001,Wednesday,Lunar New Year's Day,Federal Public Holiday
+25/01/2001,Thursday,Second Day of Lunar New Year,Federal Public Holiday
+25/01/2001,Thursday,Lunar New Year Holiday,State Holiday
+01/02/2001,Thursday,Federal Territory Day,Federal Territory Holiday
+06/03/2001,Tuesday,Hari Raya Haji,Federal Public Holiday
+07/03/2001,Wednesday,Hari Raya Haji (Day 2),Common local holiday
+20/03/2001,Tuesday,March Equinox,Season
+26/03/2001,Monday,Muharram/New Year,Federal Public Holiday
+13/04/2001,Friday,Good Friday,State Holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+15/04/2001,Sunday,Declaration of Malacca as Historical City,State Holiday
+16/04/2001,Monday,Declaration of Malacca as Historical City observed,State Holiday
+26/04/2001,Thursday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2001,Tuesday,Labour Day,Federal Public Holiday
+07/05/2001,Monday,Pahang State Holiday,State Holiday
+17/05/2001,Thursday,Birthday of the Raja of Perlis,Local holiday
+01/06/2001,Friday,Gawai Dayak,State Holiday
+02/06/2001,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+04/06/2001,Monday,The Prophet Muhammad's Birthday,Federal Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+14/07/2001,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2001,Sunday,Sarawak Independence Day,State Holiday
+23/07/2001,Monday,Sarawak Independence Day observed,State Holiday
+31/08/2001,Friday,Malaysia's National Day,Federal Public Holiday
+23/09/2001,Sunday,September Equinox,Season
+06/10/2001,Saturday,Birthday of the Governor of Sabah,State Holiday
+12/10/2001,Friday,Birthday of the Governor of Malacca,State Holiday
+13/10/2001,Saturday,Birthday of the Governor of Sarawak,State Holiday
+15/10/2001,Monday,Isra and Mi'raj,State Holiday
+24/10/2001,Wednesday,Birthday of the Sultan of Pahang,State Holiday
+17/11/2001,Saturday,First Day of Ramadan,State Holiday
+03/12/2001,Monday,Nuzul Al-Quran,State Holiday
+11/12/2001,Tuesday,Birthday of the Sultan of Selangor,State Holiday
+17/12/2001,Monday,Hari Raya Puasa,Federal Public Holiday
+18/12/2001,Tuesday,Hari Raya Puasa Day 2,Federal Public Holiday
+22/12/2001,Saturday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,Federal Public Holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,State Holiday
+01/02/2002,Friday,Federal Territory Day,Federal Territory Holiday
+12/02/2002,Tuesday,Lunar New Year's Day,Federal Public Holiday
+13/02/2002,Wednesday,Second Day of Lunar New Year,Federal Public Holiday
+13/02/2002,Wednesday,Lunar New Year Holiday,State Holiday
+23/02/2002,Saturday,Hari Raya Haji,Federal Public Holiday
+24/02/2002,Sunday,Hari Raya Haji (Day 2),Common local holiday
+15/03/2002,Friday,Muharram/New Year,Federal Public Holiday
+21/03/2002,Thursday,March Equinox,Season
+29/03/2002,Friday,Good Friday,State Holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+15/04/2002,Monday,Declaration of Malacca as Historical City,State Holiday
+26/04/2002,Friday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2002,Wednesday,Labour Day,Federal Public Holiday
+07/05/2002,Tuesday,Pahang State Holiday,State Holiday
+17/05/2002,Friday,Birthday of the Raja of Perlis,Local holiday
+24/05/2002,Friday,The Prophet Muhammad's Birthday,Federal Public Holiday
+01/06/2002,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+01/06/2002,Saturday,Gawai Dayak,State Holiday
+21/06/2002,Friday,June Solstice,Season
+13/07/2002,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2002,Monday,Sarawak Independence Day,State Holiday
+31/08/2002,Saturday,Malaysia's National Day,Federal Public Holiday
+23/09/2002,Monday,September Equinox,Season
+04/10/2002,Friday,Isra and Mi'raj,State Holiday
+05/10/2002,Saturday,Birthday of the Governor of Sabah,State Holiday
+11/10/2002,Friday,Birthday of the Governor of Malacca,State Holiday
+12/10/2002,Saturday,Birthday of the Governor of Sarawak,State Holiday
+24/10/2002,Thursday,Birthday of the Sultan of Pahang,State Holiday
+06/11/2002,Wednesday,First Day of Ramadan,State Holiday
+22/11/2002,Friday,Nuzul Al-Quran,State Holiday
+06/12/2002,Friday,Hari Raya Puasa,Federal Public Holiday
+07/12/2002,Saturday,Hari Raya Puasa Day 2,Federal Public Holiday
+11/12/2002,Wednesday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,Federal Public Holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,State Holiday
+01/02/2003,Saturday,Lunar New Year's Day,Federal Public Holiday
+01/02/2003,Saturday,Federal Territory Day,Federal Territory Holiday
+02/02/2003,Sunday,Second Day of Lunar New Year,Federal Public Holiday
+02/02/2003,Sunday,Lunar New Year Holiday,State Holiday
+12/02/2003,Wednesday,Hari Raya Haji,Federal Public Holiday
+13/02/2003,Thursday,Hari Raya Haji (Day 2),Common local holiday
+05/03/2003,Wednesday,Muharram/New Year,Federal Public Holiday
+21/03/2003,Friday,March Equinox,Season
+15/04/2003,Tuesday,Declaration of Malacca as Historical City,State Holiday
+18/04/2003,Friday,Good Friday,State Holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+26/04/2003,Saturday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2003,Thursday,Labour Day,Federal Public Holiday
+07/05/2003,Wednesday,Pahang State Holiday,State Holiday
+14/05/2003,Wednesday,The Prophet Muhammad's Birthday,Federal Public Holiday
+17/05/2003,Saturday,Birthday of the Raja of Perlis,Local holiday
+01/06/2003,Sunday,Gawai Dayak,State Holiday
+02/06/2003,Monday,Gawai Dayak observed,State Holiday
+07/06/2003,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+12/07/2003,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2003,Tuesday,Sarawak Independence Day,State Holiday
+31/08/2003,Sunday,Malaysia's National Day,Federal Public Holiday
+01/09/2003,Monday,Malaysia's National Day observed,Federal Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+24/09/2003,Wednesday,Isra and Mi'raj,State Holiday
+04/10/2003,Saturday,Birthday of the Governor of Sabah,State Holiday
+10/10/2003,Friday,Birthday of the Governor of Malacca,State Holiday
+11/10/2003,Saturday,Birthday of the Governor of Sarawak,State Holiday
+24/10/2003,Friday,Birthday of the Sultan of Pahang,State Holiday
+27/10/2003,Monday,First Day of Ramadan,State Holiday
+12/11/2003,Wednesday,Nuzul Al-Quran,State Holiday
+26/11/2003,Wednesday,Hari Raya Puasa,Federal Public Holiday
+27/11/2003,Thursday,Hari Raya Puasa Day 2,Federal Public Holiday
+11/12/2003,Thursday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,Federal Public Holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,State Holiday
+22/01/2004,Thursday,Lunar New Year's Day,Federal Public Holiday
+23/01/2004,Friday,Second Day of Lunar New Year,Federal Public Holiday
+23/01/2004,Friday,Lunar New Year Holiday,State Holiday
+01/02/2004,Sunday,Federal Territory Day,Federal Territory Holiday
+02/02/2004,Monday,Federal Territory Day observed,Federal Territory Holiday
+02/02/2004,Monday,Hari Raya Haji,Federal Public Holiday
+03/02/2004,Tuesday,Hari Raya Haji (Day 2),Common local holiday
+22/02/2004,Sunday,Muharram/New Year,Federal Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,State Holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+15/04/2004,Thursday,Declaration of Malacca as Historical City,State Holiday
+26/04/2004,Monday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2004,Saturday,Labour Day,Federal Public Holiday
+02/05/2004,Sunday,The Prophet Muhammad's Birthday,Federal Public Holiday
+07/05/2004,Friday,Pahang State Holiday,State Holiday
+17/05/2004,Monday,Birthday of the Raja of Perlis,Local holiday
+01/06/2004,Tuesday,Gawai Dayak,State Holiday
+05/06/2004,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2004,Monday,June Solstice,Season
+10/07/2004,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2004,Thursday,Sarawak Independence Day,State Holiday
+31/08/2004,Tuesday,Malaysia's National Day,Federal Public Holiday
+12/09/2004,Sunday,Isra and Mi'raj,State Holiday
+23/09/2004,Thursday,September Equinox,Season
+02/10/2004,Saturday,Birthday of the Governor of Sabah,State Holiday
+08/10/2004,Friday,Birthday of the Governor of Malacca,State Holiday
+09/10/2004,Saturday,Birthday of the Governor of Sarawak,State Holiday
+16/10/2004,Saturday,First Day of Ramadan,State Holiday
+24/10/2004,Sunday,Birthday of the Sultan of Pahang,State Holiday
+25/10/2004,Monday,Birthday of the Sultan of Pahang observed,State Holiday
+01/11/2004,Monday,Nuzul Al-Quran,State Holiday
+14/11/2004,Sunday,Hari Raya Puasa,Federal Public Holiday
+15/11/2004,Monday,Hari Raya Puasa Day 2,Federal Public Holiday
+11/12/2004,Saturday,Birthday of the Sultan of Selangor,State Holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,Federal Public Holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,State Holiday
+21/01/2005,Friday,Hari Raya Haji,Federal Public Holiday
+22/01/2005,Saturday,Hari Raya Haji (Day 2),Common local holiday
+01/02/2005,Tuesday,Federal Territory Day,Federal Territory Holiday
+09/02/2005,Wednesday,Lunar New Year's Day,Federal Public Holiday
+10/02/2005,Thursday,Second Day of Lunar New Year,Federal Public Holiday
+10/02/2005,Thursday,Lunar New Year Holiday,State Holiday
+10/02/2005,Thursday,Muharram/New Year,Federal Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,State Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+15/04/2005,Friday,Declaration of Malacca as Historical City,State Holiday
+21/04/2005,Thursday,The Prophet Muhammad's Birthday,Federal Public Holiday
+26/04/2005,Tuesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2005,Sunday,Labour Day,Federal Public Holiday
+02/05/2005,Monday,Labour Day observed,Federal Public Holiday
+07/05/2005,Saturday,Pahang State Holiday,State Holiday
+17/05/2005,Tuesday,Birthday of the Raja of Perlis,Local holiday
+22/05/2005,Sunday,Wesak Day,Federal Public Holiday
+23/05/2005,Monday,Wesak Day observed,Federal Public Holiday
+01/06/2005,Wednesday,Gawai Dayak,State Holiday
+04/06/2005,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+09/07/2005,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2005,Friday,Sarawak Independence Day,State Holiday
+31/08/2005,Wednesday,Malaysia's National Day,Federal Public Holiday
+01/09/2005,Thursday,Isra and Mi'raj,State Holiday
+23/09/2005,Friday,September Equinox,Season
+01/10/2005,Saturday,Birthday of the Governor of Sabah,State Holiday
+05/10/2005,Wednesday,First Day of Ramadan,State Holiday
+08/10/2005,Saturday,Birthday of the Governor of Sarawak,State Holiday
+14/10/2005,Friday,Birthday of the Governor of Malacca,State Holiday
+21/10/2005,Friday,Nuzul Al-Quran,State Holiday
+24/10/2005,Monday,Birthday of the Sultan of Pahang,State Holiday
+01/11/2005,Tuesday,Diwali/Deepavali,Common local holiday
+03/11/2005,Thursday,Hari Raya Puasa,Federal Public Holiday
+04/11/2005,Friday,Hari Raya Puasa Day 2,Federal Public Holiday
+11/12/2005,Sunday,Birthday of the Sultan of Selangor,State Holiday
+12/12/2005,Monday,Day off for Birthday of the Sultan of Selangor,State Holiday
+22/12/2005,Thursday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Federal Public Holiday
+26/12/2005,Monday,Christmas Day observed,Federal Public Holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,State Holiday
+02/01/2006,Monday,New Year's Day observed,State Holiday
+10/01/2006,Tuesday,Hari Raya Haji,Federal Public Holiday
+11/01/2006,Wednesday,Hari Raya Haji (Day 2),Common local holiday
+29/01/2006,Sunday,Lunar New Year's Day,Federal Public Holiday
+30/01/2006,Monday,Second Day of Lunar New Year,Federal Public Holiday
+30/01/2006,Monday,Lunar New Year Holiday,State Holiday
+31/01/2006,Tuesday,Muharram/New Year,Federal Public Holiday
+01/02/2006,Wednesday,Federal Territory Day,Federal Territory Holiday
+21/03/2006,Tuesday,March Equinox,Season
+11/04/2006,Tuesday,The Prophet Muhammad's Birthday,Federal Public Holiday
+14/04/2006,Friday,Good Friday,State Holiday
+15/04/2006,Saturday,Declaration of Malacca as Historical City,State Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+26/04/2006,Wednesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2006,Monday,Labour Day,Federal Public Holiday
+07/05/2006,Sunday,Pahang State Holiday,State Holiday
+08/05/2006,Monday,Pahang State Holiday observed,State Holiday
+12/05/2006,Friday,Wesak Day,Federal Public Holiday
+17/05/2006,Wednesday,Birthday of the Raja of Perlis,Local holiday
+01/06/2006,Thursday,Gawai Dayak,State Holiday
+03/06/2006,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+08/07/2006,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2006,Saturday,Sarawak Independence Day,State Holiday
+22/08/2006,Tuesday,Isra and Mi'raj,State Holiday
+31/08/2006,Thursday,Malaysia's National Day,Federal Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+24/09/2006,Sunday,First Day of Ramadan,State Holiday
+07/10/2006,Saturday,Birthday of the Governor of Sabah,State Holiday
+10/10/2006,Tuesday,Nuzul Al-Quran,State Holiday
+13/10/2006,Friday,Birthday of the Governor of Malacca,State Holiday
+14/10/2006,Saturday,Birthday of the Governor of Sarawak,State Holiday
+21/10/2006,Saturday,Diwali/Deepavali,Common local holiday
+24/10/2006,Tuesday,Hari Raya Puasa,Federal Public Holiday
+24/10/2006,Tuesday,Birthday of the Sultan of Pahang,State Holiday
+25/10/2006,Wednesday,Hari Raya Puasa Day 2,Federal Public Holiday
+11/12/2006,Monday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Federal Public Holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+31/12/2006,Sunday,Hari Raya Haji,Federal Public Holiday
+01/01/2007,Monday,New Year's Day,State Holiday
+01/01/2007,Monday,Hari Raya Haji (Day 2),Common local holiday
+20/01/2007,Saturday,Muharram/New Year,Federal Public Holiday
+01/02/2007,Thursday,Federal Territory Day,Federal Territory Holiday
+01/02/2007,Thursday,Thaipusam,State Holiday
+18/02/2007,Sunday,Lunar New Year's Day,Federal Public Holiday
+19/02/2007,Monday,Second Day of Lunar New Year,Federal Public Holiday
+19/02/2007,Monday,Lunar New Year Holiday,State Holiday
+21/03/2007,Wednesday,March Equinox,Season
+31/03/2007,Saturday,The Prophet Muhammad's Birthday,Federal Public Holiday
+06/04/2007,Friday,Good Friday,State Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+15/04/2007,Sunday,Declaration of Malacca as Historical City,State Holiday
+16/04/2007,Monday,Declaration of Malacca as Historical City observed,State Holiday
+26/04/2007,Thursday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2007,Tuesday,Labour Day,Federal Public Holiday
+01/05/2007,Tuesday,Wesak Day,Federal Public Holiday
+07/05/2007,Monday,Pahang State Holiday,State Holiday
+17/05/2007,Thursday,Birthday of the Raja of Perlis,Local holiday
+01/06/2007,Friday,Gawai Dayak,State Holiday
+02/06/2007,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+22/06/2007,Friday,June Solstice,Season
+14/07/2007,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2007,Sunday,Sarawak Independence Day,State Holiday
+23/07/2007,Monday,Sarawak Independence Day observed,State Holiday
+11/08/2007,Saturday,Isra and Mi'raj,State Holiday
+31/08/2007,Friday,Malaysia's National Day,Federal Public Holiday
+13/09/2007,Thursday,First Day of Ramadan,State Holiday
+23/09/2007,Sunday,September Equinox,Season
+29/09/2007,Saturday,Nuzul Al-Quran,State Holiday
+06/10/2007,Saturday,Birthday of the Governor of Sabah,State Holiday
+12/10/2007,Friday,Birthday of the Governor of Malacca,State Holiday
+13/10/2007,Saturday,Hari Raya Puasa,Federal Public Holiday
+13/10/2007,Saturday,Birthday of the Governor of Sarawak,State Holiday
+14/10/2007,Sunday,Hari Raya Puasa Day 2,Federal Public Holiday
+24/10/2007,Wednesday,Birthday of the Sultan of Pahang,State Holiday
+08/11/2007,Thursday,Diwali/Deepavali,Common local holiday
+11/12/2007,Tuesday,Birthday of the Sultan of Selangor,State Holiday
+20/12/2007,Thursday,Hari Raya Haji,Federal Public Holiday
+21/12/2007,Friday,Hari Raya Haji (Day 2),Common local holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Federal Public Holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,State Holiday
+10/01/2008,Thursday,Muharram/New Year,Federal Public Holiday
+23/01/2008,Wednesday,Thaipusam,State Holiday
+01/02/2008,Friday,Federal Territory Day,Federal Territory Holiday
+07/02/2008,Thursday,Lunar New Year's Day,Federal Public Holiday
+08/02/2008,Friday,Second Day of Lunar New Year,Federal Public Holiday
+08/02/2008,Friday,Lunar New Year Holiday,State Holiday
+06/03/2008,Thursday,Maha Shivaratri,Hindu Holiday
+20/03/2008,Thursday,The Prophet Muhammad's Birthday,Federal Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,State Holiday
+22/03/2008,Saturday,Holi,Hindu Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+15/04/2008,Tuesday,Declaration of Malacca as Historical City,State Holiday
+26/04/2008,Saturday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2008,Thursday,Labour Day,Federal Public Holiday
+07/05/2008,Wednesday,Pahang State Holiday,State Holiday
+17/05/2008,Saturday,Birthday of the Raja of Perlis,Local holiday
+19/05/2008,Monday,Wesak Day,Federal Public Holiday
+01/06/2008,Sunday,Gawai Dayak,State Holiday
+02/06/2008,Monday,Gawai Dayak observed,State Holiday
+07/06/2008,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+12/07/2008,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2008,Tuesday,Sarawak Independence Day,State Holiday
+31/07/2008,Thursday,Isra and Mi'raj,State Holiday
+16/08/2008,Saturday,Raksha Bandhan,Hindu Holiday
+24/08/2008,Sunday,Janmashtami,Hindu Holiday
+31/08/2008,Sunday,Malaysia's National Day,Federal Public Holiday
+01/09/2008,Monday,Malaysia's National Day observed,Federal Public Holiday
+02/09/2008,Tuesday,First Day of Ramadan,State Holiday
+03/09/2008,Wednesday,Ganesh Chaturthi,Hindu Holiday
+18/09/2008,Thursday,Nuzul Al-Quran,State Holiday
+22/09/2008,Monday,September Equinox,Season
+30/09/2008,Tuesday,Navaratri,Hindu Holiday
+01/10/2008,Wednesday,Hari Raya Puasa,Federal Public Holiday
+02/10/2008,Thursday,Hari Raya Puasa Day 2,Federal Public Holiday
+04/10/2008,Saturday,Birthday of the Governor of Sabah,State Holiday
+09/10/2008,Thursday,Dussehra,Hindu Holiday
+10/10/2008,Friday,Birthday of the Governor of Malacca,State Holiday
+11/10/2008,Saturday,Birthday of the Governor of Sarawak,State Holiday
+24/10/2008,Friday,Birthday of the Sultan of Pahang,State Holiday
+27/10/2008,Monday,Diwali/Deepavali,Common local holiday
+09/12/2008,Tuesday,Hari Raya Haji,Federal Public Holiday
+10/12/2008,Wednesday,Hari Raya Haji (Day 2),Common local holiday
+11/12/2008,Thursday,Birthday of the Sultan of Selangor,State Holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Federal Public Holiday
+29/12/2008,Monday,Muharram/New Year,Federal Public Holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,State Holiday
+14/01/2009,Wednesday,Birthday of Yang di-Pertuan Besar,State Holiday
+26/01/2009,Monday,Lunar New Year's Day,Federal Public Holiday
+27/01/2009,Tuesday,Second Day of Lunar New Year,Federal Public Holiday
+27/01/2009,Tuesday,Lunar New Year Holiday,State Holiday
+01/02/2009,Sunday,Federal Territory Day,Federal Territory Holiday
+02/02/2009,Monday,Federal Territory Day observed,Federal Territory Holiday
+08/02/2009,Sunday,Thaipusam,State Holiday
+09/02/2009,Monday,Thaipusam observed,State Holiday
+23/02/2009,Monday,Maha Shivaratri,Hindu Holiday
+09/03/2009,Monday,The Prophet Muhammad's Birthday,Federal Public Holiday
+11/03/2009,Wednesday,Holi,Hindu Holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,State Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+15/04/2009,Wednesday,Declaration of Malacca as Historical City,State Holiday
+26/04/2009,Sunday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2009,Friday,Labour Day,Federal Public Holiday
+07/05/2009,Thursday,Pahang State Holiday,State Holiday
+09/05/2009,Saturday,Wesak Day,Federal Public Holiday
+17/05/2009,Sunday,Birthday of the Raja of Perlis,Local holiday
+18/05/2009,Monday,Birthday of the Raja of Perlis observed,Local holiday
+01/06/2009,Monday,Gawai Dayak,State Holiday
+06/06/2009,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+07/07/2009,Tuesday,George Town World Heritage City Day,State Holiday
+11/07/2009,Saturday,Penang Governor's Birthday,State Holiday
+20/07/2009,Monday,Isra and Mi'raj,State Holiday
+22/07/2009,Wednesday,Sarawak Independence Day,State Holiday
+05/08/2009,Wednesday,Raksha Bandhan,Hindu Holiday
+13/08/2009,Thursday,Janmashtami,Hindu Holiday
+22/08/2009,Saturday,First Day of Ramadan,State Holiday
+23/08/2009,Sunday,Ganesh Chaturthi,Hindu Holiday
+31/08/2009,Monday,Malaysia's National Day,Federal Public Holiday
+07/09/2009,Monday,Nuzul Al-Quran,State Holiday
+19/09/2009,Saturday,Navaratri,Hindu Holiday
+20/09/2009,Sunday,Hari Raya Puasa,Federal Public Holiday
+21/09/2009,Monday,Hari Raya Puasa Day 2,Federal Public Holiday
+23/09/2009,Wednesday,September Equinox,Season
+03/10/2009,Saturday,Birthday of the Governor of Sabah,State Holiday
+09/10/2009,Friday,Birthday of the Governor of Malacca,State Holiday
+10/10/2009,Saturday,Birthday of the Governor of Sarawak,State Holiday
+17/10/2009,Saturday,Diwali/Deepavali,Common local holiday
+24/10/2009,Saturday,Birthday of the Sultan of Pahang,State Holiday
+28/10/2009,Wednesday,Dussehra,Hindu Holiday
+28/11/2009,Saturday,Hari Raya Haji,Federal Public Holiday
+29/11/2009,Sunday,Hari Raya Haji (Day 2),Common local holiday
+11/12/2009,Friday,Birthday of the Sultan of Selangor,State Holiday
+18/12/2009,Friday,Muharram/New Year,Federal Public Holiday
+22/12/2009,Tuesday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Federal Public Holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,State Holiday
+14/01/2010,Thursday,Birthday of Yang di-Pertuan Besar,State Holiday
+30/01/2010,Saturday,Thaipusam,State Holiday
+01/02/2010,Monday,Federal Territory Day,Federal Territory Holiday
+12/02/2010,Friday,Maha Shivaratri,Hindu Holiday
+14/02/2010,Sunday,Lunar New Year's Day,Federal Public Holiday
+15/02/2010,Monday,Second Day of Lunar New Year,Federal Public Holiday
+15/02/2010,Monday,Lunar New Year Holiday,State Holiday
+26/02/2010,Friday,The Prophet Muhammad's Birthday,Federal Public Holiday
+01/03/2010,Monday,Holi,Hindu Holiday
+04/03/2010,Thursday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+21/03/2010,Sunday,March Equinox,Season
+23/03/2010,Tuesday,Birthday of the Sultan of Johor,State Holiday
+02/04/2010,Friday,Good Friday,State Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+15/04/2010,Thursday,Declaration of Malacca as Historical City,State Holiday
+26/04/2010,Monday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2010,Saturday,Labour Day,Federal Public Holiday
+07/05/2010,Friday,Pahang State Holiday,State Holiday
+17/05/2010,Monday,Birthday of the Raja of Perlis,Local holiday
+28/05/2010,Friday,Wesak Day,Federal Public Holiday
+30/05/2010,Sunday,Harvest Festival,State Holiday
+31/05/2010,Monday,Harvest Festival observed,State Holiday
+31/05/2010,Monday,Second Day of Harvest Festival,State Holiday
+01/06/2010,Tuesday,Gawai Dayak,State Holiday
+02/06/2010,Wednesday,Gawai Dayak Holiday,State Holiday
+05/06/2010,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2010,Monday,June Solstice,Season
+07/07/2010,Wednesday,George Town World Heritage City Day,State Holiday
+09/07/2010,Friday,Isra and Mi'raj,State Holiday
+10/07/2010,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2010,Thursday,Sarawak Independence Day,State Holiday
+11/08/2010,Wednesday,First Day of Ramadan,State Holiday
+24/08/2010,Tuesday,Raksha Bandhan,Hindu Holiday
+27/08/2010,Friday,Nuzul Al-Quran,State Holiday
+31/08/2010,Tuesday,Malaysia's National Day,Federal Public Holiday
+01/09/2010,Wednesday,Janmashtami,Hindu Holiday
+10/09/2010,Friday,Hari Raya Puasa,Federal Public Holiday
+11/09/2010,Saturday,Ganesh Chaturthi,Hindu Holiday
+11/09/2010,Saturday,Hari Raya Puasa Day 2,Federal Public Holiday
+16/09/2010,Thursday,Malaysia Day,Federal Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+02/10/2010,Saturday,Birthday of the Governor of Sabah,State Holiday
+08/10/2010,Friday,Navaratri,Hindu Holiday
+08/10/2010,Friday,Birthday of the Governor of Malacca,State Holiday
+09/10/2010,Saturday,Birthday of the Governor of Sarawak,State Holiday
+17/10/2010,Sunday,Dussehra,Hindu Holiday
+24/10/2010,Sunday,Birthday of the Sultan of Pahang,State Holiday
+25/10/2010,Monday,Birthday of the Sultan of Pahang observed,State Holiday
+05/11/2010,Friday,Diwali/Deepavali,Common local holiday
+11/11/2010,Thursday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2010,Friday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+17/11/2010,Wednesday,Hari Raya Haji,Federal Public Holiday
+18/11/2010,Thursday,Hari Raya Haji (Day 2),Common local holiday
+08/12/2010,Wednesday,Muharram/New Year,Federal Public Holiday
+11/12/2010,Saturday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Federal Public Holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,State Holiday
+12/01/2011,Wednesday,Almarhum Sultan Iskandar Hol Day,State Holiday
+14/01/2011,Friday,Birthday of Yang di-Pertuan Besar,State Holiday
+20/01/2011,Thursday,Thaipusam,State Holiday
+01/02/2011,Tuesday,Federal Territory Day,Federal Territory Holiday
+03/02/2011,Thursday,Lunar New Year's Day,Federal Public Holiday
+04/02/2011,Friday,Second Day of Lunar New Year,Federal Public Holiday
+04/02/2011,Friday,Lunar New Year Holiday,State Holiday
+16/02/2011,Wednesday,The Prophet Muhammad's Birthday,Federal Public Holiday
+02/03/2011,Wednesday,Maha Shivaratri,Hindu Holiday
+05/03/2011,Saturday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+20/03/2011,Sunday,Holi,Hindu Holiday
+21/03/2011,Monday,March Equinox,Season
+23/03/2011,Wednesday,Birthday of the Sultan of Johor,State Holiday
+15/04/2011,Friday,Declaration of Malacca as Historical City,State Holiday
+22/04/2011,Friday,Good Friday,State Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+26/04/2011,Tuesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2011,Sunday,Labour Day,Federal Public Holiday
+02/05/2011,Monday,Labour Day observed,Federal Public Holiday
+07/05/2011,Saturday,Pahang State Holiday,State Holiday
+17/05/2011,Tuesday,Wesak Day,Federal Public Holiday
+17/05/2011,Tuesday,Birthday of the Raja of Perlis,Local holiday
+30/05/2011,Monday,Harvest Festival,State Holiday
+31/05/2011,Tuesday,Second Day of Harvest Festival,State Holiday
+01/06/2011,Wednesday,Gawai Dayak,State Holiday
+02/06/2011,Thursday,Gawai Dayak Holiday,State Holiday
+04/06/2011,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+29/06/2011,Wednesday,Isra and Mi'raj,State Holiday
+07/07/2011,Thursday,George Town World Heritage City Day,State Holiday
+09/07/2011,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2011,Friday,Sarawak Independence Day,State Holiday
+01/08/2011,Monday,First Day of Ramadan,State Holiday
+13/08/2011,Saturday,Raksha Bandhan,Hindu Holiday
+17/08/2011,Wednesday,Nuzul Al-Quran,State Holiday
+22/08/2011,Monday,Janmashtami,Hindu Holiday
+31/08/2011,Wednesday,Malaysia's National Day,Federal Public Holiday
+31/08/2011,Wednesday,Hari Raya Puasa,Federal Public Holiday
+01/09/2011,Thursday,Ganesh Chaturthi,Hindu Holiday
+01/09/2011,Thursday,Hari Raya Puasa Day 2,Federal Public Holiday
+16/09/2011,Friday,Malaysia Day,Federal Public Holiday
+23/09/2011,Friday,September Equinox,Season
+28/09/2011,Wednesday,Navaratri,Hindu Holiday
+01/10/2011,Saturday,Birthday of the Governor of Sabah,State Holiday
+06/10/2011,Thursday,Dussehra,Hindu Holiday
+08/10/2011,Saturday,Birthday of the Governor of Sarawak,State Holiday
+14/10/2011,Friday,Birthday of the Governor of Malacca,State Holiday
+24/10/2011,Monday,Birthday of the Sultan of Pahang,State Holiday
+26/10/2011,Wednesday,Diwali/Deepavali,Common local holiday
+07/11/2011,Monday,Hari Raya Haji,Federal Public Holiday
+08/11/2011,Tuesday,Hari Raya Haji (Day 2),Common local holiday
+11/11/2011,Friday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2011,Saturday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+27/11/2011,Sunday,Muharram/New Year,Federal Public Holiday
+11/12/2011,Sunday,Birthday of the Sultan of Selangor,State Holiday
+12/12/2011,Monday,Day off for Birthday of the Sultan of Selangor,State Holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Federal Public Holiday
+26/12/2011,Monday,Christmas Day observed,Federal Public Holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,State Holiday
+01/01/2012,Sunday,Almarhum Sultan Iskandar Hol Day,State Holiday
+02/01/2012,Monday,New Year's Day observed,State Holiday
+14/01/2012,Saturday,Birthday of Yang di-Pertuan Besar,State Holiday
+23/01/2012,Monday,Lunar New Year's Day,Federal Public Holiday
+24/01/2012,Tuesday,Second Day of Lunar New Year,Federal Public Holiday
+24/01/2012,Tuesday,Lunar New Year Holiday,State Holiday
+01/02/2012,Wednesday,Federal Territory Day,Federal Territory Holiday
+05/02/2012,Sunday,The Prophet Muhammad's Birthday,Federal Public Holiday
+07/02/2012,Tuesday,Thaipusam,State Holiday
+10/02/2012,Friday,Maha Shivaratri,Hindu Holiday
+04/03/2012,Sunday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+08/03/2012,Thursday,Holi,Hindu Holiday
+20/03/2012,Tuesday,March Equinox,Season
+23/03/2012,Friday,Birthday of the Sultan of Johor,State Holiday
+06/04/2012,Friday,Good Friday,State Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+15/04/2012,Sunday,Declaration of Malacca as Historical City,State Holiday
+16/04/2012,Monday,Declaration of Malacca as Historical City observed,State Holiday
+26/04/2012,Thursday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2012,Tuesday,Labour Day,Federal Public Holiday
+05/05/2012,Saturday,Wesak Day,Federal Public Holiday
+07/05/2012,Monday,Pahang State Holiday,State Holiday
+17/05/2012,Thursday,Birthday of the Raja of Perlis,Local holiday
+30/05/2012,Wednesday,Harvest Festival,State Holiday
+31/05/2012,Thursday,Second Day of Harvest Festival,State Holiday
+01/06/2012,Friday,Gawai Dayak,State Holiday
+02/06/2012,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+02/06/2012,Saturday,Gawai Dayak Holiday,State Holiday
+17/06/2012,Sunday,Isra and Mi'raj,State Holiday
+21/06/2012,Thursday,June Solstice,Season
+07/07/2012,Saturday,George Town World Heritage City Day,State Holiday
+14/07/2012,Saturday,Penang Governor's Birthday,State Holiday
+20/07/2012,Friday,First Day of Ramadan,State Holiday
+22/07/2012,Sunday,Sarawak Independence Day,State Holiday
+23/07/2012,Monday,Sarawak Independence Day observed,State Holiday
+02/08/2012,Thursday,Raksha Bandhan,Hindu Holiday
+05/08/2012,Sunday,Nuzul Al-Quran,State Holiday
+09/08/2012,Thursday,Janmashtami,Hindu Holiday
+19/08/2012,Sunday,Hari Raya Puasa,Federal Public Holiday
+20/08/2012,Monday,Hari Raya Puasa Day 2,Federal Public Holiday
+21/08/2012,Tuesday,Hari Raya Puasa (Replacement Day),Federal Public Holiday
+31/08/2012,Friday,Malaysia's National Day,Federal Public Holiday
+16/09/2012,Sunday,Malaysia Day,Federal Public Holiday
+19/09/2012,Wednesday,Ganesh Chaturthi,Hindu Holiday
+22/09/2012,Saturday,September Equinox,Season
+06/10/2012,Saturday,Birthday of the Governor of Sabah,State Holiday
+12/10/2012,Friday,Birthday of the Governor of Malacca,State Holiday
+13/10/2012,Saturday,Birthday of the Governor of Sarawak,State Holiday
+16/10/2012,Tuesday,Navaratri,Hindu Holiday
+24/10/2012,Wednesday,Dussehra,Hindu Holiday
+24/10/2012,Wednesday,Birthday of the Sultan of Pahang,State Holiday
+26/10/2012,Friday,Hari Raya Haji,Federal Public Holiday
+27/10/2012,Saturday,Hari Raya Haji (Day 2),Common local holiday
+11/11/2012,Sunday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2012,Monday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+13/11/2012,Tuesday,Diwali/Deepavali,Common local holiday
+15/11/2012,Thursday,Muharram/New Year,Federal Public Holiday
+11/12/2012,Tuesday,Birthday of the Sultan of Selangor,State Holiday
+20/12/2012,Thursday,Almarhum Sultan Iskandar Hol Day,State Holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Federal Public Holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,State Holiday
+14/01/2013,Monday,Birthday of Yang di-Pertuan Besar,State Holiday
+24/01/2013,Thursday,The Prophet Muhammad's Birthday,Federal Public Holiday
+27/01/2013,Sunday,Thaipusam,State Holiday
+01/02/2013,Friday,Federal Territory Day,Federal Territory Holiday
+10/02/2013,Sunday,Lunar New Year's Day,Federal Public Holiday
+11/02/2013,Monday,Second Day of Lunar New Year,Federal Public Holiday
+11/02/2013,Monday,Lunar New Year Holiday,State Holiday
+12/02/2013,Tuesday,Lunar New Year Replacement Holiday,Federal Public Holiday
+04/03/2013,Monday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+10/03/2013,Sunday,Maha Shivaratri,Hindu Holiday
+20/03/2013,Wednesday,March Equinox,Season
+23/03/2013,Saturday,Birthday of the Sultan of Johor,State Holiday
+27/03/2013,Wednesday,Holi,Hindu Holiday
+29/03/2013,Friday,Good Friday,State Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+15/04/2013,Monday,Declaration of Malacca as Historical City,State Holiday
+27/04/2013,Saturday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2013,Wednesday,Labour Day,Federal Public Holiday
+07/05/2013,Tuesday,Pahang State Holiday,State Holiday
+17/05/2013,Friday,Birthday of the Raja of Perlis,Local holiday
+24/05/2013,Friday,Wesak Day,Federal Public Holiday
+30/05/2013,Thursday,Harvest Festival,State Holiday
+31/05/2013,Friday,Second Day of Harvest Festival,State Holiday
+01/06/2013,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+01/06/2013,Saturday,Gawai Dayak,State Holiday
+02/06/2013,Sunday,Gawai Dayak Holiday,State Holiday
+03/06/2013,Monday,Gawai Dayak Holiday observed,State Holiday
+06/06/2013,Thursday,Isra and Mi'raj,State Holiday
+21/06/2013,Friday,June Solstice,Season
+07/07/2013,Sunday,George Town World Heritage City Day,State Holiday
+09/07/2013,Tuesday,First Day of Ramadan,State Holiday
+13/07/2013,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2013,Monday,Sarawak Independence Day,State Holiday
+25/07/2013,Thursday,Nuzul Al-Quran,State Holiday
+08/08/2013,Thursday,Hari Raya Puasa,Federal Public Holiday
+09/08/2013,Friday,Hari Raya Puasa Day 2,Federal Public Holiday
+20/08/2013,Tuesday,Raksha Bandhan,Hindu Holiday
+28/08/2013,Wednesday,Janmashtami,Hindu Holiday
+31/08/2013,Saturday,Malaysia's National Day,Federal Public Holiday
+09/09/2013,Monday,Ganesh Chaturthi,Hindu Holiday
+16/09/2013,Monday,Malaysia Day,Federal Public Holiday
+23/09/2013,Monday,September Equinox,Season
+05/10/2013,Saturday,Navaratri,Hindu Holiday
+05/10/2013,Saturday,Birthday of the Governor of Sabah,State Holiday
+11/10/2013,Friday,Birthday of the Governor of Malacca,State Holiday
+12/10/2013,Saturday,Birthday of the Governor of Sarawak,State Holiday
+13/10/2013,Sunday,Dussehra,Hindu Holiday
+15/10/2013,Tuesday,Hari Raya Haji,Federal Public Holiday
+16/10/2013,Wednesday,Hari Raya Haji (Day 2),Common local holiday
+24/10/2013,Thursday,Birthday of the Sultan of Pahang,State Holiday
+02/11/2013,Saturday,Diwali/Deepavali,Common local holiday
+05/11/2013,Tuesday,Muharram/New Year,Federal Public Holiday
+11/11/2013,Monday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2013,Tuesday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+10/12/2013,Tuesday,Almarhum Sultan Iskandar Hol Day,State Holiday
+11/12/2013,Wednesday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2013,Sunday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Federal Public Holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,State Holiday
+14/01/2014,Tuesday,The Prophet Muhammad's Birthday,Federal Public Holiday
+14/01/2014,Tuesday,Birthday of Yang di-Pertuan Besar,State Holiday
+17/01/2014,Friday,Thaipusam,Federal Public Holiday
+31/01/2014,Friday,Lunar New Year's Day,Federal Public Holiday
+01/02/2014,Saturday,Second Day of Lunar New Year,Federal Public Holiday
+01/02/2014,Saturday,Lunar New Year Holiday,State Holiday
+01/02/2014,Saturday,Federal Territory Day,Federal Territory Holiday
+03/02/2014,Monday,Federal Territory Day holiday,Common local holiday
+27/02/2014,Thursday,Maha Shivaratri,Hindu Holiday
+04/03/2014,Tuesday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+17/03/2014,Monday,Holi,Hindu Holiday
+21/03/2014,Friday,March Equinox,Season
+23/03/2014,Sunday,Birthday of the Sultan of Johor,State Holiday
+15/04/2014,Tuesday,Declaration of Malacca as Historical City,State Holiday
+18/04/2014,Friday,Good Friday,State Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+26/04/2014,Saturday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2014,Thursday,Labour Day,Federal Public Holiday
+07/05/2014,Wednesday,Pahang State Holiday,State Holiday
+13/05/2014,Tuesday,Wesak Day,Federal Public Holiday
+17/05/2014,Saturday,Birthday of the Raja of Perlis,Local holiday
+27/05/2014,Tuesday,Isra and Mi'raj,State Holiday
+30/05/2014,Friday,Harvest Festival,State Holiday
+31/05/2014,Saturday,Second Day of Harvest Festival,State Holiday
+01/06/2014,Sunday,Gawai Dayak,State Holiday
+02/06/2014,Monday,Gawai Dayak observed,State Holiday
+02/06/2014,Monday,Gawai Dayak Holiday,State Holiday
+07/06/2014,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+29/06/2014,Sunday,First Day of Ramadan,Observance
+07/07/2014,Monday,George Town World Heritage City Day,State Holiday
+12/07/2014,Saturday,Penang Governor's Birthday,State Holiday
+15/07/2014,Tuesday,Nuzul Al-Quran,State Holiday
+22/07/2014,Tuesday,Sarawak Independence Day,State Holiday
+28/07/2014,Monday,Hari Raya Puasa,Federal Public Holiday
+29/07/2014,Tuesday,Hari Raya Puasa Day 2,Federal Public Holiday
+10/08/2014,Sunday,Raksha Bandhan,Hindu Holiday
+17/08/2014,Sunday,Janmashtami,Hindu Holiday
+22/08/2014,Friday,National Day of Mourning,Observance
+29/08/2014,Friday,Ganesh Chaturthi,Hindu Holiday
+31/08/2014,Sunday,Malaysia's National Day,Federal Public Holiday
+01/09/2014,Monday,Malaysia's National Day observed,Federal Public Holiday
+16/09/2014,Tuesday,Malaysia Day,Federal Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+25/09/2014,Thursday,Navaratri,Hindu Holiday
+03/10/2014,Friday,Dussehra,Hindu Holiday
+04/10/2014,Saturday,Birthday of the Governor of Sabah,State Holiday
+05/10/2014,Sunday,Hari Raya Haji,Federal Public Holiday
+06/10/2014,Monday,Hari Raya Haji (Day 2),Common local holiday
+06/10/2014,Monday,Hari Raya Haji holiday,Federal Public Holiday
+10/10/2014,Friday,Birthday of the Governor of Malacca,State Holiday
+11/10/2014,Saturday,Birthday of the Governor of Sarawak,State Holiday
+22/10/2014,Wednesday,Diwali/Deepavali,Common local holiday
+24/10/2014,Friday,Birthday of the Sultan of Pahang,State Holiday
+25/10/2014,Saturday,Muharram/New Year,Federal Public Holiday
+11/11/2014,Tuesday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2014,Wednesday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+29/11/2014,Saturday,Almarhum Sultan Iskandar Hol Day,State Holiday
+11/12/2014,Thursday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Federal Public Holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,State Holiday
+03/01/2015,Saturday,The Prophet Muhammad's Birthday,Federal Public Holiday
+14/01/2015,Wednesday,Birthday of Yang di-Pertuan Besar,State Holiday
+01/02/2015,Sunday,Federal Territory Day,Federal Territory Holiday
+02/02/2015,Monday,Federal Territory Day observed,Federal Territory Holiday
+03/02/2015,Tuesday,Thaipusam,State Holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+17/02/2015,Tuesday,Maha Shivaratri,Hindu Holiday
+19/02/2015,Thursday,Lunar New Year's Day,Federal Public Holiday
+20/02/2015,Friday,Second Day of Lunar New Year,Federal Public Holiday
+20/02/2015,Friday,Lunar New Year Holiday,State Holiday
+04/03/2015,Wednesday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+06/03/2015,Friday,Holi,Hindu Holiday
+21/03/2015,Saturday,March Equinox,Season
+23/03/2015,Monday,Birthday of the Sultan of Johor,State Holiday
+03/04/2015,Friday,Good Friday,State Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+15/04/2015,Wednesday,Declaration of Malacca as Historical City,State Holiday
+26/04/2015,Sunday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2015,Friday,Labour Day,Federal Public Holiday
+03/05/2015,Sunday,Wesak Day,Federal Public Holiday
+07/05/2015,Thursday,Pahang State Holiday,State Holiday
+16/05/2015,Saturday,Isra and Mi'raj,State Holiday
+17/05/2015,Sunday,Birthday of the Raja of Perlis,Local holiday
+18/05/2015,Monday,Birthday of the Raja of Perlis observed,Local holiday
+30/05/2015,Saturday,Harvest Festival,State Holiday
+31/05/2015,Sunday,Second Day of Harvest Festival,State Holiday
+01/06/2015,Monday,Second Day of Harvest Festival observed,State Holiday
+01/06/2015,Monday,Gawai Dayak,State Holiday
+02/06/2015,Tuesday,Gawai Dayak Holiday,State Holiday
+06/06/2015,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+18/06/2015,Thursday,First Day of Ramadan,State Holiday
+22/06/2015,Monday,June Solstice,Season
+04/07/2015,Saturday,Nuzul Al-Quran,State Holiday
+07/07/2015,Tuesday,George Town World Heritage City Day,State Holiday
+11/07/2015,Saturday,Penang Governor's Birthday,State Holiday
+17/07/2015,Friday,Hari Raya Puasa,Federal Public Holiday
+18/07/2015,Saturday,Hari Raya Puasa Day 2,Federal Public Holiday
+22/07/2015,Wednesday,Sarawak Independence Day,State Holiday
+29/08/2015,Saturday,Raksha Bandhan,Hindu Holiday
+31/08/2015,Monday,Malaysia's National Day,Federal Public Holiday
+05/09/2015,Saturday,Janmashtami,Hindu Holiday
+16/09/2015,Wednesday,Malaysia Day,Federal Public Holiday
+17/09/2015,Thursday,Ganesh Chaturthi,Hindu Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Hari Raya Haji,Federal Public Holiday
+25/09/2015,Friday,Hari Raya Haji (Day 2),Common local holiday
+25/09/2015,Friday,Hari Raya Haji holiday,Federal Public Holiday
+03/10/2015,Saturday,Birthday of the Governor of Sabah,State Holiday
+09/10/2015,Friday,Birthday of the Governor of Malacca,State Holiday
+10/10/2015,Saturday,Birthday of the Governor of Sarawak,State Holiday
+14/10/2015,Wednesday,Navaratri,Hindu Holiday
+14/10/2015,Wednesday,Muharram/New Year,Federal Public Holiday
+22/10/2015,Thursday,Dussehra,Hindu Holiday
+24/10/2015,Saturday,Birthday of the Sultan of Pahang,State Holiday
+06/11/2015,Friday,Birthday of the Sultan of Perak,State Holiday
+10/11/2015,Tuesday,Diwali/Deepavali,Common local holiday
+11/11/2015,Wednesday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2015,Thursday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+19/11/2015,Thursday,Almarhum Sultan Iskandar Hol Day,State Holiday
+11/12/2015,Friday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,The Prophet Muhammad's Birthday,Federal Public Holiday
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Federal Public Holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,State Holiday
+14/01/2016,Thursday,Birthday of Yang di-Pertuan Besar,State Holiday
+24/01/2016,Sunday,Thaipusam,State Holiday
+01/02/2016,Monday,Federal Territory Day,Federal Territory Holiday
+08/02/2016,Monday,Lunar New Year's Day,Federal Public Holiday
+09/02/2016,Tuesday,Second Day of Lunar New Year,Federal Public Holiday
+09/02/2016,Tuesday,Lunar New Year Holiday,State Holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+05/03/2016,Saturday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+07/03/2016,Monday,Maha Shivaratri,Hindu Holiday
+20/03/2016,Sunday,March Equinox,Season
+23/03/2016,Wednesday,Birthday of the Sultan of Johor,State Holiday
+24/03/2016,Thursday,Holi,Hindu Holiday
+25/03/2016,Friday,Good Friday,State Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+15/04/2016,Friday,Declaration of Malacca as Historical City,State Holiday
+26/04/2016,Tuesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2016,Sunday,Labour Day,Federal Public Holiday
+05/05/2016,Thursday,Isra and Mi'raj,State Holiday
+07/05/2016,Saturday,Pahang State Holiday,State Holiday
+17/05/2016,Tuesday,Birthday of the Raja of Perlis,Local holiday
+21/05/2016,Saturday,Wesak Day,Federal Public Holiday
+30/05/2016,Monday,Harvest Festival,State Holiday
+31/05/2016,Tuesday,Second Day of Harvest Festival,State Holiday
+01/06/2016,Wednesday,Gawai Dayak,State Holiday
+02/06/2016,Thursday,Gawai Dayak Holiday,State Holiday
+04/06/2016,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+07/06/2016,Tuesday,First Day of Ramadan,State Holiday
+21/06/2016,Tuesday,June Solstice,Season
+22/06/2016,Wednesday,Nuzul Al-Quran,State Holiday
+06/07/2016,Wednesday,Hari Raya Puasa,Federal Public Holiday
+07/07/2016,Thursday,Hari Raya Puasa Day 2,Federal Public Holiday
+07/07/2016,Thursday,George Town World Heritage City Day,State Holiday
+08/07/2016,Friday,Hari Raya Puasa,Federal Public Holiday
+09/07/2016,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2016,Friday,Sarawak Independence Day,State Holiday
+18/08/2016,Thursday,Raksha Bandhan,Hindu Holiday
+25/08/2016,Thursday,Janmashtami,Hindu Holiday
+31/08/2016,Wednesday,Malaysia's National Day,Federal Public Holiday
+05/09/2016,Monday,Ganesh Chaturthi,Hindu Holiday
+12/09/2016,Monday,Hari Raya Haji,Federal Public Holiday
+13/09/2016,Tuesday,Hari Raya Haji (Day 2),Common local holiday
+13/09/2016,Tuesday,Hari Raya Haji holiday,Federal Public Holiday
+16/09/2016,Friday,Malaysia Day,Federal Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+01/10/2016,Saturday,Birthday of the Governor of Sabah,State Holiday
+02/10/2016,Sunday,Navaratri,Hindu Holiday
+02/10/2016,Sunday,Muharram/New Year,Federal Public Holiday
+08/10/2016,Saturday,Birthday of the Governor of Sarawak,State Holiday
+11/10/2016,Tuesday,Dussehra,Hindu Holiday
+14/10/2016,Friday,Birthday of the Governor of Malacca,State Holiday
+24/10/2016,Monday,Birthday of the Sultan of Pahang,State Holiday
+29/10/2016,Saturday,Diwali/Deepavali,Common local holiday
+04/11/2016,Friday,Birthday of the Sultan of Perak,State Holiday
+07/11/2016,Monday,Almarhum Sultan Iskandar Hol Day,State Holiday
+11/11/2016,Friday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2016,Saturday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+11/12/2016,Sunday,Birthday of the Sultan of Selangor,State Holiday
+12/12/2016,Monday,The Prophet Muhammad's Birthday,Federal Public Holiday
+12/12/2016,Monday,Day off for Birthday of the Sultan of Selangor,State Holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Federal Public Holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,State Holiday
+02/01/2017,Monday,New Year's Day observed,State Holiday
+14/01/2017,Saturday,Birthday of Yang di-Pertuan Besar,State Holiday
+28/01/2017,Saturday,Lunar New Year's Day,Federal Public Holiday
+29/01/2017,Sunday,Second Day of Lunar New Year,Federal Public Holiday
+29/01/2017,Sunday,Lunar New Year Holiday,State Holiday
+30/01/2017,Monday,Lunar New Year Holiday,Federal Public Holiday
+01/02/2017,Wednesday,Federal Territory Day,Federal Territory Holiday
+09/02/2017,Thursday,Thaipusam,State Holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+24/02/2017,Friday,Maha Shivaratri,Hindu Holiday
+04/03/2017,Saturday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+13/03/2017,Monday,Holi,Hindu Holiday
+20/03/2017,Monday,March Equinox,Season
+23/03/2017,Thursday,Birthday of the Sultan of Johor,State Holiday
+14/04/2017,Friday,Good Friday,State Holiday
+15/04/2017,Saturday,Declaration of Malacca as Historical City,State Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+24/04/2017,Monday,Isra and Mi'raj,State Holiday
+25/04/2017,Tuesday,Official Installation Ceremony of His Majesty the 15th Yang Di Pertuan Agong,Federal Public Holiday
+26/04/2017,Wednesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2017,Monday,Labour Day,Federal Public Holiday
+07/05/2017,Sunday,Pahang State Holiday,State Holiday
+08/05/2017,Monday,Pahang State Holiday observed,State Holiday
+10/05/2017,Wednesday,Wesak Day,Federal Public Holiday
+17/05/2017,Wednesday,Birthday of the Raja of Perlis,Local holiday
+27/05/2017,Saturday,First Day of Ramadan,State Holiday
+30/05/2017,Tuesday,Harvest Festival,State Holiday
+31/05/2017,Wednesday,Second Day of Harvest Festival,State Holiday
+01/06/2017,Thursday,Gawai Dayak,State Holiday
+02/06/2017,Friday,Gawai Dayak Holiday,State Holiday
+12/06/2017,Monday,Nuzul Al-Quran,State Holiday
+21/06/2017,Wednesday,June Solstice,Season
+25/06/2017,Sunday,Hari Raya Puasa,Federal Public Holiday
+26/06/2017,Monday,Hari Raya Puasa Day 2,Federal Public Holiday
+07/07/2017,Friday,George Town World Heritage City Day,State Holiday
+08/07/2017,Saturday,Penang Governor's Birthday,State Holiday
+22/07/2017,Saturday,Sarawak Independence Day,State Holiday
+07/08/2017,Monday,Raksha Bandhan,Hindu Holiday
+14/08/2017,Monday,Janmashtami,Hindu Holiday
+25/08/2017,Friday,Ganesh Chaturthi,Hindu Holiday
+31/08/2017,Thursday,Malaysia's National Day,Federal Public Holiday
+01/09/2017,Friday,Hari Raya Haji,Federal Public Holiday
+01/09/2017,Friday,Hari Raya Haji holiday,Federal Public Holiday
+02/09/2017,Saturday,Hari Raya Haji (Day 2),Common local holiday
+09/09/2017,Saturday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+16/09/2017,Saturday,Malaysia Day,Federal Public Holiday
+21/09/2017,Thursday,Navaratri,Hindu Holiday
+22/09/2017,Friday,Muharram/New Year,Federal Public Holiday
+23/09/2017,Saturday,September Equinox,Season
+30/09/2017,Saturday,Dussehra,Hindu Holiday
+07/10/2017,Saturday,Birthday of the Governor of Sabah,State Holiday
+13/10/2017,Friday,Birthday of the Governor of Malacca,State Holiday
+14/10/2017,Saturday,Birthday of the Governor of Sarawak,State Holiday
+18/10/2017,Wednesday,Diwali/Deepavali,Common local holiday
+24/10/2017,Tuesday,Birthday of the Sultan of Pahang,State Holiday
+27/10/2017,Friday,Almarhum Sultan Iskandar Hol Day,State Holiday
+03/11/2017,Friday,Birthday of the Sultan of Perak,State Holiday
+11/11/2017,Saturday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2017,Sunday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+01/12/2017,Friday,The Prophet Muhammad's Birthday,Federal Public Holiday
+11/12/2017,Monday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2017,Friday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Federal Public Holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,State Holiday
+14/01/2018,Sunday,Birthday of Yang di-Pertuan Besar,State Holiday
+15/01/2018,Monday,Birthday of Yang di-Pertuan Besar observed,State Holiday
+31/01/2018,Wednesday,Thaipusam,State Holiday
+01/02/2018,Thursday,Federal Territory Day,Federal Territory Holiday
+14/02/2018,Wednesday,Maha Shivaratri,Hindu Holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+16/02/2018,Friday,Lunar New Year's Day,Federal Public Holiday
+17/02/2018,Saturday,Second Day of Lunar New Year,Federal Public Holiday
+17/02/2018,Saturday,Lunar New Year Holiday,State Holiday
+18/02/2018,Sunday,Lunar New Year Replacement Holiday,Common local holiday
+02/03/2018,Friday,Holi,Hindu Holiday
+04/03/2018,Sunday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+21/03/2018,Wednesday,March Equinox,Season
+23/03/2018,Friday,Birthday of the Sultan of Johor,State Holiday
+30/03/2018,Friday,Good Friday,State Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+14/04/2018,Saturday,Isra and Mi'raj,State Holiday
+15/04/2018,Sunday,Declaration of Malacca as Historical City,State Holiday
+16/04/2018,Monday,Declaration of Malacca as Historical City observed,State Holiday
+26/04/2018,Thursday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2018,Tuesday,Labour Day,Federal Public Holiday
+07/05/2018,Monday,Pahang State Holiday,State Holiday
+09/05/2018,Wednesday,General Elections,Federal Public Holiday
+10/05/2018,Thursday,General Elections Holiday,Common local holiday
+11/05/2018,Friday,General Elections Holiday,Common local holiday
+13/05/2018,Sunday,General Elections Holiday,Common local holiday
+17/05/2018,Thursday,First Day of Ramadan,State Holiday
+17/05/2018,Thursday,General Elections Holiday,Common local holiday
+18/05/2018,Friday,General Elections Holiday,Common local holiday
+29/05/2018,Tuesday,Wesak Day,Federal Public Holiday
+30/05/2018,Wednesday,Harvest Festival,State Holiday
+31/05/2018,Thursday,Second Day of Harvest Festival,State Holiday
+01/06/2018,Friday,Gawai Dayak,State Holiday
+02/06/2018,Saturday,Nuzul Al-Quran,State Holiday
+02/06/2018,Saturday,Gawai Dayak Holiday,State Holiday
+03/06/2018,Sunday,Nuzul Al-Quran Holiday,Common local holiday
+15/06/2018,Friday,Hari Raya Puasa,Federal Public Holiday
+16/06/2018,Saturday,Hari Raya Puasa Day 2,Federal Public Holiday
+17/06/2018,Sunday,Hari Raya Puasa,Common local holiday
+21/06/2018,Thursday,June Solstice,Season
+07/07/2018,Saturday,George Town World Heritage City Day,State Holiday
+14/07/2018,Saturday,Penang Governor's Birthday,State Holiday
+17/07/2018,Tuesday,Birthday of the Raja of Perlis,State Holiday
+22/07/2018,Sunday,Sarawak Independence Day,State Holiday
+23/07/2018,Monday,Sarawak Independence Day observed,State Holiday
+22/08/2018,Wednesday,Hari Raya Haji,Federal Public Holiday
+22/08/2018,Wednesday,Hari Raya Haji holiday,Federal Public Holiday
+23/08/2018,Thursday,Hari Raya Haji (Day 2),Common local holiday
+26/08/2018,Sunday,Raksha Bandhan,Hindu Holiday
+31/08/2018,Friday,Malaysia's National Day,Federal Public Holiday
+02/09/2018,Sunday,Janmashtami,Hindu Holiday
+09/09/2018,Sunday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+10/09/2018,Monday,The Yang di-Pertuan Agong's Birthday,Common local holiday
+11/09/2018,Tuesday,Muharram/New Year,Federal Public Holiday
+13/09/2018,Thursday,Ganesh Chaturthi,Hindu Holiday
+16/09/2018,Sunday,Malaysia Day,Common local holiday
+17/09/2018,Monday,Malaysia Day,Common local holiday
+23/09/2018,Sunday,September Equinox,Season
+06/10/2018,Saturday,Birthday of the Governor of Sabah,State Holiday
+10/10/2018,Wednesday,Navaratri,Hindu Holiday
+12/10/2018,Friday,Birthday of the Governor of Malacca,State Holiday
+13/10/2018,Saturday,Birthday of the Governor of Sarawak,State Holiday
+15/10/2018,Monday,Almarhum Sultan Iskandar Hol Day,State Holiday
+19/10/2018,Friday,Dussehra,Hindu Holiday
+24/10/2018,Wednesday,Birthday of the Sultan of Pahang,State Holiday
+02/11/2018,Friday,Birthday of the Sultan of Perak,State Holiday
+06/11/2018,Tuesday,Diwali/Deepavali,Common local holiday
+11/11/2018,Sunday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2018,Monday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+20/11/2018,Tuesday,The Prophet Muhammad's Birthday,Federal Public Holiday
+09/12/2018,Sunday,Public Holiday for Anti-ICERD Rally,Common local holiday
+11/12/2018,Tuesday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Federal Public Holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,State Holiday
+14/01/2019,Monday,Birthday of Yang di-Pertuan Besar,State Holiday
+21/01/2019,Monday,Thaipusam,State Holiday
+01/02/2019,Friday,Federal Territory Day,Federal Territory Holiday
+05/02/2019,Tuesday,Lunar New Year's Day,Federal Public Holiday
+06/02/2019,Wednesday,Second Day of Lunar New Year,Federal Public Holiday
+06/02/2019,Wednesday,Lunar New Year Holiday,State Holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+04/03/2019,Monday,Maha Shivaratri,Hindu Holiday
+04/03/2019,Monday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+21/03/2019,Thursday,Holi,Hindu Holiday
+21/03/2019,Thursday,March Equinox,Season
+23/03/2019,Saturday,Birthday of the Sultan of Johor,State Holiday
+03/04/2019,Wednesday,Isra and Mi'raj,State Holiday
+15/04/2019,Monday,Declaration of Malacca as Historical City,State Holiday
+19/04/2019,Friday,Good Friday,State Holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+27/04/2019,Saturday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2019,Wednesday,Labour Day,Federal Public Holiday
+06/05/2019,Monday,First Day of Ramadan,State Holiday
+07/05/2019,Tuesday,Pahang State Holiday,State Holiday
+19/05/2019,Sunday,Wesak Day,Federal Public Holiday
+20/05/2019,Monday,Wesak Day observed,Federal Public Holiday
+22/05/2019,Wednesday,Nuzul Al-Quran,State Holiday
+30/05/2019,Thursday,Harvest Festival,State Holiday
+31/05/2019,Friday,Second Day of Harvest Festival,State Holiday
+01/06/2019,Saturday,Gawai Dayak,State Holiday
+02/06/2019,Sunday,Gawai Dayak Holiday,State Holiday
+03/06/2019,Monday,Gawai Dayak Holiday observed,State Holiday
+05/06/2019,Wednesday,Hari Raya Puasa,Federal Public Holiday
+06/06/2019,Thursday,Hari Raya Puasa Day 2,Federal Public Holiday
+21/06/2019,Friday,June Solstice,Season
+07/07/2019,Sunday,George Town World Heritage City Day,State Holiday
+13/07/2019,Saturday,Penang Governor's Birthday,State Holiday
+17/07/2019,Wednesday,Birthday of the Raja of Perlis,State Holiday
+22/07/2019,Monday,Sarawak Independence Day,State Holiday
+30/07/2019,Tuesday,Additional Public Holiday,Federal Public Holiday
+30/07/2019,Tuesday,Birthday of the Sultan of Pahang,State Holiday
+11/08/2019,Sunday,Hari Raya Haji,Federal Public Holiday
+11/08/2019,Sunday,Hari Raya Haji holiday,Federal Public Holiday
+12/08/2019,Monday,Hari Raya Haji (Day 2),Common local holiday
+15/08/2019,Thursday,Raksha Bandhan,Hindu Holiday
+24/08/2019,Saturday,Janmashtami,Hindu Holiday
+31/08/2019,Saturday,Malaysia's National Day,Federal Public Holiday
+01/09/2019,Sunday,Muharram/New Year,Federal Public Holiday
+02/09/2019,Monday,Ganesh Chaturthi,Hindu Holiday
+09/09/2019,Monday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+16/09/2019,Monday,Malaysia Day,Federal Public Holiday
+23/09/2019,Monday,September Equinox,Season
+29/09/2019,Sunday,Navaratri,Hindu Holiday
+05/10/2019,Saturday,Birthday of the Governor of Sabah,State Holiday
+05/10/2019,Saturday,Almarhum Sultan Iskandar Hol Day,State Holiday
+08/10/2019,Tuesday,Dussehra,Hindu Holiday
+11/10/2019,Friday,Birthday of the Governor of Malacca,State Holiday
+12/10/2019,Saturday,Birthday of the Governor of Sarawak,State Holiday
+27/10/2019,Sunday,Diwali/Deepavali,Common local holiday
+28/10/2019,Monday,Diwali/Deepavali,Common local holiday
+01/11/2019,Friday,Birthday of the Sultan of Perak,State Holiday
+09/11/2019,Saturday,The Prophet Muhammad's Birthday,Federal Public Holiday
+11/11/2019,Monday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2019,Tuesday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+11/12/2019,Wednesday,Birthday of the Sultan of Selangor,State Holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+24/12/2019,Tuesday,Christmas Eve,State Holiday
+25/12/2019,Wednesday,Christmas Day,Federal Public Holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,State Holiday
+14/01/2020,Tuesday,Birthday of Yang di-Pertuan Besar,State Holiday
+25/01/2020,Saturday,Lunar New Year's Day,Federal Public Holiday
+26/01/2020,Sunday,Second Day of Lunar New Year,Federal Public Holiday
+26/01/2020,Sunday,Lunar New Year Holiday,State Holiday
+27/01/2020,Monday,Lunar New Year Holiday,Federal Public Holiday
+27/01/2020,Monday,Day off for Lunar New Year Holiday,State Holiday
+01/02/2020,Saturday,Federal Territory Day,Federal Territory Holiday
+08/02/2020,Saturday,Thaipusam,State Holiday
+14/02/2020,Friday,Valentine's Day,Observance
+21/02/2020,Friday,Maha Shivaratri,Hindu Holiday
+04/03/2020,Wednesday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+10/03/2020,Tuesday,Holi,Hindu Holiday
+20/03/2020,Friday,March Equinox,Season
+22/03/2020,Sunday,Isra and Mi'raj,State Holiday
+23/03/2020,Monday,Birthday of the Sultan of Johor,State Holiday
+10/04/2020,Friday,Good Friday,State Holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+15/04/2020,Wednesday,Declaration of Malacca as Historical City,State Holiday
+24/04/2020,Friday,First Day of Ramadan,State Holiday
+26/04/2020,Sunday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2020,Friday,Labour Day,Federal Public Holiday
+07/05/2020,Thursday,Wesak Day,Federal Public Holiday
+10/05/2020,Sunday,Nuzul Al-Quran,State Holiday
+22/05/2020,Friday,Pahang State Holiday,State Holiday
+24/05/2020,Sunday,Hari Raya Puasa,Federal Public Holiday
+25/05/2020,Monday,Hari Raya Puasa Day 2,Federal Public Holiday
+26/05/2020,Tuesday,Hari Raya Puasa,Federal Public Holiday
+30/05/2020,Saturday,Harvest Festival,State Holiday
+31/05/2020,Sunday,Second Day of Harvest Festival,State Holiday
+01/06/2020,Monday,Second Day of Harvest Festival observed,State Holiday
+01/06/2020,Monday,Gawai Dayak,State Holiday
+02/06/2020,Tuesday,Gawai Dayak Holiday,State Holiday
+08/06/2020,Monday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+21/06/2020,Sunday,Sultan of Kedah's Birthday,State Holiday
+21/06/2020,Sunday,June Solstice,Season
+07/07/2020,Tuesday,George Town World Heritage City Day,State Holiday
+11/07/2020,Saturday,Penang Governor's Birthday,State Holiday
+17/07/2020,Friday,Birthday of the Raja of Perlis,State Holiday
+22/07/2020,Wednesday,Sarawak Independence Day,State Holiday
+30/07/2020,Thursday,Day of Arafat,State Holiday
+30/07/2020,Thursday,Birthday of the Sultan of Pahang,State Holiday
+31/07/2020,Friday,Hari Raya Haji,Federal Public Holiday
+01/08/2020,Saturday,Hari Raya Haji (Day 2),Common local holiday
+02/08/2020,Sunday,Hari Raya Haji holiday,Common local holiday
+03/08/2020,Monday,Raksha Bandhan,Hindu Holiday
+11/08/2020,Tuesday,Janmashtami,Hindu Holiday
+20/08/2020,Thursday,Muharram/New Year,Federal Public Holiday
+22/08/2020,Saturday,Ganesh Chaturthi,Hindu Holiday
+24/08/2020,Monday,Birthday of the Governor of Malacca,State Holiday
+31/08/2020,Monday,Malaysia's National Day,Federal Public Holiday
+16/09/2020,Wednesday,Malaysia Day,Federal Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+24/09/2020,Thursday,Almarhum Sultan Iskandar Hol Day,State Holiday
+03/10/2020,Saturday,Birthday of the Governor of Sabah,State Holiday
+10/10/2020,Saturday,Birthday of the Governor of Sarawak,State Holiday
+17/10/2020,Saturday,Navaratri,Hindu Holiday
+25/10/2020,Sunday,Dussehra,Hindu Holiday
+29/10/2020,Thursday,The Prophet Muhammad's Birthday,Federal Public Holiday
+06/11/2020,Friday,Birthday of the Sultan of Perak,State Holiday
+11/11/2020,Wednesday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2020,Thursday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+14/11/2020,Saturday,Diwali/Deepavali,Common local holiday
+11/12/2020,Friday,Birthday of the Sultan of Selangor,State Holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+24/12/2020,Thursday,Christmas Eve,State Holiday
+25/12/2020,Friday,Christmas Day,Federal Public Holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,State Holiday
+14/01/2021,Thursday,Birthday of Yang di-Pertuan Besar,State Holiday
+28/01/2021,Thursday,Thaipusam,State Holiday
+01/02/2021,Monday,Federal Territory Day,Federal Territory Holiday
+12/02/2021,Friday,Lunar New Year's Day,Federal Public Holiday
+13/02/2021,Saturday,Second Day of Lunar New Year,Federal Public Holiday
+13/02/2021,Saturday,Lunar New Year Holiday,State Holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+04/03/2021,Thursday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+11/03/2021,Thursday,Isra and Mi'raj,State Holiday
+20/03/2021,Saturday,March Equinox,Season
+23/03/2021,Tuesday,Birthday of the Sultan of Johor,State Holiday
+02/04/2021,Friday,Good Friday,State Holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+13/04/2021,Tuesday,First Day of Ramadan,State Holiday
+15/04/2021,Thursday,Declaration of Malacca as Historical City,State Holiday
+26/04/2021,Monday,Birthday of the Sultan of Terengganu,State Holiday
+29/04/2021,Thursday,Nuzul Al-Quran,State Holiday
+01/05/2021,Saturday,Labour Day,Federal Public Holiday
+13/05/2021,Thursday,Hari Raya Puasa,Federal Public Holiday
+14/05/2021,Friday,Hari Raya Puasa Day 2,Federal Public Holiday
+22/05/2021,Saturday,Pahang State Holiday,State Holiday
+26/05/2021,Wednesday,Wesak Day,Federal Public Holiday
+30/05/2021,Sunday,Harvest Festival,State Holiday
+31/05/2021,Monday,Harvest Festival observed,State Holiday
+31/05/2021,Monday,Second Day of Harvest Festival,State Holiday
+01/06/2021,Tuesday,Gawai Dayak,State Holiday
+02/06/2021,Wednesday,Gawai Dayak Holiday,State Holiday
+07/06/2021,Monday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+20/06/2021,Sunday,Sultan of Kedah's Birthday,State Holiday
+21/06/2021,Monday,June Solstice,Season
+07/07/2021,Wednesday,George Town World Heritage City Day,State Holiday
+10/07/2021,Saturday,Penang Governor's Birthday,State Holiday
+17/07/2021,Saturday,Birthday of the Raja of Perlis,State Holiday
+19/07/2021,Monday,Day of Arafat,State Holiday
+20/07/2021,Tuesday,Hari Raya Haji,Federal Public Holiday
+20/07/2021,Tuesday,Hari Raya Haji holiday,Federal Public Holiday
+21/07/2021,Wednesday,Hari Raya Haji (Day 2),Common local holiday
+22/07/2021,Thursday,Sarawak Independence Day,State Holiday
+30/07/2021,Friday,Birthday of the Sultan of Pahang,State Holiday
+10/08/2021,Tuesday,Muharram/New Year,Federal Public Holiday
+24/08/2021,Tuesday,Birthday of the Governor of Malacca,State Holiday
+31/08/2021,Tuesday,Malaysia's National Day,Federal Public Holiday
+13/09/2021,Monday,Almarhum Sultan Iskandar Hol Day,State Holiday
+16/09/2021,Thursday,Malaysia Day,Federal Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+02/10/2021,Saturday,Birthday of the Governor of Sabah,State Holiday
+09/10/2021,Saturday,Birthday of the Governor of Sarawak,State Holiday
+19/10/2021,Tuesday,The Prophet Muhammad's Birthday,Federal Public Holiday
+04/11/2021,Thursday,Diwali/Deepavali,Common local holiday
+05/11/2021,Friday,Birthday of the Sultan of Perak,State Holiday
+11/11/2021,Thursday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2021,Friday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+20/11/2021,Saturday,Malacca State Election Holiday,State Holiday
+11/12/2021,Saturday,Birthday of the Sultan of Selangor,State Holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+24/12/2021,Friday,Christmas Eve,State Holiday
+25/12/2021,Saturday,Christmas Day,Federal Public Holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,State Holiday
+14/01/2022,Friday,Birthday of Yang di-Pertuan Besar,State Holiday
+18/01/2022,Tuesday,Thaipusam,State Holiday
+01/02/2022,Tuesday,Lunar New Year's Day,Federal Public Holiday
+01/02/2022,Tuesday,Federal Territory Day,Federal Territory Holiday
+02/02/2022,Wednesday,Second Day of Lunar New Year,Federal Public Holiday
+02/02/2022,Wednesday,Lunar New Year Holiday,State Holiday
+14/02/2022,Monday,Valentine's Day,Observance
+01/03/2022,Tuesday,Isra and Mi'raj,State Holiday
+04/03/2022,Friday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+20/03/2022,Sunday,March Equinox,Season
+23/03/2022,Wednesday,Birthday of the Sultan of Johor,State Holiday
+03/04/2022,Sunday,First Day of Ramadan,State Holiday
+15/04/2022,Friday,Good Friday,State Holiday
+15/04/2022,Friday,Declaration of Malacca as Historical City,State Holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+19/04/2022,Tuesday,Nuzul Al-Quran,State Holiday
+26/04/2022,Tuesday,Birthday of the Sultan of Terengganu,State Holiday
+01/05/2022,Sunday,Labour Day,Federal Public Holiday
+02/05/2022,Monday,Hari Raya Puasa,Federal Public Holiday
+03/05/2022,Tuesday,Hari Raya Puasa Day 2,Federal Public Holiday
+04/05/2022,Wednesday,Labour Day observed,Federal Public Holiday
+15/05/2022,Sunday,Wesak Day,Federal Public Holiday
+22/05/2022,Sunday,Pahang State Holiday,State Holiday
+23/05/2022,Monday,Pahang State Holiday observed,State Holiday
+30/05/2022,Monday,Harvest Festival,State Holiday
+31/05/2022,Tuesday,Second Day of Harvest Festival,State Holiday
+01/06/2022,Wednesday,Gawai Dayak,State Holiday
+02/06/2022,Thursday,Gawai Dayak Holiday,State Holiday
+06/06/2022,Monday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+19/06/2022,Sunday,Sultan of Kedah's Birthday,State Holiday
+21/06/2022,Tuesday,June Solstice,Season
+07/07/2022,Thursday,George Town World Heritage City Day,State Holiday
+09/07/2022,Saturday,Day of Arafat,State Holiday
+09/07/2022,Saturday,Penang Governor's Birthday,State Holiday
+10/07/2022,Sunday,Hari Raya Haji,Federal Public Holiday
+10/07/2022,Sunday,Hari Raya Haji holiday (Tentative Date),Federal Public Holiday
+11/07/2022,Monday,Hari Raya Haji (Day 2),State Holiday
+11/07/2022,Monday,Hari Raya Haji (Day 2),Federal Public Holiday
+17/07/2022,Sunday,Birthday of the Raja of Perlis,State Holiday
+18/07/2022,Monday,Birthday of the Raja of Perlis observed,State Holiday
+22/07/2022,Friday,Sarawak Independence Day,State Holiday
+30/07/2022,Saturday,Muharram/New Year,Federal Public Holiday
+30/07/2022,Saturday,Birthday of the Sultan of Pahang,State Holiday
+24/08/2022,Wednesday,Birthday of the Governor of Malacca,State Holiday
+31/08/2022,Wednesday,Malaysia's National Day,Federal Public Holiday
+03/09/2022,Saturday,Almarhum Sultan Iskandar Hol Day,State Holiday
+16/09/2022,Friday,Malaysia Day,Federal Public Holiday
+23/09/2022,Friday,September Equinox,Season
+01/10/2022,Saturday,Birthday of the Governor of Sabah,State Holiday
+08/10/2022,Saturday,Birthday of the Governor of Sarawak,State Holiday
+09/10/2022,Sunday,The Prophet Muhammad's Birthday (Tentative Date),Federal Public Holiday
+24/10/2022,Monday,Diwali/Deepavali,Federal Public Holiday
+04/11/2022,Friday,Birthday of the Sultan of Perak,State Holiday
+11/11/2022,Friday,Birthday of the Sultan of Kelantan,State Holiday
+12/11/2022,Saturday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+11/12/2022,Sunday,Birthday of the Sultan of Selangor,State Holiday
+12/12/2022,Monday,Day off for Birthday of the Sultan of Selangor,State Holiday
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+24/12/2022,Saturday,Christmas Eve,State Holiday
+25/12/2022,Sunday,Christmas Day,Federal Public Holiday
+26/12/2022,Monday,Christmas Day observed,Federal Public Holiday
+31/12/2022,Saturday,New Year's Eve,Observance

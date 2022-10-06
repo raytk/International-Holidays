@@ -1,0 +1,559 @@
+Date,Day,Name,Type
+01/01/2005,Saturday,January 1 Bank Holiday,Bank Holiday
+07/01/2005,Friday,Coptic Christmas Day,National holiday
+21/01/2005,Friday,Eid al-Adha,National holiday
+22/01/2005,Saturday,Eid al-Adha Holiday,National holiday
+23/01/2005,Sunday,Eid al-Adha Holiday,National holiday
+24/01/2005,Monday,Eid al-Adha Holiday,Bank Holiday
+10/02/2005,Thursday,Muharram,National holiday
+19/02/2005,Saturday,Ashura,Observance
+20/03/2005,Sunday,March Equinox,Season
+21/04/2005,Thursday,Prophet Mohamed's Birthday,National holiday
+25/04/2005,Monday,Sinai Liberation Day,National holiday
+29/04/2005,Friday,Coptic Good Friday,Observance
+30/04/2005,Saturday,Coptic Holy Saturday,Observance
+01/05/2005,Sunday,Coptic Easter Sunday,National holiday
+01/05/2005,Sunday,Labor Day,National holiday
+02/05/2005,Monday,Spring Festival,National holiday
+21/06/2005,Tuesday,June Solstice,Season
+01/07/2005,Friday,July 1 Bank Holiday,Bank Holiday
+23/07/2005,Saturday,Revolution Day July 23,National holiday
+15/08/2005,Monday,Flooding of the Nile,Observance
+11/09/2005,Sunday,Nayrouz,Observance
+23/09/2005,Friday,September Equinox,Season
+06/10/2005,Thursday,Armed Forces Day,National holiday
+04/11/2005,Friday,Eid el Fitr,National holiday
+05/11/2005,Saturday,Eid el Fitr Holiday,National holiday
+06/11/2005,Sunday,Eid el Fitr Holiday,National holiday
+21/12/2005,Wednesday,December Solstice,Season
+01/01/2006,Sunday,January 1 Bank Holiday,Bank Holiday
+07/01/2006,Saturday,Coptic Christmas Day,National holiday
+10/01/2006,Tuesday,Eid al-Adha,National holiday
+11/01/2006,Wednesday,Eid al-Adha Holiday,National holiday
+12/01/2006,Thursday,Eid al-Adha Holiday,National holiday
+13/01/2006,Friday,Eid al-Adha Holiday,Bank Holiday
+31/01/2006,Tuesday,Muharram,National holiday
+09/02/2006,Thursday,Ashura,Observance
+20/03/2006,Monday,March Equinox,Season
+11/04/2006,Tuesday,Prophet Mohamed's Birthday,National holiday
+21/04/2006,Friday,Coptic Good Friday,Observance
+22/04/2006,Saturday,Coptic Holy Saturday,Observance
+23/04/2006,Sunday,Coptic Easter Sunday,National holiday
+24/04/2006,Monday,Spring Festival,National holiday
+25/04/2006,Tuesday,Sinai Liberation Day,National holiday
+01/05/2006,Monday,Labor Day,National holiday
+21/06/2006,Wednesday,June Solstice,Season
+01/07/2006,Saturday,July 1 Bank Holiday,Bank Holiday
+23/07/2006,Sunday,Revolution Day July 23,National holiday
+15/08/2006,Tuesday,Flooding of the Nile,Observance
+11/09/2006,Monday,Nayrouz,Observance
+23/09/2006,Saturday,September Equinox,Season
+06/10/2006,Friday,Armed Forces Day,National holiday
+24/10/2006,Tuesday,Eid el Fitr,National holiday
+25/10/2006,Wednesday,Eid el Fitr Holiday,National holiday
+26/10/2006,Thursday,Eid el Fitr Holiday,National holiday
+22/12/2006,Friday,December Solstice,Season
+29/12/2006,Friday,Arafat Day,National holiday
+31/12/2006,Sunday,Eid al-Adha,National holiday
+01/01/2007,Monday,Eid al-Adha Holiday,National holiday
+01/01/2007,Monday,January 1 Bank Holiday,Bank Holiday
+02/01/2007,Tuesday,Eid al-Adha Holiday,National holiday
+03/01/2007,Wednesday,Eid al-Adha Holiday,Bank Holiday
+07/01/2007,Sunday,Coptic Christmas Day,National holiday
+20/01/2007,Saturday,Muharram,National holiday
+29/01/2007,Monday,Ashura,Observance
+21/03/2007,Wednesday,March Equinox,Season
+31/03/2007,Saturday,Prophet Mohamed's Birthday,National holiday
+06/04/2007,Friday,Coptic Good Friday,Observance
+07/04/2007,Saturday,Coptic Holy Saturday,Observance
+08/04/2007,Sunday,Coptic Easter Sunday,National holiday
+09/04/2007,Monday,Spring Festival,National holiday
+25/04/2007,Wednesday,Sinai Liberation Day,National holiday
+01/05/2007,Tuesday,Labor Day,National holiday
+21/06/2007,Thursday,June Solstice,Season
+01/07/2007,Sunday,July 1 Bank Holiday,Bank Holiday
+23/07/2007,Monday,Revolution Day July 23,National holiday
+15/08/2007,Wednesday,Flooding of the Nile,Observance
+12/09/2007,Wednesday,Nayrouz,Observance
+23/09/2007,Sunday,September Equinox,Season
+06/10/2007,Saturday,Armed Forces Day,National holiday
+13/10/2007,Saturday,Eid el Fitr,National holiday
+14/10/2007,Sunday,Eid el Fitr Holiday,National holiday
+15/10/2007,Monday,Eid el Fitr Holiday,National holiday
+19/12/2007,Wednesday,Arafat Day,National holiday
+20/12/2007,Thursday,Eid al-Adha,National holiday
+21/12/2007,Friday,Eid al-Adha Holiday,National holiday
+22/12/2007,Saturday,Eid al-Adha Holiday,National holiday
+22/12/2007,Saturday,December Solstice,Season
+23/12/2007,Sunday,Eid al-Adha Holiday,Bank Holiday
+01/01/2008,Tuesday,January 1 Bank Holiday,Bank Holiday
+07/01/2008,Monday,Coptic Christmas Day,National holiday
+10/01/2008,Thursday,Muharram,National holiday
+19/01/2008,Saturday,Ashura,Observance
+20/03/2008,Thursday,Prophet Mohamed's Birthday,National holiday
+20/03/2008,Thursday,March Equinox,Season
+25/04/2008,Friday,Coptic Good Friday,Observance
+25/04/2008,Friday,Sinai Liberation Day,National holiday
+26/04/2008,Saturday,Coptic Holy Saturday,Observance
+27/04/2008,Sunday,Coptic Easter Sunday,National holiday
+28/04/2008,Monday,Spring Festival,National holiday
+01/05/2008,Thursday,Labor Day,National holiday
+21/06/2008,Saturday,June Solstice,Season
+01/07/2008,Tuesday,July 1 Bank Holiday,Bank Holiday
+23/07/2008,Wednesday,Revolution Day July 23,National holiday
+15/08/2008,Friday,Flooding of the Nile,Observance
+11/09/2008,Thursday,Nayrouz,Observance
+22/09/2008,Monday,September Equinox,Season
+02/10/2008,Thursday,Eid el Fitr,National holiday
+03/10/2008,Friday,Eid el Fitr Holiday,National holiday
+04/10/2008,Saturday,Eid el Fitr Holiday,National holiday
+06/10/2008,Monday,Armed Forces Day,National holiday
+07/12/2008,Sunday,Arafat Day,National holiday
+09/12/2008,Tuesday,Eid al-Adha,National holiday
+10/12/2008,Wednesday,Eid al-Adha Holiday,National holiday
+11/12/2008,Thursday,Eid al-Adha Holiday,National holiday
+12/12/2008,Friday,Eid al-Adha Holiday,Bank Holiday
+21/12/2008,Sunday,December Solstice,Season
+29/12/2008,Monday,Muharram,National holiday
+01/01/2009,Thursday,January 1 Bank Holiday,Bank Holiday
+07/01/2009,Wednesday,Coptic Christmas Day,National holiday
+07/01/2009,Wednesday,Ashura,Observance
+09/03/2009,Monday,Prophet Mohamed's Birthday,National holiday
+20/03/2009,Friday,March Equinox,Season
+17/04/2009,Friday,Coptic Good Friday,Observance
+18/04/2009,Saturday,Coptic Holy Saturday,Observance
+19/04/2009,Sunday,Coptic Easter Sunday,National holiday
+20/04/2009,Monday,Spring Festival,National holiday
+25/04/2009,Saturday,Sinai Liberation Day,National holiday
+01/05/2009,Friday,Labor Day,National holiday
+21/06/2009,Sunday,June Solstice,Season
+01/07/2009,Wednesday,July 1 Bank Holiday,Bank Holiday
+23/07/2009,Thursday,Revolution Day July 23,National holiday
+15/08/2009,Saturday,Flooding of the Nile,Observance
+11/09/2009,Friday,Nayrouz,Observance
+21/09/2009,Monday,Eid el Fitr,National holiday
+22/09/2009,Tuesday,Eid el Fitr Holiday,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+23/09/2009,Wednesday,Eid el Fitr Holiday,National holiday
+06/10/2009,Tuesday,Armed Forces Day,National holiday
+26/11/2009,Thursday,Arafat Day,National holiday
+28/11/2009,Saturday,Eid al-Adha,National holiday
+29/11/2009,Sunday,Eid al-Adha Holiday,National holiday
+30/11/2009,Monday,Eid al-Adha Holiday,National holiday
+01/12/2009,Tuesday,Eid al-Adha Holiday,Bank Holiday
+18/12/2009,Friday,Muharram,National holiday
+21/12/2009,Monday,December Solstice,Season
+27/12/2009,Sunday,Ashura,Observance
+01/01/2010,Friday,January 1 Bank Holiday,Bank Holiday
+07/01/2010,Thursday,Coptic Christmas Day,National holiday
+26/02/2010,Friday,Prophet Mohamed's Birthday,National holiday
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Coptic Good Friday,Observance
+03/04/2010,Saturday,Coptic Holy Saturday,Observance
+04/04/2010,Sunday,Coptic Easter Sunday,National holiday
+05/04/2010,Monday,Spring Festival,National holiday
+25/04/2010,Sunday,Sinai Liberation Day,National holiday
+01/05/2010,Saturday,Labor Day,National holiday
+21/06/2010,Monday,June Solstice,Season
+01/07/2010,Thursday,July 1 Bank Holiday,Bank Holiday
+23/07/2010,Friday,Revolution Day July 23,National holiday
+15/08/2010,Sunday,Flooding of the Nile,Observance
+09/09/2010,Thursday,Eid el Fitr,National holiday
+10/09/2010,Friday,Eid el Fitr Holiday,National holiday
+11/09/2010,Saturday,Eid el Fitr Holiday,National holiday
+11/09/2010,Saturday,Nayrouz,Observance
+23/09/2010,Thursday,September Equinox,Season
+06/10/2010,Wednesday,Armed Forces Day,National holiday
+15/11/2010,Monday,Eid al-Adha,National holiday
+15/11/2010,Monday,Arafat Day,National holiday
+16/11/2010,Tuesday,Eid al-Adha Holiday,National holiday
+17/11/2010,Wednesday,Eid al-Adha Holiday,National holiday
+18/11/2010,Thursday,Eid al-Adha Holiday,Bank Holiday
+07/12/2010,Tuesday,Muharram,National holiday
+17/12/2010,Friday,Ashura,Observance
+22/12/2010,Wednesday,December Solstice,Season
+01/01/2011,Saturday,January 1 Bank Holiday,Bank Holiday
+07/01/2011,Friday,Coptic Christmas Day,National holiday
+14/02/2011,Monday,Bank Holiday,Bank Holiday
+16/02/2011,Wednesday,Prophet Mohamed's Birthday,National holiday
+21/03/2011,Monday,March Equinox,Season
+22/04/2011,Friday,Coptic Good Friday,Observance
+23/04/2011,Saturday,Coptic Holy Saturday,Observance
+24/04/2011,Sunday,Coptic Easter Sunday,National holiday
+25/04/2011,Monday,Spring Festival,National holiday
+25/04/2011,Monday,Sinai Liberation Day,National holiday
+01/05/2011,Sunday,Labor Day,National holiday
+21/06/2011,Tuesday,June Solstice,Season
+01/07/2011,Friday,July 1 Bank Holiday,Bank Holiday
+23/07/2011,Saturday,Revolution Day July 23,National holiday
+15/08/2011,Monday,Flooding of the Nile,Observance
+30/08/2011,Tuesday,Eid el Fitr,National holiday
+31/08/2011,Wednesday,Eid el Fitr Holiday,National holiday
+01/09/2011,Thursday,Eid el Fitr Holiday,National holiday
+12/09/2011,Monday,Nayrouz,Observance
+23/09/2011,Friday,September Equinox,Season
+06/10/2011,Thursday,Armed Forces Day,National holiday
+05/11/2011,Saturday,Arafat Day,National holiday
+06/11/2011,Sunday,Eid al-Adha,National holiday
+07/11/2011,Monday,Eid al-Adha Holiday,National holiday
+08/11/2011,Tuesday,Eid al-Adha Holiday,National holiday
+09/11/2011,Wednesday,Eid al-Adha Holiday,Bank Holiday
+27/11/2011,Sunday,Muharram,National holiday
+06/12/2011,Tuesday,Ashura,Observance
+22/12/2011,Thursday,December Solstice,Season
+01/01/2012,Sunday,January 1 Bank Holiday,Bank Holiday
+07/01/2012,Saturday,Coptic Christmas Day,National holiday
+25/01/2012,Wednesday,Revolution Day January 25,National holiday
+05/02/2012,Sunday,Prophet Mohamed's Birthday,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+13/04/2012,Friday,Coptic Good Friday,Observance
+14/04/2012,Saturday,Coptic Holy Saturday,Observance
+15/04/2012,Sunday,Coptic Easter Sunday,National holiday
+16/04/2012,Monday,Spring Festival,National holiday
+25/04/2012,Wednesday,Sinai Liberation Day,National holiday
+01/05/2012,Tuesday,Labor Day,National holiday
+21/06/2012,Thursday,June Solstice,Season
+01/07/2012,Sunday,July 1 Bank Holiday,Bank Holiday
+23/07/2012,Monday,Revolution Day July 23,National holiday
+15/08/2012,Wednesday,Flooding of the Nile,Observance
+19/08/2012,Sunday,Eid el Fitr,National holiday
+20/08/2012,Monday,Eid el Fitr Holiday,National holiday
+21/08/2012,Tuesday,Eid el Fitr Holiday,National holiday
+11/09/2012,Tuesday,Nayrouz,Observance
+22/09/2012,Saturday,September Equinox,Season
+06/10/2012,Saturday,Armed Forces Day,National holiday
+25/10/2012,Thursday,Arafat Day,National holiday
+26/10/2012,Friday,Eid al-Adha,National holiday
+27/10/2012,Saturday,Eid al-Adha Holiday,National holiday
+28/10/2012,Sunday,Eid al-Adha Holiday,National holiday
+29/10/2012,Monday,Eid al-Adha Holiday,Bank Holiday
+15/11/2012,Thursday,Muharram,National holiday
+24/11/2012,Saturday,Ashura,Observance
+21/12/2012,Friday,December Solstice,Season
+01/01/2013,Tuesday,January 1 Bank Holiday,Bank Holiday
+07/01/2013,Monday,Coptic Christmas Day,National holiday
+24/01/2013,Thursday,Prophet Mohamed's Birthday,National holiday
+25/01/2013,Friday,Revolution Day January 25,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+25/04/2013,Thursday,Sinai Liberation Day,National holiday
+01/05/2013,Wednesday,Labor Day,National holiday
+03/05/2013,Friday,Coptic Good Friday,Observance
+04/05/2013,Saturday,Coptic Holy Saturday,Observance
+05/05/2013,Sunday,Coptic Easter Sunday,National holiday
+06/05/2013,Monday,Spring Festival,National holiday
+21/06/2013,Friday,June Solstice,Season
+01/07/2013,Monday,July 1 Bank Holiday,Bank Holiday
+23/07/2013,Tuesday,Revolution Day July 23,National holiday
+08/08/2013,Thursday,Eid el Fitr,National holiday
+09/08/2013,Friday,Eid el Fitr Holiday,National holiday
+10/08/2013,Saturday,Eid el Fitr Holiday,National holiday
+15/08/2013,Thursday,Flooding of the Nile,Observance
+11/09/2013,Wednesday,Nayrouz,Observance
+22/09/2013,Sunday,September Equinox,Season
+06/10/2013,Sunday,Armed Forces Day,National holiday
+14/10/2013,Monday,Arafat Day,National holiday
+15/10/2013,Tuesday,Eid al-Adha,National holiday
+16/10/2013,Wednesday,Eid al-Adha Holiday,National holiday
+17/10/2013,Thursday,Eid al-Adha Holiday,National holiday
+18/10/2013,Friday,Eid al-Adha Holiday,Bank Holiday
+05/11/2013,Tuesday,Muharram,National holiday
+14/11/2013,Thursday,Ashura,Observance
+21/12/2013,Saturday,December Solstice,Season
+01/01/2014,Wednesday,January 1 Bank Holiday,Bank Holiday
+07/01/2014,Tuesday,Coptic Christmas Day,National holiday
+13/01/2014,Monday,Prophet Mohamed's Birthday,National holiday
+25/01/2014,Saturday,Revolution Day January 25,National holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Coptic Good Friday,Observance
+19/04/2014,Saturday,Coptic Holy Saturday,Observance
+20/04/2014,Sunday,Coptic Easter Sunday,National holiday
+21/04/2014,Monday,Spring Festival,National holiday
+25/04/2014,Friday,Sinai Liberation Day,National holiday
+01/05/2014,Thursday,Labor Day,National holiday
+27/05/2014,Tuesday,Presidential Election Holiday,National holiday
+08/06/2014,Sunday,Public Sector Holiday,National holiday
+21/06/2014,Saturday,June Solstice,Season
+01/07/2014,Tuesday,July 1 Bank Holiday,Bank Holiday
+23/07/2014,Wednesday,Revolution Day July 23,National holiday
+28/07/2014,Monday,Eid el Fitr,National holiday
+29/07/2014,Tuesday,Eid el Fitr Holiday,National holiday
+30/07/2014,Wednesday,Eid el Fitr Holiday,National holiday
+15/08/2014,Friday,Flooding of the Nile,Observance
+11/09/2014,Thursday,Nayrouz,Observance
+23/09/2014,Tuesday,September Equinox,Season
+03/10/2014,Friday,Arafat Day (public sector holiday),National holiday
+04/10/2014,Saturday,Eid al-Adha,National holiday
+04/10/2014,Saturday,Arafat Day,National holiday
+05/10/2014,Sunday,Eid al-Adha Holiday,National holiday
+06/10/2014,Monday,Eid al-Adha Holiday,National holiday
+06/10/2014,Monday,Armed Forces Day,National holiday
+07/10/2014,Tuesday,Eid al-Adha Holiday,Bank Holiday
+08/10/2014,Wednesday,Eid al-Adha Holiday,National holiday
+25/10/2014,Saturday,Muharram,National holiday
+03/11/2014,Monday,Ashura,Observance
+22/12/2014,Monday,December Solstice,Season
+01/01/2015,Thursday,January 1 Bank Holiday,Bank Holiday
+07/01/2015,Wednesday,Coptic Christmas Day,National holiday
+25/01/2015,Sunday,Revolution Day January 25,National holiday
+21/03/2015,Saturday,March Equinox,Season
+10/04/2015,Friday,Coptic Good Friday,Observance
+11/04/2015,Saturday,Coptic Holy Saturday,Observance
+12/04/2015,Sunday,Coptic Easter Sunday,National holiday
+13/04/2015,Monday,Spring Festival,National holiday
+25/04/2015,Saturday,Sinai Liberation Day,National holiday
+01/05/2015,Friday,Labor Day,National holiday
+21/06/2015,Sunday,June Solstice,Season
+30/06/2015,Tuesday,June 30 Revolution,National holiday
+01/07/2015,Wednesday,July 1 Bank Holiday,Bank Holiday
+17/07/2015,Friday,Eid el Fitr,National holiday
+18/07/2015,Saturday,Eid el Fitr Holiday,National holiday
+19/07/2015,Sunday,Eid el Fitr Holiday,National holiday
+20/07/2015,Monday,Eid el Fitr Holiday,National holiday
+23/07/2015,Thursday,Revolution Day July 23,National holiday
+06/08/2015,Thursday,New Suez Canal Launch,National holiday
+15/08/2015,Saturday,Flooding of the Nile,Observance
+12/09/2015,Saturday,Nayrouz,Observance
+22/09/2015,Tuesday,Arafat Day (public sector holiday),National holiday
+23/09/2015,Wednesday,Eid al-Adha,National holiday
+23/09/2015,Wednesday,Arafat Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha Holiday,National holiday
+25/09/2015,Friday,Eid al-Adha Holiday,National holiday
+26/09/2015,Saturday,Eid al-Adha Holiday,Bank Holiday
+26/09/2015,Saturday,Eid al-Adha Holiday,Government Holiday
+27/09/2015,Sunday,Eid al-Adha Holiday,National holiday
+06/10/2015,Tuesday,Armed Forces Day,National holiday
+14/10/2015,Wednesday,Muharram,National holiday
+19/10/2015,Monday,Extra holiday for elections,National holiday
+24/10/2015,Saturday,Ashura,Observance
+22/12/2015,Tuesday,December Solstice,Season
+23/12/2015,Wednesday,Prophet Mohamed's Birthday,National holiday
+01/01/2016,Friday,January 1 Bank Holiday,Bank Holiday
+07/01/2016,Thursday,Coptic Christmas Day,National holiday
+25/01/2016,Monday,Revolution Day January 25,National holiday
+20/03/2016,Sunday,March Equinox,Season
+25/04/2016,Monday,Sinai Liberation Day,National holiday
+29/04/2016,Friday,Coptic Good Friday,Observance
+30/04/2016,Saturday,Coptic Holy Saturday,Observance
+01/05/2016,Sunday,Coptic Easter Sunday,National holiday
+01/05/2016,Sunday,Labor Day,National holiday
+02/05/2016,Monday,Spring Festival,National holiday
+21/06/2016,Tuesday,June Solstice,Season
+30/06/2016,Thursday,June 30 Revolution,National holiday
+01/07/2016,Friday,July 1 Bank Holiday,Bank Holiday
+07/07/2016,Thursday,Eid el Fitr,National holiday
+08/07/2016,Friday,Eid el Fitr Holiday,National holiday
+09/07/2016,Saturday,Eid el Fitr Holiday,National holiday
+23/07/2016,Saturday,Revolution Day July 23,National holiday
+15/08/2016,Monday,Flooding of the Nile,Observance
+11/09/2016,Sunday,Nayrouz,Observance
+11/09/2016,Sunday,Arafat Day,National holiday
+13/09/2016,Tuesday,Eid al-Adha,National holiday
+14/09/2016,Wednesday,Eid al-Adha Holiday,National holiday
+15/09/2016,Thursday,Eid al-Adha Holiday,National holiday
+16/09/2016,Friday,Eid al-Adha Holiday,Bank Holiday
+22/09/2016,Thursday,September Equinox,Season
+03/10/2016,Monday,Muharram,National holiday
+06/10/2016,Thursday,Armed Forces Day,National holiday
+12/10/2016,Wednesday,Ashura,Observance
+12/12/2016,Monday,Prophet Mohamed's Birthday,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+01/01/2017,Sunday,January 1 Bank Holiday,Bank Holiday
+07/01/2017,Saturday,Coptic Christmas Day,National holiday
+25/01/2017,Wednesday,Revolution Day January 25,National holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Coptic Good Friday,Observance
+15/04/2017,Saturday,Coptic Holy Saturday,Observance
+16/04/2017,Sunday,Coptic Easter Sunday,National holiday
+17/04/2017,Monday,Spring Festival,National holiday
+25/04/2017,Tuesday,Sinai Liberation Day,National holiday
+01/05/2017,Monday,Labor Day,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid el Fitr,National holiday
+27/06/2017,Tuesday,Eid el Fitr Holiday,National holiday
+28/06/2017,Wednesday,Eid el Fitr Holiday,National holiday
+30/06/2017,Friday,June 30 Revolution,National holiday
+01/07/2017,Saturday,July 1 Bank Holiday,Bank Holiday
+23/07/2017,Sunday,Revolution Day July 23,National holiday
+15/08/2017,Tuesday,Flooding of the Nile,Observance
+31/08/2017,Thursday,Arafat Day,National holiday
+02/09/2017,Saturday,Eid al-Adha,National holiday
+03/09/2017,Sunday,Eid al-Adha Holiday,National holiday
+04/09/2017,Monday,Eid al-Adha Holiday,National holiday
+05/09/2017,Tuesday,Eid al-Adha Holiday,Bank Holiday
+11/09/2017,Monday,Nayrouz,Observance
+22/09/2017,Friday,Muharram,National holiday
+22/09/2017,Friday,September Equinox,Season
+01/10/2017,Sunday,Ashura,Observance
+06/10/2017,Friday,Armed Forces Day,National holiday
+01/12/2017,Friday,Prophet Mohamed's Birthday,National holiday
+21/12/2017,Thursday,December Solstice,Season
+01/01/2018,Monday,January 1 Bank Holiday,Bank Holiday
+07/01/2018,Sunday,Coptic Christmas Day,National holiday
+25/01/2018,Thursday,Revolution Day January 25,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+06/04/2018,Friday,Coptic Good Friday,Observance
+07/04/2018,Saturday,Coptic Holy Saturday,Observance
+08/04/2018,Sunday,Coptic Easter Sunday,National holiday
+09/04/2018,Monday,Spring Festival,National holiday
+25/04/2018,Wednesday,Sinai Liberation Day,National holiday
+01/05/2018,Tuesday,Labor Day,National holiday
+15/06/2018,Friday,Eid el Fitr,National holiday
+16/06/2018,Saturday,Eid el Fitr Holiday,National holiday
+17/06/2018,Sunday,Eid el Fitr Holiday,National holiday
+21/06/2018,Thursday,June Solstice,Season
+01/07/2018,Sunday,June 30 Revolution,National holiday
+01/07/2018,Sunday,July 1 Bank Holiday,Bank Holiday
+23/07/2018,Monday,Revolution Day July 23,National holiday
+15/08/2018,Wednesday,Flooding of the Nile,Observance
+20/08/2018,Monday,Arafat Day,National holiday
+21/08/2018,Tuesday,Eid al-Adha,National holiday
+22/08/2018,Wednesday,Eid al-Adha Holiday,National holiday
+23/08/2018,Thursday,Eid al-Adha Holiday,National holiday
+24/08/2018,Friday,Eid al-Adha Holiday,Bank Holiday
+11/09/2018,Tuesday,Muharram,National holiday
+11/09/2018,Tuesday,Nayrouz,Observance
+21/09/2018,Friday,Ashura,Observance
+23/09/2018,Sunday,September Equinox,Season
+06/10/2018,Saturday,Armed Forces Day,National holiday
+20/11/2018,Tuesday,Prophet Mohamed's Birthday,National holiday
+22/12/2018,Saturday,December Solstice,Season
+01/01/2019,Tuesday,January 1 Bank Holiday,Bank Holiday
+07/01/2019,Monday,Coptic Christmas Day,National holiday
+25/01/2019,Friday,Revolution Day January 25,National holiday
+20/03/2019,Wednesday,March Equinox,Season
+25/04/2019,Thursday,Sinai Liberation Day,National holiday
+26/04/2019,Friday,Coptic Good Friday,Observance
+27/04/2019,Saturday,Coptic Holy Saturday,Observance
+28/04/2019,Sunday,Coptic Easter Sunday,National holiday
+29/04/2019,Monday,Spring Festival,National holiday
+01/05/2019,Wednesday,Labor Day,National holiday
+05/06/2019,Wednesday,Eid el Fitr,National holiday
+06/06/2019,Thursday,Eid el Fitr Holiday,National holiday
+07/06/2019,Friday,Eid el Fitr Holiday,National holiday
+21/06/2019,Friday,June Solstice,Season
+30/06/2019,Sunday,June 30 Revolution,National holiday
+01/07/2019,Monday,July 1 Bank Holiday,Bank Holiday
+23/07/2019,Tuesday,Revolution Day July 23,National holiday
+10/08/2019,Saturday,Arafat Day,National holiday
+11/08/2019,Sunday,Eid al-Adha,National holiday
+12/08/2019,Monday,Eid al-Adha Holiday,National holiday
+13/08/2019,Tuesday,Eid al-Adha Holiday,National holiday
+14/08/2019,Wednesday,Eid al-Adha Holiday,Government Holiday
+15/08/2019,Thursday,Flooding of the Nile,Observance
+31/08/2019,Saturday,Muharram,National holiday
+10/09/2019,Tuesday,Ashura,Observance
+12/09/2019,Thursday,Nayrouz,Observance
+23/09/2019,Monday,September Equinox,Season
+06/10/2019,Sunday,Armed Forces Day,National holiday
+09/11/2019,Saturday,Prophet Mohamed's Birthday,National holiday
+10/11/2019,Sunday,Prophet Mohamed's Birthday Holiday,National holiday
+22/12/2019,Sunday,December Solstice,Season
+01/01/2020,Wednesday,January 1 Bank Holiday,Bank Holiday
+07/01/2020,Tuesday,Coptic Christmas Day,National holiday
+25/01/2020,Saturday,Revolution Day January 25,National holiday
+12/03/2020,Thursday,Public Holiday,National holiday
+20/03/2020,Friday,March Equinox,Season
+17/04/2020,Friday,Coptic Good Friday,Observance
+18/04/2020,Saturday,Coptic Holy Saturday,Observance
+19/04/2020,Sunday,Coptic Easter Sunday,National holiday
+20/04/2020,Monday,Spring Festival,National holiday
+25/04/2020,Saturday,Sinai Liberation Day,National holiday
+01/05/2020,Friday,Labor Day,National holiday
+02/05/2020,Saturday,Day off for Labor Day,National holiday
+24/05/2020,Sunday,Eid el Fitr,National holiday
+25/05/2020,Monday,Eid el Fitr Holiday,National holiday
+26/05/2020,Tuesday,Eid el Fitr Holiday,National holiday
+27/05/2020,Wednesday,Eid el Fitr Holiday,National holiday
+28/05/2020,Thursday,Eid el Fitr Holiday,National holiday
+20/06/2020,Saturday,June Solstice,Season
+30/06/2020,Tuesday,June 30 Revolution,National holiday
+01/07/2020,Wednesday,July 1 Bank Holiday,Bank Holiday
+23/07/2020,Thursday,Revolution Day July 23,National holiday
+30/07/2020,Thursday,Arafat Day,National holiday
+31/07/2020,Friday,Eid al-Adha,National holiday
+01/08/2020,Saturday,Eid al-Adha Holiday,National holiday
+02/08/2020,Sunday,Eid al-Adha Holiday,National holiday
+03/08/2020,Monday,Eid al-Adha Holiday,Bank Holiday
+15/08/2020,Saturday,Flooding of the Nile,Observance
+20/08/2020,Thursday,Muharram,National holiday
+29/08/2020,Saturday,Ashura,Observance
+11/09/2020,Friday,Nayrouz,Observance
+22/09/2020,Tuesday,September Equinox,Season
+06/10/2020,Tuesday,Armed Forces Day,National holiday
+29/10/2020,Thursday,Prophet Mohamed's Birthday,National holiday
+21/12/2020,Monday,December Solstice,Season
+01/01/2021,Friday,January 1 Bank Holiday,Bank Holiday
+07/01/2021,Thursday,Coptic Christmas Day,National holiday
+25/01/2021,Monday,Revolution Day January 25,National holiday
+28/01/2021,Thursday,Day off for Revolution Day January 25,National holiday
+20/03/2021,Saturday,March Equinox,Season
+25/04/2021,Sunday,Sinai Liberation Day,National holiday
+29/04/2021,Thursday,Day off for Sinai Liberation Day,National holiday
+30/04/2021,Friday,Coptic Good Friday,Observance
+01/05/2021,Saturday,Coptic Holy Saturday,Observance
+01/05/2021,Saturday,Labor Day,National holiday
+02/05/2021,Sunday,Coptic Easter Sunday,Observance
+03/05/2021,Monday,Spring Festival,National holiday
+12/05/2021,Wednesday,Eid el Fitr Holiday,National holiday
+13/05/2021,Thursday,Eid el Fitr,National holiday
+14/05/2021,Friday,Eid el Fitr Holiday,National holiday
+15/05/2021,Saturday,Eid el Fitr Holiday,National holiday
+16/05/2021,Sunday,Eid el Fitr Holiday,National holiday
+21/06/2021,Monday,June Solstice,Season
+30/06/2021,Wednesday,June 30 Revolution,National holiday
+01/07/2021,Thursday,Day off for June 30 Revolution,National holiday
+01/07/2021,Thursday,July 1 Bank Holiday,Bank Holiday
+17/07/2021,Saturday,Eid al-Adha Holiday,National holiday
+18/07/2021,Sunday,Eid al-Adha Holiday,National holiday
+19/07/2021,Monday,Arafat Day,National holiday
+20/07/2021,Tuesday,Eid al-Adha,National holiday
+21/07/2021,Wednesday,Eid al-Adha Holiday,National holiday
+22/07/2021,Thursday,Eid al-Adha Holiday,National holiday
+23/07/2021,Friday,Eid al-Adha Holiday,Bank Holiday
+23/07/2021,Friday,Revolution Day July 23,National holiday
+24/07/2021,Saturday,Eid al-Adha Holiday,National holiday
+09/08/2021,Monday,Muharram,Observance
+12/08/2021,Thursday,Muharram,National holiday
+15/08/2021,Sunday,Flooding of the Nile,Observance
+19/08/2021,Thursday,Ashura,Observance
+11/09/2021,Saturday,Nayrouz,Observance
+22/09/2021,Wednesday,September Equinox,Season
+06/10/2021,Wednesday,Armed Forces Day,National holiday
+07/10/2021,Thursday,Day off for Armed Forces Day,National holiday
+21/10/2021,Thursday,Prophet Mohamed's Birthday,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+06/01/2022,Thursday,Day off for Coptic Christmas Day,National holiday
+07/01/2022,Friday,Coptic Christmas Day,National holiday
+25/01/2022,Tuesday,Revolution Day January 25,National holiday
+27/01/2022,Thursday,Day off for Revolution Day January 25,National holiday
+20/03/2022,Sunday,March Equinox,Season
+22/04/2022,Friday,Coptic Good Friday,Observance
+23/04/2022,Saturday,Coptic Holy Saturday,Observance
+24/04/2022,Sunday,Coptic Easter Sunday,Observance
+25/04/2022,Monday,Spring Festival,National holiday
+25/04/2022,Monday,Sinai Liberation Day,National holiday
+30/04/2022,Saturday,Eid el Fitr Holiday,National holiday
+01/05/2022,Sunday,Labor Day,National holiday
+02/05/2022,Monday,Eid el Fitr,National holiday
+03/05/2022,Tuesday,Eid el Fitr Holiday,National holiday
+04/05/2022,Wednesday,Eid el Fitr Holiday,National holiday
+05/05/2022,Thursday,Eid el Fitr Holiday,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+30/06/2022,Thursday,June 30 Revolution,National holiday
+08/07/2022,Friday,Arafat Day,National holiday
+09/07/2022,Saturday,Eid al-Adha,National holiday
+10/07/2022,Sunday,Eid al-Adha Holiday,National holiday
+11/07/2022,Monday,Eid al-Adha Holiday,National holiday
+12/07/2022,Tuesday,Eid al-Adha Holiday,National holiday
+13/07/2022,Wednesday,Eid al-Adha Public Sector Holiday,Government Holiday
+14/07/2022,Thursday,Eid al-Adha Public Sector Holiday,Government Holiday
+23/07/2022,Saturday,Revolution Day July 23,National holiday
+30/07/2022,Saturday,Muharram (Tentative Date),National holiday
+08/08/2022,Monday,Ashura,Observance
+15/08/2022,Monday,Flooding of the Nile,Observance
+11/09/2022,Sunday,Nayrouz,Observance
+23/09/2022,Friday,September Equinox,Season
+06/10/2022,Thursday,Armed Forces Day,National holiday
+08/10/2022,Saturday,Prophet Mohamed's Birthday,National holiday
+21/12/2022,Wednesday,December Solstice,Season

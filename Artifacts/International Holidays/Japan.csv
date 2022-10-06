@@ -1,0 +1,789 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+01/01/2000,Saturday,January 1 Bank Holiday,Bank holiday
+02/01/2000,Sunday,January 2 Bank Holiday,Bank holiday
+03/01/2000,Monday,January 3 Bank Holiday,Bank holiday
+10/01/2000,Monday,Coming of Age Day,National holiday
+03/02/2000,Thursday,Setsubun,Observance
+11/02/2000,Friday,National Foundation Day,National holiday
+14/02/2000,Monday,Valentine's Day,Observance
+03/03/2000,Friday,Dolls' Festival/Girls' Festival,Observance
+20/03/2000,Monday,Spring Equinox,National holiday
+20/03/2000,Monday,March Equinox,Season
+29/04/2000,Saturday,Greenery Day,National holiday
+03/05/2000,Wednesday,Constitution Memorial Day,National holiday
+04/05/2000,Thursday,Between Day,National holiday
+05/05/2000,Friday,Children's Day,National holiday
+14/05/2000,Sunday,Mother's Day,Observance
+21/06/2000,Wednesday,June Solstice,Season
+07/07/2000,Friday,Star Festival,Observance
+20/07/2000,Thursday,Sea Day,National holiday
+06/08/2000,Sunday,Hiroshima Memorial Day,Observance
+09/08/2000,Wednesday,Nagasaki Memorial Day,Observance
+15/09/2000,Friday,Respect for the Aged Day,National holiday
+23/09/2000,Saturday,Autumn Equinox,National holiday
+23/09/2000,Saturday,September Equinox,Season
+09/10/2000,Monday,Health and Sports Day,National holiday
+03/11/2000,Friday,Culture Day,National holiday
+15/11/2000,Wednesday,7-5-3 Day,Observance
+23/11/2000,Thursday,Labor Thanksgiving Day,National holiday
+21/12/2000,Thursday,December Solstice,Season
+23/12/2000,Saturday,Emperor's Birthday,National holiday
+25/12/2000,Monday,Christmas,Observance
+31/12/2000,Sunday,December 31 Bank Holiday,Bank holiday
+01/01/2001,Monday,New Year's Day,National holiday
+01/01/2001,Monday,January 1 Bank Holiday,Bank holiday
+02/01/2001,Tuesday,January 2 Bank Holiday,Bank holiday
+03/01/2001,Wednesday,January 3 Bank Holiday,Bank holiday
+08/01/2001,Monday,Coming of Age Day,National holiday
+03/02/2001,Saturday,Setsubun,Observance
+11/02/2001,Sunday,National Foundation Day,National holiday
+12/02/2001,Monday,National Foundation Day observed,National holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+03/03/2001,Saturday,Dolls' Festival/Girls' Festival,Observance
+20/03/2001,Tuesday,Spring Equinox,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+29/04/2001,Sunday,Greenery Day,National holiday
+30/04/2001,Monday,Greenery Day observed,National holiday
+03/05/2001,Thursday,Constitution Memorial Day,National holiday
+04/05/2001,Friday,Between Day,National holiday
+05/05/2001,Saturday,Children's Day,National holiday
+13/05/2001,Sunday,Mother's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+07/07/2001,Saturday,Star Festival,Observance
+20/07/2001,Friday,Sea Day,National holiday
+06/08/2001,Monday,Hiroshima Memorial Day,Observance
+09/08/2001,Thursday,Nagasaki Memorial Day,Observance
+15/09/2001,Saturday,Respect for the Aged Day,National holiday
+23/09/2001,Sunday,Autumn Equinox,National holiday
+23/09/2001,Sunday,September Equinox,Season
+24/09/2001,Monday,Autumn Equinox observed,National holiday
+08/10/2001,Monday,Health and Sports Day,National holiday
+03/11/2001,Saturday,Culture Day,National holiday
+15/11/2001,Thursday,7-5-3 Day,Observance
+23/11/2001,Friday,Labor Thanksgiving Day,National holiday
+22/12/2001,Saturday,December Solstice,Season
+23/12/2001,Sunday,Emperor's Birthday,National holiday
+24/12/2001,Monday,Emperor's Birthday observed,National holiday
+25/12/2001,Tuesday,Christmas,Observance
+31/12/2001,Monday,December 31 Bank Holiday,Bank holiday
+01/01/2002,Tuesday,New Year's Day,National holiday
+01/01/2002,Tuesday,January 1 Bank Holiday,Bank holiday
+02/01/2002,Wednesday,January 2 Bank Holiday,Bank holiday
+03/01/2002,Thursday,January 3 Bank Holiday,Bank holiday
+14/01/2002,Monday,Coming of Age Day,National holiday
+03/02/2002,Sunday,Setsubun,Observance
+11/02/2002,Monday,National Foundation Day,National holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+03/03/2002,Sunday,Dolls' Festival/Girls' Festival,Observance
+21/03/2002,Thursday,Spring Equinox,National holiday
+21/03/2002,Thursday,March Equinox,Season
+29/04/2002,Monday,Greenery Day,National holiday
+03/05/2002,Friday,Constitution Memorial Day,National holiday
+04/05/2002,Saturday,Between Day,National holiday
+05/05/2002,Sunday,Children's Day,National holiday
+06/05/2002,Monday,Children's Day observed,National holiday
+12/05/2002,Sunday,Mother's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+07/07/2002,Sunday,Star Festival,Observance
+20/07/2002,Saturday,Sea Day,National holiday
+06/08/2002,Tuesday,Hiroshima Memorial Day,Observance
+09/08/2002,Friday,Nagasaki Memorial Day,Observance
+15/09/2002,Sunday,Respect for the Aged Day,National holiday
+16/09/2002,Monday,Respect for the Aged Day observed,National holiday
+23/09/2002,Monday,Autumn Equinox,National holiday
+23/09/2002,Monday,September Equinox,Season
+14/10/2002,Monday,Health and Sports Day,National holiday
+03/11/2002,Sunday,Culture Day,National holiday
+04/11/2002,Monday,Culture Day observed,National holiday
+15/11/2002,Friday,7-5-3 Day,Observance
+23/11/2002,Saturday,Labor Thanksgiving Day,National holiday
+22/12/2002,Sunday,December Solstice,Season
+23/12/2002,Monday,Emperor's Birthday,National holiday
+25/12/2002,Wednesday,Christmas,Observance
+31/12/2002,Tuesday,December 31 Bank Holiday,Bank holiday
+01/01/2003,Wednesday,New Year's Day,National holiday
+01/01/2003,Wednesday,January 1 Bank Holiday,Bank holiday
+02/01/2003,Thursday,January 2 Bank Holiday,Bank holiday
+03/01/2003,Friday,January 3 Bank Holiday,Bank holiday
+13/01/2003,Monday,Coming of Age Day,National holiday
+03/02/2003,Monday,Setsubun,Observance
+11/02/2003,Tuesday,National Foundation Day,National holiday
+14/02/2003,Friday,Valentine's Day,Observance
+03/03/2003,Monday,Dolls' Festival/Girls' Festival,Observance
+21/03/2003,Friday,Spring Equinox,National holiday
+21/03/2003,Friday,March Equinox,Season
+29/04/2003,Tuesday,Greenery Day,National holiday
+03/05/2003,Saturday,Constitution Memorial Day,National holiday
+04/05/2003,Sunday,Between Day,National holiday
+05/05/2003,Monday,Between Day observed,National holiday
+05/05/2003,Monday,Children's Day,National holiday
+11/05/2003,Sunday,Mother's Day,Observance
+22/06/2003,Sunday,June Solstice,Season
+07/07/2003,Monday,Star Festival,Observance
+20/07/2003,Sunday,Sea Day,National holiday
+21/07/2003,Monday,Sea Day observed,National holiday
+06/08/2003,Wednesday,Hiroshima Memorial Day,Observance
+09/08/2003,Saturday,Nagasaki Memorial Day,Observance
+15/09/2003,Monday,Respect for the Aged Day,National holiday
+23/09/2003,Tuesday,Autumn Equinox,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+13/10/2003,Monday,Health and Sports Day,National holiday
+03/11/2003,Monday,Culture Day,National holiday
+15/11/2003,Saturday,7-5-3 Day,Observance
+23/11/2003,Sunday,Labor Thanksgiving Day,National holiday
+24/11/2003,Monday,Labor Thanksgiving Day observed,National holiday
+22/12/2003,Monday,December Solstice,Season
+23/12/2003,Tuesday,Emperor's Birthday,National holiday
+25/12/2003,Thursday,Christmas,Observance
+31/12/2003,Wednesday,December 31 Bank Holiday,Bank holiday
+01/01/2004,Thursday,New Year's Day,National holiday
+01/01/2004,Thursday,January 1 Bank Holiday,Bank holiday
+02/01/2004,Friday,January 2 Bank Holiday,Bank holiday
+03/01/2004,Saturday,January 3 Bank Holiday,Bank holiday
+12/01/2004,Monday,Coming of Age Day,National holiday
+03/02/2004,Tuesday,Setsubun,Observance
+11/02/2004,Wednesday,National Foundation Day,National holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+03/03/2004,Wednesday,Dolls' Festival/Girls' Festival,Observance
+20/03/2004,Saturday,Spring Equinox,National holiday
+20/03/2004,Saturday,March Equinox,Season
+29/04/2004,Thursday,Greenery Day,National holiday
+03/05/2004,Monday,Constitution Memorial Day,National holiday
+04/05/2004,Tuesday,Between Day,National holiday
+05/05/2004,Wednesday,Children's Day,National holiday
+09/05/2004,Sunday,Mother's Day,Observance
+21/06/2004,Monday,June Solstice,Season
+07/07/2004,Wednesday,Star Festival,Observance
+19/07/2004,Monday,Sea Day,National holiday
+06/08/2004,Friday,Hiroshima Memorial Day,Observance
+09/08/2004,Monday,Nagasaki Memorial Day,Observance
+20/09/2004,Monday,Respect for the Aged Day,National holiday
+23/09/2004,Thursday,Autumn Equinox,National holiday
+23/09/2004,Thursday,September Equinox,Season
+11/10/2004,Monday,Health and Sports Day,National holiday
+03/11/2004,Wednesday,Culture Day,National holiday
+15/11/2004,Monday,7-5-3 Day,Observance
+23/11/2004,Tuesday,Labor Thanksgiving Day,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+23/12/2004,Thursday,Emperor's Birthday,National holiday
+25/12/2004,Saturday,Christmas,Observance
+31/12/2004,Friday,December 31 Bank Holiday,Bank holiday
+01/01/2005,Saturday,New Year's Day,National holiday
+01/01/2005,Saturday,January 1 Bank Holiday,Bank holiday
+02/01/2005,Sunday,January 2 Bank Holiday,Bank holiday
+03/01/2005,Monday,January 3 Bank Holiday,Bank holiday
+10/01/2005,Monday,Coming of Age Day,National holiday
+03/02/2005,Thursday,Setsubun,Observance
+11/02/2005,Friday,National Foundation Day,National holiday
+14/02/2005,Monday,Valentine's Day,Observance
+03/03/2005,Thursday,Dolls' Festival/Girls' Festival,Observance
+20/03/2005,Sunday,Spring Equinox,National holiday
+20/03/2005,Sunday,March Equinox,Season
+21/03/2005,Monday,Spring Equinox observed,National holiday
+29/04/2005,Friday,Greenery Day,National holiday
+03/05/2005,Tuesday,Constitution Memorial Day,National holiday
+04/05/2005,Wednesday,Between Day,National holiday
+05/05/2005,Thursday,Children's Day,National holiday
+08/05/2005,Sunday,Mother's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+07/07/2005,Thursday,Star Festival,Observance
+18/07/2005,Monday,Sea Day,National holiday
+06/08/2005,Saturday,Hiroshima Memorial Day,Observance
+09/08/2005,Tuesday,Nagasaki Memorial Day,Observance
+19/09/2005,Monday,Respect for the Aged Day,National holiday
+23/09/2005,Friday,Autumn Equinox,National holiday
+23/09/2005,Friday,September Equinox,Season
+10/10/2005,Monday,Health and Sports Day,National holiday
+03/11/2005,Thursday,Culture Day,National holiday
+15/11/2005,Tuesday,7-5-3 Day,Observance
+23/11/2005,Wednesday,Labor Thanksgiving Day,National holiday
+22/12/2005,Thursday,December Solstice,Season
+23/12/2005,Friday,Emperor's Birthday,National holiday
+25/12/2005,Sunday,Christmas,Observance
+31/12/2005,Saturday,December 31 Bank Holiday,Bank holiday
+01/01/2006,Sunday,New Year's Day,National holiday
+01/01/2006,Sunday,January 1 Bank Holiday,Bank holiday
+02/01/2006,Monday,Day off for New Year's Day,National holiday
+02/01/2006,Monday,January 2 Bank Holiday,Bank holiday
+03/01/2006,Tuesday,January 3 Bank Holiday,Bank holiday
+09/01/2006,Monday,Coming of Age Day,National holiday
+03/02/2006,Friday,Setsubun,Observance
+11/02/2006,Saturday,National Foundation Day,National holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+03/03/2006,Friday,Dolls' Festival/Girls' Festival,Observance
+21/03/2006,Tuesday,Spring Equinox,National holiday
+21/03/2006,Tuesday,March Equinox,Season
+29/04/2006,Saturday,Greenery Day,National holiday
+03/05/2006,Wednesday,Constitution Memorial Day,National holiday
+04/05/2006,Thursday,Between Day,National holiday
+05/05/2006,Friday,Children's Day,National holiday
+14/05/2006,Sunday,Mother's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+07/07/2006,Friday,Star Festival,Observance
+17/07/2006,Monday,Sea Day,National holiday
+06/08/2006,Sunday,Hiroshima Memorial Day,Observance
+09/08/2006,Wednesday,Nagasaki Memorial Day,Observance
+18/09/2006,Monday,Respect for the Aged Day,National holiday
+23/09/2006,Saturday,Autumn Equinox,National holiday
+23/09/2006,Saturday,September Equinox,Season
+09/10/2006,Monday,Health and Sports Day,National holiday
+03/11/2006,Friday,Culture Day,National holiday
+15/11/2006,Wednesday,7-5-3 Day,Observance
+23/11/2006,Thursday,Labor Thanksgiving Day,National holiday
+22/12/2006,Friday,December Solstice,Season
+23/12/2006,Saturday,Emperor's Birthday,National holiday
+25/12/2006,Monday,Christmas,Observance
+31/12/2006,Sunday,December 31 Bank Holiday,Bank holiday
+01/01/2007,Monday,New Year's Day,National holiday
+01/01/2007,Monday,January 1 Bank Holiday,Bank holiday
+02/01/2007,Tuesday,January 2 Bank Holiday,Bank holiday
+03/01/2007,Wednesday,January 3 Bank Holiday,Bank holiday
+08/01/2007,Monday,Coming of Age Day,National holiday
+03/02/2007,Saturday,Setsubun,Observance
+11/02/2007,Sunday,National Foundation Day,National holiday
+12/02/2007,Monday,National Foundation Day observed,National holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+03/03/2007,Saturday,Dolls' Festival/Girls' Festival,Observance
+21/03/2007,Wednesday,Spring Equinox,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+29/04/2007,Sunday,Shōwa Day,National holiday
+30/04/2007,Monday,Shōwa Day observed,National holiday
+03/05/2007,Thursday,Constitution Memorial Day,National holiday
+04/05/2007,Friday,Greenery Day,National holiday
+05/05/2007,Saturday,Children's Day,National holiday
+13/05/2007,Sunday,Mother's Day,Observance
+22/06/2007,Friday,June Solstice,Season
+07/07/2007,Saturday,Star Festival,Observance
+16/07/2007,Monday,Sea Day,National holiday
+06/08/2007,Monday,Hiroshima Memorial Day,Observance
+09/08/2007,Thursday,Nagasaki Memorial Day,Observance
+17/09/2007,Monday,Respect for the Aged Day,National holiday
+23/09/2007,Sunday,Autumn Equinox,National holiday
+23/09/2007,Sunday,September Equinox,Season
+24/09/2007,Monday,Autumn Equinox observed,National holiday
+08/10/2007,Monday,Health and Sports Day,National holiday
+03/11/2007,Saturday,Culture Day,National holiday
+15/11/2007,Thursday,7-5-3 Day,Observance
+23/11/2007,Friday,Labor Thanksgiving Day,National holiday
+22/12/2007,Saturday,December Solstice,Season
+23/12/2007,Sunday,Emperor's Birthday,National holiday
+24/12/2007,Monday,Emperor's Birthday observed,National holiday
+25/12/2007,Tuesday,Christmas,Observance
+31/12/2007,Monday,December 31 Bank Holiday,Bank holiday
+01/01/2008,Tuesday,New Year's Day,National holiday
+01/01/2008,Tuesday,January 1 Bank Holiday,Bank holiday
+02/01/2008,Wednesday,January 2 Bank Holiday,Bank holiday
+03/01/2008,Thursday,January 3 Bank Holiday,Bank holiday
+14/01/2008,Monday,Coming of Age Day,National holiday
+03/02/2008,Sunday,Setsubun,Observance
+11/02/2008,Monday,National Foundation Day,National holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+03/03/2008,Monday,Dolls' Festival/Girls' Festival,Observance
+20/03/2008,Thursday,Spring Equinox,National holiday
+20/03/2008,Thursday,March Equinox,Season
+29/04/2008,Tuesday,Shōwa Day,National holiday
+03/05/2008,Saturday,Constitution Memorial Day,National holiday
+04/05/2008,Sunday,Greenery Day,National holiday
+05/05/2008,Monday,Children's Day,National holiday
+06/05/2008,Tuesday,Greenery Day observed,National holiday
+11/05/2008,Sunday,Mother's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+07/07/2008,Monday,Star Festival,Observance
+21/07/2008,Monday,Sea Day,National holiday
+06/08/2008,Wednesday,Hiroshima Memorial Day,Observance
+09/08/2008,Saturday,Nagasaki Memorial Day,Observance
+15/09/2008,Monday,Respect for the Aged Day,National holiday
+23/09/2008,Tuesday,Autumn Equinox,National holiday
+23/09/2008,Tuesday,September Equinox,Season
+13/10/2008,Monday,Health and Sports Day,National holiday
+03/11/2008,Monday,Culture Day,National holiday
+15/11/2008,Saturday,7-5-3 Day,Observance
+23/11/2008,Sunday,Labor Thanksgiving Day,National holiday
+24/11/2008,Monday,Labor Thanksgiving Day observed,National holiday
+21/12/2008,Sunday,December Solstice,Season
+23/12/2008,Tuesday,Emperor's Birthday,National holiday
+25/12/2008,Thursday,Christmas,Observance
+31/12/2008,Wednesday,December 31 Bank Holiday,Bank holiday
+01/01/2009,Thursday,New Year's Day,National holiday
+01/01/2009,Thursday,January 1 Bank Holiday,Bank holiday
+02/01/2009,Friday,January 2 Bank Holiday,Bank holiday
+03/01/2009,Saturday,January 3 Bank Holiday,Bank holiday
+12/01/2009,Monday,Coming of Age Day,National holiday
+03/02/2009,Tuesday,Setsubun,Observance
+11/02/2009,Wednesday,National Foundation Day,National holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+03/03/2009,Tuesday,Dolls' Festival/Girls' Festival,Observance
+20/03/2009,Friday,Spring Equinox,National holiday
+20/03/2009,Friday,March Equinox,Season
+29/04/2009,Wednesday,Shōwa Day,National holiday
+03/05/2009,Sunday,Constitution Memorial Day,National holiday
+04/05/2009,Monday,Greenery Day,National holiday
+05/05/2009,Tuesday,Children's Day,National holiday
+06/05/2009,Wednesday,Constitution Memorial Day observed,National holiday
+10/05/2009,Sunday,Mother's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+07/07/2009,Tuesday,Star Festival,Observance
+20/07/2009,Monday,Sea Day,National holiday
+06/08/2009,Thursday,Hiroshima Memorial Day,Observance
+09/08/2009,Sunday,Nagasaki Memorial Day,Observance
+21/09/2009,Monday,Respect for the Aged Day,National holiday
+22/09/2009,Tuesday,Bridge Public holiday,National holiday
+23/09/2009,Wednesday,Autumn Equinox,National holiday
+23/09/2009,Wednesday,September Equinox,Season
+12/10/2009,Monday,Health and Sports Day,National holiday
+03/11/2009,Tuesday,Culture Day,National holiday
+15/11/2009,Sunday,7-5-3 Day,Observance
+23/11/2009,Monday,Labor Thanksgiving Day,National holiday
+22/12/2009,Tuesday,December Solstice,Season
+23/12/2009,Wednesday,Emperor's Birthday,National holiday
+25/12/2009,Friday,Christmas,Observance
+31/12/2009,Thursday,December 31 Bank Holiday,Bank holiday
+01/01/2010,Friday,New Year's Day,National holiday
+01/01/2010,Friday,January 1 Bank Holiday,Bank holiday
+02/01/2010,Saturday,January 2 Bank Holiday,Bank holiday
+03/01/2010,Sunday,January 3 Bank Holiday,Bank holiday
+11/01/2010,Monday,Coming of Age Day,National holiday
+03/02/2010,Wednesday,Setsubun,Observance
+11/02/2010,Thursday,National Foundation Day,National holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+03/03/2010,Wednesday,Dolls' Festival/Girls' Festival,Observance
+21/03/2010,Sunday,Spring Equinox,National holiday
+21/03/2010,Sunday,March Equinox,Season
+22/03/2010,Monday,Spring Equinox observed,National holiday
+29/04/2010,Thursday,Shōwa Day,National holiday
+03/05/2010,Monday,Constitution Memorial Day,National holiday
+04/05/2010,Tuesday,Greenery Day,National holiday
+05/05/2010,Wednesday,Children's Day,National holiday
+09/05/2010,Sunday,Mother's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+07/07/2010,Wednesday,Star Festival,Observance
+19/07/2010,Monday,Sea Day,National holiday
+06/08/2010,Friday,Hiroshima Memorial Day,Observance
+09/08/2010,Monday,Nagasaki Memorial Day,Observance
+20/09/2010,Monday,Respect for the Aged Day,National holiday
+23/09/2010,Thursday,Autumn Equinox,National holiday
+23/09/2010,Thursday,September Equinox,Season
+11/10/2010,Monday,Health and Sports Day,National holiday
+03/11/2010,Wednesday,Culture Day,National holiday
+15/11/2010,Monday,7-5-3 Day,Observance
+23/11/2010,Tuesday,Labor Thanksgiving Day,National holiday
+22/12/2010,Wednesday,December Solstice,Season
+23/12/2010,Thursday,Emperor's Birthday,National holiday
+25/12/2010,Saturday,Christmas,Observance
+31/12/2010,Friday,December 31 Bank Holiday,Bank holiday
+01/01/2011,Saturday,New Year's Day,National holiday
+01/01/2011,Saturday,January 1 Bank Holiday,Bank holiday
+02/01/2011,Sunday,January 2 Bank Holiday,Bank holiday
+03/01/2011,Monday,January 3 Bank Holiday,Bank holiday
+10/01/2011,Monday,Coming of Age Day,National holiday
+03/02/2011,Thursday,Setsubun,Observance
+11/02/2011,Friday,National Foundation Day,National holiday
+14/02/2011,Monday,Valentine's Day,Observance
+03/03/2011,Thursday,Dolls' Festival/Girls' Festival,Observance
+21/03/2011,Monday,Spring Equinox,National holiday
+21/03/2011,Monday,March Equinox,Season
+29/04/2011,Friday,Shōwa Day,National holiday
+03/05/2011,Tuesday,Constitution Memorial Day,National holiday
+04/05/2011,Wednesday,Greenery Day,National holiday
+05/05/2011,Thursday,Children's Day,National holiday
+08/05/2011,Sunday,Mother's Day,Observance
+22/06/2011,Wednesday,June Solstice,Season
+07/07/2011,Thursday,Star Festival,Observance
+18/07/2011,Monday,Sea Day,National holiday
+06/08/2011,Saturday,Hiroshima Memorial Day,Observance
+09/08/2011,Tuesday,Nagasaki Memorial Day,Observance
+19/09/2011,Monday,Respect for the Aged Day,National holiday
+23/09/2011,Friday,Autumn Equinox,National holiday
+23/09/2011,Friday,September Equinox,Season
+10/10/2011,Monday,Health and Sports Day,National holiday
+03/11/2011,Thursday,Culture Day,National holiday
+15/11/2011,Tuesday,7-5-3 Day,Observance
+23/11/2011,Wednesday,Labor Thanksgiving Day,National holiday
+22/12/2011,Thursday,December Solstice,Season
+23/12/2011,Friday,Emperor's Birthday,National holiday
+25/12/2011,Sunday,Christmas,Observance
+31/12/2011,Saturday,December 31 Bank Holiday,Bank holiday
+01/01/2012,Sunday,New Year's Day,National holiday
+01/01/2012,Sunday,January 1 Bank Holiday,Bank holiday
+02/01/2012,Monday,Day off for New Year's Day,National holiday
+02/01/2012,Monday,January 2 Bank Holiday,Bank holiday
+03/01/2012,Tuesday,January 3 Bank Holiday,Bank holiday
+09/01/2012,Monday,Coming of Age Day,National holiday
+03/02/2012,Friday,Setsubun,Observance
+11/02/2012,Saturday,National Foundation Day,National holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+03/03/2012,Saturday,Dolls' Festival/Girls' Festival,Observance
+20/03/2012,Tuesday,Spring Equinox,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+29/04/2012,Sunday,Shōwa Day,National holiday
+30/04/2012,Monday,Shōwa Day observed,National holiday
+03/05/2012,Thursday,Constitution Memorial Day,National holiday
+04/05/2012,Friday,Greenery Day,National holiday
+05/05/2012,Saturday,Children's Day,National holiday
+13/05/2012,Sunday,Mother's Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+07/07/2012,Saturday,Star Festival,Observance
+16/07/2012,Monday,Sea Day,National holiday
+06/08/2012,Monday,Hiroshima Memorial Day,Observance
+09/08/2012,Thursday,Nagasaki Memorial Day,Observance
+17/09/2012,Monday,Respect for the Aged Day,National holiday
+22/09/2012,Saturday,Autumn Equinox,National holiday
+22/09/2012,Saturday,September Equinox,Season
+08/10/2012,Monday,Health and Sports Day,National holiday
+03/11/2012,Saturday,Culture Day,National holiday
+15/11/2012,Thursday,7-5-3 Day,Observance
+23/11/2012,Friday,Labor Thanksgiving Day,National holiday
+21/12/2012,Friday,December Solstice,Season
+23/12/2012,Sunday,Emperor's Birthday,National holiday
+24/12/2012,Monday,Emperor's Birthday observed,National holiday
+25/12/2012,Tuesday,Christmas,Observance
+31/12/2012,Monday,December 31 Bank Holiday,Bank holiday
+01/01/2013,Tuesday,New Year's Day,National holiday
+01/01/2013,Tuesday,January 1 Bank Holiday,Bank holiday
+02/01/2013,Wednesday,January 2 Bank Holiday,Bank holiday
+03/01/2013,Thursday,January 3 Bank Holiday,Bank holiday
+14/01/2013,Monday,Coming of Age Day,National holiday
+03/02/2013,Sunday,Setsubun,Observance
+11/02/2013,Monday,National Foundation Day,National holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+03/03/2013,Sunday,Dolls' Festival/Girls' Festival,Observance
+20/03/2013,Wednesday,Spring Equinox,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/04/2013,Monday,Shōwa Day,National holiday
+03/05/2013,Friday,Constitution Memorial Day,National holiday
+04/05/2013,Saturday,Greenery Day,National holiday
+05/05/2013,Sunday,Children's Day,National holiday
+06/05/2013,Monday,Children's Day observed,National holiday
+12/05/2013,Sunday,Mother's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+07/07/2013,Sunday,Star Festival,Observance
+15/07/2013,Monday,Sea Day,National holiday
+06/08/2013,Tuesday,Hiroshima Memorial Day,Observance
+09/08/2013,Friday,Nagasaki Memorial Day,Observance
+16/09/2013,Monday,Respect for the Aged Day,National holiday
+23/09/2013,Monday,Autumn Equinox,National holiday
+23/09/2013,Monday,September Equinox,Season
+14/10/2013,Monday,Health and Sports Day,National holiday
+03/11/2013,Sunday,Culture Day,National holiday
+04/11/2013,Monday,Culture Day observed,National holiday
+15/11/2013,Friday,7-5-3 Day,Observance
+23/11/2013,Saturday,Labor Thanksgiving Day,National holiday
+22/12/2013,Sunday,December Solstice,Season
+23/12/2013,Monday,Emperor's Birthday,National holiday
+25/12/2013,Wednesday,Christmas,Observance
+31/12/2013,Tuesday,December 31 Bank Holiday,Bank holiday
+01/01/2014,Wednesday,New Year's Day,National holiday
+01/01/2014,Wednesday,January 1 Bank Holiday,Bank holiday
+02/01/2014,Thursday,January 2 Bank Holiday,Bank holiday
+03/01/2014,Friday,January 3 Bank Holiday,Bank holiday
+13/01/2014,Monday,Coming of Age Day,National holiday
+03/02/2014,Monday,Setsubun,Observance
+11/02/2014,Tuesday,National Foundation Day,National holiday
+14/02/2014,Friday,Valentine's Day,Observance
+03/03/2014,Monday,Dolls' Festival/Girls' Festival,Observance
+21/03/2014,Friday,Spring Equinox,National holiday
+21/03/2014,Friday,March Equinox,Season
+29/04/2014,Tuesday,Shōwa Day,National holiday
+03/05/2014,Saturday,Constitution Memorial Day,National holiday
+04/05/2014,Sunday,Greenery Day,National holiday
+05/05/2014,Monday,Children's Day,National holiday
+06/05/2014,Tuesday,Greenery Day observed,National holiday
+11/05/2014,Sunday,Mother's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+07/07/2014,Monday,Star Festival,Observance
+21/07/2014,Monday,Sea Day,National holiday
+06/08/2014,Wednesday,Hiroshima Memorial Day,Observance
+09/08/2014,Saturday,Nagasaki Memorial Day,Observance
+15/09/2014,Monday,Respect for the Aged Day,National holiday
+23/09/2014,Tuesday,Autumn Equinox,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+13/10/2014,Monday,Health and Sports Day,National holiday
+03/11/2014,Monday,Culture Day,National holiday
+15/11/2014,Saturday,7-5-3 Day,Observance
+23/11/2014,Sunday,Labor Thanksgiving Day,National holiday
+24/11/2014,Monday,Labor Thanksgiving Day observed,National holiday
+22/12/2014,Monday,December Solstice,Season
+23/12/2014,Tuesday,Emperor's Birthday,National holiday
+25/12/2014,Thursday,Christmas,Observance
+31/12/2014,Wednesday,December 31 Bank Holiday,Bank holiday
+01/01/2015,Thursday,New Year's Day,National holiday
+01/01/2015,Thursday,January 1 Bank Holiday,Bank holiday
+02/01/2015,Friday,January 2 Bank Holiday,Bank holiday
+03/01/2015,Saturday,January 3 Bank Holiday,Bank holiday
+12/01/2015,Monday,Coming of Age Day,National holiday
+03/02/2015,Tuesday,Setsubun,Observance
+11/02/2015,Wednesday,National Foundation Day,National holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+03/03/2015,Tuesday,Dolls' Festival/Girls' Festival,Observance
+21/03/2015,Saturday,Spring Equinox,National holiday
+21/03/2015,Saturday,March Equinox,Season
+29/04/2015,Wednesday,Shōwa Day,National holiday
+03/05/2015,Sunday,Constitution Memorial Day,National holiday
+04/05/2015,Monday,Greenery Day,National holiday
+05/05/2015,Tuesday,Children's Day,National holiday
+06/05/2015,Wednesday,Constitution Memorial Day observed,National holiday
+10/05/2015,Sunday,Mother's Day,Observance
+22/06/2015,Monday,June Solstice,Season
+07/07/2015,Tuesday,Star Festival,Observance
+20/07/2015,Monday,Sea Day,National holiday
+06/08/2015,Thursday,Hiroshima Memorial Day,Observance
+09/08/2015,Sunday,Nagasaki Memorial Day,Observance
+21/09/2015,Monday,Respect for the Aged Day,National holiday
+22/09/2015,Tuesday,Bridge Public holiday,National holiday
+23/09/2015,Wednesday,Autumn Equinox,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+12/10/2015,Monday,Health and Sports Day,National holiday
+03/11/2015,Tuesday,Culture Day,National holiday
+15/11/2015,Sunday,7-5-3 Day,Observance
+23/11/2015,Monday,Labor Thanksgiving Day,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+23/12/2015,Wednesday,Emperor's Birthday,National holiday
+25/12/2015,Friday,Christmas,Observance
+31/12/2015,Thursday,December 31 Bank Holiday,Bank holiday
+01/01/2016,Friday,New Year's Day,National holiday
+01/01/2016,Friday,January 1 Bank Holiday,Bank holiday
+02/01/2016,Saturday,January 2 Bank Holiday,Bank holiday
+03/01/2016,Sunday,January 3 Bank Holiday,Bank holiday
+11/01/2016,Monday,Coming of Age Day,National holiday
+03/02/2016,Wednesday,Setsubun,Observance
+11/02/2016,Thursday,National Foundation Day,National holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+03/03/2016,Thursday,Dolls' Festival/Girls' Festival,Observance
+20/03/2016,Sunday,Spring Equinox,National holiday
+20/03/2016,Sunday,March Equinox,Season
+21/03/2016,Monday,Spring Equinox observed,National holiday
+29/04/2016,Friday,Shōwa Day,National holiday
+03/05/2016,Tuesday,Constitution Memorial Day,National holiday
+04/05/2016,Wednesday,Greenery Day,National holiday
+05/05/2016,Thursday,Children's Day,National holiday
+08/05/2016,Sunday,Mother's Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+07/07/2016,Thursday,Star Festival,Observance
+18/07/2016,Monday,Sea Day,National holiday
+06/08/2016,Saturday,Hiroshima Memorial Day,Observance
+09/08/2016,Tuesday,Nagasaki Memorial Day,Observance
+11/08/2016,Thursday,Mountain Day,National holiday
+19/09/2016,Monday,Respect for the Aged Day,National holiday
+22/09/2016,Thursday,Autumn Equinox,National holiday
+22/09/2016,Thursday,September Equinox,Season
+10/10/2016,Monday,Health and Sports Day,National holiday
+03/11/2016,Thursday,Culture Day,National holiday
+15/11/2016,Tuesday,7-5-3 Day,Observance
+23/11/2016,Wednesday,Labor Thanksgiving Day,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+23/12/2016,Friday,Emperor's Birthday,National holiday
+25/12/2016,Sunday,Christmas,Observance
+31/12/2016,Saturday,December 31 Bank Holiday,Bank holiday
+01/01/2017,Sunday,New Year's Day,National holiday
+01/01/2017,Sunday,January 1 Bank Holiday,Bank holiday
+02/01/2017,Monday,Day off for New Year's Day,National holiday
+02/01/2017,Monday,January 2 Bank Holiday,Bank holiday
+03/01/2017,Tuesday,January 3 Bank Holiday,Bank holiday
+09/01/2017,Monday,Coming of Age Day,National holiday
+03/02/2017,Friday,Setsubun,Observance
+11/02/2017,Saturday,National Foundation Day,National holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+03/03/2017,Friday,Dolls' Festival/Girls' Festival,Observance
+20/03/2017,Monday,Spring Equinox,National holiday
+20/03/2017,Monday,March Equinox,Season
+29/04/2017,Saturday,Shōwa Day,National holiday
+03/05/2017,Wednesday,Constitution Memorial Day,National holiday
+04/05/2017,Thursday,Greenery Day,National holiday
+05/05/2017,Friday,Children's Day,National holiday
+14/05/2017,Sunday,Mother's Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+07/07/2017,Friday,Star Festival,Observance
+17/07/2017,Monday,Sea Day,National holiday
+06/08/2017,Sunday,Hiroshima Memorial Day,Observance
+09/08/2017,Wednesday,Nagasaki Memorial Day,Observance
+11/08/2017,Friday,Mountain Day,National holiday
+18/09/2017,Monday,Respect for the Aged Day,National holiday
+23/09/2017,Saturday,Autumn Equinox,National holiday
+23/09/2017,Saturday,September Equinox,Season
+09/10/2017,Monday,Health and Sports Day,National holiday
+03/11/2017,Friday,Culture Day,National holiday
+15/11/2017,Wednesday,7-5-3 Day,Observance
+23/11/2017,Thursday,Labor Thanksgiving Day,National holiday
+22/12/2017,Friday,December Solstice,Season
+23/12/2017,Saturday,Emperor's Birthday,National holiday
+25/12/2017,Monday,Christmas,Observance
+31/12/2017,Sunday,December 31 Bank Holiday,Bank holiday
+01/01/2018,Monday,New Year's Day,National holiday
+01/01/2018,Monday,January 1 Bank Holiday,Bank holiday
+02/01/2018,Tuesday,January 2 Bank Holiday,Bank holiday
+03/01/2018,Wednesday,January 3 Bank Holiday,Bank holiday
+08/01/2018,Monday,Coming of Age Day,National holiday
+03/02/2018,Saturday,Setsubun,Observance
+11/02/2018,Sunday,National Foundation Day,National holiday
+12/02/2018,Monday,National Foundation Day observed,National holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+03/03/2018,Saturday,Dolls' Festival/Girls' Festival,Observance
+21/03/2018,Wednesday,Spring Equinox,National holiday
+21/03/2018,Wednesday,March Equinox,Season
+29/04/2018,Sunday,Shōwa Day,National holiday
+30/04/2018,Monday,Shōwa Day observed,National holiday
+03/05/2018,Thursday,Constitution Memorial Day,National holiday
+04/05/2018,Friday,Greenery Day,National holiday
+05/05/2018,Saturday,Children's Day,National holiday
+13/05/2018,Sunday,Mother's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+07/07/2018,Saturday,Star Festival,Observance
+16/07/2018,Monday,Sea Day,National holiday
+06/08/2018,Monday,Hiroshima Memorial Day,Observance
+09/08/2018,Thursday,Nagasaki Memorial Day,Observance
+11/08/2018,Saturday,Mountain Day,National holiday
+17/09/2018,Monday,Respect for the Aged Day,National holiday
+23/09/2018,Sunday,Autumn Equinox,National holiday
+23/09/2018,Sunday,September Equinox,Season
+24/09/2018,Monday,Autumn Equinox observed,National holiday
+08/10/2018,Monday,Health and Sports Day,National holiday
+03/11/2018,Saturday,Culture Day,National holiday
+15/11/2018,Thursday,7-5-3 Day,Observance
+23/11/2018,Friday,Labor Thanksgiving Day,National holiday
+22/12/2018,Saturday,December Solstice,Season
+23/12/2018,Sunday,Emperor's Birthday,National holiday
+24/12/2018,Monday,Emperor's Birthday observed,National holiday
+25/12/2018,Tuesday,Christmas,Observance
+31/12/2018,Monday,December 31 Bank Holiday,Bank holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+01/01/2019,Tuesday,January 1 Bank Holiday,Bank holiday
+02/01/2019,Wednesday,January 2 Bank Holiday,Bank holiday
+03/01/2019,Thursday,January 3 Bank Holiday,Bank holiday
+14/01/2019,Monday,Coming of Age Day,National holiday
+03/02/2019,Sunday,Setsubun,Observance
+11/02/2019,Monday,National Foundation Day,National holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+03/03/2019,Sunday,Dolls' Festival/Girls' Festival,Observance
+21/03/2019,Thursday,Spring Equinox,National holiday
+21/03/2019,Thursday,March Equinox,Season
+29/04/2019,Monday,Shōwa Day,National holiday
+30/04/2019,Tuesday,Coronation Day holiday,National holiday
+01/05/2019,Wednesday,Coronation Day,National holiday
+02/05/2019,Thursday,Coronation Day holiday,National holiday
+03/05/2019,Friday,Constitution Memorial Day,National holiday
+04/05/2019,Saturday,Greenery Day,National holiday
+05/05/2019,Sunday,Children's Day,National holiday
+06/05/2019,Monday,Children's Day observed,National holiday
+12/05/2019,Sunday,Mother's Day,Observance
+22/06/2019,Saturday,June Solstice,Season
+07/07/2019,Sunday,Star Festival,Observance
+15/07/2019,Monday,Sea Day,National holiday
+06/08/2019,Tuesday,Hiroshima Memorial Day,Observance
+09/08/2019,Friday,Nagasaki Memorial Day,Observance
+11/08/2019,Sunday,Mountain Day,National holiday
+12/08/2019,Monday,Day off for Mountain Day,National holiday
+16/09/2019,Monday,Respect for the Aged Day,National holiday
+23/09/2019,Monday,Autumn Equinox,National holiday
+23/09/2019,Monday,September Equinox,Season
+14/10/2019,Monday,Health and Sports Day,National holiday
+22/10/2019,Tuesday,Enthronement Ceremony Day,National holiday
+03/11/2019,Sunday,Culture Day,National holiday
+04/11/2019,Monday,Culture Day observed,National holiday
+15/11/2019,Friday,7-5-3 Day,Observance
+23/11/2019,Saturday,Labor Thanksgiving Day,National holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas,Observance
+31/12/2019,Tuesday,December 31 Bank Holiday,Bank holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+01/01/2020,Wednesday,January 1 Bank Holiday,Bank holiday
+02/01/2020,Thursday,January 2 Bank Holiday,Bank holiday
+03/01/2020,Friday,January 3 Bank Holiday,Bank holiday
+13/01/2020,Monday,Coming of Age Day,National holiday
+03/02/2020,Monday,Setsubun,Observance
+11/02/2020,Tuesday,National Foundation Day,National holiday
+14/02/2020,Friday,Valentine's Day,Observance
+23/02/2020,Sunday,Emperor's Birthday,National holiday
+24/02/2020,Monday,Emperor's Birthday observed,National holiday
+03/03/2020,Tuesday,Dolls' Festival/Girls' Festival,Observance
+20/03/2020,Friday,Spring Equinox,National holiday
+20/03/2020,Friday,March Equinox,Season
+29/04/2020,Wednesday,Shōwa Day,National holiday
+03/05/2020,Sunday,Constitution Memorial Day,National holiday
+04/05/2020,Monday,Greenery Day,National holiday
+05/05/2020,Tuesday,Children's Day,National holiday
+06/05/2020,Wednesday,Constitution Memorial Day observed,National holiday
+10/05/2020,Sunday,Mother's Day,Observance
+21/06/2020,Sunday,June Solstice,Season
+07/07/2020,Tuesday,Star Festival,Observance
+23/07/2020,Thursday,Sea Day,National holiday
+24/07/2020,Friday,Sports Day,National holiday
+06/08/2020,Thursday,Hiroshima Memorial Day,Observance
+09/08/2020,Sunday,Nagasaki Memorial Day,Observance
+10/08/2020,Monday,Mountain Day,National holiday
+21/09/2020,Monday,Respect for the Aged Day,National holiday
+22/09/2020,Tuesday,Autumn Equinox,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+03/11/2020,Tuesday,Culture Day,National holiday
+15/11/2020,Sunday,7-5-3 Day,Observance
+23/11/2020,Monday,Labor Thanksgiving Day,National holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas,Observance
+31/12/2020,Thursday,December 31 Bank Holiday,Bank holiday
+01/01/2021,Friday,New Year's Day,National holiday
+01/01/2021,Friday,January 1 Bank Holiday,Bank holiday
+02/01/2021,Saturday,January 2 Bank Holiday,Bank holiday
+03/01/2021,Sunday,January 3 Bank Holiday,Bank holiday
+11/01/2021,Monday,Coming of Age Day,National holiday
+02/02/2021,Tuesday,Setsubun,Observance
+11/02/2021,Thursday,National Foundation Day,National holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+23/02/2021,Tuesday,Emperor's Birthday,National holiday
+03/03/2021,Wednesday,Dolls' Festival/Girls' Festival,Observance
+20/03/2021,Saturday,Spring Equinox,National holiday
+20/03/2021,Saturday,March Equinox,Season
+29/04/2021,Thursday,Shōwa Day,National holiday
+03/05/2021,Monday,Constitution Memorial Day,National holiday
+04/05/2021,Tuesday,Greenery Day,National holiday
+05/05/2021,Wednesday,Children's Day,National holiday
+09/05/2021,Sunday,Mother's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+07/07/2021,Wednesday,Star Festival,Observance
+22/07/2021,Thursday,Sea Day,National holiday
+23/07/2021,Friday,Sports Day,National holiday
+06/08/2021,Friday,Hiroshima Memorial Day,Observance
+08/08/2021,Sunday,Mountain Day,National holiday
+09/08/2021,Monday,Day off for Mountain Day,National holiday
+09/08/2021,Monday,Nagasaki Memorial Day,Observance
+20/09/2021,Monday,Respect for the Aged Day,National holiday
+23/09/2021,Thursday,Autumn Equinox,National holiday
+23/09/2021,Thursday,September Equinox,Season
+03/11/2021,Wednesday,Culture Day,National holiday
+15/11/2021,Monday,7-5-3 Day,Observance
+23/11/2021,Tuesday,Labor Thanksgiving Day,National holiday
+22/12/2021,Wednesday,December Solstice,Season
+25/12/2021,Saturday,Christmas,Observance
+31/12/2021,Friday,December 31 Bank Holiday,Bank holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+01/01/2022,Saturday,January 1 Bank Holiday,Bank holiday
+02/01/2022,Sunday,January 2 Bank Holiday,Bank holiday
+03/01/2022,Monday,January 3 Bank Holiday,Bank holiday
+10/01/2022,Monday,Coming of Age Day,National holiday
+03/02/2022,Thursday,Setsubun,Observance
+11/02/2022,Friday,National Foundation Day,National holiday
+14/02/2022,Monday,Valentine's Day,Observance
+23/02/2022,Wednesday,Emperor's Birthday,National holiday
+03/03/2022,Thursday,Dolls' Festival/Girls' Festival,Observance
+21/03/2022,Monday,Spring Equinox,National holiday
+21/03/2022,Monday,March Equinox,Season
+29/04/2022,Friday,Shōwa Day,National holiday
+03/05/2022,Tuesday,Constitution Memorial Day,National holiday
+04/05/2022,Wednesday,Greenery Day,National holiday
+05/05/2022,Thursday,Children's Day,National holiday
+08/05/2022,Sunday,Mother's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+07/07/2022,Thursday,Star Festival,Observance
+18/07/2022,Monday,Sea Day,National holiday
+06/08/2022,Saturday,Hiroshima Memorial Day,Observance
+09/08/2022,Tuesday,Nagasaki Memorial Day,Observance
+11/08/2022,Thursday,Mountain Day,National holiday
+19/09/2022,Monday,Respect for the Aged Day,National holiday
+23/09/2022,Friday,Autumn Equinox,National holiday
+23/09/2022,Friday,September Equinox,Season
+10/10/2022,Monday,Sports Day,National holiday
+03/11/2022,Thursday,Culture Day,National holiday
+15/11/2022,Tuesday,7-5-3 Day,Observance
+23/11/2022,Wednesday,Labor Thanksgiving Day,National holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas,Observance
+31/12/2022,Saturday,December 31 Bank Holiday,Bank holiday

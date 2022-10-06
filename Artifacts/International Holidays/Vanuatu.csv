@@ -1,0 +1,459 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+21/02/2000,Monday,Father Lini Day,Public Holiday
+05/03/2000,Sunday,Custom Chief's Day,Public Holiday
+06/03/2000,Monday,Day off for Custom Chief's Day,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+24/04/2000,Monday,Easter Monday,Public Holiday
+01/05/2000,Monday,Labor Day / May Day,Public Holiday
+01/06/2000,Thursday,Ascension Day,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+24/07/2000,Monday,Children's Day,Public Holiday
+30/07/2000,Sunday,Independence Day,Public Holiday
+31/07/2000,Monday,Day off for Independence Day,Public Holiday
+15/08/2000,Tuesday,Assumption of Mary,Public Holiday
+23/09/2000,Saturday,September Equinox,Season
+05/10/2000,Thursday,Constitution Day,Public Holiday
+29/11/2000,Wednesday,Unity Day,Public Holiday
+22/12/2000,Friday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Family Day,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+21/02/2001,Wednesday,Father Lini Day,Public Holiday
+05/03/2001,Monday,Custom Chief's Day,Public Holiday
+21/03/2001,Wednesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+16/04/2001,Monday,Easter Monday,Public Holiday
+01/05/2001,Tuesday,Labor Day / May Day,Public Holiday
+24/05/2001,Thursday,Ascension Day,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+24/07/2001,Tuesday,Children's Day,Public Holiday
+30/07/2001,Monday,Independence Day,Public Holiday
+15/08/2001,Wednesday,Assumption of Mary,Public Holiday
+23/09/2001,Sunday,September Equinox,Season
+05/10/2001,Friday,Constitution Day,Public Holiday
+29/11/2001,Thursday,Unity Day,Public Holiday
+22/12/2001,Saturday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Family Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+21/02/2002,Thursday,Father Lini Day,Public Holiday
+05/03/2002,Tuesday,Custom Chief's Day,Public Holiday
+21/03/2002,Thursday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+01/04/2002,Monday,Easter Monday,Public Holiday
+01/05/2002,Wednesday,Labor Day / May Day,Public Holiday
+09/05/2002,Thursday,Ascension Day,Public Holiday
+22/06/2002,Saturday,June Solstice,Season
+24/07/2002,Wednesday,Children's Day,Public Holiday
+30/07/2002,Tuesday,Independence Day,Public Holiday
+15/08/2002,Thursday,Assumption of Mary,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+05/10/2002,Saturday,Constitution Day,Public Holiday
+29/11/2002,Friday,Unity Day,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Family Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+21/02/2003,Friday,Father Lini Day,Public Holiday
+05/03/2003,Wednesday,Custom Chief's Day,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+21/04/2003,Monday,Easter Monday,Public Holiday
+01/05/2003,Thursday,Labor Day / May Day,Public Holiday
+29/05/2003,Thursday,Ascension Day,Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+24/07/2003,Thursday,Children's Day,Public Holiday
+30/07/2003,Wednesday,Independence Day,Public Holiday
+15/08/2003,Friday,Assumption of Mary,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+05/10/2003,Sunday,Constitution Day,Public Holiday
+06/10/2003,Monday,Day off for Constitution Day,Public Holiday
+29/11/2003,Saturday,Unity Day,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Family Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+21/02/2004,Saturday,Father Lini Day,Public Holiday
+05/03/2004,Friday,Custom Chief's Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+12/04/2004,Monday,Easter Monday,Public Holiday
+01/05/2004,Saturday,Labor Day / May Day,Public Holiday
+20/05/2004,Thursday,Ascension Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+24/07/2004,Saturday,Children's Day,Public Holiday
+30/07/2004,Friday,Independence Day,Public Holiday
+15/08/2004,Sunday,Assumption of Mary,Public Holiday
+16/08/2004,Monday,Day off for Assumption of Mary,Public Holiday
+23/09/2004,Thursday,September Equinox,Season
+05/10/2004,Tuesday,Constitution Day,Public Holiday
+29/11/2004,Monday,Unity Day,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Family Day,Public Holiday
+27/12/2004,Monday,Day off for Family Day,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+21/02/2005,Monday,Father Lini Day,Public Holiday
+05/03/2005,Saturday,Custom Chief's Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+28/03/2005,Monday,Easter Monday,Public Holiday
+01/05/2005,Sunday,Labor Day / May Day,Public Holiday
+02/05/2005,Monday,Day off for Labor Day / May Day,Public Holiday
+05/05/2005,Thursday,Ascension Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+24/07/2005,Sunday,Children's Day,Public Holiday
+25/07/2005,Monday,Day off for Children's Day,Public Holiday
+30/07/2005,Saturday,Independence Day,Public Holiday
+15/08/2005,Monday,Assumption of Mary,Public Holiday
+23/09/2005,Friday,September Equinox,Season
+05/10/2005,Wednesday,Constitution Day,Public Holiday
+29/11/2005,Tuesday,Unity Day,Public Holiday
+22/12/2005,Thursday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Day off for Christmas Day,Public Holiday
+26/12/2005,Monday,Family Day,Public Holiday
+27/12/2005,Tuesday,Day off for Family Day,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,Day off for New Year's Day,Public Holiday
+21/02/2006,Tuesday,Father Lini Day,Public Holiday
+05/03/2006,Sunday,Custom Chief's Day,Public Holiday
+06/03/2006,Monday,Day off for Custom Chief's Day,Public Holiday
+21/03/2006,Tuesday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+17/04/2006,Monday,Easter Monday,Public Holiday
+01/05/2006,Monday,Labor Day / May Day,Public Holiday
+25/05/2006,Thursday,Ascension Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+24/07/2006,Monday,Children's Day,Public Holiday
+30/07/2006,Sunday,Independence Day,Public Holiday
+31/07/2006,Monday,Day off for Independence Day,Public Holiday
+15/08/2006,Tuesday,Assumption of Mary,Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+05/10/2006,Thursday,Constitution Day,Public Holiday
+29/11/2006,Wednesday,Unity Day,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Family Day,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+21/02/2007,Wednesday,Father Lini Day,Public Holiday
+05/03/2007,Monday,Custom Chief's Day,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+09/04/2007,Monday,Easter Monday,Public Holiday
+01/05/2007,Tuesday,Labor Day / May Day,Public Holiday
+17/05/2007,Thursday,Ascension Day,Public Holiday
+22/06/2007,Friday,June Solstice,Season
+24/07/2007,Tuesday,Children's Day,Public Holiday
+30/07/2007,Monday,Independence Day,Public Holiday
+15/08/2007,Wednesday,Assumption of Mary,Public Holiday
+23/09/2007,Sunday,September Equinox,Season
+05/10/2007,Friday,Constitution Day,Public Holiday
+29/11/2007,Thursday,Unity Day,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Family Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+21/02/2008,Thursday,Father Lini Day,Public Holiday
+05/03/2008,Wednesday,Custom Chief's Day,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+24/03/2008,Monday,Easter Monday,Public Holiday
+01/05/2008,Thursday,Ascension Day,Public Holiday
+01/05/2008,Thursday,Labor Day / May Day,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+24/07/2008,Thursday,Children's Day,Public Holiday
+30/07/2008,Wednesday,Independence Day,Public Holiday
+15/08/2008,Friday,Assumption of Mary,Public Holiday
+23/09/2008,Tuesday,September Equinox,Season
+05/10/2008,Sunday,Constitution Day,Public Holiday
+06/10/2008,Monday,Day off for Constitution Day,Public Holiday
+29/11/2008,Saturday,Unity Day,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Family Day,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+21/02/2009,Saturday,Father Lini Day,Public Holiday
+05/03/2009,Thursday,Custom Chief's Day,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+13/04/2009,Monday,Easter Monday,Public Holiday
+01/05/2009,Friday,Labor Day / May Day,Public Holiday
+21/05/2009,Thursday,Ascension Day,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+24/07/2009,Friday,Children's Day,Public Holiday
+30/07/2009,Thursday,Independence Day,Public Holiday
+15/08/2009,Saturday,Assumption of Mary,Public Holiday
+23/09/2009,Wednesday,September Equinox,Season
+05/10/2009,Monday,Constitution Day,Public Holiday
+29/11/2009,Sunday,Unity Day,Public Holiday
+30/11/2009,Monday,Day off for Unity Day,Public Holiday
+22/12/2009,Tuesday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Family Day,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+21/02/2010,Sunday,Father Lini Day,Public Holiday
+22/02/2010,Monday,Day off for Father Lini Day,Public Holiday
+05/03/2010,Friday,Custom Chief's Day,Public Holiday
+21/03/2010,Sunday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+05/04/2010,Monday,Easter Monday,Public Holiday
+01/05/2010,Saturday,Labor Day / May Day,Public Holiday
+13/05/2010,Thursday,Ascension Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+24/07/2010,Saturday,Children's Day,Public Holiday
+30/07/2010,Friday,Independence Day,Public Holiday
+15/08/2010,Sunday,Assumption of Mary,Public Holiday
+16/08/2010,Monday,Day off for Assumption of Mary,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+05/10/2010,Tuesday,Constitution Day,Public Holiday
+29/11/2010,Monday,Unity Day,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Family Day,Public Holiday
+27/12/2010,Monday,Day off for Family Day,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+21/02/2011,Monday,Father Lini Day,Public Holiday
+05/03/2011,Saturday,Custom Chief's Day,Public Holiday
+21/03/2011,Monday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+25/04/2011,Monday,Easter Monday,Public Holiday
+01/05/2011,Sunday,Labor Day / May Day,Public Holiday
+02/05/2011,Monday,Day off for Labor Day / May Day,Public Holiday
+02/06/2011,Thursday,Ascension Day,Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+24/07/2011,Sunday,Children's Day,Public Holiday
+25/07/2011,Monday,Day off for Children's Day,Public Holiday
+30/07/2011,Saturday,Independence Day,Public Holiday
+15/08/2011,Monday,Assumption of Mary,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+05/10/2011,Wednesday,Constitution Day,Public Holiday
+29/11/2011,Tuesday,Unity Day,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Day off for Christmas Day,Public Holiday
+26/12/2011,Monday,Family Day,Public Holiday
+27/12/2011,Tuesday,Day off for Family Day,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,Day off for New Year's Day,Public Holiday
+21/02/2012,Tuesday,Father Lini Day,Public Holiday
+05/03/2012,Monday,Custom Chief's Day,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+09/04/2012,Monday,Easter Monday,Public Holiday
+01/05/2012,Tuesday,Labor Day / May Day,Public Holiday
+17/05/2012,Thursday,Ascension Day,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+24/07/2012,Tuesday,Children's Day,Public Holiday
+30/07/2012,Monday,Independence Day,Public Holiday
+15/08/2012,Wednesday,Assumption of Mary,Public Holiday
+23/09/2012,Sunday,September Equinox,Season
+05/10/2012,Friday,Constitution Day,Public Holiday
+29/11/2012,Thursday,Unity Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Family Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+21/02/2013,Thursday,Father Lini Day,Public Holiday
+05/03/2013,Tuesday,Custom Chief's Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+01/04/2013,Monday,Easter Monday,Public Holiday
+01/05/2013,Wednesday,Labor Day / May Day,Public Holiday
+09/05/2013,Thursday,Ascension Day,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+24/07/2013,Wednesday,Children's Day,Public Holiday
+30/07/2013,Tuesday,Independence Day,Public Holiday
+15/08/2013,Thursday,Assumption of Mary,Public Holiday
+23/09/2013,Monday,September Equinox,Season
+05/10/2013,Saturday,Constitution Day,Public Holiday
+29/11/2013,Friday,Unity Day,Public Holiday
+22/12/2013,Sunday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Family Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+21/02/2014,Friday,Father Lini Day,Public Holiday
+05/03/2014,Wednesday,Custom Chief's Day,Public Holiday
+21/03/2014,Friday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+21/04/2014,Monday,Easter Monday,Public Holiday
+01/05/2014,Thursday,Labor Day / May Day,Public Holiday
+29/05/2014,Thursday,Ascension Day,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+24/07/2014,Thursday,Children's Day,Public Holiday
+30/07/2014,Wednesday,Independence Day,Public Holiday
+15/08/2014,Friday,Assumption of Mary,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+05/10/2014,Sunday,Constitution Day,Public Holiday
+06/10/2014,Monday,Day off for Constitution Day,Public Holiday
+29/11/2014,Saturday,Unity Day,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Family Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+21/02/2015,Saturday,Father Lini Day,Public Holiday
+05/03/2015,Thursday,Custom Chief's Day,Public Holiday
+21/03/2015,Saturday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+06/04/2015,Monday,Easter Monday,Public Holiday
+01/05/2015,Friday,Labor Day / May Day,Public Holiday
+14/05/2015,Thursday,Ascension Day,Public Holiday
+22/06/2015,Monday,June Solstice,Season
+24/07/2015,Friday,Children's Day,Public Holiday
+30/07/2015,Thursday,Independence Day,Public Holiday
+15/08/2015,Saturday,Assumption of Mary,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+05/10/2015,Monday,Constitution Day,Public Holiday
+29/11/2015,Sunday,Unity Day,Public Holiday
+30/11/2015,Monday,Day off for Unity Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Family Day,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+21/02/2016,Sunday,Father Lini Day,Public Holiday
+22/02/2016,Monday,Day off for Father Lini Day,Public Holiday
+05/03/2016,Saturday,Custom Chief's Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+28/03/2016,Monday,Easter Monday,Public Holiday
+01/05/2016,Sunday,Labor Day / May Day,Public Holiday
+02/05/2016,Monday,Day off for Labor Day / May Day,Public Holiday
+05/05/2016,Thursday,Ascension Day,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+24/07/2016,Sunday,Children's Day,Public Holiday
+25/07/2016,Monday,Day off for Children's Day,Public Holiday
+30/07/2016,Saturday,Independence Day,Public Holiday
+15/08/2016,Monday,Assumption of Mary,Public Holiday
+23/09/2016,Friday,September Equinox,Season
+05/10/2016,Wednesday,Constitution Day,Public Holiday
+29/11/2016,Tuesday,Unity Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Day off for Christmas Day,Public Holiday
+26/12/2016,Monday,Family Day,Public Holiday
+27/12/2016,Tuesday,Day off for Family Day,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,Day off for New Year's Day,Public Holiday
+21/02/2017,Tuesday,Father Lini Day,Public Holiday
+05/03/2017,Sunday,Custom Chief's Day,Public Holiday
+06/03/2017,Monday,Day off for Custom Chief's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,Labor Day / May Day,Public Holiday
+25/05/2017,Thursday,Ascension Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+24/07/2017,Monday,Children's Day,Public Holiday
+30/07/2017,Sunday,Independence Day,Public Holiday
+31/07/2017,Monday,Day off for Independence Day,Public Holiday
+15/08/2017,Tuesday,Assumption of Mary,Public Holiday
+23/09/2017,Saturday,September Equinox,Season
+05/10/2017,Thursday,Constitution Day,Public Holiday
+29/11/2017,Wednesday,Unity Day,Public Holiday
+22/12/2017,Friday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Family Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+21/02/2018,Wednesday,Father Lini Day,Public Holiday
+05/03/2018,Monday,Custom Chief's Day,Public Holiday
+21/03/2018,Wednesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+02/04/2018,Monday,Easter Monday,Public Holiday
+01/05/2018,Tuesday,Labor Day / May Day,Public Holiday
+10/05/2018,Thursday,Ascension Day,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+24/07/2018,Tuesday,Children's Day,Public Holiday
+30/07/2018,Monday,Independence Day,Public Holiday
+15/08/2018,Wednesday,Assumption of Mary,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+05/10/2018,Friday,Constitution Day,Public Holiday
+29/11/2018,Thursday,Unity Day,Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Family Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+21/02/2019,Thursday,Father Lini Day,Public Holiday
+05/03/2019,Tuesday,Custom Chief's Day,Public Holiday
+21/03/2019,Thursday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+22/04/2019,Monday,Easter Monday,Public Holiday
+01/05/2019,Wednesday,Labor Day / May Day,Public Holiday
+30/05/2019,Thursday,Ascension Day,Public Holiday
+22/06/2019,Saturday,June Solstice,Season
+24/07/2019,Wednesday,Children's Day,Public Holiday
+30/07/2019,Tuesday,Independence Day,Public Holiday
+15/08/2019,Thursday,Assumption of Mary,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+05/10/2019,Saturday,Constitution Day,Public Holiday
+29/11/2019,Friday,Unity Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Family Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+21/02/2020,Friday,Father Lini Day,Public Holiday
+05/03/2020,Thursday,Custom Chief's Day,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+13/04/2020,Monday,Easter Monday,Public Holiday
+01/05/2020,Friday,Labor Day / May Day,Public Holiday
+21/05/2020,Thursday,Ascension Day,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+23/07/2020,Thursday,Independence Day Anniversary,Public Holiday
+24/07/2020,Friday,Children's Day,Public Holiday
+27/07/2020,Monday,Independence Day Anniversary,Public Holiday
+28/07/2020,Tuesday,Independence Day Anniversary,Public Holiday
+29/07/2020,Wednesday,Independence Day Anniversary,Public Holiday
+30/07/2020,Thursday,Independence Day,Public Holiday
+31/07/2020,Friday,Independence Day Anniversary,Public Holiday
+15/08/2020,Saturday,Assumption of Mary,Public Holiday
+23/09/2020,Wednesday,September Equinox,Season
+05/10/2020,Monday,Constitution Day,Public Holiday
+29/11/2020,Sunday,Unity Day,Public Holiday
+30/11/2020,Monday,Day off for Unity Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Family Day,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+21/02/2021,Sunday,Father Lini Day,Public Holiday
+22/02/2021,Monday,Day off for Father Lini Day,Public Holiday
+05/03/2021,Friday,Custom Chief's Day,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+05/04/2021,Monday,Easter Monday,Public Holiday
+01/05/2021,Saturday,Labor Day / May Day,Public Holiday
+13/05/2021,Thursday,Ascension Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+24/07/2021,Saturday,Children's Day,Public Holiday
+30/07/2021,Friday,Independence Day,Public Holiday
+15/08/2021,Sunday,Assumption of Mary,Public Holiday
+16/08/2021,Monday,Day off for Assumption of Mary,Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+05/10/2021,Tuesday,Constitution Day,Public Holiday
+29/11/2021,Monday,Unity Day,Public Holiday
+22/12/2021,Wednesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Family Day,Public Holiday
+27/12/2021,Monday,Day off for Family Day,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+21/02/2022,Monday,Father Lini Day,Public Holiday
+05/03/2022,Saturday,Custom Chief's Day,Public Holiday
+21/03/2022,Monday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+18/04/2022,Monday,Easter Monday,Public Holiday
+01/05/2022,Sunday,Labor Day / May Day,Public Holiday
+02/05/2022,Monday,Day off for Labor Day / May Day,Public Holiday
+26/05/2022,Thursday,Ascension Day,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+24/07/2022,Sunday,Children's Day,Public Holiday
+25/07/2022,Monday,Day off for Children's Day,Public Holiday
+30/07/2022,Saturday,Independence Day,Public Holiday
+15/08/2022,Monday,Assumption of Mary,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+05/10/2022,Wednesday,Constitution Day,Public Holiday
+29/11/2022,Tuesday,Unity Day,Public Holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Family Day,Public Holiday
+27/12/2022,Tuesday,Day off for Family Day,Public Holiday

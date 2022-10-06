@@ -1,0 +1,480 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year,Public Holiday
+08/01/2000,Saturday,Eid al-Fitr,Public Holiday
+26/01/2000,Wednesday,Liberation Day,Public Holiday
+08/03/2000,Wednesday,International Women's Day,Public Holiday
+16/03/2000,Thursday,Eid al-Adha,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,Public Holiday
+01/05/2000,Monday,Labour Day,Public Holiday
+14/05/2000,Sunday,Mother's Day,Observance
+03/06/2000,Saturday,Martyr's Day,Public Holiday
+09/06/2000,Friday,National Heroes Day,Public Holiday
+20/06/2000,Tuesday,June Solstice,Season
+21/06/2000,Wednesday,Father's Day,Observance
+22/09/2000,Friday,September Equinox,Season
+09/10/2000,Monday,Independence Day,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+28/12/2000,Thursday,Eid al-Fitr,Public Holiday
+01/01/2001,Monday,New Year,Public Holiday
+26/01/2001,Friday,Liberation Day,Public Holiday
+06/03/2001,Tuesday,Eid al-Adha,Public Holiday
+08/03/2001,Thursday,International Women's Day,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,Public Holiday
+01/05/2001,Tuesday,Labour Day,Public Holiday
+13/05/2001,Sunday,Mother's Day,Observance
+03/06/2001,Sunday,Martyr's Day,Public Holiday
+09/06/2001,Saturday,National Heroes Day,Public Holiday
+21/06/2001,Thursday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+22/09/2001,Saturday,September Equinox,Season
+09/10/2001,Tuesday,Independence Day,Public Holiday
+17/12/2001,Monday,Eid al-Fitr,Public Holiday
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+01/01/2002,Tuesday,New Year,Public Holiday
+26/01/2002,Saturday,Liberation Day,Public Holiday
+23/02/2002,Saturday,Eid al-Adha,Public Holiday
+08/03/2002,Friday,International Women's Day,Public Holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,Public Holiday
+01/05/2002,Wednesday,Labour Day,Public Holiday
+12/05/2002,Sunday,Mother's Day,Observance
+03/06/2002,Monday,Martyr's Day,Public Holiday
+09/06/2002,Sunday,National Heroes Day,Public Holiday
+21/06/2002,Friday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+22/09/2002,Sunday,September Equinox,Season
+09/10/2002,Wednesday,Independence Day,Public Holiday
+06/12/2002,Friday,Eid al-Fitr,Public Holiday
+21/12/2002,Saturday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+01/01/2003,Wednesday,New Year,Public Holiday
+26/01/2003,Sunday,Liberation Day,Public Holiday
+12/02/2003,Wednesday,Eid al-Adha,Public Holiday
+08/03/2003,Saturday,International Women's Day,Public Holiday
+20/03/2003,Thursday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,Public Holiday
+01/05/2003,Thursday,Labour Day,Public Holiday
+11/05/2003,Sunday,Mother's Day,Observance
+03/06/2003,Tuesday,Martyr's Day,Public Holiday
+09/06/2003,Monday,National Heroes Day,Public Holiday
+21/06/2003,Saturday,Father's Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+23/09/2003,Tuesday,September Equinox,Season
+09/10/2003,Thursday,Independence Day,Public Holiday
+26/11/2003,Wednesday,Eid al-Fitr,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+01/01/2004,Thursday,New Year,Public Holiday
+26/01/2004,Monday,Liberation Day,Public Holiday
+02/02/2004,Monday,Eid al-Adha,Public Holiday
+08/03/2004,Monday,International Women's Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,Public Holiday
+01/05/2004,Saturday,Labour Day,Public Holiday
+09/05/2004,Sunday,Mother's Day,Observance
+03/06/2004,Thursday,Martyr's Day,Public Holiday
+09/06/2004,Wednesday,National Heroes Day,Public Holiday
+20/06/2004,Sunday,June Solstice,Season
+21/06/2004,Monday,Father's Day,Observance
+22/09/2004,Wednesday,September Equinox,Season
+09/10/2004,Saturday,Independence Day,Public Holiday
+14/11/2004,Sunday,Eid al-Fitr,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+01/01/2005,Saturday,New Year,Public Holiday
+21/01/2005,Friday,Eid al-Adha,Public Holiday
+26/01/2005,Wednesday,Liberation Day,Public Holiday
+08/03/2005,Tuesday,International Women's Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,Public Holiday
+01/05/2005,Sunday,Labour Day,Public Holiday
+08/05/2005,Sunday,Mother's Day,Observance
+03/06/2005,Friday,Martyr's Day,Public Holiday
+09/06/2005,Thursday,National Heroes Day,Public Holiday
+21/06/2005,Tuesday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+22/09/2005,Thursday,September Equinox,Season
+09/10/2005,Sunday,Independence Day,Public Holiday
+04/11/2005,Friday,Eid al-Fitr,Public Holiday
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+01/01/2006,Sunday,New Year,Public Holiday
+10/01/2006,Tuesday,Eid al-Adha,Public Holiday
+26/01/2006,Thursday,Liberation Day,Public Holiday
+08/03/2006,Wednesday,International Women's Day,Public Holiday
+20/03/2006,Monday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Public Holiday
+01/05/2006,Monday,Labour Day,Public Holiday
+14/05/2006,Sunday,Mother's Day,Observance
+03/06/2006,Saturday,Martyr's Day,Public Holiday
+09/06/2006,Friday,National Heroes Day,Public Holiday
+21/06/2006,Wednesday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+22/09/2006,Friday,September Equinox,Season
+09/10/2006,Monday,Independence Day,Public Holiday
+24/10/2006,Tuesday,Eid al-Fitr,Public Holiday
+21/12/2006,Thursday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+31/12/2006,Sunday,Eid al-Adha,Public Holiday
+01/01/2007,Monday,New Year,Public Holiday
+26/01/2007,Friday,Liberation Day,Public Holiday
+08/03/2007,Thursday,International Women's Day,Public Holiday
+20/03/2007,Tuesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Public Holiday
+01/05/2007,Tuesday,Labour Day,Public Holiday
+13/05/2007,Sunday,Mother's Day,Observance
+03/06/2007,Sunday,Martyr's Day,Public Holiday
+09/06/2007,Saturday,National Heroes Day,Public Holiday
+21/06/2007,Thursday,Father's Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+23/09/2007,Sunday,September Equinox,Season
+09/10/2007,Tuesday,Independence Day,Public Holiday
+13/10/2007,Saturday,Eid al-Fitr,Public Holiday
+20/12/2007,Thursday,Eid al-Adha,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+01/01/2008,Tuesday,New Year,Public Holiday
+26/01/2008,Saturday,Liberation Day,Public Holiday
+08/03/2008,Saturday,International Women's Day,Public Holiday
+19/03/2008,Wednesday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Public Holiday
+01/05/2008,Thursday,Labour Day,Public Holiday
+11/05/2008,Sunday,Mother's Day,Observance
+03/06/2008,Tuesday,Martyr's Day,Public Holiday
+09/06/2008,Monday,National Heroes Day,Public Holiday
+20/06/2008,Friday,June Solstice,Season
+21/06/2008,Saturday,Father's Day,Observance
+22/09/2008,Monday,September Equinox,Season
+02/10/2008,Thursday,Eid al-Fitr,Public Holiday
+09/10/2008,Thursday,Independence Day,Public Holiday
+09/12/2008,Tuesday,Eid al-Adha,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+01/01/2009,Thursday,New Year,Public Holiday
+26/01/2009,Monday,Liberation Day,Public Holiday
+08/03/2009,Sunday,International Women's Day,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Public Holiday
+01/05/2009,Friday,Labour Day,Public Holiday
+10/05/2009,Sunday,Mother's Day,Observance
+03/06/2009,Wednesday,Martyr's Day,Public Holiday
+09/06/2009,Tuesday,National Heroes Day,Public Holiday
+21/06/2009,Sunday,Father's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+21/09/2009,Monday,Eid al-Fitr,Public Holiday
+22/09/2009,Tuesday,September Equinox,Season
+09/10/2009,Friday,Independence Day,Public Holiday
+28/11/2009,Saturday,Eid al-Adha,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+01/01/2010,Friday,New Year,Public Holiday
+26/01/2010,Tuesday,Liberation Day,Public Holiday
+08/03/2010,Monday,International Women's Day,Public Holiday
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,Public Holiday
+01/05/2010,Saturday,Labour Day,Public Holiday
+09/05/2010,Sunday,Mother's Day,Observance
+03/06/2010,Thursday,Martyr's Day,Public Holiday
+09/06/2010,Wednesday,National Heroes Day,Public Holiday
+21/06/2010,Monday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+10/09/2010,Friday,Eid al-Fitr,Public Holiday
+22/09/2010,Wednesday,September Equinox,Season
+09/10/2010,Saturday,Independence Day,Public Holiday
+17/11/2010,Wednesday,Eid al-Adha,Public Holiday
+21/12/2010,Tuesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+01/01/2011,Saturday,New Year,Public Holiday
+26/01/2011,Wednesday,Liberation Day,Public Holiday
+08/03/2011,Tuesday,International Women's Day,Public Holiday
+20/03/2011,Sunday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Public Holiday
+01/05/2011,Sunday,Labour Day,Public Holiday
+08/05/2011,Sunday,Mother's Day,Observance
+03/06/2011,Friday,Martyr's Day,Public Holiday
+09/06/2011,Thursday,National Heroes Day,Public Holiday
+21/06/2011,Tuesday,Father's Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+31/08/2011,Wednesday,Eid al-Fitr,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+09/10/2011,Sunday,Independence Day,Public Holiday
+07/11/2011,Monday,Eid al-Adha,Public Holiday
+21/12/2011,Wednesday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+01/01/2012,Sunday,New Year,Public Holiday
+26/01/2012,Thursday,Liberation Day,Public Holiday
+08/03/2012,Thursday,International Women's Day,Public Holiday
+19/03/2012,Monday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Public Holiday
+01/05/2012,Tuesday,Labour Day,Public Holiday
+13/05/2012,Sunday,Mother's Day,Observance
+03/06/2012,Sunday,Martyr's Day,Public Holiday
+09/06/2012,Saturday,National Heroes Day,Public Holiday
+20/06/2012,Wednesday,June Solstice,Season
+21/06/2012,Thursday,Father's Day,Observance
+19/08/2012,Sunday,Eid al-Fitr,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+09/10/2012,Tuesday,Independence Day,Public Holiday
+26/10/2012,Friday,Eid al-Adha,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+01/01/2013,Tuesday,New Year,Public Holiday
+26/01/2013,Saturday,Liberation Day,Public Holiday
+08/03/2013,Friday,International Women's Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Public Holiday
+01/05/2013,Wednesday,Labour Day,Public Holiday
+12/05/2013,Sunday,Mother's Day,Observance
+03/06/2013,Monday,Martyr's Day,Public Holiday
+09/06/2013,Sunday,National Heroes Day,Public Holiday
+21/06/2013,Friday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+08/08/2013,Thursday,Eid al-Fitr,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+09/10/2013,Wednesday,Independence Day,Public Holiday
+15/10/2013,Tuesday,Eid al-Adha,Public Holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+01/01/2014,Wednesday,New Year,Public Holiday
+26/01/2014,Sunday,Liberation Day,Public Holiday
+08/03/2014,Saturday,International Women's Day,Public Holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Public Holiday
+01/05/2014,Thursday,Labour Day,Public Holiday
+11/05/2014,Sunday,Mother's Day,Observance
+03/06/2014,Tuesday,Martyr's Day,Public Holiday
+09/06/2014,Monday,National Heroes Day,Public Holiday
+21/06/2014,Saturday,Father's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+29/07/2014,Tuesday,Eid al-Fitr,Public Holiday
+22/09/2014,Monday,September Equinox,Season
+05/10/2014,Sunday,Eid al-Adha,Public Holiday
+09/10/2014,Thursday,Independence Day,Public Holiday
+21/12/2014,Sunday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+01/01/2015,Thursday,New Year,Public Holiday
+26/01/2015,Monday,Liberation Day,Public Holiday
+08/03/2015,Sunday,International Women's Day,Public Holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Public Holiday
+01/05/2015,Friday,Labour Day,Public Holiday
+10/05/2015,Sunday,Mother's Day,Observance
+03/06/2015,Wednesday,Martyr's Day,Public Holiday
+09/06/2015,Tuesday,National Heroes Day,Public Holiday
+21/06/2015,Sunday,Father's Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+17/07/2015,Friday,Eid al-Fitr,Public Holiday
+18/07/2015,Saturday,Eid al-Fitr,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,Public Holiday
+09/10/2015,Friday,Independence Day,Public Holiday
+21/12/2015,Monday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+01/01/2016,Friday,New Year,Public Holiday
+26/01/2016,Tuesday,Liberation Day,Public Holiday
+16/02/2016,Tuesday,Remembrance of Archbishop Janani Luwum,Public Holiday
+18/02/2016,Thursday,Election Day,Public Holiday
+24/02/2016,Wednesday,Local Election Day,Public Holiday
+08/03/2016,Tuesday,International Women's Day,Public Holiday
+19/03/2016,Saturday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Public Holiday
+01/05/2016,Sunday,Labour Day,Public Holiday
+08/05/2016,Sunday,Mother's Day,Observance
+12/05/2016,Thursday,Amtseinführung Museveni,Public Holiday
+03/06/2016,Friday,Martyr's Day,Public Holiday
+09/06/2016,Thursday,National Heroes Day,Public Holiday
+20/06/2016,Monday,June Solstice,Season
+21/06/2016,Tuesday,Father's Day,Observance
+07/07/2016,Thursday,Eid al-Fitr,Public Holiday
+12/09/2016,Monday,Eid al-Adha,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+09/10/2016,Sunday,Independence Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+01/01/2017,Sunday,New Year,Public Holiday
+26/01/2017,Thursday,Liberation Day,Public Holiday
+16/02/2017,Thursday,Remembrance of Archbishop Janani Luwum,Public Holiday
+08/03/2017,Wednesday,International Women's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,Labour Day,Public Holiday
+14/05/2017,Sunday,Mother's Day,Observance
+03/06/2017,Saturday,Martyr's Day,Public Holiday
+09/06/2017,Friday,National Heroes Day,Public Holiday
+20/06/2017,Tuesday,June Solstice,Season
+21/06/2017,Wednesday,Father's Day,Observance
+26/06/2017,Monday,Eid al-Fitr,Public Holiday
+02/09/2017,Saturday,Eid al-Adha,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+09/10/2017,Monday,Independence Day,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+01/01/2018,Monday,New Year,Public Holiday
+26/01/2018,Friday,Liberation Day,Public Holiday
+16/02/2018,Friday,Remembrance of Archbishop Janani Luwum,Public Holiday
+08/03/2018,Thursday,International Women's Day,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Public Holiday
+01/05/2018,Tuesday,Labour Day,Public Holiday
+13/05/2018,Sunday,Mother's Day,Observance
+03/06/2018,Sunday,Martyr's Day,Public Holiday
+09/06/2018,Saturday,National Heroes Day,Public Holiday
+15/06/2018,Friday,Eid al-Fitr,Public Holiday
+21/06/2018,Thursday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+22/08/2018,Wednesday,Eid al-Adha,Public Holiday
+22/09/2018,Saturday,September Equinox,Season
+09/10/2018,Tuesday,Independence Day,Public Holiday
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+01/01/2019,Tuesday,New Year,Public Holiday
+26/01/2019,Saturday,Liberation Day,Public Holiday
+16/02/2019,Saturday,Remembrance of Archbishop Janani Luwum,Public Holiday
+08/03/2019,Friday,International Women's Day,Public Holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Public Holiday
+01/05/2019,Wednesday,Labour Day,Public Holiday
+12/05/2019,Sunday,Mother's Day,Observance
+03/06/2019,Monday,Martyr's Day,Public Holiday
+05/06/2019,Wednesday,Eid al-Fitr,Public Holiday
+09/06/2019,Sunday,National Heroes Day,Public Holiday
+21/06/2019,Friday,Father's Day,Observance
+21/06/2019,Friday,June Solstice,Season
+11/08/2019,Sunday,Eid al-Adha,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+09/10/2019,Wednesday,Independence Day,Public Holiday
+21/12/2019,Saturday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+01/01/2020,Wednesday,New Year,Public Holiday
+26/01/2020,Sunday,Liberation Day,Public Holiday
+16/02/2020,Sunday,Remembrance of Archbishop Janani Luwum,Public Holiday
+08/03/2020,Sunday,International Women's Day,Public Holiday
+19/03/2020,Thursday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Public Holiday
+01/05/2020,Friday,Labour Day,Public Holiday
+10/05/2020,Sunday,Mother's Day,Observance
+24/05/2020,Sunday,Eid al-Fitr,Public Holiday
+03/06/2020,Wednesday,Martyr's Day,Public Holiday
+09/06/2020,Tuesday,National Heroes Day,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Father's Day,Observance
+31/07/2020,Friday,Eid al-Adha,Public Holiday
+29/08/2020,Saturday,National day for prayer,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+09/10/2020,Friday,Independence Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+01/01/2021,Friday,New Year,Public Holiday
+14/01/2021,Thursday,Election Day,Public Holiday
+15/01/2021,Friday,Election Day Holiday,Public Holiday
+26/01/2021,Tuesday,Liberation Day,Public Holiday
+16/02/2021,Tuesday,Remembrance of Archbishop Janani Luwum,Public Holiday
+08/03/2021,Monday,International Women's Day,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Public Holiday
+01/05/2021,Saturday,Labour Day,Public Holiday
+09/05/2021,Sunday,Mother's Day,Observance
+12/05/2021,Wednesday,Inauguration Day,Public Holiday
+13/05/2021,Thursday,Eid al-Fitr,Public Holiday
+03/06/2021,Thursday,Martyr's Day,Public Holiday
+09/06/2021,Wednesday,National Heroes Day,Public Holiday
+20/06/2021,Sunday,June Solstice,Season
+21/06/2021,Monday,Father's Day,Observance
+25/06/2021,Friday,Public Holiday,Public Holiday
+20/07/2021,Tuesday,Eid al-Adha,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+09/10/2021,Saturday,Independence Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+01/01/2022,Saturday,New Year,Public Holiday
+26/01/2022,Wednesday,Liberation Day,Public Holiday
+16/02/2022,Wednesday,Remembrance of Archbishop Janani Luwum,Public Holiday
+08/03/2022,Tuesday,International Women's Day,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+08/04/2022,Friday,Funeral of Jacob Oulanyah,Public Holiday
+15/04/2022,Friday,Good Friday,Public Holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Public Holiday
+01/05/2022,Sunday,Labour Day,Public Holiday
+02/05/2022,Monday,Eid al-Fitr,Public Holiday
+08/05/2022,Sunday,Mother's Day,Observance
+03/06/2022,Friday,Martyr's Day,Public Holiday
+09/06/2022,Thursday,National Heroes Day,Public Holiday
+21/06/2022,Tuesday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+09/07/2022,Saturday,Eid al-Adha,Public Holiday
+22/09/2022,Thursday,September Equinox,Season
+09/10/2022,Sunday,Independence Day,Public Holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday

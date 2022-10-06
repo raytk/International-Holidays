@@ -1,0 +1,655 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+05/02/2000,Saturday,Seollal Holiday,Public Holiday
+05/02/2000,Saturday,Seollal,Public Holiday
+07/02/2000,Monday,Seollal Holiday,Public Holiday
+01/03/2000,Wednesday,Independence Movement Day,National holiday
+20/03/2000,Monday,March Equinox,Season
+05/04/2000,Wednesday,Arbor Day,Public Holiday
+01/05/2000,Monday,Labor Day,Bank Holiday
+05/05/2000,Friday,Children's Day,Public Holiday
+08/05/2000,Monday,Parents' Day,Observance
+15/05/2000,Monday,Teacher's Day,Observance
+06/06/2000,Tuesday,Memorial Day,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+17/07/2000,Monday,Constitution Day,National holiday
+15/08/2000,Tuesday,Liberation Day,National holiday
+11/09/2000,Monday,Chuseok Holiday,Public Holiday
+12/09/2000,Tuesday,Chuseok,Public Holiday
+13/09/2000,Wednesday,Chuseok Holiday,Public Holiday
+23/09/2000,Saturday,September Equinox,Season
+01/10/2000,Sunday,Armed Forces Day,Observance
+03/10/2000,Tuesday,National Foundation Day,National holiday
+09/10/2000,Monday,Hangeul Proclamation Day,Observance
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,Public Holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,Public Holiday
+24/01/2001,Wednesday,Seollal Holiday,Public Holiday
+24/01/2001,Wednesday,Seollal,Public Holiday
+25/01/2001,Thursday,Seollal Holiday,Public Holiday
+01/03/2001,Thursday,Independence Movement Day,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+05/04/2001,Thursday,Arbor Day,Public Holiday
+01/05/2001,Tuesday,Labor Day,Bank Holiday
+05/05/2001,Saturday,Children's Day,Public Holiday
+08/05/2001,Tuesday,Parents' Day,Observance
+15/05/2001,Tuesday,Teacher's Day,Observance
+06/06/2001,Wednesday,Memorial Day,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+17/07/2001,Tuesday,Constitution Day,National holiday
+15/08/2001,Wednesday,Liberation Day,National holiday
+23/09/2001,Sunday,September Equinox,Season
+30/09/2001,Sunday,Chuseok Holiday,Public Holiday
+01/10/2001,Monday,Chuseok,Public Holiday
+01/10/2001,Monday,Armed Forces Day,Observance
+02/10/2001,Tuesday,Chuseok Holiday,Public Holiday
+03/10/2001,Wednesday,National Foundation Day,National holiday
+09/10/2001,Tuesday,Hangeul Proclamation Day,Observance
+22/12/2001,Saturday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+12/02/2002,Tuesday,Seollal Holiday,Public Holiday
+12/02/2002,Tuesday,Seollal,Public Holiday
+13/02/2002,Wednesday,Seollal Holiday,Public Holiday
+01/03/2002,Friday,Independence Movement Day,National holiday
+21/03/2002,Thursday,March Equinox,Season
+05/04/2002,Friday,Arbor Day,Public Holiday
+01/05/2002,Wednesday,Labor Day,Bank Holiday
+05/05/2002,Sunday,Children's Day,Public Holiday
+08/05/2002,Wednesday,Parents' Day,Observance
+15/05/2002,Wednesday,Teacher's Day,Observance
+06/06/2002,Thursday,Memorial Day,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+17/07/2002,Wednesday,Constitution Day,National holiday
+15/08/2002,Thursday,Liberation Day,National holiday
+20/09/2002,Friday,Chuseok Holiday,Public Holiday
+21/09/2002,Saturday,Chuseok,Public Holiday
+22/09/2002,Sunday,Chuseok Holiday,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+01/10/2002,Tuesday,Armed Forces Day,Observance
+03/10/2002,Thursday,National Foundation Day,National holiday
+09/10/2002,Wednesday,Hangeul Proclamation Day,Observance
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+01/02/2003,Saturday,Seollal Holiday,Public Holiday
+01/02/2003,Saturday,Seollal,Public Holiday
+03/02/2003,Monday,Seollal Holiday,Public Holiday
+01/03/2003,Saturday,Independence Movement Day,National holiday
+21/03/2003,Friday,March Equinox,Season
+05/04/2003,Saturday,Arbor Day,Public Holiday
+01/05/2003,Thursday,Labor Day,Bank Holiday
+05/05/2003,Monday,Children's Day,Public Holiday
+08/05/2003,Thursday,Buddha's Birthday,Public Holiday
+08/05/2003,Thursday,Parents' Day,Observance
+15/05/2003,Thursday,Teacher's Day,Observance
+06/06/2003,Friday,Memorial Day,Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+17/07/2003,Thursday,Constitution Day,National holiday
+15/08/2003,Friday,Liberation Day,National holiday
+10/09/2003,Wednesday,Chuseok Holiday,Public Holiday
+11/09/2003,Thursday,Chuseok,Public Holiday
+12/09/2003,Friday,Chuseok Holiday,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+01/10/2003,Wednesday,Armed Forces Day,Observance
+03/10/2003,Friday,National Foundation Day,National holiday
+09/10/2003,Thursday,Hangeul Proclamation Day,Observance
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,Public Holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,Public Holiday
+22/01/2004,Thursday,Seollal Holiday,Public Holiday
+22/01/2004,Thursday,Seollal,Public Holiday
+23/01/2004,Friday,Seollal Holiday,Public Holiday
+01/03/2004,Monday,Independence Movement Day,National holiday
+20/03/2004,Saturday,March Equinox,Season
+05/04/2004,Monday,Arbor Day,Public Holiday
+01/05/2004,Saturday,Labor Day,Bank Holiday
+05/05/2004,Wednesday,Children's Day,Public Holiday
+08/05/2004,Saturday,Parents' Day,Observance
+15/05/2004,Saturday,Teacher's Day,Observance
+26/05/2004,Wednesday,Buddha's Birthday,Public Holiday
+06/06/2004,Sunday,Memorial Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+17/07/2004,Saturday,Constitution Day,National holiday
+15/08/2004,Sunday,Liberation Day,National holiday
+23/09/2004,Thursday,September Equinox,Season
+27/09/2004,Monday,Chuseok Holiday,Public Holiday
+28/09/2004,Tuesday,Chuseok,Public Holiday
+29/09/2004,Wednesday,Chuseok Holiday,Public Holiday
+01/10/2004,Friday,Armed Forces Day,Observance
+03/10/2004,Sunday,National Foundation Day,National holiday
+09/10/2004,Saturday,Hangeul Proclamation Day,Observance
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,Public Holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,Public Holiday
+09/02/2005,Wednesday,Seollal Holiday,Public Holiday
+09/02/2005,Wednesday,Seollal,Public Holiday
+10/02/2005,Thursday,Seollal Holiday,Public Holiday
+01/03/2005,Tuesday,Independence Movement Day,National holiday
+20/03/2005,Sunday,March Equinox,Season
+05/04/2005,Tuesday,Arbor Day,Observance
+01/05/2005,Sunday,Labor Day,Bank Holiday
+05/05/2005,Thursday,Children's Day,Public Holiday
+08/05/2005,Sunday,Parents' Day,Observance
+15/05/2005,Sunday,Buddha's Birthday,Public Holiday
+15/05/2005,Sunday,Teacher's Day,Observance
+06/06/2005,Monday,Memorial Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+17/07/2005,Sunday,Constitution Day,National holiday
+15/08/2005,Monday,Liberation Day,National holiday
+17/09/2005,Saturday,Chuseok Holiday,Public Holiday
+18/09/2005,Sunday,Chuseok,Public Holiday
+19/09/2005,Monday,Chuseok Holiday,Public Holiday
+23/09/2005,Friday,September Equinox,Season
+01/10/2005,Saturday,Armed Forces Day,Observance
+03/10/2005,Monday,National Foundation Day,National holiday
+09/10/2005,Sunday,Hangeul Proclamation Day,Observance
+22/12/2005,Thursday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Public Holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,Public Holiday
+29/01/2006,Sunday,Seollal Holiday,Public Holiday
+30/01/2006,Monday,Seollal,Public Holiday
+30/01/2006,Monday,Seollal Holiday,Public Holiday
+01/03/2006,Wednesday,Independence Movement Day,National holiday
+21/03/2006,Tuesday,March Equinox,Season
+05/04/2006,Wednesday,Arbor Day,Observance
+01/05/2006,Monday,Labor Day,Bank Holiday
+05/05/2006,Friday,Buddha's Birthday,Public Holiday
+05/05/2006,Friday,Children's Day,Public Holiday
+08/05/2006,Monday,Parents' Day,Observance
+15/05/2006,Monday,Teacher's Day,Observance
+06/06/2006,Tuesday,Memorial Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+17/07/2006,Monday,Constitution Day,National holiday
+15/08/2006,Tuesday,Liberation Day,National holiday
+23/09/2006,Saturday,September Equinox,Season
+01/10/2006,Sunday,Armed Forces Day,Observance
+03/10/2006,Tuesday,National Foundation Day,National holiday
+05/10/2006,Thursday,Chuseok Holiday,Public Holiday
+06/10/2006,Friday,Chuseok,Public Holiday
+07/10/2006,Saturday,Chuseok Holiday,Public Holiday
+09/10/2006,Monday,Hangeul Proclamation Day,Observance
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Public Holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,Public Holiday
+18/02/2007,Sunday,Seollal Holiday,Public Holiday
+19/02/2007,Monday,Seollal,Public Holiday
+19/02/2007,Monday,Seollal Holiday,Public Holiday
+01/03/2007,Thursday,Independence Movement Day,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+05/04/2007,Thursday,Arbor Day,Observance
+01/05/2007,Tuesday,Labor Day,Bank Holiday
+05/05/2007,Saturday,Children's Day,Public Holiday
+08/05/2007,Tuesday,Parents' Day,Observance
+15/05/2007,Tuesday,Teacher's Day,Observance
+24/05/2007,Thursday,Buddha's Birthday,Public Holiday
+06/06/2007,Wednesday,Memorial Day,Public Holiday
+22/06/2007,Friday,June Solstice,Season
+17/07/2007,Tuesday,Constitution Day,National holiday
+15/08/2007,Wednesday,Liberation Day,National holiday
+23/09/2007,Sunday,September Equinox,Season
+24/09/2007,Monday,Chuseok Holiday,Public Holiday
+25/09/2007,Tuesday,Chuseok,Public Holiday
+26/09/2007,Wednesday,Chuseok Holiday,Public Holiday
+01/10/2007,Monday,Armed Forces Day,Observance
+03/10/2007,Wednesday,National Foundation Day,National holiday
+09/10/2007,Tuesday,Hangeul Proclamation Day,Observance
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+07/02/2008,Thursday,Seollal Holiday,Public Holiday
+07/02/2008,Thursday,Seollal,Public Holiday
+08/02/2008,Friday,Seollal Holiday,Public Holiday
+01/03/2008,Saturday,Independence Movement Day,National holiday
+20/03/2008,Thursday,March Equinox,Season
+05/04/2008,Saturday,Arbor Day,Observance
+01/05/2008,Thursday,Labor Day,Bank Holiday
+05/05/2008,Monday,Children's Day,Public Holiday
+08/05/2008,Thursday,Parents' Day,Observance
+12/05/2008,Monday,Buddha's Birthday,Public Holiday
+15/05/2008,Thursday,Teacher's Day,Observance
+06/06/2008,Friday,Memorial Day,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+17/07/2008,Thursday,Constitution Day,Observance
+15/08/2008,Friday,Liberation Day,National holiday
+13/09/2008,Saturday,Chuseok Holiday,Public Holiday
+14/09/2008,Sunday,Chuseok,Public Holiday
+15/09/2008,Monday,Chuseok Holiday,Public Holiday
+23/09/2008,Tuesday,September Equinox,Season
+01/10/2008,Wednesday,Armed Forces Day,Observance
+03/10/2008,Friday,National Foundation Day,National holiday
+09/10/2008,Thursday,Hangeul Proclamation Day,Observance
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Public Holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,Public Holiday
+26/01/2009,Monday,Seollal Holiday,Public Holiday
+26/01/2009,Monday,Seollal,Public Holiday
+27/01/2009,Tuesday,Seollal Holiday,Public Holiday
+01/03/2009,Sunday,Independence Movement Day,National holiday
+20/03/2009,Friday,March Equinox,Season
+05/04/2009,Sunday,Arbor Day,Observance
+01/05/2009,Friday,Labor Day,Bank Holiday
+02/05/2009,Saturday,Buddha's Birthday,Public Holiday
+05/05/2009,Tuesday,Children's Day,Public Holiday
+08/05/2009,Friday,Parents' Day,Observance
+15/05/2009,Friday,Teacher's Day,Observance
+06/06/2009,Saturday,Memorial Day,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+17/07/2009,Friday,Constitution Day,Observance
+15/08/2009,Saturday,Liberation Day,National holiday
+23/09/2009,Wednesday,September Equinox,Season
+01/10/2009,Thursday,Armed Forces Day,Observance
+02/10/2009,Friday,Chuseok Holiday,Public Holiday
+03/10/2009,Saturday,Chuseok,Public Holiday
+03/10/2009,Saturday,National Foundation Day,National holiday
+04/10/2009,Sunday,Chuseok Holiday,Public Holiday
+09/10/2009,Friday,Hangeul Proclamation Day,Observance
+22/12/2009,Tuesday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Public Holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,Public Holiday
+14/02/2010,Sunday,Seollal Holiday,Public Holiday
+15/02/2010,Monday,Seollal,Public Holiday
+15/02/2010,Monday,Seollal Holiday,Public Holiday
+01/03/2010,Monday,Independence Movement Day,National holiday
+21/03/2010,Sunday,March Equinox,Season
+05/04/2010,Monday,Arbor Day,Observance
+01/05/2010,Saturday,Labor Day,Bank Holiday
+05/05/2010,Wednesday,Children's Day,Public Holiday
+08/05/2010,Saturday,Parents' Day,Observance
+15/05/2010,Saturday,Teacher's Day,Observance
+21/05/2010,Friday,Buddha's Birthday,Public Holiday
+06/06/2010,Sunday,Memorial Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+17/07/2010,Saturday,Constitution Day,Observance
+15/08/2010,Sunday,Liberation Day,National holiday
+21/09/2010,Tuesday,Chuseok Holiday,Public Holiday
+22/09/2010,Wednesday,Chuseok,Public Holiday
+23/09/2010,Thursday,Chuseok Holiday,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+01/10/2010,Friday,Armed Forces Day,Observance
+03/10/2010,Sunday,National Foundation Day,National holiday
+09/10/2010,Saturday,Hangeul Proclamation Day,Observance
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Public Holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,Public Holiday
+03/02/2011,Thursday,Seollal Holiday,Public Holiday
+03/02/2011,Thursday,Seollal,Public Holiday
+04/02/2011,Friday,Seollal Holiday,Public Holiday
+01/03/2011,Tuesday,Independence Movement Day,National holiday
+21/03/2011,Monday,March Equinox,Season
+05/04/2011,Tuesday,Arbor Day,Observance
+01/05/2011,Sunday,Labor Day,Bank Holiday
+05/05/2011,Thursday,Children's Day,Public Holiday
+08/05/2011,Sunday,Parents' Day,Observance
+10/05/2011,Tuesday,Buddha's Birthday,Public Holiday
+15/05/2011,Sunday,Teacher's Day,Observance
+06/06/2011,Monday,Memorial Day,Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+17/07/2011,Sunday,Constitution Day,Observance
+15/08/2011,Monday,Liberation Day,National holiday
+11/09/2011,Sunday,Chuseok Holiday,Public Holiday
+12/09/2011,Monday,Chuseok,Public Holiday
+13/09/2011,Tuesday,Chuseok Holiday,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+01/10/2011,Saturday,Armed Forces Day,Observance
+03/10/2011,Monday,National Foundation Day,National holiday
+09/10/2011,Sunday,Hangeul Proclamation Day,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Public Holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,Public Holiday
+23/01/2012,Monday,Seollal Holiday,Public Holiday
+23/01/2012,Monday,Seollal,Public Holiday
+24/01/2012,Tuesday,Seollal Holiday,Public Holiday
+01/03/2012,Thursday,Independence Movement Day,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+05/04/2012,Thursday,Arbor Day,Observance
+01/05/2012,Tuesday,Labor Day,Bank Holiday
+05/05/2012,Saturday,Children's Day,Public Holiday
+08/05/2012,Tuesday,Parents' Day,Observance
+15/05/2012,Tuesday,Teacher's Day,Observance
+28/05/2012,Monday,Buddha's Birthday,Public Holiday
+06/06/2012,Wednesday,Memorial Day,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+17/07/2012,Tuesday,Constitution Day,Observance
+15/08/2012,Wednesday,Liberation Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+29/09/2012,Saturday,Chuseok Holiday,Public Holiday
+30/09/2012,Sunday,Chuseok,Public Holiday
+01/10/2012,Monday,Chuseok Holiday,Public Holiday
+01/10/2012,Monday,Armed Forces Day,Observance
+03/10/2012,Wednesday,National Foundation Day,National holiday
+09/10/2012,Tuesday,Hangeul Proclamation Day,Observance
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+10/02/2013,Sunday,Seollal Holiday,Public Holiday
+10/02/2013,Sunday,Seollal,Public Holiday
+11/02/2013,Monday,Seollal Holiday,Public Holiday
+01/03/2013,Friday,Independence Movement Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+05/04/2013,Friday,Arbor Day,Observance
+01/05/2013,Wednesday,Labor Day,Bank Holiday
+05/05/2013,Sunday,Children's Day,Public Holiday
+08/05/2013,Wednesday,Parents' Day,Observance
+15/05/2013,Wednesday,Teacher's Day,Observance
+17/05/2013,Friday,Buddha's Birthday,Public Holiday
+06/06/2013,Thursday,Memorial Day,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+17/07/2013,Wednesday,Constitution Day,Observance
+15/08/2013,Thursday,Liberation Day,National holiday
+18/09/2013,Wednesday,Chuseok Holiday,Public Holiday
+19/09/2013,Thursday,Chuseok,Public Holiday
+20/09/2013,Friday,Chuseok Holiday,Public Holiday
+23/09/2013,Monday,September Equinox,Season
+01/10/2013,Tuesday,Armed Forces Day,Observance
+03/10/2013,Thursday,National Foundation Day,National holiday
+09/10/2013,Wednesday,Hangeul Proclamation Day,National holiday
+22/12/2013,Sunday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+31/01/2014,Friday,Seollal Holiday,Public Holiday
+31/01/2014,Friday,Seollal,Public Holiday
+01/02/2014,Saturday,Seollal Holiday,Public Holiday
+01/03/2014,Saturday,Independence Movement Day,National holiday
+21/03/2014,Friday,March Equinox,Season
+05/04/2014,Saturday,Arbor Day,Observance
+01/05/2014,Thursday,Labor Day,Bank Holiday
+05/05/2014,Monday,Children's Day,Public Holiday
+06/05/2014,Tuesday,Buddha's Birthday,Public Holiday
+08/05/2014,Thursday,Parents' Day,Observance
+15/05/2014,Thursday,Teacher's Day,Observance
+06/06/2014,Friday,Memorial Day,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+17/07/2014,Thursday,Constitution Day,Observance
+15/08/2014,Friday,Liberation Day,National holiday
+07/09/2014,Sunday,Chuseok Holiday,Public Holiday
+08/09/2014,Monday,Chuseok,Public Holiday
+09/09/2014,Tuesday,Chuseok Holiday,Public Holiday
+10/09/2014,Wednesday,Chuseok Holiday,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+01/10/2014,Wednesday,Armed Forces Day,Observance
+03/10/2014,Friday,National Foundation Day,National holiday
+09/10/2014,Thursday,Hangeul Proclamation Day,National holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Public Holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,Public Holiday
+19/02/2015,Thursday,Seollal Holiday,Public Holiday
+19/02/2015,Thursday,Seollal,Public Holiday
+20/02/2015,Friday,Seollal Holiday,Public Holiday
+01/03/2015,Sunday,Independence Movement Day,National holiday
+21/03/2015,Saturday,March Equinox,Season
+05/04/2015,Sunday,Arbor Day,Observance
+01/05/2015,Friday,Labor Day,Bank Holiday
+05/05/2015,Tuesday,Children's Day,Public Holiday
+08/05/2015,Friday,Parents' Day,Observance
+15/05/2015,Friday,Teacher's Day,Observance
+25/05/2015,Monday,Buddha's Birthday,Public Holiday
+06/06/2015,Saturday,Memorial Day,Public Holiday
+22/06/2015,Monday,June Solstice,Season
+17/07/2015,Friday,Constitution Day,Observance
+14/08/2015,Friday,Liberation Day,National holiday
+15/08/2015,Saturday,Liberation Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+26/09/2015,Saturday,Chuseok Holiday,Public Holiday
+27/09/2015,Sunday,Chuseok,Public Holiday
+28/09/2015,Monday,Chuseok Holiday,Public Holiday
+29/09/2015,Tuesday,Chuseok Holiday,Public Holiday
+01/10/2015,Thursday,Armed Forces Day,Observance
+03/10/2015,Saturday,National Foundation Day,National holiday
+09/10/2015,Friday,Hangeul Proclamation Day,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Public Holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,Public Holiday
+08/02/2016,Monday,Seollal Holiday,Public Holiday
+08/02/2016,Monday,Seollal,Public Holiday
+09/02/2016,Tuesday,Seollal Holiday,Public Holiday
+10/02/2016,Wednesday,Seollal (Observed Holiday),Public Holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+01/03/2016,Tuesday,Independence Movement Day,National holiday
+20/03/2016,Sunday,March Equinox,Season
+05/04/2016,Tuesday,Arbor Day,Observance
+13/04/2016,Wednesday,National Assembly Election Day,Public Holiday
+01/05/2016,Sunday,Labor Day,Bank Holiday
+05/05/2016,Thursday,Children's Day,Public Holiday
+08/05/2016,Sunday,Parents' Day,Observance
+14/05/2016,Saturday,Buddha's Birthday,Public Holiday
+15/05/2016,Sunday,Teacher's Day,Observance
+06/06/2016,Monday,Memorial Day,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+17/07/2016,Sunday,Constitution Day,Observance
+15/08/2016,Monday,Liberation Day,National holiday
+14/09/2016,Wednesday,Chuseok Holiday,Public Holiday
+15/09/2016,Thursday,Chuseok,Public Holiday
+16/09/2016,Friday,Chuseok Holiday,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+01/10/2016,Saturday,Armed Forces Day,Observance
+03/10/2016,Monday,National Foundation Day,National holiday
+09/10/2016,Sunday,Hangeul Proclamation Day,National holiday
+31/10/2016,Monday,Halloween,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Public Holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,Public Holiday
+28/01/2017,Saturday,Seollal Holiday,Public Holiday
+28/01/2017,Saturday,Seollal,Public Holiday
+30/01/2017,Monday,Seollal Holiday,Public Holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+01/03/2017,Wednesday,Independence Movement Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+05/04/2017,Wednesday,Arbor Day,Observance
+01/05/2017,Monday,Labor Day,Bank Holiday
+03/05/2017,Wednesday,Buddha's Birthday,Public Holiday
+05/05/2017,Friday,Children's Day,Public Holiday
+08/05/2017,Monday,Parents' Day,Observance
+09/05/2017,Tuesday,Presidential Election,Public Holiday
+15/05/2017,Monday,Teacher's Day,Observance
+06/06/2017,Tuesday,Memorial Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+17/07/2017,Monday,Constitution Day,Observance
+15/08/2017,Tuesday,Liberation Day,National holiday
+23/09/2017,Saturday,September Equinox,Season
+01/10/2017,Sunday,Armed Forces Day,Observance
+03/10/2017,Tuesday,Chuseok Holiday,Public Holiday
+03/10/2017,Tuesday,National Foundation Day,National holiday
+04/10/2017,Wednesday,Chuseok,Public Holiday
+05/10/2017,Thursday,Chuseok Holiday,Public Holiday
+06/10/2017,Friday,Chuseok Holiday,Public Holiday
+09/10/2017,Monday,Hangeul Proclamation Day,National holiday
+31/10/2017,Tuesday,Halloween,Observance
+22/12/2017,Friday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Public Holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,Public Holiday
+09/02/2018,Friday,2018 Winter Olympics start,Observance
+14/02/2018,Wednesday,Valentine's Day,Observance
+16/02/2018,Friday,Seollal Holiday,Public Holiday
+16/02/2018,Friday,Seollal,Public Holiday
+17/02/2018,Saturday,Seollal Holiday,Public Holiday
+25/02/2018,Sunday,2018 Winter Olympics end,Observance
+01/03/2018,Thursday,Independence Movement Day,National holiday
+09/03/2018,Friday,2018 Winter Paralympics start,Observance
+18/03/2018,Sunday,2018 Winter Paralympics end,Observance
+21/03/2018,Wednesday,March Equinox,Season
+05/04/2018,Thursday,Arbor Day,Observance
+01/05/2018,Tuesday,Labor Day,Bank Holiday
+05/05/2018,Saturday,Children's Day,Public Holiday
+07/05/2018,Monday,Children's Day observed,Public Holiday
+08/05/2018,Tuesday,Parents' Day,Observance
+15/05/2018,Tuesday,Teacher's Day,Observance
+22/05/2018,Tuesday,Buddha's Birthday,Public Holiday
+06/06/2018,Wednesday,Memorial Day,Public Holiday
+13/06/2018,Wednesday,Local Election Day,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+17/07/2018,Tuesday,Constitution Day,Observance
+15/08/2018,Wednesday,Liberation Day,National holiday
+23/09/2018,Sunday,Chuseok Holiday,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+24/09/2018,Monday,Chuseok,Public Holiday
+25/09/2018,Tuesday,Chuseok Holiday,Public Holiday
+26/09/2018,Wednesday,Chuseok Holiday,Public Holiday
+01/10/2018,Monday,Armed Forces Day,Observance
+03/10/2018,Wednesday,National Foundation Day,National holiday
+09/10/2018,Tuesday,Hangeul Proclamation Day,National holiday
+31/10/2018,Wednesday,Halloween,Observance
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+05/02/2019,Tuesday,Seollal Holiday,Public Holiday
+05/02/2019,Tuesday,Seollal,Public Holiday
+06/02/2019,Wednesday,Seollal Holiday,Public Holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+01/03/2019,Friday,Independence Movement Day,National holiday
+21/03/2019,Thursday,March Equinox,Season
+05/04/2019,Friday,Arbor Day,Observance
+01/05/2019,Wednesday,Labor Day,Bank Holiday
+05/05/2019,Sunday,Children's Day,Public Holiday
+06/05/2019,Monday,Children's Day observed,Public Holiday
+08/05/2019,Wednesday,Parents' Day,Observance
+12/05/2019,Sunday,Buddha's Birthday,Public Holiday
+15/05/2019,Wednesday,Teacher's Day,Observance
+06/06/2019,Thursday,Memorial Day,Public Holiday
+22/06/2019,Saturday,June Solstice,Season
+17/07/2019,Wednesday,Constitution Day,Observance
+15/08/2019,Thursday,Liberation Day,National holiday
+12/09/2019,Thursday,Chuseok Holiday,Public Holiday
+13/09/2019,Friday,Chuseok,Public Holiday
+14/09/2019,Saturday,Chuseok Holiday,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+01/10/2019,Tuesday,Armed Forces Day,Observance
+03/10/2019,Thursday,National Foundation Day,National holiday
+09/10/2019,Wednesday,Hangeul Proclamation Day,National holiday
+31/10/2019,Thursday,Halloween,Observance
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+25/01/2020,Saturday,Seollal Holiday,Public Holiday
+25/01/2020,Saturday,Seollal,Public Holiday
+27/01/2020,Monday,Seollal Holiday,Public Holiday
+14/02/2020,Friday,Valentine's Day,Observance
+01/03/2020,Sunday,Independence Movement Day,National holiday
+20/03/2020,Friday,March Equinox,Season
+05/04/2020,Sunday,Arbor Day,Observance
+15/04/2020,Wednesday,National Assembly Election Day,Public Holiday
+30/04/2020,Thursday,Buddha's Birthday,Public Holiday
+01/05/2020,Friday,Labor Day,Bank Holiday
+05/05/2020,Tuesday,Children's Day,Public Holiday
+08/05/2020,Friday,Parents' Day,Observance
+15/05/2020,Friday,Teacher's Day,Observance
+06/06/2020,Saturday,Memorial Day,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+17/07/2020,Friday,Constitution Day,Observance
+15/08/2020,Saturday,Liberation Day,National holiday
+17/08/2020,Monday,Temporary Holiday,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+30/09/2020,Wednesday,Chuseok Holiday,Public Holiday
+01/10/2020,Thursday,Chuseok,Public Holiday
+01/10/2020,Thursday,Armed Forces Day,Observance
+02/10/2020,Friday,Chuseok Holiday,Public Holiday
+03/10/2020,Saturday,National Foundation Day,National holiday
+09/10/2020,Friday,Hangeul Proclamation Day,National holiday
+31/10/2020,Saturday,Halloween,Observance
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Public Holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,Public Holiday
+12/02/2021,Friday,Seollal Holiday,Public Holiday
+12/02/2021,Friday,Seollal,Public Holiday
+13/02/2021,Saturday,Seollal Holiday,Public Holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+01/03/2021,Monday,Independence Movement Day,National holiday
+20/03/2021,Saturday,March Equinox,Season
+05/04/2021,Monday,Arbor Day,Observance
+01/05/2021,Saturday,Labor Day,Bank Holiday
+05/05/2021,Wednesday,Children's Day,Public Holiday
+08/05/2021,Saturday,Parents' Day,Observance
+15/05/2021,Saturday,Teacher's Day,Observance
+19/05/2021,Wednesday,Buddha's Birthday,Public Holiday
+06/06/2021,Sunday,Memorial Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+17/07/2021,Saturday,Constitution Day,Observance
+15/08/2021,Sunday,Liberation Day,National holiday
+16/08/2021,Monday,Day off for Liberation Day,National holiday
+20/09/2021,Monday,Chuseok Holiday,Public Holiday
+21/09/2021,Tuesday,Chuseok,Public Holiday
+22/09/2021,Wednesday,Chuseok Holiday,Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+01/10/2021,Friday,Armed Forces Day,Observance
+03/10/2021,Sunday,National Foundation Day,National holiday
+04/10/2021,Monday,Day off for National Foundation Day,National holiday
+09/10/2021,Saturday,Hangeul Proclamation Day,National holiday
+11/10/2021,Monday,Day off for Hangeul Proclamation Day,National holiday
+31/10/2021,Sunday,Halloween,Observance
+22/12/2021,Wednesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Public Holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,Public Holiday
+31/01/2022,Monday,Seollal Holiday,Public Holiday
+01/02/2022,Tuesday,Seollal,Public Holiday
+02/02/2022,Wednesday,Seollal Holiday,Public Holiday
+14/02/2022,Monday,Valentine's Day,Observance
+01/03/2022,Tuesday,Independence Movement Day,National holiday
+09/03/2022,Wednesday,Presidential Election,Public Holiday
+21/03/2022,Monday,March Equinox,Season
+05/04/2022,Tuesday,Arbor Day,Observance
+01/05/2022,Sunday,Labor Day,Bank Holiday
+05/05/2022,Thursday,Children's Day,Public Holiday
+08/05/2022,Sunday,Buddha's Birthday,Public Holiday
+08/05/2022,Sunday,Parents' Day,Observance
+15/05/2022,Sunday,Teacher's Day,Observance
+01/06/2022,Wednesday,Local Election Day,Public Holiday
+06/06/2022,Monday,Memorial Day,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+17/07/2022,Sunday,Constitution Day,Observance
+15/08/2022,Monday,Liberation Day,National holiday
+09/09/2022,Friday,Chuseok Holiday,Public Holiday
+10/09/2022,Saturday,Chuseok,Public Holiday
+11/09/2022,Sunday,Chuseok Holiday,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+01/10/2022,Saturday,Armed Forces Day,Observance
+03/10/2022,Monday,National Foundation Day,National holiday
+09/10/2022,Sunday,Hangeul Proclamation Day,National holiday
+31/10/2022,Monday,Halloween,Observance
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Public Holiday
+31/12/2022,Saturday,New Year's Eve,Observance

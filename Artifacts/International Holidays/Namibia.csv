@@ -1,0 +1,458 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+21/03/2000,Tuesday,Independence Day,Public Holiday
+02/04/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+21/04/2000,Friday,Good Friday,Public Holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,Public Holiday
+01/05/2000,Monday,Workers' Day,Public Holiday
+04/05/2000,Thursday,Cassinga Day,Public Holiday
+25/05/2000,Thursday,Africa Day,Public Holiday
+01/06/2000,Thursday,Ascension Day,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+26/08/2000,Saturday,Heroes' Day,Public Holiday
+03/09/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2000,Friday,September Equinox,Season
+10/12/2000,Sunday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+11/12/2000,Monday,Day of the Namibian Women and International Human Rights Day observed,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Family Day,Public Holiday
+01/01/2001,Monday,New Year,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+21/03/2001,Wednesday,Independence Day,Public Holiday
+01/04/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+13/04/2001,Friday,Good Friday,Public Holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,Public Holiday
+01/05/2001,Tuesday,Workers' Day,Public Holiday
+04/05/2001,Friday,Cassinga Day,Public Holiday
+24/05/2001,Thursday,Ascension Day,Public Holiday
+25/05/2001,Friday,Africa Day,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+26/08/2001,Sunday,Heroes' Day,Public Holiday
+27/08/2001,Monday,Heroes' Day observed,Public Holiday
+02/09/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2001,Sunday,September Equinox,Season
+10/12/2001,Monday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Family Day,Public Holiday
+01/01/2002,Tuesday,New Year,Public Holiday
+20/03/2002,Wednesday,March Equinox,Season
+21/03/2002,Thursday,Independence Day,Public Holiday
+29/03/2002,Friday,Good Friday,Public Holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,Public Holiday
+07/04/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/05/2002,Wednesday,Workers' Day,Public Holiday
+04/05/2002,Saturday,Cassinga Day,Public Holiday
+09/05/2002,Thursday,Ascension Day,Public Holiday
+25/05/2002,Saturday,Africa Day,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+26/08/2002,Monday,Heroes' Day,Public Holiday
+01/09/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2002,Monday,September Equinox,Season
+10/12/2002,Tuesday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Family Day,Public Holiday
+01/01/2003,Wednesday,New Year,Public Holiday
+21/03/2003,Friday,Independence Day,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+06/04/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+18/04/2003,Friday,Good Friday,Public Holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,Public Holiday
+01/05/2003,Thursday,Workers' Day,Public Holiday
+04/05/2003,Sunday,Cassinga Day,Public Holiday
+05/05/2003,Monday,Cassinga Day observed,Public Holiday
+25/05/2003,Sunday,Africa Day,Public Holiday
+26/05/2003,Monday,Africa Day observed,Public Holiday
+29/05/2003,Thursday,Ascension Day,Public Holiday
+21/06/2003,Saturday,June Solstice,Season
+26/08/2003,Tuesday,Heroes' Day,Public Holiday
+07/09/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2003,Tuesday,September Equinox,Season
+10/12/2003,Wednesday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Family Day,Public Holiday
+01/01/2004,Thursday,New Year,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+21/03/2004,Sunday,Independence Day,Public Holiday
+22/03/2004,Monday,Independence Day observed,Public Holiday
+04/04/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+09/04/2004,Friday,Good Friday,Public Holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,Public Holiday
+01/05/2004,Saturday,Workers' Day,Public Holiday
+04/05/2004,Tuesday,Cassinga Day,Public Holiday
+20/05/2004,Thursday,Ascension Day,Public Holiday
+25/05/2004,Tuesday,Africa Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+26/08/2004,Thursday,Heroes' Day,Public Holiday
+05/09/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2004,Wednesday,September Equinox,Season
+10/12/2004,Friday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Family Day,Public Holiday
+27/12/2004,Monday,Family Day observed,Public Holiday
+01/01/2005,Saturday,New Year,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+21/03/2005,Monday,Independence Day,Public Holiday
+25/03/2005,Friday,Good Friday,Public Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,Public Holiday
+03/04/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/05/2005,Sunday,Workers' Day,Public Holiday
+02/05/2005,Monday,Workers' Day observed,Public Holiday
+04/05/2005,Wednesday,Cassinga Day,Public Holiday
+05/05/2005,Thursday,Ascension Day,Public Holiday
+25/05/2005,Wednesday,Africa Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+26/08/2005,Friday,Heroes' Day,Public Holiday
+04/09/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2005,Friday,September Equinox,Season
+10/12/2005,Saturday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Family Day,Public Holiday
+01/01/2006,Sunday,New Year,Public Holiday
+02/01/2006,Monday,New Year observed,Public Holiday
+20/03/2006,Monday,March Equinox,Season
+21/03/2006,Tuesday,Independence Day,Public Holiday
+02/04/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+14/04/2006,Friday,Good Friday,Public Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Public Holiday
+01/05/2006,Monday,Workers' Day,Public Holiday
+04/05/2006,Thursday,Cassinga Day,Public Holiday
+25/05/2006,Thursday,Ascension Day,Public Holiday
+25/05/2006,Thursday,Africa Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+26/08/2006,Saturday,Heroes' Day,Public Holiday
+03/09/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2006,Saturday,September Equinox,Season
+10/12/2006,Sunday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+11/12/2006,Monday,Day of the Namibian Women and International Human Rights Day observed,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Family Day,Public Holiday
+01/01/2007,Monday,New Year,Public Holiday
+21/03/2007,Wednesday,Independence Day,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+01/04/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/04/2007,Friday,Good Friday,Public Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Public Holiday
+01/05/2007,Tuesday,Workers' Day,Public Holiday
+04/05/2007,Friday,Cassinga Day,Public Holiday
+17/05/2007,Thursday,Ascension Day,Public Holiday
+25/05/2007,Friday,Africa Day,Public Holiday
+21/06/2007,Thursday,June Solstice,Season
+26/08/2007,Sunday,Heroes' Day,Public Holiday
+27/08/2007,Monday,Heroes' Day observed,Public Holiday
+02/09/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2007,Sunday,September Equinox,Season
+10/12/2007,Monday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Family Day,Public Holiday
+01/01/2008,Tuesday,New Year,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+21/03/2008,Friday,Independence Day,Public Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Public Holiday
+06/04/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/05/2008,Thursday,Ascension Day,Public Holiday
+01/05/2008,Thursday,Workers' Day,Public Holiday
+04/05/2008,Sunday,Cassinga Day,Public Holiday
+05/05/2008,Monday,Cassinga Day observed,Public Holiday
+25/05/2008,Sunday,Africa Day,Public Holiday
+26/05/2008,Monday,Africa Day observed,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+26/08/2008,Tuesday,Heroes' Day,Public Holiday
+07/09/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2008,Monday,September Equinox,Season
+10/12/2008,Wednesday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Family Day,Public Holiday
+01/01/2009,Thursday,New Year,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+21/03/2009,Saturday,Independence Day,Public Holiday
+05/04/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+10/04/2009,Friday,Good Friday,Public Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Public Holiday
+01/05/2009,Friday,Workers' Day,Public Holiday
+04/05/2009,Monday,Cassinga Day,Public Holiday
+21/05/2009,Thursday,Ascension Day,Public Holiday
+25/05/2009,Monday,Africa Day,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+26/08/2009,Wednesday,Heroes' Day,Public Holiday
+06/09/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2009,Tuesday,September Equinox,Season
+10/12/2009,Thursday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Family Day,Public Holiday
+01/01/2010,Friday,New Year,Public Holiday
+20/03/2010,Saturday,March Equinox,Season
+21/03/2010,Sunday,Independence Day,Public Holiday
+22/03/2010,Monday,Independence Day observed,Public Holiday
+02/04/2010,Friday,Good Friday,Public Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+04/04/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+05/04/2010,Monday,Easter Monday,Public Holiday
+01/05/2010,Saturday,Workers' Day,Public Holiday
+04/05/2010,Tuesday,Cassinga Day,Public Holiday
+13/05/2010,Thursday,Ascension Day,Public Holiday
+25/05/2010,Tuesday,Africa Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+26/08/2010,Thursday,Heroes' Day,Public Holiday
+05/09/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2010,Thursday,September Equinox,Season
+10/12/2010,Friday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Family Day,Public Holiday
+27/12/2010,Monday,Family Day observed,Public Holiday
+01/01/2011,Saturday,New Year,Public Holiday
+21/03/2011,Monday,Independence Day,Public Holiday
+21/03/2011,Monday,March Equinox,Season
+03/04/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+22/04/2011,Friday,Good Friday,Public Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Public Holiday
+01/05/2011,Sunday,Workers' Day,Public Holiday
+02/05/2011,Monday,Workers' Day observed,Public Holiday
+04/05/2011,Wednesday,Cassinga Day,Public Holiday
+25/05/2011,Wednesday,Africa Day,Public Holiday
+02/06/2011,Thursday,Ascension Day,Public Holiday
+21/06/2011,Tuesday,June Solstice,Season
+26/08/2011,Friday,Heroes' Day,Public Holiday
+04/09/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2011,Friday,September Equinox,Season
+10/12/2011,Saturday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Family Day,Public Holiday
+01/01/2012,Sunday,New Year,Public Holiday
+02/01/2012,Monday,New Year observed,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+21/03/2012,Wednesday,Independence Day,Public Holiday
+01/04/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/04/2012,Friday,Good Friday,Public Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Public Holiday
+01/05/2012,Tuesday,Workers' Day,Public Holiday
+04/05/2012,Friday,Cassinga Day,Public Holiday
+17/05/2012,Thursday,Ascension Day,Public Holiday
+25/05/2012,Friday,Africa Day,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+26/08/2012,Sunday,Heroes' Day,Public Holiday
+27/08/2012,Monday,Heroes' Day observed,Public Holiday
+02/09/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2012,Saturday,September Equinox,Season
+10/12/2012,Monday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Family Day,Public Holiday
+01/01/2013,Tuesday,New Year,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+21/03/2013,Thursday,Independence Day,Public Holiday
+29/03/2013,Friday,Good Friday,Public Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Public Holiday
+07/04/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/05/2013,Wednesday,Workers' Day,Public Holiday
+04/05/2013,Saturday,Cassinga Day,Public Holiday
+09/05/2013,Thursday,Ascension Day,Public Holiday
+25/05/2013,Saturday,Africa Day,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+26/08/2013,Monday,Heroes' Day,Public Holiday
+01/09/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2013,Sunday,September Equinox,Season
+10/12/2013,Tuesday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Family Day,Public Holiday
+01/01/2014,Wednesday,New Year,Public Holiday
+20/03/2014,Thursday,March Equinox,Season
+21/03/2014,Friday,Independence Day,Public Holiday
+06/04/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+18/04/2014,Friday,Good Friday,Public Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Public Holiday
+01/05/2014,Thursday,Workers' Day,Public Holiday
+04/05/2014,Sunday,Cassinga Day,Public Holiday
+05/05/2014,Monday,Cassinga Day observed,Public Holiday
+25/05/2014,Sunday,Africa Day,Public Holiday
+26/05/2014,Monday,Africa Day observed,Public Holiday
+29/05/2014,Thursday,Ascension Day,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+26/08/2014,Tuesday,Heroes' Day,Public Holiday
+07/09/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2014,Tuesday,September Equinox,Season
+10/12/2014,Wednesday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Family Day,Public Holiday
+01/01/2015,Thursday,New Year,Public Holiday
+21/03/2015,Saturday,Independence Day,Public Holiday
+21/03/2015,Saturday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+05/04/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+06/04/2015,Monday,Easter Monday,Public Holiday
+01/05/2015,Friday,Workers' Day,Public Holiday
+04/05/2015,Monday,Cassinga Day,Public Holiday
+14/05/2015,Thursday,Ascension Day,Public Holiday
+25/05/2015,Monday,Africa Day,Public Holiday
+21/06/2015,Sunday,June Solstice,Season
+26/08/2015,Wednesday,Heroes' Day,Public Holiday
+06/09/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+23/09/2015,Wednesday,September Equinox,Season
+27/11/2015,Friday,Local Election Day,Public Holiday
+10/12/2015,Thursday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Family Day,Public Holiday
+01/01/2016,Friday,New Year,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+21/03/2016,Monday,Independence Day,Public Holiday
+25/03/2016,Friday,Good Friday,Public Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Public Holiday
+03/04/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/05/2016,Sunday,Workers' Day,Public Holiday
+02/05/2016,Monday,Workers' Day observed,Public Holiday
+04/05/2016,Wednesday,Cassinga Day,Public Holiday
+05/05/2016,Thursday,Ascension Day,Public Holiday
+25/05/2016,Wednesday,Africa Day,Public Holiday
+20/06/2016,Monday,June Solstice,Season
+26/08/2016,Friday,Heroes' Day,Public Holiday
+04/09/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2016,Thursday,September Equinox,Season
+10/12/2016,Saturday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Family Day,Public Holiday
+01/01/2017,Sunday,New Year,Public Holiday
+02/01/2017,Monday,New Year observed,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+21/03/2017,Tuesday,Independence Day,Public Holiday
+02/04/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+14/04/2017,Friday,Good Friday,Public Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,Workers' Day,Public Holiday
+04/05/2017,Thursday,Cassinga Day,Public Holiday
+25/05/2017,Thursday,Ascension Day,Public Holiday
+25/05/2017,Thursday,Africa Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/08/2017,Saturday,Heroes' Day,Public Holiday
+03/09/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/09/2017,Friday,September Equinox,Season
+24/10/2017,Tuesday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+10/12/2017,Sunday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+11/12/2017,Monday,Day of the Namibian Women and International Human Rights Day observed,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Family Day,Public Holiday
+01/01/2018,Monday,New Year,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+21/03/2018,Wednesday,Independence Day,Public Holiday
+30/03/2018,Friday,Good Friday,Public Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Public Holiday
+01/05/2018,Tuesday,Workers' Day,Public Holiday
+04/05/2018,Friday,Cassinga Day,Public Holiday
+10/05/2018,Thursday,Ascension Day,Public Holiday
+25/05/2018,Friday,Africa Day,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+26/08/2018,Sunday,Heroes' Day,Public Holiday
+27/08/2018,Monday,Heroes' Day observed,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+10/12/2018,Monday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Family Day,Public Holiday
+01/01/2019,Tuesday,New Year,Public Holiday
+20/03/2019,Wednesday,March Equinox,Season
+21/03/2019,Thursday,Independence Day,Public Holiday
+19/04/2019,Friday,Good Friday,Public Holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Public Holiday
+01/05/2019,Wednesday,Workers' Day,Public Holiday
+04/05/2019,Saturday,Cassinga Day,Public Holiday
+25/05/2019,Saturday,Africa Day,Public Holiday
+30/05/2019,Thursday,Ascension Day,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+26/08/2019,Monday,Heroes' Day,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+27/11/2019,Wednesday,Election Day,Public Holiday
+10/12/2019,Tuesday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Family Day,Public Holiday
+01/01/2020,Wednesday,New Year,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+21/03/2020,Saturday,Independence Day,Public Holiday
+10/04/2020,Friday,Good Friday,Public Holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Public Holiday
+01/05/2020,Friday,Workers' Day,Public Holiday
+04/05/2020,Monday,Cassinga Day,Public Holiday
+21/05/2020,Thursday,Ascension Day,Public Holiday
+25/05/2020,Monday,Africa Day,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+26/08/2020,Wednesday,Heroes' Day,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+25/11/2020,Wednesday,Election Day,Public Holiday
+10/12/2020,Thursday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Family Day,Public Holiday
+01/01/2021,Friday,New Year,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+21/03/2021,Sunday,Independence Day,Public Holiday
+22/03/2021,Monday,Independence Day observed,Public Holiday
+02/04/2021,Friday,Good Friday,Public Holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Public Holiday
+01/05/2021,Saturday,Workers' Day,Public Holiday
+04/05/2021,Tuesday,Cassinga Day,Public Holiday
+13/05/2021,Thursday,Ascension Day,Public Holiday
+25/05/2021,Tuesday,Africa Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+26/08/2021,Thursday,Heroes' Day,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+10/12/2021,Friday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Family Day,Public Holiday
+27/12/2021,Monday,Family Day observed,Public Holiday
+01/01/2022,Saturday,New Year,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+21/03/2022,Monday,Independence Day,Public Holiday
+15/04/2022,Friday,Good Friday,Public Holiday
+17/04/2022,Sunday,Easter Sunday,Public Holiday
+18/04/2022,Monday,Easter Monday,Public Holiday
+01/05/2022,Sunday,Workers' Day,Public Holiday
+02/05/2022,Monday,Workers' Day observed,Public Holiday
+04/05/2022,Wednesday,Cassinga Day,Public Holiday
+25/05/2022,Wednesday,Africa Day,Public Holiday
+26/05/2022,Thursday,Ascension Day,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+26/08/2022,Friday,Heroes' Day,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+10/12/2022,Saturday,Day of the Namibian Women and International Human Rights Day,Public Holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Family Day,Public Holiday

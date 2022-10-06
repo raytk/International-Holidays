@@ -1,0 +1,803 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+03/01/2000,Monday,Day off for New Year's Day,National holiday
+08/01/2000,Saturday,National Children's Day,Observance
+16/01/2000,Sunday,Teachers' Day,Observance
+05/02/2000,Saturday,Lunar New Year's Day,Observance
+06/02/2000,Sunday,Second Day of Lunar New Year,Observance
+07/02/2000,Monday,Third Day of Lunar New Year,Observance
+14/02/2000,Monday,Valentine's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+06/04/2000,Thursday,Chakri Day,National holiday
+13/04/2000,Thursday,Songkran,National holiday
+14/04/2000,Friday,Songkran,National holiday
+15/04/2000,Saturday,Songkran,National holiday
+17/04/2000,Monday,Songkran Observed,National holiday
+01/05/2000,Monday,Labor Day,Bank holiday
+05/05/2000,Friday,Coronation Day,National holiday
+21/06/2000,Wednesday,June Solstice,Season
+11/08/2000,Friday,The Queen's Birthday observed,National holiday
+12/08/2000,Saturday,The Queen's Birthday,National holiday
+23/09/2000,Saturday,September Equinox,Season
+23/10/2000,Monday,Chulalongkorn Day,National holiday
+05/12/2000,Tuesday,King Bhumibol's Birthday,National holiday
+05/12/2000,Tuesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2000,Sunday,Constitution Day,National holiday
+11/12/2000,Monday,Day off for Constitution Day,National holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,Observance
+31/12/2000,Sunday,New Year's Eve,National holiday
+01/01/2001,Monday,New Year's Day,National holiday
+13/01/2001,Saturday,National Children's Day,Observance
+16/01/2001,Tuesday,Teachers' Day,Observance
+24/01/2001,Wednesday,Lunar New Year's Day,Observance
+25/01/2001,Thursday,Second Day of Lunar New Year,Observance
+26/01/2001,Friday,Third Day of Lunar New Year,Observance
+14/02/2001,Wednesday,Valentine's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+06/04/2001,Friday,Chakri Day,National holiday
+13/04/2001,Friday,Songkran,National holiday
+14/04/2001,Saturday,Songkran,National holiday
+15/04/2001,Sunday,Songkran,National holiday
+16/04/2001,Monday,Songkran Observed,National holiday
+17/04/2001,Tuesday,Songkran Observed,National holiday
+01/05/2001,Tuesday,Labor Day,Bank holiday
+05/05/2001,Saturday,Coronation Day,National holiday
+07/05/2001,Monday,Coronation Day observed,National holiday
+21/06/2001,Thursday,June Solstice,Season
+12/08/2001,Sunday,The Queen's Birthday,National holiday
+13/08/2001,Monday,The Queen's Birthday observed,National holiday
+23/09/2001,Sunday,September Equinox,Season
+23/10/2001,Tuesday,Chulalongkorn Day,National holiday
+05/12/2001,Wednesday,King Bhumibol's Birthday,National holiday
+05/12/2001,Wednesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2001,Monday,Constitution Day,National holiday
+22/12/2001,Saturday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,Observance
+31/12/2001,Monday,New Year's Eve,National holiday
+01/01/2002,Tuesday,New Year's Day,National holiday
+12/01/2002,Saturday,National Children's Day,Observance
+16/01/2002,Wednesday,Teachers' Day,Observance
+12/02/2002,Tuesday,Lunar New Year's Day,Observance
+13/02/2002,Wednesday,Second Day of Lunar New Year,Observance
+14/02/2002,Thursday,Third Day of Lunar New Year,Observance
+14/02/2002,Thursday,Valentine's Day,Observance
+21/03/2002,Thursday,March Equinox,Season
+05/04/2002,Friday,Chakri Day observed,National holiday
+06/04/2002,Saturday,Chakri Day,National holiday
+13/04/2002,Saturday,Songkran,National holiday
+14/04/2002,Sunday,Songkran,National holiday
+15/04/2002,Monday,Songkran,National holiday
+16/04/2002,Tuesday,Songkran Observed,National holiday
+17/04/2002,Wednesday,Songkran Observed,National holiday
+01/05/2002,Wednesday,Labor Day,Bank holiday
+05/05/2002,Sunday,Coronation Day,National holiday
+06/05/2002,Monday,Coronation Day observed,National holiday
+21/06/2002,Friday,June Solstice,Season
+12/08/2002,Monday,The Queen's Birthday,National holiday
+23/09/2002,Monday,September Equinox,Season
+23/10/2002,Wednesday,Chulalongkorn Day,National holiday
+05/12/2002,Thursday,King Bhumibol's Birthday,National holiday
+05/12/2002,Thursday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2002,Tuesday,Constitution Day,National holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,Observance
+31/12/2002,Tuesday,New Year's Eve,National holiday
+01/01/2003,Wednesday,New Year's Day,National holiday
+11/01/2003,Saturday,National Children's Day,Observance
+16/01/2003,Thursday,Teachers' Day,Observance
+01/02/2003,Saturday,Lunar New Year's Day,Observance
+02/02/2003,Sunday,Second Day of Lunar New Year,Observance
+03/02/2003,Monday,Third Day of Lunar New Year,Observance
+14/02/2003,Friday,Valentine's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+06/04/2003,Sunday,Chakri Day,National holiday
+07/04/2003,Monday,Chakri Day observed,National holiday
+13/04/2003,Sunday,Songkran,National holiday
+14/04/2003,Monday,Songkran,National holiday
+15/04/2003,Tuesday,Songkran,National holiday
+16/04/2003,Wednesday,Songkran Observed,National holiday
+01/05/2003,Thursday,Labor Day,Bank holiday
+05/05/2003,Monday,Coronation Day,National holiday
+22/06/2003,Sunday,June Solstice,Season
+12/08/2003,Tuesday,The Queen's Birthday,National holiday
+23/09/2003,Tuesday,September Equinox,Season
+23/10/2003,Thursday,Chulalongkorn Day,National holiday
+05/12/2003,Friday,King Bhumibol's Birthday,National holiday
+05/12/2003,Friday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2003,Wednesday,Constitution Day,National holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,Observance
+31/12/2003,Wednesday,New Year's Eve,National holiday
+01/01/2004,Thursday,New Year's Day,National holiday
+10/01/2004,Saturday,National Children's Day,Observance
+16/01/2004,Friday,Teachers' Day,Observance
+22/01/2004,Thursday,Lunar New Year's Day,Observance
+23/01/2004,Friday,Second Day of Lunar New Year,Observance
+24/01/2004,Saturday,Third Day of Lunar New Year,Observance
+14/02/2004,Saturday,Valentine's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+06/04/2004,Tuesday,Chakri Day,National holiday
+13/04/2004,Tuesday,Songkran,National holiday
+14/04/2004,Wednesday,Songkran,National holiday
+15/04/2004,Thursday,Songkran,National holiday
+30/04/2004,Friday,Labor Day observed,Bank holiday
+01/05/2004,Saturday,Labor Day,Bank holiday
+05/05/2004,Wednesday,Coronation Day,National holiday
+21/06/2004,Monday,June Solstice,Season
+12/08/2004,Thursday,The Queen's Birthday,National holiday
+22/09/2004,Wednesday,September Equinox,Season
+22/10/2004,Friday,Day off for Chulalongkorn Day,National holiday
+23/10/2004,Saturday,Chulalongkorn Day,National holiday
+05/12/2004,Sunday,King Bhumibol's Birthday,National holiday
+05/12/2004,Sunday,King Bhumibol's Birthday/Father's Day,National holiday
+06/12/2004,Monday,King Bhumibol's Birthday observed,National holiday
+06/12/2004,Monday,King Bhumibol's Birthday/Father's Day observed,National holiday
+10/12/2004,Friday,Constitution Day,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,Observance
+31/12/2004,Friday,New Year's Eve,National holiday
+01/01/2005,Saturday,New Year's Day,National holiday
+03/01/2005,Monday,Day off for New Year's Day,National holiday
+08/01/2005,Saturday,National Children's Day,Observance
+16/01/2005,Sunday,Teachers' Day,Observance
+09/02/2005,Wednesday,Lunar New Year's Day,Observance
+10/02/2005,Thursday,Second Day of Lunar New Year,Observance
+11/02/2005,Friday,Third Day of Lunar New Year,Observance
+14/02/2005,Monday,Valentine's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+06/04/2005,Wednesday,Chakri Day,National holiday
+13/04/2005,Wednesday,Songkran,National holiday
+14/04/2005,Thursday,Songkran,National holiday
+15/04/2005,Friday,Songkran,National holiday
+01/05/2005,Sunday,Labor Day,Bank holiday
+02/05/2005,Monday,Labor Day observed,Bank holiday
+05/05/2005,Thursday,Coronation Day,National holiday
+23/05/2005,Monday,Visakha Bucha,National holiday
+21/06/2005,Tuesday,June Solstice,Season
+12/08/2005,Friday,The Queen's Birthday,National holiday
+23/09/2005,Friday,September Equinox,Season
+23/10/2005,Sunday,Chulalongkorn Day,National holiday
+24/10/2005,Monday,Day off for Chulalongkorn Day,National holiday
+05/12/2005,Monday,King Bhumibol's Birthday,National holiday
+05/12/2005,Monday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2005,Saturday,Constitution Day,National holiday
+12/12/2005,Monday,Day off for Constitution Day,National holiday
+22/12/2005,Thursday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Observance
+31/12/2005,Saturday,New Year's Eve,National holiday
+01/01/2006,Sunday,New Year's Day,National holiday
+02/01/2006,Monday,Day off for New Year's Day,National holiday
+14/01/2006,Saturday,National Children's Day,Observance
+16/01/2006,Monday,Teachers' Day,Observance
+29/01/2006,Sunday,Lunar New Year's Day,Observance
+30/01/2006,Monday,Second Day of Lunar New Year,Observance
+31/01/2006,Tuesday,Third Day of Lunar New Year,Observance
+14/02/2006,Tuesday,Valentine's Day,Observance
+21/03/2006,Tuesday,March Equinox,Season
+06/04/2006,Thursday,Chakri Day,National holiday
+13/04/2006,Thursday,Songkran,National holiday
+14/04/2006,Friday,Songkran,National holiday
+15/04/2006,Saturday,Songkran,National holiday
+17/04/2006,Monday,Songkran Observed,National holiday
+01/05/2006,Monday,Labor Day,Bank holiday
+05/05/2006,Friday,Coronation Day,National holiday
+12/05/2006,Friday,Visakha Bucha,National holiday
+21/06/2006,Wednesday,June Solstice,Season
+11/08/2006,Friday,The Queen's Birthday observed,National holiday
+12/08/2006,Saturday,The Queen's Birthday,National holiday
+23/09/2006,Saturday,September Equinox,Season
+23/10/2006,Monday,Chulalongkorn Day,National holiday
+05/11/2006,Sunday,Loy Krathong,Observance
+05/12/2006,Tuesday,King Bhumibol's Birthday,National holiday
+05/12/2006,Tuesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2006,Sunday,Constitution Day,National holiday
+11/12/2006,Monday,Day off for Constitution Day,National holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Observance
+31/12/2006,Sunday,New Year's Eve,National holiday
+01/01/2007,Monday,New Year's Day,National holiday
+13/01/2007,Saturday,National Children's Day,Observance
+16/01/2007,Tuesday,Teachers' Day,Observance
+14/02/2007,Wednesday,Valentine's Day,Observance
+18/02/2007,Sunday,Lunar New Year's Day,Observance
+19/02/2007,Monday,Second Day of Lunar New Year,Observance
+20/02/2007,Tuesday,Third Day of Lunar New Year,Observance
+02/03/2007,Friday,Makha Bucha observed,National holiday
+03/03/2007,Saturday,Makha Bucha,National holiday
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Chakri Day,National holiday
+13/04/2007,Friday,Songkran,National holiday
+14/04/2007,Saturday,Songkran,National holiday
+15/04/2007,Sunday,Songkran,National holiday
+16/04/2007,Monday,Songkran Observed,National holiday
+17/04/2007,Tuesday,Songkran Observed,National holiday
+01/05/2007,Tuesday,Labor Day,Bank holiday
+05/05/2007,Saturday,Coronation Day,National holiday
+07/05/2007,Monday,Coronation Day observed,National holiday
+10/05/2007,Thursday,Royal Ploughing Ceremony Day,Government Holiday
+31/05/2007,Thursday,Visakha Bucha,National holiday
+22/06/2007,Friday,June Solstice,Season
+12/08/2007,Sunday,The Queen's Birthday,National holiday
+13/08/2007,Monday,The Queen's Birthday observed,National holiday
+23/09/2007,Sunday,September Equinox,Season
+23/10/2007,Tuesday,Chulalongkorn Day,National holiday
+24/11/2007,Saturday,Loy Krathong,Observance
+05/12/2007,Wednesday,King Bhumibol's Birthday,National holiday
+05/12/2007,Wednesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2007,Monday,Constitution Day,National holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Observance
+31/12/2007,Monday,New Year's Eve,National holiday
+01/01/2008,Tuesday,New Year's Day,National holiday
+12/01/2008,Saturday,National Children's Day,Observance
+16/01/2008,Wednesday,Teachers' Day,Observance
+07/02/2008,Thursday,Lunar New Year's Day,Observance
+08/02/2008,Friday,Second Day of Lunar New Year,Observance
+09/02/2008,Saturday,Third Day of Lunar New Year,Observance
+14/02/2008,Thursday,Valentine's Day,Observance
+21/02/2008,Thursday,Makha Bucha,National holiday
+20/03/2008,Thursday,March Equinox,Season
+06/04/2008,Sunday,Chakri Day,National holiday
+07/04/2008,Monday,Chakri Day observed,National holiday
+13/04/2008,Sunday,Songkran,National holiday
+14/04/2008,Monday,Songkran,National holiday
+15/04/2008,Tuesday,Songkran,National holiday
+16/04/2008,Wednesday,Songkran Observed,National holiday
+01/05/2008,Thursday,Labor Day,Bank holiday
+05/05/2008,Monday,Coronation Day,National holiday
+09/05/2008,Friday,Royal Ploughing Ceremony Day,Government Holiday
+19/05/2008,Monday,Visakha Bucha,National holiday
+21/06/2008,Saturday,June Solstice,Season
+01/07/2008,Tuesday,Mid Year Bank Holiday,Bank holiday
+16/07/2008,Wednesday,Asalha Bucha,National holiday
+17/07/2008,Thursday,Buddhist Lent Day,National holiday
+12/08/2008,Tuesday,The Queen's Birthday,National holiday
+22/09/2008,Monday,September Equinox,Season
+23/10/2008,Thursday,Chulalongkorn Day,National holiday
+12/11/2008,Wednesday,Loy Krathong,Observance
+05/12/2008,Friday,King Bhumibol's Birthday,National holiday
+05/12/2008,Friday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2008,Wednesday,Constitution Day,National holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Observance
+31/12/2008,Wednesday,New Year's Eve,National holiday
+01/01/2009,Thursday,New Year's Day,National holiday
+02/01/2009,Friday,Bridge Public Holiday,National holiday
+10/01/2009,Saturday,National Children's Day,Observance
+16/01/2009,Friday,Teachers' Day,Observance
+26/01/2009,Monday,Lunar New Year's Day,Observance
+27/01/2009,Tuesday,Second Day of Lunar New Year,Observance
+28/01/2009,Wednesday,Third Day of Lunar New Year,Observance
+09/02/2009,Monday,Makha Bucha,National holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+06/04/2009,Monday,Chakri Day,National holiday
+13/04/2009,Monday,Songkran,National holiday
+14/04/2009,Tuesday,Songkran,National holiday
+15/04/2009,Wednesday,Songkran,National holiday
+01/05/2009,Friday,Labor Day,Bank holiday
+05/05/2009,Tuesday,Coronation Day,National holiday
+08/05/2009,Friday,Visakha Bucha,National holiday
+11/05/2009,Monday,Royal Ploughing Ceremony Day,Government Holiday
+21/06/2009,Sunday,June Solstice,Season
+01/07/2009,Wednesday,Mid Year Bank Holiday,Bank holiday
+07/07/2009,Tuesday,Asalha Bucha,National holiday
+08/07/2009,Wednesday,Buddhist Lent Day,National holiday
+12/08/2009,Wednesday,The Queen's Birthday,National holiday
+23/09/2009,Wednesday,September Equinox,Season
+23/10/2009,Friday,Chulalongkorn Day,National holiday
+02/11/2009,Monday,Loy Krathong,Observance
+05/12/2009,Saturday,King Bhumibol's Birthday,National holiday
+05/12/2009,Saturday,King Bhumibol's Birthday/Father's Day,National holiday
+07/12/2009,Monday,King Bhumibol's Birthday observed,National holiday
+07/12/2009,Monday,King Bhumibol's Birthday/Father's Day observed,National holiday
+10/12/2009,Thursday,Constitution Day,National holiday
+22/12/2009,Tuesday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Observance
+31/12/2009,Thursday,New Year's Eve,National holiday
+01/01/2010,Friday,New Year's Day,National holiday
+09/01/2010,Saturday,National Children's Day,Observance
+16/01/2010,Saturday,Teachers' Day,Observance
+14/02/2010,Sunday,Lunar New Year's Day,Observance
+14/02/2010,Sunday,Valentine's Day,Observance
+15/02/2010,Monday,Second Day of Lunar New Year,Observance
+16/02/2010,Tuesday,Third Day of Lunar New Year,Observance
+28/02/2010,Sunday,Makha Bucha,National holiday
+01/03/2010,Monday,Makha Bucha observed,National holiday
+21/03/2010,Sunday,March Equinox,Season
+06/04/2010,Tuesday,Chakri Day,National holiday
+13/04/2010,Tuesday,Songkran,National holiday
+14/04/2010,Wednesday,Songkran,National holiday
+15/04/2010,Thursday,Songkran,National holiday
+01/05/2010,Saturday,Labor Day,Bank holiday
+03/05/2010,Monday,Labor Day observed,Bank holiday
+05/05/2010,Wednesday,Coronation Day,National holiday
+10/05/2010,Monday,Royal Ploughing Ceremony Day,Government Holiday
+28/05/2010,Friday,Visakha Bucha,National holiday
+21/06/2010,Monday,June Solstice,Season
+01/07/2010,Thursday,Mid Year Bank Holiday,Bank holiday
+25/07/2010,Sunday,Asalha Bucha,National holiday
+26/07/2010,Monday,Buddhist Lent Day,National holiday
+12/08/2010,Thursday,The Queen's Birthday,National holiday
+23/09/2010,Thursday,September Equinox,Season
+23/10/2010,Saturday,Chulalongkorn Day,National holiday
+25/10/2010,Monday,Day off for Chulalongkorn Day,National holiday
+21/11/2010,Sunday,Loy Krathong,Observance
+05/12/2010,Sunday,King Bhumibol's Birthday,National holiday
+05/12/2010,Sunday,King Bhumibol's Birthday/Father's Day,National holiday
+06/12/2010,Monday,King Bhumibol's Birthday observed,National holiday
+06/12/2010,Monday,King Bhumibol's Birthday/Father's Day observed,National holiday
+10/12/2010,Friday,Constitution Day,National holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Observance
+31/12/2010,Friday,New Year's Eve,National holiday
+01/01/2011,Saturday,New Year's Day,National holiday
+03/01/2011,Monday,Day off for New Year's Day,National holiday
+08/01/2011,Saturday,National Children's Day,Observance
+16/01/2011,Sunday,Teachers' Day,Observance
+03/02/2011,Thursday,Lunar New Year's Day,Observance
+04/02/2011,Friday,Second Day of Lunar New Year,Observance
+05/02/2011,Saturday,Third Day of Lunar New Year,Observance
+14/02/2011,Monday,Valentine's Day,Observance
+18/02/2011,Friday,Makha Bucha,National holiday
+21/03/2011,Monday,March Equinox,Season
+06/04/2011,Wednesday,Chakri Day,National holiday
+13/04/2011,Wednesday,Songkran,National holiday
+14/04/2011,Thursday,Songkran,National holiday
+15/04/2011,Friday,Songkran,National holiday
+01/05/2011,Sunday,Labor Day,Bank holiday
+02/05/2011,Monday,Labor Day observed,Bank holiday
+05/05/2011,Thursday,Coronation Day,National holiday
+13/05/2011,Friday,Royal Ploughing Ceremony Day,Government Holiday
+17/05/2011,Tuesday,Visakha Bucha,National holiday
+22/06/2011,Wednesday,June Solstice,Season
+01/07/2011,Friday,Mid Year Bank Holiday,Bank holiday
+15/07/2011,Friday,Asalha Bucha,National holiday
+12/08/2011,Friday,The Queen's Birthday,National holiday
+23/09/2011,Friday,September Equinox,Season
+23/10/2011,Sunday,Chulalongkorn Day,National holiday
+24/10/2011,Monday,Day off for Chulalongkorn Day,National holiday
+10/11/2011,Thursday,Loy Krathong,Observance
+05/12/2011,Monday,King Bhumibol's Birthday,National holiday
+05/12/2011,Monday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2011,Saturday,Constitution Day,National holiday
+12/12/2011,Monday,Day off for Constitution Day,National holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Observance
+31/12/2011,Saturday,New Year's Eve,National holiday
+01/01/2012,Sunday,New Year's Day,National holiday
+02/01/2012,Monday,Day off for New Year's Day,National holiday
+14/01/2012,Saturday,National Children's Day,Observance
+16/01/2012,Monday,Teachers' Day,Observance
+23/01/2012,Monday,Lunar New Year's Day,Observance
+24/01/2012,Tuesday,Second Day of Lunar New Year,Observance
+25/01/2012,Wednesday,Third Day of Lunar New Year,Observance
+14/02/2012,Tuesday,Valentine's Day,Observance
+07/03/2012,Wednesday,Makha Bucha,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Chakri Day,National holiday
+13/04/2012,Friday,Songkran,National holiday
+14/04/2012,Saturday,Songkran,National holiday
+15/04/2012,Sunday,Songkran,National holiday
+16/04/2012,Monday,Songkran Observed,National holiday
+17/04/2012,Tuesday,Songkran Observed,National holiday
+01/05/2012,Tuesday,Labor Day,Bank holiday
+05/05/2012,Saturday,Coronation Day,National holiday
+07/05/2012,Monday,Coronation Day observed,National holiday
+09/05/2012,Wednesday,Royal Ploughing Ceremony Day,Government Holiday
+04/06/2012,Monday,Visakha Bucha,National holiday
+21/06/2012,Thursday,June Solstice,Season
+01/07/2012,Sunday,Mid Year Bank Holiday,Bank holiday
+02/07/2012,Monday,Mid Year Bank Holiday observed,Bank holiday
+02/08/2012,Thursday,Asalha Bucha,National holiday
+12/08/2012,Sunday,The Queen's Birthday,National holiday
+13/08/2012,Monday,The Queen's Birthday observed,National holiday
+22/09/2012,Saturday,September Equinox,Season
+23/10/2012,Tuesday,Chulalongkorn Day,National holiday
+28/11/2012,Wednesday,Loy Krathong,Observance
+05/12/2012,Wednesday,King Bhumibol's Birthday,National holiday
+05/12/2012,Wednesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2012,Monday,Constitution Day,National holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Observance
+31/12/2012,Monday,New Year's Eve,National holiday
+01/01/2013,Tuesday,New Year's Day,National holiday
+12/01/2013,Saturday,National Children's Day,Observance
+16/01/2013,Wednesday,Teachers' Day,Observance
+10/02/2013,Sunday,Lunar New Year's Day,Observance
+11/02/2013,Monday,Second Day of Lunar New Year,Observance
+12/02/2013,Tuesday,Third Day of Lunar New Year,Observance
+14/02/2013,Thursday,Valentine's Day,Observance
+25/02/2013,Monday,Makha Bucha,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+05/04/2013,Friday,Chakri Day observed,National holiday
+06/04/2013,Saturday,Chakri Day,National holiday
+13/04/2013,Saturday,Songkran,National holiday
+14/04/2013,Sunday,Songkran,National holiday
+15/04/2013,Monday,Songkran,National holiday
+16/04/2013,Tuesday,Songkran Observed,National holiday
+17/04/2013,Wednesday,Songkran Observed,National holiday
+01/05/2013,Wednesday,Labor Day,Bank holiday
+05/05/2013,Sunday,Coronation Day,National holiday
+06/05/2013,Monday,Coronation Day observed,National holiday
+13/05/2013,Monday,Royal Ploughing Ceremony Day,Government Holiday
+24/05/2013,Friday,Visakha Bucha,National holiday
+21/06/2013,Friday,June Solstice,Season
+01/07/2013,Monday,Mid Year Bank Holiday,Bank holiday
+22/07/2013,Monday,Asalha Bucha,National holiday
+12/08/2013,Monday,The Queen's Birthday,National holiday
+23/09/2013,Monday,September Equinox,Season
+23/10/2013,Wednesday,Chulalongkorn Day,National holiday
+17/11/2013,Sunday,Loy Krathong,Observance
+05/12/2013,Thursday,King Bhumibol's Birthday,National holiday
+05/12/2013,Thursday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2013,Tuesday,Constitution Day,National holiday
+22/12/2013,Sunday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Observance
+30/12/2013,Monday,December Public Service Holiday,Observance
+31/12/2013,Tuesday,New Year's Eve,National holiday
+01/01/2014,Wednesday,New Year's Day,National holiday
+11/01/2014,Saturday,National Children's Day,Observance
+16/01/2014,Thursday,Teachers' Day,Observance
+31/01/2014,Friday,Lunar New Year's Day,Observance
+01/02/2014,Saturday,Second Day of Lunar New Year,Observance
+02/02/2014,Sunday,Third Day of Lunar New Year,Observance
+14/02/2014,Friday,Makha Bucha,National holiday
+14/02/2014,Friday,Valentine's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+06/04/2014,Sunday,Chakri Day,National holiday
+07/04/2014,Monday,Chakri Day observed,National holiday
+13/04/2014,Sunday,Songkran,National holiday
+14/04/2014,Monday,Songkran,National holiday
+15/04/2014,Tuesday,Songkran,National holiday
+16/04/2014,Wednesday,Songkran Observed,National holiday
+01/05/2014,Thursday,Labor Day,Bank holiday
+05/05/2014,Monday,Coronation Day,National holiday
+09/05/2014,Friday,Royal Ploughing Ceremony Day,Government Holiday
+13/05/2014,Tuesday,Visakha Bucha,National holiday
+21/06/2014,Saturday,June Solstice,Season
+01/07/2014,Tuesday,Mid Year Bank Holiday,Bank holiday
+11/07/2014,Friday,Asalha Bucha,National holiday
+11/08/2014,Monday,The Queen's Birthday holiday,National holiday
+12/08/2014,Tuesday,The Queen's Birthday,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+23/10/2014,Thursday,Chulalongkorn Day,National holiday
+06/11/2014,Thursday,Loy Krathong,Observance
+05/12/2014,Friday,King Bhumibol's Birthday,National holiday
+05/12/2014,Friday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2014,Wednesday,Constitution Day,National holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Observance
+31/12/2014,Wednesday,New Year's Eve,National holiday
+01/01/2015,Thursday,New Year's Day,National holiday
+02/01/2015,Friday,Bridge Public Holiday,National holiday
+10/01/2015,Saturday,National Children's Day,Observance
+16/01/2015,Friday,Teachers' Day,Observance
+14/02/2015,Saturday,Valentine's Day,Observance
+19/02/2015,Thursday,Lunar New Year's Day,Observance
+20/02/2015,Friday,Second Day of Lunar New Year,Observance
+21/02/2015,Saturday,Third Day of Lunar New Year,Observance
+04/03/2015,Wednesday,Makha Bucha,National holiday
+21/03/2015,Saturday,March Equinox,Season
+06/04/2015,Monday,Chakri Day,National holiday
+13/04/2015,Monday,Songkran,National holiday
+14/04/2015,Tuesday,Songkran,National holiday
+15/04/2015,Wednesday,Songkran,National holiday
+01/05/2015,Friday,Labor Day,Bank holiday
+04/05/2015,Monday,Bridge Public Holiday,National holiday
+05/05/2015,Tuesday,Coronation Day,National holiday
+13/05/2015,Wednesday,Royal Ploughing Ceremony Day,Government Holiday
+01/06/2015,Monday,Visakha Bucha,National holiday
+21/06/2015,Sunday,June Solstice,Season
+01/07/2015,Wednesday,Mid Year Bank Holiday,Bank holiday
+30/07/2015,Thursday,Asalha Bucha,National holiday
+31/07/2015,Friday,Buddhist Lent Day,National holiday
+12/08/2015,Wednesday,The Queen's Birthday,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+23/10/2015,Friday,Chulalongkorn Day,National holiday
+25/11/2015,Wednesday,Loy Krathong,Observance
+05/12/2015,Saturday,King Bhumibol's Birthday,National holiday
+05/12/2015,Saturday,King Bhumibol's Birthday/Father's Day,National holiday
+07/12/2015,Monday,King Bhumibol's Birthday observed,National holiday
+07/12/2015,Monday,King Bhumibol's Birthday/Father's Day observed,National holiday
+10/12/2015,Thursday,Constitution Day,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Observance
+31/12/2015,Thursday,New Year's Eve,National holiday
+01/01/2016,Friday,New Year's Day,National holiday
+09/01/2016,Saturday,National Children's Day,Observance
+16/01/2016,Saturday,Teachers' Day,Observance
+08/02/2016,Monday,Lunar New Year's Day,Observance
+09/02/2016,Tuesday,Second Day of Lunar New Year,Observance
+10/02/2016,Wednesday,Third Day of Lunar New Year,Observance
+14/02/2016,Sunday,Valentine's Day,Observance
+22/02/2016,Monday,Makha Bucha,National holiday
+20/03/2016,Sunday,March Equinox,Season
+06/04/2016,Wednesday,Chakri Day,National holiday
+13/04/2016,Wednesday,Songkran,National holiday
+14/04/2016,Thursday,Songkran,National holiday
+15/04/2016,Friday,Songkran,National holiday
+01/05/2016,Sunday,Labor Day,Bank holiday
+02/05/2016,Monday,Labor Day observed,Bank holiday
+05/05/2016,Thursday,Coronation Day,National holiday
+06/05/2016,Friday,Coronation Day,National holiday
+09/05/2016,Monday,Royal Ploughing Ceremony Day,Government Holiday
+20/05/2016,Friday,Visakha Bucha,National holiday
+21/06/2016,Tuesday,June Solstice,Season
+01/07/2016,Friday,Mid Year Bank Holiday,Bank holiday
+18/07/2016,Monday,Extra holiday,National holiday
+19/07/2016,Tuesday,Asalha Bucha,National holiday
+20/07/2016,Wednesday,Buddhist Lent Day,National holiday
+12/08/2016,Friday,The Queen's Birthday,National holiday
+22/09/2016,Thursday,September Equinox,Season
+23/10/2016,Sunday,Chulalongkorn Day,National holiday
+24/10/2016,Monday,Day off for Chulalongkorn Day,National holiday
+31/10/2016,Monday,Halloween,Observance
+05/12/2016,Monday,King Bhumibol's Birthday,National holiday
+05/12/2016,Monday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2016,Saturday,Constitution Day,National holiday
+12/12/2016,Monday,Day off for Constitution Day,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Observance
+31/12/2016,Saturday,New Year's Eve,National holiday
+01/01/2017,Sunday,New Year's Day,National holiday
+02/01/2017,Monday,Day off for New Year's Day,National holiday
+14/01/2017,Saturday,National Children's Day,Observance
+16/01/2017,Monday,Teachers' Day,Observance
+28/01/2017,Saturday,Lunar New Year's Day,Observance
+29/01/2017,Sunday,Second Day of Lunar New Year,Observance
+30/01/2017,Monday,Third Day of Lunar New Year,Observance
+11/02/2017,Saturday,Makha Bucha,National holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+06/04/2017,Thursday,Chakri Day,National holiday
+13/04/2017,Thursday,Songkran,National holiday
+14/04/2017,Friday,Songkran,National holiday
+15/04/2017,Saturday,Songkran,National holiday
+17/04/2017,Monday,Songkran Observed,National holiday
+01/05/2017,Monday,Labor Day,Bank holiday
+10/05/2017,Wednesday,Visakha Bucha,National holiday
+11/05/2017,Thursday,Royal Ploughing Ceremony Day,Government Holiday
+21/06/2017,Wednesday,June Solstice,Season
+09/07/2017,Sunday,Buddhist Lent Day,National holiday
+10/07/2017,Monday,Asalha Bucha,National holiday
+28/07/2017,Friday,King Vajiralongkorn's Birthday,National holiday
+12/08/2017,Saturday,The Queen's Birthday,National holiday
+14/08/2017,Monday,The Queen's Birthday observed,National holiday
+23/09/2017,Saturday,September Equinox,Season
+13/10/2017,Friday,Anniversary of the Death of King Bhumibol,National holiday
+23/10/2017,Monday,Chulalongkorn Day,National holiday
+26/10/2017,Thursday,Cremation of King Bhumibol,National holiday
+31/10/2017,Tuesday,Halloween,Observance
+03/11/2017,Friday,Loy Krathong,Observance
+05/12/2017,Tuesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2017,Sunday,Constitution Day,National holiday
+11/12/2017,Monday,Day off for Constitution Day,National holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Observance
+31/12/2017,Sunday,New Year's Eve,National holiday
+01/01/2018,Monday,New Year's Day,National holiday
+02/01/2018,Tuesday,Bridge Public Holiday,National holiday
+13/01/2018,Saturday,National Children's Day,Observance
+16/01/2018,Tuesday,Teachers' Day,Observance
+14/02/2018,Wednesday,Valentine's Day,Observance
+16/02/2018,Friday,Lunar New Year's Day,Observance
+17/02/2018,Saturday,Second Day of Lunar New Year,Observance
+18/02/2018,Sunday,Third Day of Lunar New Year,Observance
+01/03/2018,Thursday,Makha Bucha,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+06/04/2018,Friday,Chakri Day,National holiday
+12/04/2018,Thursday,Songkran Observed,National holiday
+13/04/2018,Friday,Songkran,National holiday
+14/04/2018,Saturday,Songkran,National holiday
+15/04/2018,Sunday,Songkran,National holiday
+16/04/2018,Monday,Songkran Observed,National holiday
+01/05/2018,Tuesday,Labor Day,Bank holiday
+14/05/2018,Monday,Royal Ploughing Ceremony Day,Government Holiday
+29/05/2018,Tuesday,Visakha Bucha,National holiday
+21/06/2018,Thursday,June Solstice,Season
+27/07/2018,Friday,Asalha Bucha,National holiday
+28/07/2018,Saturday,King Vajiralongkorn's Birthday,National holiday
+28/07/2018,Saturday,Buddhist Lent Day,National holiday
+30/07/2018,Monday,King Vajiralongkorn's Birthday observed,National holiday
+12/08/2018,Sunday,The Queen's Birthday,National holiday
+13/08/2018,Monday,Day off for The Queen's Birthday,National holiday
+23/09/2018,Sunday,September Equinox,Season
+13/10/2018,Saturday,Anniversary of the Death of King Bhumibol,National holiday
+15/10/2018,Monday,Anniversary of the Death of King Bhumibol observed,National holiday
+23/10/2018,Tuesday,Chulalongkorn Day,National holiday
+31/10/2018,Wednesday,Halloween,Observance
+22/11/2018,Thursday,Loy Krathong,Observance
+05/12/2018,Wednesday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2018,Monday,Constitution Day,National holiday
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Observance
+31/12/2018,Monday,New Year's Eve,National holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+12/01/2019,Saturday,National Children's Day,Observance
+16/01/2019,Wednesday,Teachers' Day,Observance
+05/02/2019,Tuesday,Lunar New Year's Day,Observance
+06/02/2019,Wednesday,Second Day of Lunar New Year,Observance
+07/02/2019,Thursday,Third Day of Lunar New Year,Observance
+14/02/2019,Thursday,Valentine's Day,Observance
+19/02/2019,Tuesday,Makha Bucha,National holiday
+21/03/2019,Thursday,March Equinox,Season
+06/04/2019,Saturday,Chakri Day,National holiday
+08/04/2019,Monday,Chakri Day observed,National holiday
+12/04/2019,Friday,Songkran observed,National holiday
+13/04/2019,Saturday,Songkran,National holiday
+14/04/2019,Sunday,Songkran,National holiday
+15/04/2019,Monday,Songkran,National holiday
+16/04/2019,Tuesday,Songkran Observed,National holiday
+01/05/2019,Wednesday,Labor Day,Bank holiday
+06/05/2019,Monday,Special Holiday,National holiday
+09/05/2019,Thursday,Royal Ploughing Ceremony Day,Government Holiday
+18/05/2019,Saturday,Visakha Bucha,National holiday
+20/05/2019,Monday,Day off for Visakha Bucha,National holiday
+03/06/2019,Monday,Queen Suthida's Birthday,National holiday
+21/06/2019,Friday,June Solstice,Season
+16/07/2019,Tuesday,Asalha Bucha,National holiday
+17/07/2019,Wednesday,Buddhist Lent Day,National holiday
+28/07/2019,Sunday,King Vajiralongkorn's Birthday,National holiday
+29/07/2019,Monday,King Vajiralongkorn's Birthday observed,National holiday
+12/08/2019,Monday,The Queen's Birthday,National holiday
+23/09/2019,Monday,September Equinox,Season
+13/10/2019,Sunday,Anniversary of the Death of King Bhumibol,National holiday
+14/10/2019,Monday,Anniversary of the Death of King Bhumibol observed,National holiday
+23/10/2019,Wednesday,Chulalongkorn Day,National holiday
+31/10/2019,Thursday,Halloween,Observance
+04/11/2019,Monday,"ASEAN Summit Holiday (Bangkok, Nonthaburi)",Common local holiday
+05/11/2019,Tuesday,"ASEAN Summit Holiday (Bangkok, Nonthaburi)",Common local holiday
+11/11/2019,Monday,Loy Krathong,Observance
+05/12/2019,Thursday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2019,Tuesday,Constitution Day,National holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Observance
+30/12/2019,Monday,New Year Special Public Holiday,National holiday
+31/12/2019,Tuesday,New Year's Eve,National holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+11/01/2020,Saturday,National Children's Day,Observance
+16/01/2020,Thursday,Teachers' Day,Observance
+25/01/2020,Saturday,Lunar New Year's Day,Observance
+26/01/2020,Sunday,Second Day of Lunar New Year,Observance
+27/01/2020,Monday,Third Day of Lunar New Year,Observance
+08/02/2020,Saturday,Makha Bucha,National holiday
+10/02/2020,Monday,Day off for Makha Bucha,National holiday
+14/02/2020,Friday,Valentine's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+06/04/2020,Monday,Chakri Day,National holiday
+13/04/2020,Monday,Songkran,Holiday Postponed
+14/04/2020,Tuesday,Songkran,Holiday Postponed
+15/04/2020,Wednesday,Songkran,National holiday
+01/05/2020,Friday,Labor Day,Bank holiday
+04/05/2020,Monday,Coronation Day,National holiday
+06/05/2020,Wednesday,Visakha Bucha,National holiday
+11/05/2020,Monday,Royal Ploughing Ceremony Day,Government Holiday
+03/06/2020,Wednesday,Queen Suthida's Birthday,National holiday
+21/06/2020,Sunday,June Solstice,Season
+04/07/2020,Saturday,Asalha Bucha,National holiday
+05/07/2020,Sunday,Buddhist Lent Day,National holiday
+06/07/2020,Monday,Asalha Bucha observed,National holiday
+07/07/2020,Tuesday,Day off for Buddhist Lent Day,National holiday
+27/07/2020,Monday,Songkran Replacement Holiday,National holiday
+28/07/2020,Tuesday,King Vajiralongkorn's Birthday,National holiday
+12/08/2020,Wednesday,The Queen's Birthday,National holiday
+04/09/2020,Friday,Songkran Replacement Holiday,National holiday
+07/09/2020,Monday,Songkran Replacement Holiday,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+13/10/2020,Tuesday,Anniversary of the Death of King Bhumibol,National holiday
+23/10/2020,Friday,Chulalongkorn Day,National holiday
+31/10/2020,Saturday,Halloween,Observance
+01/11/2020,Sunday,Loy Krathong,Observance
+19/11/2020,Thursday,Special public holiday,National holiday
+20/11/2020,Friday,Special public holiday,National holiday
+05/12/2020,Saturday,King Bhumibol's Birthday/Father's Day,Observance
+10/12/2020,Thursday,Constitution Day,National holiday
+11/12/2020,Friday,Holiday for King Bhumibol's Birthday/Father's Day,National holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Observance
+31/12/2020,Thursday,New Year's Eve,National holiday
+01/01/2021,Friday,New Year's Day,National holiday
+09/01/2021,Saturday,National Children's Day,Observance
+16/01/2021,Saturday,Teachers' Day,Observance
+12/02/2021,Friday,Lunar New Year's Day,National holiday
+13/02/2021,Saturday,Second Day of Lunar New Year,Observance
+14/02/2021,Sunday,Third Day of Lunar New Year,Observance
+14/02/2021,Sunday,Valentine's Day,Observance
+26/02/2021,Friday,Makha Bucha,National holiday
+20/03/2021,Saturday,March Equinox,Season
+06/04/2021,Tuesday,Chakri Day,National holiday
+12/04/2021,Monday,Songkran Holiday,National holiday
+13/04/2021,Tuesday,Songkran,National holiday
+14/04/2021,Wednesday,Songkran,National holiday
+15/04/2021,Thursday,Songkran,National holiday
+01/05/2021,Saturday,Labor Day,Bank holiday
+03/05/2021,Monday,Labor Day observed,Bank holiday
+04/05/2021,Tuesday,Coronation Day,National holiday
+10/05/2021,Monday,Royal Ploughing Ceremony Day,Government Holiday
+26/05/2021,Wednesday,Visakha Bucha,National holiday
+03/06/2021,Thursday,Queen Suthida's Birthday,National holiday
+21/06/2021,Monday,June Solstice,Season
+24/07/2021,Saturday,Asalha Bucha,National holiday
+25/07/2021,Sunday,Buddhist Lent Day,National holiday
+26/07/2021,Monday,Asalha Bucha observed,National holiday
+28/07/2021,Wednesday,King Vajiralongkorn's Birthday,National holiday
+12/08/2021,Thursday,The Queen's Birthday,National holiday
+23/09/2021,Thursday,September Equinox,Season
+24/09/2021,Friday,Mahidol Day,National holiday
+13/10/2021,Wednesday,Anniversary of the Death of King Bhumibol,National holiday
+22/10/2021,Friday,Day off for Chulalongkorn Day,National holiday
+23/10/2021,Saturday,Chulalongkorn Day,National holiday
+31/10/2021,Sunday,Halloween,Observance
+19/11/2021,Friday,Loy Krathong,Observance
+05/12/2021,Sunday,King Bhumibol's Birthday/Father's Day,National holiday
+06/12/2021,Monday,King Bhumibol's Birthday/Father's Day observed,National holiday
+10/12/2021,Friday,Constitution Day,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Observance
+31/12/2021,Friday,New Year's Eve,National holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+03/01/2022,Monday,Day off for New Year's Day,National holiday
+08/01/2022,Saturday,National Children's Day,Observance
+16/01/2022,Sunday,Teachers' Day,Observance
+01/02/2022,Tuesday,Lunar New Year's Day,Observance
+02/02/2022,Wednesday,Second Day of Lunar New Year,Observance
+03/02/2022,Thursday,Third Day of Lunar New Year,Observance
+14/02/2022,Monday,Valentine's Day,Observance
+16/02/2022,Wednesday,Makha Bucha,National holiday
+20/03/2022,Sunday,March Equinox,Season
+06/04/2022,Wednesday,Chakri Day,National holiday
+13/04/2022,Wednesday,Songkran,National holiday
+14/04/2022,Thursday,Songkran,National holiday
+15/04/2022,Friday,Songkran,National holiday
+01/05/2022,Sunday,Labor Day,Bank holiday
+02/05/2022,Monday,Labor Day observed,Bank holiday
+04/05/2022,Wednesday,Coronation Day,National holiday
+13/05/2022,Friday,Royal Ploughing Ceremony Day,Government Holiday
+15/05/2022,Sunday,Visakha Bucha,National holiday
+16/05/2022,Monday,Day off for Visakha Bucha,National holiday
+03/06/2022,Friday,Queen Suthida's Birthday,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+13/07/2022,Wednesday,Asalha Bucha,National holiday
+14/07/2022,Thursday,Buddhist Lent Day,National holiday
+15/07/2022,Friday,Bridge Public holiday,National holiday
+28/07/2022,Thursday,King Vajiralongkorn's Birthday,National holiday
+29/07/2022,Friday,Bridge Public holiday,National holiday
+12/08/2022,Friday,The Queen's Birthday,National holiday
+23/09/2022,Friday,September Equinox,Season
+13/10/2022,Thursday,Anniversary of the Death of King Bhumibol,National holiday
+14/10/2022,Friday,Bridge Public holiday,National holiday
+23/10/2022,Sunday,Chulalongkorn Day,National holiday
+24/10/2022,Monday,Day off for Chulalongkorn Day,National holiday
+31/10/2022,Monday,Halloween,Observance
+05/12/2022,Monday,King Bhumibol's Birthday/Father's Day,National holiday
+10/12/2022,Saturday,Constitution Day,National holiday
+12/12/2022,Monday,Day off for Constitution Day,National holiday
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Observance
+30/12/2022,Friday,Bridge Public holiday,National holiday
+31/12/2022,Saturday,New Year's Eve,National holiday

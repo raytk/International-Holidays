@@ -1,0 +1,592 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year Holiday,Public Holiday
+04/01/2000,Tuesday,Independence Day,Public Holiday
+12/02/2000,Saturday,Union Day,Public Holiday
+03/03/2000,Friday,Peasants' Day,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+27/03/2000,Monday,Armed Forces' Day,Public Holiday
+01/05/2000,Monday,Labor Day / May Day,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+19/07/2000,Wednesday,Martyrs' Day,Public Holiday
+22/09/2000,Friday,September Equinox,Season
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+31/12/2000,Sunday,New Year Holiday,Public Holiday
+01/01/2001,Monday,New Year Holiday,Public Holiday
+04/01/2001,Thursday,Independence Day,Public Holiday
+12/02/2001,Monday,Union Day,Public Holiday
+03/03/2001,Saturday,Peasants' Day,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+27/03/2001,Tuesday,Armed Forces' Day,Public Holiday
+01/05/2001,Tuesday,Labor Day / May Day,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+19/07/2001,Thursday,Martyrs' Day,Public Holiday
+23/09/2001,Sunday,September Equinox,Season
+22/12/2001,Saturday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+31/12/2001,Monday,New Year Holiday,Public Holiday
+01/01/2002,Tuesday,New Year Holiday,Public Holiday
+04/01/2002,Friday,Independence Day,Public Holiday
+12/02/2002,Tuesday,Union Day,Public Holiday
+03/03/2002,Sunday,Peasants' Day,Public Holiday
+21/03/2002,Thursday,March Equinox,Season
+27/03/2002,Wednesday,Armed Forces' Day,Public Holiday
+01/05/2002,Wednesday,Labor Day / May Day,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+19/07/2002,Friday,Martyrs' Day,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+31/12/2002,Tuesday,New Year Holiday,Public Holiday
+01/01/2003,Wednesday,New Year Holiday,Public Holiday
+04/01/2003,Saturday,Independence Day,Public Holiday
+12/02/2003,Wednesday,Union Day,Public Holiday
+03/03/2003,Monday,Peasants' Day,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+27/03/2003,Thursday,Armed Forces' Day,Public Holiday
+01/05/2003,Thursday,Labor Day / May Day,Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+19/07/2003,Saturday,Martyrs' Day,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+31/12/2003,Wednesday,New Year Holiday,Public Holiday
+01/01/2004,Thursday,New Year Holiday,Public Holiday
+04/01/2004,Sunday,Independence Day,Public Holiday
+12/02/2004,Thursday,Union Day,Public Holiday
+03/03/2004,Wednesday,Peasants' Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+27/03/2004,Saturday,Armed Forces' Day,Public Holiday
+01/05/2004,Saturday,Labor Day / May Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+19/07/2004,Monday,Martyrs' Day,Public Holiday
+22/09/2004,Wednesday,September Equinox,Season
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+31/12/2004,Friday,New Year Holiday,Public Holiday
+01/01/2005,Saturday,New Year Holiday,Public Holiday
+04/01/2005,Tuesday,Independence Day,Public Holiday
+12/02/2005,Saturday,Union Day,Public Holiday
+03/03/2005,Thursday,Peasants' Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+27/03/2005,Sunday,Armed Forces' Day,Public Holiday
+01/05/2005,Sunday,Labor Day / May Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+19/07/2005,Tuesday,Martyrs' Day,Public Holiday
+23/09/2005,Friday,September Equinox,Season
+22/12/2005,Thursday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+31/12/2005,Saturday,New Year Holiday,Public Holiday
+01/01/2006,Sunday,New Year Holiday,Public Holiday
+04/01/2006,Wednesday,Independence Day,Public Holiday
+12/02/2006,Sunday,Union Day,Public Holiday
+03/03/2006,Friday,Peasants' Day,Public Holiday
+21/03/2006,Tuesday,March Equinox,Season
+27/03/2006,Monday,Armed Forces' Day,Public Holiday
+01/05/2006,Monday,Labor Day / May Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+19/07/2006,Wednesday,Martyrs' Day,Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+31/12/2006,Sunday,New Year Holiday,Public Holiday
+01/01/2007,Monday,New Year Holiday,Public Holiday
+04/01/2007,Thursday,Independence Day,Public Holiday
+12/02/2007,Monday,Union Day,Public Holiday
+03/03/2007,Saturday,Peasants' Day,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+27/03/2007,Tuesday,Armed Forces' Day,Public Holiday
+01/05/2007,Tuesday,Labor Day / May Day,Public Holiday
+22/06/2007,Friday,June Solstice,Season
+19/07/2007,Thursday,Martyrs' Day,Public Holiday
+23/09/2007,Sunday,September Equinox,Season
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+31/12/2007,Monday,New Year Holiday,Public Holiday
+01/01/2008,Tuesday,New Year Holiday,Public Holiday
+04/01/2008,Friday,Independence Day,Public Holiday
+12/02/2008,Tuesday,Union Day,Public Holiday
+03/03/2008,Monday,Peasants' Day,Public Holiday
+06/03/2008,Thursday,Maha Shivaratri,Hindu Holiday
+20/03/2008,Thursday,March Equinox,Season
+22/03/2008,Saturday,Holi,Hindu Holiday
+27/03/2008,Thursday,Armed Forces' Day,Public Holiday
+01/05/2008,Thursday,Labor Day / May Day,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+19/07/2008,Saturday,Martyrs' Day,Public Holiday
+16/08/2008,Saturday,Raksha Bandhan,Hindu Holiday
+24/08/2008,Sunday,Janmashtami,Hindu Holiday
+03/09/2008,Wednesday,Ganesh Chaturthi,Hindu Holiday
+22/09/2008,Monday,September Equinox,Season
+30/09/2008,Tuesday,Navaratri,Hindu Holiday
+09/10/2008,Thursday,Dussehra,Hindu Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+31/12/2008,Wednesday,New Year Holiday,Public Holiday
+01/01/2009,Thursday,New Year Holiday,Public Holiday
+04/01/2009,Sunday,Independence Day,Public Holiday
+12/02/2009,Thursday,Union Day,Public Holiday
+23/02/2009,Monday,Maha Shivaratri,Hindu Holiday
+03/03/2009,Tuesday,Peasants' Day,Public Holiday
+11/03/2009,Wednesday,Holi,Hindu Holiday
+20/03/2009,Friday,March Equinox,Season
+27/03/2009,Friday,Armed Forces' Day,Public Holiday
+01/05/2009,Friday,Labor Day / May Day,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+19/07/2009,Sunday,Martyrs' Day,Public Holiday
+05/08/2009,Wednesday,Raksha Bandhan,Hindu Holiday
+13/08/2009,Thursday,Janmashtami,Hindu Holiday
+23/08/2009,Sunday,Ganesh Chaturthi,Hindu Holiday
+19/09/2009,Saturday,Navaratri,Hindu Holiday
+23/09/2009,Wednesday,September Equinox,Season
+28/10/2009,Wednesday,Dussehra,Hindu Holiday
+22/12/2009,Tuesday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+31/12/2009,Thursday,New Year Holiday,Public Holiday
+01/01/2010,Friday,New Year Holiday,Public Holiday
+04/01/2010,Monday,Independence Day,Public Holiday
+12/02/2010,Friday,Maha Shivaratri,Hindu Holiday
+12/02/2010,Friday,Union Day,Public Holiday
+01/03/2010,Monday,Holi,Hindu Holiday
+03/03/2010,Wednesday,Peasants' Day,Public Holiday
+21/03/2010,Sunday,March Equinox,Season
+27/03/2010,Saturday,Armed Forces' Day,Public Holiday
+01/05/2010,Saturday,Labor Day / May Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+19/07/2010,Monday,Martyrs' Day,Public Holiday
+24/08/2010,Tuesday,Raksha Bandhan,Hindu Holiday
+01/09/2010,Wednesday,Janmashtami,Hindu Holiday
+11/09/2010,Saturday,Ganesh Chaturthi,Hindu Holiday
+23/09/2010,Thursday,September Equinox,Season
+08/10/2010,Friday,Navaratri,Hindu Holiday
+17/10/2010,Sunday,Dussehra,Hindu Holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+31/12/2010,Friday,New Year Holiday,Public Holiday
+01/01/2011,Saturday,New Year Holiday,Public Holiday
+04/01/2011,Tuesday,Independence Day,Public Holiday
+12/02/2011,Saturday,Union Day,Public Holiday
+02/03/2011,Wednesday,Maha Shivaratri,Hindu Holiday
+03/03/2011,Thursday,Peasants' Day,Public Holiday
+20/03/2011,Sunday,Holi,Hindu Holiday
+21/03/2011,Monday,March Equinox,Season
+27/03/2011,Sunday,Armed Forces' Day,Public Holiday
+01/05/2011,Sunday,Labor Day / May Day,Public Holiday
+21/06/2011,Tuesday,June Solstice,Season
+19/07/2011,Tuesday,Martyrs' Day,Public Holiday
+13/08/2011,Saturday,Raksha Bandhan,Hindu Holiday
+22/08/2011,Monday,Janmashtami,Hindu Holiday
+01/09/2011,Thursday,Ganesh Chaturthi,Hindu Holiday
+23/09/2011,Friday,September Equinox,Season
+28/09/2011,Wednesday,Navaratri,Hindu Holiday
+06/10/2011,Thursday,Dussehra,Hindu Holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+31/12/2011,Saturday,New Year Holiday,Public Holiday
+01/01/2012,Sunday,New Year Holiday,Public Holiday
+04/01/2012,Wednesday,Independence Day,Public Holiday
+10/02/2012,Friday,Maha Shivaratri,Hindu Holiday
+12/02/2012,Sunday,Union Day,Public Holiday
+03/03/2012,Saturday,Peasants' Day,Public Holiday
+08/03/2012,Thursday,Holi,Hindu Holiday
+20/03/2012,Tuesday,March Equinox,Season
+27/03/2012,Tuesday,Armed Forces' Day,Public Holiday
+01/05/2012,Tuesday,Labor Day / May Day,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+19/07/2012,Thursday,Martyrs' Day,Public Holiday
+02/08/2012,Thursday,Raksha Bandhan,Hindu Holiday
+09/08/2012,Thursday,Janmashtami,Hindu Holiday
+19/09/2012,Wednesday,Ganesh Chaturthi,Hindu Holiday
+22/09/2012,Saturday,September Equinox,Season
+16/10/2012,Tuesday,Navaratri,Hindu Holiday
+24/10/2012,Wednesday,Dussehra,Hindu Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+31/12/2012,Monday,New Year Holiday,Public Holiday
+01/01/2013,Tuesday,New Year Holiday,Public Holiday
+04/01/2013,Friday,Independence Day,Public Holiday
+12/02/2013,Tuesday,Union Day,Public Holiday
+03/03/2013,Sunday,Peasants' Day,Public Holiday
+10/03/2013,Sunday,Maha Shivaratri,Hindu Holiday
+20/03/2013,Wednesday,March Equinox,Season
+27/03/2013,Wednesday,Holi,Hindu Holiday
+27/03/2013,Wednesday,Armed Forces' Day,Public Holiday
+01/05/2013,Wednesday,Labor Day / May Day,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+19/07/2013,Friday,Martyrs' Day,Public Holiday
+20/08/2013,Tuesday,Raksha Bandhan,Hindu Holiday
+28/08/2013,Wednesday,Janmashtami,Hindu Holiday
+09/09/2013,Monday,Ganesh Chaturthi,Hindu Holiday
+23/09/2013,Monday,September Equinox,Season
+05/10/2013,Saturday,Navaratri,Hindu Holiday
+13/10/2013,Sunday,Dussehra,Hindu Holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+31/12/2013,Tuesday,New Year Holiday,Public Holiday
+01/01/2014,Wednesday,New Year Holiday,Public Holiday
+04/01/2014,Saturday,Independence Day,Public Holiday
+12/02/2014,Wednesday,Union Day,Public Holiday
+27/02/2014,Thursday,Maha Shivaratri,Hindu Holiday
+03/03/2014,Monday,Peasants' Day,Public Holiday
+17/03/2014,Monday,Holi,Hindu Holiday
+20/03/2014,Thursday,March Equinox,Season
+27/03/2014,Thursday,Armed Forces' Day,Public Holiday
+01/05/2014,Thursday,Labor Day / May Day,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+19/07/2014,Saturday,Martyrs' Day,Public Holiday
+10/08/2014,Sunday,Raksha Bandhan,Hindu Holiday
+17/08/2014,Sunday,Janmashtami,Hindu Holiday
+29/08/2014,Friday,Ganesh Chaturthi,Hindu Holiday
+23/09/2014,Tuesday,September Equinox,Season
+25/09/2014,Thursday,Navaratri,Hindu Holiday
+03/10/2014,Friday,Dussehra,Hindu Holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+31/12/2014,Wednesday,New Year Holiday,Public Holiday
+01/01/2015,Thursday,New Year Holiday,Public Holiday
+04/01/2015,Sunday,Independence Day,Public Holiday
+12/02/2015,Thursday,Union Day,Public Holiday
+17/02/2015,Tuesday,Maha Shivaratri,Hindu Holiday
+03/03/2015,Tuesday,Peasants' Day,Public Holiday
+04/03/2015,Wednesday,Full Moon Day of Tabaung,Public Holiday
+06/03/2015,Friday,Holi,Hindu Holiday
+21/03/2015,Saturday,March Equinox,Season
+27/03/2015,Friday,Armed Forces' Day,Public Holiday
+12/04/2015,Sunday,Maha Thingyan (Water Festival),Public Holiday
+13/04/2015,Monday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2015,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2015,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2015,Thursday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2015,Friday,Maha Thingyan (Water Festival),Public Holiday
+18/04/2015,Saturday,Maha Thingyan (Water Festival),Public Holiday
+19/04/2015,Sunday,Maha Thingyan (Water Festival),Public Holiday
+20/04/2015,Monday,Maha Thingyan (Water Festival),Public Holiday
+21/04/2015,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+22/04/2015,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+01/05/2015,Friday,Labor Day / May Day,Public Holiday
+02/05/2015,Saturday,Full Moon Day of Kasong,Public Holiday
+21/06/2015,Sunday,June Solstice,Season
+19/07/2015,Sunday,Martyrs' Day,Public Holiday
+31/07/2015,Friday,Full Moon Day of Waso (Beginning of Buddhist Lent),Public Holiday
+29/08/2015,Saturday,Raksha Bandhan,Hindu Holiday
+05/09/2015,Saturday,Janmashtami,Hindu Holiday
+17/09/2015,Thursday,Ganesh Chaturthi,Hindu Holiday
+23/09/2015,Wednesday,September Equinox,Season
+14/10/2015,Wednesday,Navaratri,Hindu Holiday
+22/10/2015,Thursday,Dussehra,Hindu Holiday
+28/10/2015,Wednesday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+06/12/2015,Sunday,National Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+31/12/2015,Thursday,New Year Holiday,Public Holiday
+01/01/2016,Friday,New Year Holiday,Public Holiday
+04/01/2016,Monday,Independence Day,Public Holiday
+10/01/2016,Sunday,Kayin New Year Day,Public Holiday
+12/02/2016,Friday,Union Day,Public Holiday
+03/03/2016,Thursday,Peasants' Day,Public Holiday
+07/03/2016,Monday,Maha Shivaratri,Hindu Holiday
+20/03/2016,Sunday,March Equinox,Season
+23/03/2016,Wednesday,Full Moon Day of Tabaung,Public Holiday
+24/03/2016,Thursday,Holi,Hindu Holiday
+27/03/2016,Sunday,Armed Forces' Day,Public Holiday
+11/04/2016,Monday,Maha Thingyan (Water Festival),Public Holiday
+12/04/2016,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+13/04/2016,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2016,Thursday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2016,Friday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2016,Saturday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2016,Sunday,Maha Thingyan (Water Festival),Public Holiday
+18/04/2016,Monday,Maha Thingyan (Water Festival),Public Holiday
+19/04/2016,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+20/04/2016,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+21/04/2016,Thursday,Maha Thingyan (Water Festival),Public Holiday
+01/05/2016,Sunday,Labor Day / May Day,Public Holiday
+21/05/2016,Saturday,Full Moon Day of Kasong,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+19/07/2016,Tuesday,Martyrs' Day,Public Holiday
+19/07/2016,Tuesday,Full Moon Day of Waso (Beginning of Buddhist Lent),Public Holiday
+18/08/2016,Thursday,Raksha Bandhan,Hindu Holiday
+25/08/2016,Thursday,Janmashtami,Hindu Holiday
+05/09/2016,Monday,Ganesh Chaturthi,Hindu Holiday
+22/09/2016,Thursday,September Equinox,Season
+02/10/2016,Sunday,Navaratri,Hindu Holiday
+11/10/2016,Tuesday,Dussehra,Hindu Holiday
+16/10/2016,Sunday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+24/11/2016,Thursday,National Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+29/12/2016,Thursday,Kayin New Year Day,Public Holiday
+31/12/2016,Saturday,New Year Holiday,Public Holiday
+01/01/2017,Sunday,New Year Holiday,Public Holiday
+04/01/2017,Wednesday,Independence Day,Public Holiday
+12/02/2017,Sunday,Union Day,Public Holiday
+24/02/2017,Friday,Maha Shivaratri,Hindu Holiday
+02/03/2017,Thursday,Peasants' Day,Public Holiday
+12/03/2017,Sunday,Full Moon Day of Tabaung,Public Holiday
+13/03/2017,Monday,Holi,Hindu Holiday
+20/03/2017,Monday,March Equinox,Season
+27/03/2017,Monday,Armed Forces' Day,Public Holiday
+13/04/2017,Thursday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2017,Friday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2017,Saturday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2017,Sunday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2017,Monday,Kayin New Year Day,Public Holiday
+01/05/2017,Monday,Labor Day / May Day,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+19/07/2017,Wednesday,Martyrs' Day,Public Holiday
+07/08/2017,Monday,Raksha Bandhan,Hindu Holiday
+14/08/2017,Monday,Janmashtami,Hindu Holiday
+25/08/2017,Friday,Ganesh Chaturthi,Hindu Holiday
+21/09/2017,Thursday,Navaratri,Hindu Holiday
+23/09/2017,Saturday,September Equinox,Season
+30/09/2017,Saturday,Dussehra,Hindu Holiday
+13/11/2017,Monday,National Day,Public Holiday
+18/12/2017,Monday,Kayin New Year Day,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+31/12/2017,Sunday,New Year Holiday,Public Holiday
+01/01/2018,Monday,New Year Holiday,Public Holiday
+04/01/2018,Thursday,Independence Day,Public Holiday
+12/02/2018,Monday,Union Day,Public Holiday
+14/02/2018,Wednesday,Maha Shivaratri,Hindu Holiday
+01/03/2018,Thursday,Full Moon Day of Tabaung,Public Holiday
+02/03/2018,Friday,Holi,Hindu Holiday
+02/03/2018,Friday,Peasants' Day,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+27/03/2018,Tuesday,Armed Forces' Day,Public Holiday
+13/04/2018,Friday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2018,Saturday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2018,Sunday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2018,Monday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2018,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+29/04/2018,Sunday,Full Moon Day of Kasong,Public Holiday
+01/05/2018,Tuesday,Labor Day / May Day,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+19/07/2018,Thursday,Martyrs' Day,Public Holiday
+27/07/2018,Friday,Full Moon Day of Waso (Beginning of Buddhist Lent),Public Holiday
+26/08/2018,Sunday,Raksha Bandhan,Hindu Holiday
+02/09/2018,Sunday,Janmashtami,Hindu Holiday
+13/09/2018,Thursday,Ganesh Chaturthi,Hindu Holiday
+23/09/2018,Sunday,September Equinox,Season
+10/10/2018,Wednesday,Navaratri,Hindu Holiday
+19/10/2018,Friday,Dussehra,Hindu Holiday
+23/10/2018,Tuesday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+24/10/2018,Wednesday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+25/10/2018,Thursday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+10/11/2018,Saturday,Diwali/Deepavali,Public Holiday
+21/11/2018,Wednesday,Full Moon Day of Tazaungmone,Public Holiday
+22/11/2018,Thursday,Full Moon Day of Tazaungmone Holiday,Public Holiday
+02/12/2018,Sunday,National Day,Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+31/12/2018,Monday,New Year Holiday,Public Holiday
+01/01/2019,Tuesday,New Year Holiday,Public Holiday
+04/01/2019,Friday,Independence Day,Public Holiday
+06/01/2019,Sunday,Kayin New Year Day,Public Holiday
+12/02/2019,Tuesday,Union Day,Public Holiday
+02/03/2019,Saturday,Peasants' Day,Public Holiday
+04/03/2019,Monday,Maha Shivaratri,Hindu Holiday
+20/03/2019,Wednesday,Full Moon Day of Tabaung,Public Holiday
+21/03/2019,Thursday,Holi,Hindu Holiday
+21/03/2019,Thursday,March Equinox,Season
+27/03/2019,Wednesday,Armed Forces' Day,Public Holiday
+13/04/2019,Saturday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2019,Sunday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2019,Monday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2019,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2019,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+01/05/2019,Wednesday,Labor Day / May Day,Public Holiday
+18/05/2019,Saturday,Full Moon Day of Kasong,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+16/07/2019,Tuesday,Full Moon Day of Waso (Beginning of Buddhist Lent),Public Holiday
+19/07/2019,Friday,Martyrs' Day,Public Holiday
+15/08/2019,Thursday,Raksha Bandhan,Hindu Holiday
+24/08/2019,Saturday,Janmashtami,Hindu Holiday
+02/09/2019,Monday,Ganesh Chaturthi,Hindu Holiday
+23/09/2019,Monday,September Equinox,Season
+29/09/2019,Sunday,Navaratri,Hindu Holiday
+08/10/2019,Tuesday,Dussehra,Hindu Holiday
+12/10/2019,Saturday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+13/10/2019,Sunday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+14/10/2019,Monday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+27/10/2019,Sunday,Diwali/Deepavali,Public Holiday
+28/10/2019,Monday,Day off for Diwali/Deepavali,Public Holiday
+10/11/2019,Sunday,Full Moon Day of Tazaungmone,Public Holiday
+11/11/2019,Monday,Full Moon Day of Tazaungmone Holiday,Public Holiday
+21/11/2019,Thursday,National Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Kayin New Year Day,Public Holiday
+31/12/2019,Tuesday,New Year Holiday,Public Holiday
+01/01/2020,Wednesday,New Year Holiday,Public Holiday
+04/01/2020,Saturday,Independence Day,Public Holiday
+12/02/2020,Wednesday,Union Day,Public Holiday
+21/02/2020,Friday,Maha Shivaratri,Hindu Holiday
+02/03/2020,Monday,Peasants' Day,Public Holiday
+08/03/2020,Sunday,Full Moon Day of Tabaung,Public Holiday
+10/03/2020,Tuesday,Holi,Hindu Holiday
+20/03/2020,Friday,March Equinox,Season
+27/03/2020,Friday,Armed Forces' Day,Public Holiday
+13/04/2020,Monday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2020,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2020,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2020,Thursday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2020,Friday,Maha Thingyan (Water Festival),Public Holiday
+01/05/2020,Friday,Labor Day / May Day,Public Holiday
+06/05/2020,Wednesday,Full Moon Day of Kasong,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+19/07/2020,Sunday,Martyrs' Day,Public Holiday
+31/07/2020,Friday,Eid al-Adha Holiday,Public Holiday
+01/08/2020,Saturday,Eid al-Adha,Public Holiday
+03/08/2020,Monday,Raksha Bandhan,Hindu Holiday
+11/08/2020,Tuesday,Janmashtami,Hindu Holiday
+22/08/2020,Saturday,Ganesh Chaturthi,Hindu Holiday
+22/09/2020,Tuesday,September Equinox,Season
+01/10/2020,Thursday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+17/10/2020,Saturday,Navaratri,Hindu Holiday
+25/10/2020,Sunday,Dussehra,Hindu Holiday
+29/10/2020,Thursday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+31/10/2020,Saturday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+02/11/2020,Monday,Day off for Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+14/11/2020,Saturday,Diwali/Deepavali (Tentative Date),Public Holiday
+28/11/2020,Saturday,Full Moon Day of Tazaungmone,Public Holiday
+29/11/2020,Sunday,Full Moon Day of Tazaungmone Holiday,Public Holiday
+09/12/2020,Wednesday,National Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+31/12/2020,Thursday,New Year Holiday,Public Holiday
+01/01/2021,Friday,New Year Holiday,Public Holiday
+04/01/2021,Monday,Independence Day,Public Holiday
+13/01/2021,Wednesday,Kayin New Year Day,Public Holiday
+12/02/2021,Friday,Union Day,Public Holiday
+02/03/2021,Tuesday,Peasants' Day,Public Holiday
+11/03/2021,Thursday,Maha Shivaratri,Hindu Holiday
+20/03/2021,Saturday,March Equinox,Season
+26/03/2021,Friday,Day off for Full Moon Day of Tabaung,Public Holiday
+27/03/2021,Saturday,Armed Forces' Day,Public Holiday
+27/03/2021,Saturday,Full Moon Day of Tabaung,Public Holiday
+29/03/2021,Monday,Holi,Hindu Holiday
+29/03/2021,Monday,Day off for Armed Forces' Day,Public Holiday
+13/04/2021,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2021,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2021,Thursday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2021,Friday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2021,Saturday,Maha Thingyan (Water Festival),Public Holiday
+18/04/2021,Sunday,Maha Thingyan (Water Festival),Public Holiday
+19/04/2021,Monday,Maha Thingyan (Water Festival),Public Holiday
+01/05/2021,Saturday,Labor Day / May Day,Public Holiday
+25/05/2021,Tuesday,Full Moon Day of Kasong,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+19/07/2021,Monday,Martyrs' Day,Public Holiday
+20/07/2021,Tuesday,Public Holiday,Public Holiday
+21/07/2021,Wednesday,Eid al-Adha,Public Holiday
+22/07/2021,Thursday,Public Holiday,Public Holiday
+23/07/2021,Friday,Full Moon Day of Waso (Beginning of Buddhist Lent),Public Holiday
+26/07/2021,Monday,Public Holiday,Public Holiday
+27/07/2021,Tuesday,Public Holiday,Public Holiday
+28/07/2021,Wednesday,Public Holiday,Public Holiday
+29/07/2021,Thursday,Public Holiday,Public Holiday
+30/07/2021,Friday,Public Holiday,Public Holiday
+31/07/2021,Saturday,Public Holiday,Public Holiday
+01/08/2021,Sunday,Public Holiday,Public Holiday
+02/08/2021,Monday,Public Holiday,Public Holiday
+03/08/2021,Tuesday,Public Holiday,Public Holiday
+04/08/2021,Wednesday,Public Holiday,Public Holiday
+05/08/2021,Thursday,Public Holiday,Public Holiday
+06/08/2021,Friday,Public Holiday,Public Holiday
+07/08/2021,Saturday,Public Holiday,Public Holiday
+08/08/2021,Sunday,Public Holiday,Public Holiday
+09/08/2021,Monday,Public Holiday,Public Holiday
+10/08/2021,Tuesday,Public Holiday,Public Holiday
+11/08/2021,Wednesday,Public Holiday,Public Holiday
+12/08/2021,Thursday,Public Holiday,Public Holiday
+13/08/2021,Friday,Public Holiday,Public Holiday
+14/08/2021,Saturday,Public Holiday,Public Holiday
+15/08/2021,Sunday,Public Holiday,Public Holiday
+16/08/2021,Monday,Public Holiday,Public Holiday
+17/08/2021,Tuesday,Public Holiday,Public Holiday
+18/08/2021,Wednesday,Public Holiday,Public Holiday
+19/08/2021,Thursday,Public Holiday,Public Holiday
+20/08/2021,Friday,Public Holiday,Public Holiday
+21/08/2021,Saturday,Public Holiday,Public Holiday
+22/08/2021,Sunday,Raksha Bandhan,Hindu Holiday
+22/08/2021,Sunday,Public Holiday,Public Holiday
+23/08/2021,Monday,Public Holiday,Public Holiday
+24/08/2021,Tuesday,Public Holiday,Public Holiday
+25/08/2021,Wednesday,Public Holiday,Public Holiday
+26/08/2021,Thursday,Public Holiday,Public Holiday
+27/08/2021,Friday,Public Holiday,Public Holiday
+28/08/2021,Saturday,Public Holiday,Public Holiday
+29/08/2021,Sunday,Public Holiday,Public Holiday
+30/08/2021,Monday,Janmashtami,Hindu Holiday
+30/08/2021,Monday,Public Holiday,Public Holiday
+31/08/2021,Tuesday,Public Holiday,Public Holiday
+01/09/2021,Wednesday,Public Holiday,Public Holiday
+02/09/2021,Thursday,Public Holiday,Public Holiday
+03/09/2021,Friday,Public Holiday,Public Holiday
+04/09/2021,Saturday,Public Holiday,Public Holiday
+05/09/2021,Sunday,Public Holiday,Public Holiday
+06/09/2021,Monday,Public Holiday,Public Holiday
+07/09/2021,Tuesday,Public Holiday,Public Holiday
+08/09/2021,Wednesday,Public Holiday,Public Holiday
+09/09/2021,Thursday,Public Holiday,Public Holiday
+10/09/2021,Friday,Ganesh Chaturthi,Hindu Holiday
+10/09/2021,Friday,Public Holiday,Public Holiday
+11/09/2021,Saturday,Public Holiday,Public Holiday
+12/09/2021,Sunday,Public Holiday,Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+07/10/2021,Thursday,Navaratri,Hindu Holiday
+15/10/2021,Friday,Dussehra,Hindu Holiday
+19/10/2021,Tuesday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+20/10/2021,Wednesday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+21/10/2021,Thursday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+04/11/2021,Thursday,Diwali/Deepavali (Tentative Date),Public Holiday
+17/11/2021,Wednesday,Full Moon Day of Tazaungmone Holiday,Public Holiday
+18/11/2021,Thursday,Full Moon Day of Tazaungmone,Public Holiday
+28/11/2021,Sunday,National Day,Public Holiday
+29/11/2021,Monday,Day off for National Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+31/12/2021,Friday,New Year Holiday,Public Holiday
+01/01/2022,Saturday,New Year Holiday,Public Holiday
+02/01/2022,Sunday,Kayin New Year Day,Public Holiday
+04/01/2022,Tuesday,Independence Day,Public Holiday
+12/02/2022,Saturday,Union Day,Public Holiday
+01/03/2022,Tuesday,Maha Shivaratri,Hindu Holiday
+02/03/2022,Wednesday,Peasants' Day,Public Holiday
+16/03/2022,Wednesday,Full Moon Day of Tabaung,Public Holiday
+18/03/2022,Friday,Holi,Hindu Holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Armed Forces' Day,Public Holiday
+09/04/2022,Saturday,Maha Thingyan (Water Festival),Public Holiday
+10/04/2022,Sunday,Maha Thingyan (Water Festival),Public Holiday
+11/04/2022,Monday,Maha Thingyan (Water Festival),Public Holiday
+12/04/2022,Tuesday,Maha Thingyan (Water Festival),Public Holiday
+13/04/2022,Wednesday,Maha Thingyan (Water Festival),Public Holiday
+14/04/2022,Thursday,Maha Thingyan (Water Festival),Public Holiday
+15/04/2022,Friday,Maha Thingyan (Water Festival),Public Holiday
+16/04/2022,Saturday,Maha Thingyan (Water Festival),Public Holiday
+17/04/2022,Sunday,Maha Thingyan (Water Festival),Public Holiday
+01/05/2022,Sunday,Labor Day / May Day,Public Holiday
+14/05/2022,Saturday,Full Moon Day of Kasong,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+10/07/2022,Sunday,Eid al-Adha (Tentative Date),Public Holiday
+12/07/2022,Tuesday,Full Moon Day of Waso (Beginning of Buddhist Lent),Public Holiday
+19/07/2022,Tuesday,Martyrs' Day,Public Holiday
+11/08/2022,Thursday,Raksha Bandhan,Hindu Holiday
+18/08/2022,Thursday,Janmashtami,Hindu Holiday
+31/08/2022,Wednesday,Ganesh Chaturthi,Hindu Holiday
+23/09/2022,Friday,September Equinox,Season
+26/09/2022,Monday,Navaratri,Hindu Holiday
+05/10/2022,Wednesday,Dussehra,Hindu Holiday
+08/10/2022,Saturday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+09/10/2022,Sunday,Full Moon Day of Thadingyut (End of Buddhist Lent),Public Holiday
+10/10/2022,Monday,Full Moon Day of Thadingyut Holiday (End of Buddhist Lent),Public Holiday
+24/10/2022,Monday,Diwali/Deepavali (Tentative Date),Public Holiday
+06/11/2022,Sunday,Full Moon Day of Tazaungmone,Public Holiday
+07/11/2022,Monday,Full Moon Day of Tazaungmone Holiday,Public Holiday
+17/11/2022,Thursday,National Day,Public Holiday
+22/12/2022,Thursday,Kayin New Year Day,Public Holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+31/12/2022,Saturday,New Year Holiday,Public Holiday
