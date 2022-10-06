@@ -1,0 +1,431 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+03/01/2000,Monday,Day off for New Year's Day,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+26/03/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+21/04/2000,Friday,Good Friday,Public Holiday
+24/04/2000,Monday,Easter Monday,Public Holiday
+01/05/2000,Monday,May Day,Public Holiday
+09/05/2000,Tuesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2000,Wednesday,Liberation Day (only Sark),Common local holiday
+29/05/2000,Monday,Spring Bank Holiday,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+07/08/2000,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+28/08/2000,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2000,Friday,September Equinox,Season
+29/10/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2000,Friday,Homecoming Day (only Alderney),Common local holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+13/04/2001,Friday,Good Friday,Public Holiday
+16/04/2001,Monday,Easter Monday,Public Holiday
+07/05/2001,Monday,May Day,Public Holiday
+09/05/2001,Wednesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2001,Thursday,Liberation Day (only Sark),Common local holiday
+28/05/2001,Monday,Spring Bank Holiday,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+06/08/2001,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+27/08/2001,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2001,Sunday,September Equinox,Season
+28/10/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2001,Saturday,Homecoming Day (only Alderney),Common local holiday
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+31/03/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2002,Monday,Easter Monday,Public Holiday
+06/05/2002,Monday,May Day,Public Holiday
+09/05/2002,Thursday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2002,Friday,Liberation Day (only Sark),Common local holiday
+27/05/2002,Monday,Spring Bank Holiday,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+05/08/2002,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+26/08/2002,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2002,Monday,September Equinox,Season
+27/10/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2002,Sunday,Homecoming Day (only Alderney),Common local holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+18/04/2003,Friday,Good Friday,Public Holiday
+21/04/2003,Monday,Easter Monday,Public Holiday
+05/05/2003,Monday,May Day,Public Holiday
+09/05/2003,Friday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2003,Saturday,Liberation Day (only Sark),Common local holiday
+26/05/2003,Monday,Spring Bank Holiday,Public Holiday
+21/06/2003,Saturday,June Solstice,Season
+04/08/2003,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+25/08/2003,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2003,Tuesday,September Equinox,Season
+26/10/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2003,Monday,Homecoming Day (only Alderney),Common local holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+28/03/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+09/04/2004,Friday,Good Friday,Public Holiday
+12/04/2004,Monday,Easter Monday,Public Holiday
+03/05/2004,Monday,May Day,Public Holiday
+09/05/2004,Sunday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2004,Monday,Liberation Day (only Sark),Common local holiday
+31/05/2004,Monday,Spring Bank Holiday,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+02/08/2004,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+30/08/2004,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2004,Wednesday,September Equinox,Season
+31/10/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2004,Wednesday,Homecoming Day (only Alderney),Common local holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+27/12/2004,Monday,Bank Holiday,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+03/01/2005,Monday,Day off for New Year's Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+27/03/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2005,Monday,Easter Monday,Public Holiday
+02/05/2005,Monday,May Day,Public Holiday
+09/05/2005,Monday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2005,Tuesday,Liberation Day (only Sark),Common local holiday
+30/05/2005,Monday,Spring Bank Holiday,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+01/08/2005,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+29/08/2005,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2005,Thursday,September Equinox,Season
+30/10/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2005,Thursday,Homecoming Day (only Alderney),Common local holiday
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+27/12/2005,Tuesday,Bank Holiday,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,Day off for New Year's Day,Public Holiday
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2006,Friday,Good Friday,Public Holiday
+17/04/2006,Monday,Easter Monday,Public Holiday
+01/05/2006,Monday,May Day,Public Holiday
+09/05/2006,Tuesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2006,Wednesday,Liberation Day (only Sark),Common local holiday
+29/05/2006,Monday,Spring Bank Holiday,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+07/08/2006,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+28/08/2006,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2006,Saturday,September Equinox,Season
+29/10/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2006,Friday,Homecoming Day (only Alderney),Common local holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+25/03/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2007,Friday,Good Friday,Public Holiday
+09/04/2007,Monday,Easter Monday,Public Holiday
+07/05/2007,Monday,May Day,Public Holiday
+09/05/2007,Wednesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2007,Thursday,Liberation Day (only Sark),Common local holiday
+28/05/2007,Monday,Spring Bank Holiday,Public Holiday
+21/06/2007,Thursday,June Solstice,Season
+06/08/2007,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+27/08/2007,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2007,Sunday,September Equinox,Season
+28/10/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2007,Saturday,Homecoming Day (only Alderney),Common local holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+24/03/2008,Monday,Easter Monday,Public Holiday
+30/03/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+05/05/2008,Monday,May Day,Public Holiday
+09/05/2008,Friday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2008,Saturday,Liberation Day (only Sark),Common local holiday
+26/05/2008,Monday,Spring Bank Holiday,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+04/08/2008,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+25/08/2008,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2008,Monday,September Equinox,Season
+26/10/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2008,Monday,Homecoming Day (only Alderney),Common local holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+29/03/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2009,Friday,Good Friday,Public Holiday
+13/04/2009,Monday,Easter Monday,Public Holiday
+04/05/2009,Monday,May Day,Public Holiday
+09/05/2009,Saturday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2009,Sunday,Liberation Day (only Sark),Common local holiday
+25/05/2009,Monday,Spring Bank Holiday,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+03/08/2009,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+31/08/2009,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2009,Tuesday,September Equinox,Season
+25/10/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2009,Tuesday,Homecoming Day (only Alderney),Common local holiday
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2010,Friday,Good Friday,Public Holiday
+05/04/2010,Monday,Easter Monday,Public Holiday
+03/05/2010,Monday,May Day,Public Holiday
+09/05/2010,Sunday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2010,Monday,Liberation Day (only Sark),Common local holiday
+31/05/2010,Monday,Spring Bank Holiday,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+02/08/2010,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+30/08/2010,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2010,Thursday,September Equinox,Season
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2010,Wednesday,Homecoming Day (only Alderney),Common local holiday
+21/12/2010,Tuesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+27/12/2010,Monday,Bank Holiday,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+03/01/2011,Monday,Day off for New Year's Day,Public Holiday
+20/03/2011,Sunday,March Equinox,Season
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+22/04/2011,Friday,Good Friday,Public Holiday
+25/04/2011,Monday,Easter Monday,Public Holiday
+02/05/2011,Monday,May Day,Public Holiday
+09/05/2011,Monday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2011,Tuesday,Liberation Day (only Sark),Common local holiday
+30/05/2011,Monday,Spring Bank Holiday,Public Holiday
+21/06/2011,Tuesday,June Solstice,Season
+01/08/2011,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+29/08/2011,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2011,Friday,September Equinox,Season
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2011,Thursday,Homecoming Day (only Alderney),Common local holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+27/12/2011,Tuesday,Bank Holiday,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,Day off for New Year's Day,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+06/04/2012,Friday,Good Friday,Public Holiday
+09/04/2012,Monday,Easter Monday,Public Holiday
+07/05/2012,Monday,May Day,Public Holiday
+09/05/2012,Wednesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2012,Thursday,Liberation Day (only Sark),Common local holiday
+28/05/2012,Monday,Spring Bank Holiday,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+06/08/2012,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+27/08/2012,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2012,Saturday,September Equinox,Season
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2012,Saturday,Homecoming Day (only Alderney),Common local holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2013,Monday,Easter Monday,Public Holiday
+06/05/2013,Monday,May Day,Public Holiday
+09/05/2013,Thursday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2013,Friday,Liberation Day (only Sark),Common local holiday
+27/05/2013,Monday,Spring Bank Holiday,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+05/08/2013,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+26/08/2013,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2013,Sunday,September Equinox,Season
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2013,Sunday,Homecoming Day (only Alderney),Common local holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+18/04/2014,Friday,Good Friday,Public Holiday
+21/04/2014,Monday,Easter Monday,Public Holiday
+05/05/2014,Monday,May Day,Public Holiday
+09/05/2014,Friday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2014,Saturday,Liberation Day (only Sark),Common local holiday
+26/05/2014,Monday,Spring Bank Holiday,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+04/08/2014,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+25/08/2014,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2014,Tuesday,September Equinox,Season
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2014,Monday,Homecoming Day (only Alderney),Common local holiday
+21/12/2014,Sunday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+20/03/2015,Friday,March Equinox,Season
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+03/04/2015,Friday,Good Friday,Public Holiday
+06/04/2015,Monday,Easter Monday,Public Holiday
+04/05/2015,Monday,May Day,Public Holiday
+09/05/2015,Saturday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2015,Sunday,Liberation Day (only Sark),Common local holiday
+25/05/2015,Monday,Spring Bank Holiday,Public Holiday
+21/06/2015,Sunday,June Solstice,Season
+03/08/2015,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+31/08/2015,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2015,Wednesday,September Equinox,Season
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2015,Tuesday,Homecoming Day (only Alderney),Common local holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2016,Monday,Easter Monday,Public Holiday
+02/05/2016,Monday,May Day,Public Holiday
+09/05/2016,Monday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2016,Tuesday,Liberation Day (only Sark),Common local holiday
+30/05/2016,Monday,Spring Bank Holiday,Public Holiday
+20/06/2016,Monday,June Solstice,Season
+01/08/2016,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+29/08/2016,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2016,Thursday,September Equinox,Season
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2016,Thursday,Homecoming Day (only Alderney),Common local holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+27/12/2016,Tuesday,Bank Holiday,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,Day off for New Year's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2017,Friday,Good Friday,Public Holiday
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,May Day,Public Holiday
+09/05/2017,Tuesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2017,Wednesday,Liberation Day (only Sark),Common local holiday
+29/05/2017,Monday,Spring Bank Holiday,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+07/08/2017,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+28/08/2017,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2017,Friday,September Equinox,Season
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2017,Friday,Homecoming Day (only Alderney),Common local holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+30/03/2018,Friday,Good Friday,Public Holiday
+02/04/2018,Monday,Easter Monday,Public Holiday
+07/05/2018,Monday,May Day,Public Holiday
+09/05/2018,Wednesday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2018,Thursday,Liberation Day (only Sark),Common local holiday
+28/05/2018,Monday,Spring Bank Holiday,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+06/08/2018,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+27/08/2018,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2018,Sunday,September Equinox,Season
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2018,Saturday,Homecoming Day (only Alderney),Common local holiday
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+20/03/2019,Wednesday,March Equinox,Season
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+19/04/2019,Friday,Good Friday,Public Holiday
+22/04/2019,Monday,Easter Monday,Public Holiday
+06/05/2019,Monday,May Day,Public Holiday
+09/05/2019,Thursday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2019,Friday,Liberation Day (only Sark),Common local holiday
+27/05/2019,Monday,Spring Bank Holiday,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+05/08/2019,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+26/08/2019,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+23/09/2019,Monday,September Equinox,Season
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2019,Sunday,Homecoming Day (only Alderney),Common local holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2020,Friday,Good Friday,Public Holiday
+13/04/2020,Monday,Easter Monday,Public Holiday
+08/05/2020,Friday,May Day,Public Holiday
+09/05/2020,Saturday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2020,Sunday,Liberation Day (only Sark),Common local holiday
+25/05/2020,Monday,Spring Bank Holiday,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+03/08/2020,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+31/08/2020,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2020,Tuesday,September Equinox,Season
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2020,Tuesday,Homecoming Day (only Alderney),Common local holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2021,Friday,Good Friday,Public Holiday
+05/04/2021,Monday,Easter Monday,Public Holiday
+03/05/2021,Monday,May Day,Public Holiday
+09/05/2021,Sunday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2021,Monday,Liberation Day (only Sark),Common local holiday
+31/05/2021,Monday,Spring Bank Holiday,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+02/08/2021,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+30/08/2021,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+22/09/2021,Wednesday,September Equinox,Season
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2021,Wednesday,Homecoming Day (only Alderney),Common local holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Bank Holiday,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+03/01/2022,Monday,Day off for New Year's Day,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+15/04/2022,Friday,Good Friday,Public Holiday
+18/04/2022,Monday,Easter Monday,Public Holiday
+02/05/2022,Monday,May Day,Public Holiday
+09/05/2022,Monday,Liberation Day (except Alderney and Sark),Common local holiday
+10/05/2022,Tuesday,Liberation Day (only Sark),Common local holiday
+30/05/2022,Monday,Spring Bank Holiday,Public Holiday
+03/06/2022,Friday,Queen Elizabeth II's Platinum Jubilee,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+01/08/2022,Monday,Summer Bank Holiday (only Alderney),Common local holiday
+29/08/2022,Monday,Summer Bank Holiday (except Alderney),Common local holiday
+19/09/2022,Monday,Queen Elizabeth II's Funeral Day,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+15/12/2022,Thursday,Homecoming Day (only Alderney),Common local holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+27/12/2022,Tuesday,Bank Holiday,Public Holiday

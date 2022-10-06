@@ -1,0 +1,449 @@
+Date,Day,Name,Type
+01/01/2007,Monday,New Year's Day,National holiday
+06/01/2007,Saturday,Twelfth Night,Observance
+14/02/2007,Wednesday,Valentine's Day,Observance
+21/02/2007,Wednesday,Ash Wednesday,Observance
+21/03/2007,Wednesday,March Equinox,Season
+05/04/2007,Thursday,Maundy Thursday,National holiday
+06/04/2007,Friday,Good Friday,National holiday
+07/04/2007,Saturday,Holy Saturday,Observance
+08/04/2007,Sunday,Easter Sunday,National holiday
+09/04/2007,Monday,Easter Monday,National holiday
+19/04/2007,Thursday,First Day of Summer,National holiday
+01/05/2007,Tuesday,Labour Day,National holiday
+13/05/2007,Sunday,Mothers' Day,Observance
+17/05/2007,Thursday,Ascension Day,National holiday
+27/05/2007,Sunday,Whit Sunday,National holiday
+28/05/2007,Monday,Whit Monday,National holiday
+17/06/2007,Sunday,Icelandic Republic Day,National holiday
+21/06/2007,Thursday,June Solstice,Season
+06/08/2007,Monday,Commerce Day,National holiday
+23/09/2007,Sunday,September Equinox,Season
+31/10/2007,Wednesday,Halloween,Observance
+11/11/2007,Sunday,Fathers' Day,Observance
+01/12/2007,Saturday,Independence Day,Observance
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve (from noon),National holiday
+25/12/2007,Tuesday,Christmas Day,National holiday
+26/12/2007,Wednesday,Second Day of Christmas,National holiday
+31/12/2007,Monday,New Year's Eve (from noon),National holiday
+01/01/2008,Tuesday,New Year's Day,National holiday
+06/01/2008,Sunday,Twelfth Night,Observance
+06/02/2008,Wednesday,Ash Wednesday,Observance
+14/02/2008,Thursday,Valentine's Day,Observance
+20/03/2008,Thursday,Maundy Thursday,National holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,National holiday
+22/03/2008,Saturday,Holy Saturday,Observance
+23/03/2008,Sunday,Easter Sunday,National holiday
+24/03/2008,Monday,Easter Monday,National holiday
+24/04/2008,Thursday,First Day of Summer,National holiday
+01/05/2008,Thursday,Labour Day,National holiday
+01/05/2008,Thursday,Ascension Day,National holiday
+11/05/2008,Sunday,Whit Sunday,National holiday
+11/05/2008,Sunday,Mothers' Day,Observance
+12/05/2008,Monday,Whit Monday,National holiday
+17/06/2008,Tuesday,Icelandic Republic Day,National holiday
+20/06/2008,Friday,June Solstice,Season
+04/08/2008,Monday,Commerce Day,National holiday
+22/09/2008,Monday,September Equinox,Season
+31/10/2008,Friday,Halloween,Observance
+09/11/2008,Sunday,Fathers' Day,Observance
+01/12/2008,Monday,Independence Day,Observance
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve (from noon),National holiday
+25/12/2008,Thursday,Christmas Day,National holiday
+26/12/2008,Friday,Second Day of Christmas,National holiday
+31/12/2008,Wednesday,New Year's Eve (from noon),National holiday
+01/01/2009,Thursday,New Year's Day,National holiday
+06/01/2009,Tuesday,Twelfth Night,Observance
+14/02/2009,Saturday,Valentine's Day,Observance
+25/02/2009,Wednesday,Ash Wednesday,Observance
+20/03/2009,Friday,March Equinox,Season
+09/04/2009,Thursday,Maundy Thursday,National holiday
+10/04/2009,Friday,Good Friday,National holiday
+11/04/2009,Saturday,Holy Saturday,Observance
+12/04/2009,Sunday,Easter Sunday,National holiday
+13/04/2009,Monday,Easter Monday,National holiday
+23/04/2009,Thursday,First Day of Summer,National holiday
+01/05/2009,Friday,Labour Day,National holiday
+10/05/2009,Sunday,Mothers' Day,Observance
+21/05/2009,Thursday,Ascension Day,National holiday
+31/05/2009,Sunday,Whit Sunday,National holiday
+01/06/2009,Monday,Whit Monday,National holiday
+17/06/2009,Wednesday,Icelandic Republic Day,National holiday
+21/06/2009,Sunday,June Solstice,Season
+03/08/2009,Monday,Commerce Day,National holiday
+22/09/2009,Tuesday,September Equinox,Season
+31/10/2009,Saturday,Halloween,Observance
+08/11/2009,Sunday,Fathers' Day,Observance
+01/12/2009,Tuesday,Independence Day,Observance
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve (from noon),National holiday
+25/12/2009,Friday,Christmas Day,National holiday
+26/12/2009,Saturday,Second Day of Christmas,National holiday
+31/12/2009,Thursday,New Year's Eve (from noon),National holiday
+01/01/2010,Friday,New Year's Day,National holiday
+06/01/2010,Wednesday,Twelfth Night,Observance
+14/02/2010,Sunday,Valentine's Day,Observance
+17/02/2010,Wednesday,Ash Wednesday,Observance
+20/03/2010,Saturday,March Equinox,Season
+01/04/2010,Thursday,Maundy Thursday,National holiday
+02/04/2010,Friday,Good Friday,National holiday
+03/04/2010,Saturday,Holy Saturday,Observance
+04/04/2010,Sunday,Easter Sunday,National holiday
+05/04/2010,Monday,Easter Monday,National holiday
+22/04/2010,Thursday,First Day of Summer,National holiday
+01/05/2010,Saturday,Labour Day,National holiday
+09/05/2010,Sunday,Mothers' Day,Observance
+13/05/2010,Thursday,Ascension Day,National holiday
+23/05/2010,Sunday,Whit Sunday,National holiday
+24/05/2010,Monday,Whit Monday,National holiday
+17/06/2010,Thursday,Icelandic Republic Day,National holiday
+21/06/2010,Monday,June Solstice,Season
+02/08/2010,Monday,Commerce Day,National holiday
+23/09/2010,Thursday,September Equinox,Season
+31/10/2010,Sunday,Halloween,Observance
+14/11/2010,Sunday,Fathers' Day,Observance
+01/12/2010,Wednesday,Independence Day,Observance
+21/12/2010,Tuesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve (from noon),National holiday
+25/12/2010,Saturday,Christmas Day,National holiday
+26/12/2010,Sunday,Second Day of Christmas,National holiday
+31/12/2010,Friday,New Year's Eve (from noon),National holiday
+01/01/2011,Saturday,New Year's Day,National holiday
+06/01/2011,Thursday,Twelfth Night,Observance
+14/02/2011,Monday,Valentine's Day,Observance
+09/03/2011,Wednesday,Ash Wednesday,Observance
+20/03/2011,Sunday,March Equinox,Season
+21/04/2011,Thursday,Maundy Thursday,National holiday
+21/04/2011,Thursday,First Day of Summer,National holiday
+22/04/2011,Friday,Good Friday,National holiday
+23/04/2011,Saturday,Holy Saturday,Observance
+24/04/2011,Sunday,Easter Sunday,National holiday
+25/04/2011,Monday,Easter Monday,National holiday
+01/05/2011,Sunday,Labour Day,National holiday
+08/05/2011,Sunday,Mothers' Day,Observance
+02/06/2011,Thursday,Ascension Day,National holiday
+12/06/2011,Sunday,Whit Sunday,National holiday
+13/06/2011,Monday,Whit Monday,National holiday
+17/06/2011,Friday,Icelandic Republic Day,National holiday
+21/06/2011,Tuesday,June Solstice,Season
+01/08/2011,Monday,Commerce Day,National holiday
+23/09/2011,Friday,September Equinox,Season
+31/10/2011,Monday,Halloween,Observance
+13/11/2011,Sunday,Fathers' Day,Observance
+01/12/2011,Thursday,Independence Day,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve (from noon),National holiday
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,Second Day of Christmas,National holiday
+31/12/2011,Saturday,New Year's Eve (from noon),National holiday
+01/01/2012,Sunday,New Year's Day,National holiday
+06/01/2012,Friday,Twelfth Night,Observance
+14/02/2012,Tuesday,Valentine's Day,Observance
+22/02/2012,Wednesday,Ash Wednesday,Observance
+20/03/2012,Tuesday,March Equinox,Season
+05/04/2012,Thursday,Maundy Thursday,National holiday
+06/04/2012,Friday,Good Friday,National holiday
+07/04/2012,Saturday,Holy Saturday,Observance
+08/04/2012,Sunday,Easter Sunday,National holiday
+09/04/2012,Monday,Easter Monday,National holiday
+19/04/2012,Thursday,First Day of Summer,National holiday
+01/05/2012,Tuesday,Labour Day,National holiday
+13/05/2012,Sunday,Mothers' Day,Observance
+17/05/2012,Thursday,Ascension Day,National holiday
+27/05/2012,Sunday,Whit Sunday,National holiday
+28/05/2012,Monday,Whit Monday,National holiday
+17/06/2012,Sunday,Icelandic Republic Day,National holiday
+20/06/2012,Wednesday,June Solstice,Season
+06/08/2012,Monday,Commerce Day,National holiday
+22/09/2012,Saturday,September Equinox,Season
+31/10/2012,Wednesday,Halloween,Observance
+11/11/2012,Sunday,Fathers' Day,Observance
+01/12/2012,Saturday,Independence Day,Observance
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve (from noon),National holiday
+25/12/2012,Tuesday,Christmas Day,National holiday
+26/12/2012,Wednesday,Second Day of Christmas,National holiday
+31/12/2012,Monday,New Year's Eve (from noon),National holiday
+01/01/2013,Tuesday,New Year's Day,National holiday
+06/01/2013,Sunday,Twelfth Night,Observance
+13/02/2013,Wednesday,Ash Wednesday,Observance
+14/02/2013,Thursday,Valentine's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+28/03/2013,Thursday,Maundy Thursday,National holiday
+29/03/2013,Friday,Good Friday,National holiday
+30/03/2013,Saturday,Holy Saturday,Observance
+31/03/2013,Sunday,Easter Sunday,National holiday
+01/04/2013,Monday,Easter Monday,National holiday
+25/04/2013,Thursday,First Day of Summer,National holiday
+01/05/2013,Wednesday,Labour Day,National holiday
+09/05/2013,Thursday,Ascension Day,National holiday
+12/05/2013,Sunday,Mothers' Day,Observance
+19/05/2013,Sunday,Whit Sunday,National holiday
+20/05/2013,Monday,Whit Monday,National holiday
+17/06/2013,Monday,Icelandic Republic Day,National holiday
+21/06/2013,Friday,June Solstice,Season
+05/08/2013,Monday,Commerce Day,National holiday
+22/09/2013,Sunday,September Equinox,Season
+31/10/2013,Thursday,Halloween,Observance
+10/11/2013,Sunday,Fathers' Day,Observance
+01/12/2013,Sunday,Independence Day,Observance
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve (from noon),National holiday
+25/12/2013,Wednesday,Christmas Day,National holiday
+26/12/2013,Thursday,Second Day of Christmas,National holiday
+31/12/2013,Tuesday,New Year's Eve (from noon),National holiday
+01/01/2014,Wednesday,New Year's Day,National holiday
+06/01/2014,Monday,Twelfth Night,Observance
+14/02/2014,Friday,Valentine's Day,Observance
+05/03/2014,Wednesday,Ash Wednesday,Observance
+20/03/2014,Thursday,March Equinox,Season
+17/04/2014,Thursday,Maundy Thursday,National holiday
+18/04/2014,Friday,Good Friday,National holiday
+19/04/2014,Saturday,Holy Saturday,Observance
+20/04/2014,Sunday,Easter Sunday,National holiday
+21/04/2014,Monday,Easter Monday,National holiday
+24/04/2014,Thursday,First Day of Summer,National holiday
+01/05/2014,Thursday,Labour Day,National holiday
+11/05/2014,Sunday,Mothers' Day,Observance
+29/05/2014,Thursday,Ascension Day,National holiday
+08/06/2014,Sunday,Whit Sunday,National holiday
+09/06/2014,Monday,Whit Monday,National holiday
+17/06/2014,Tuesday,Icelandic Republic Day,National holiday
+21/06/2014,Saturday,June Solstice,Season
+04/08/2014,Monday,Commerce Day,National holiday
+23/09/2014,Tuesday,September Equinox,Season
+31/10/2014,Friday,Halloween,Observance
+09/11/2014,Sunday,Fathers' Day,Observance
+01/12/2014,Monday,Independence Day,Observance
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve (from noon),National holiday
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,Second Day of Christmas,National holiday
+31/12/2014,Wednesday,New Year's Eve (from noon),National holiday
+01/01/2015,Thursday,New Year's Day,National holiday
+06/01/2015,Tuesday,Twelfth Night,Observance
+14/02/2015,Saturday,Valentine's Day,Observance
+18/02/2015,Wednesday,Ash Wednesday,Observance
+20/03/2015,Friday,March Equinox,Season
+02/04/2015,Thursday,Maundy Thursday,National holiday
+03/04/2015,Friday,Good Friday,National holiday
+04/04/2015,Saturday,Holy Saturday,Observance
+05/04/2015,Sunday,Easter Sunday,National holiday
+06/04/2015,Monday,Easter Monday,National holiday
+23/04/2015,Thursday,First Day of Summer,National holiday
+01/05/2015,Friday,Labour Day,National holiday
+10/05/2015,Sunday,Mothers' Day,Observance
+14/05/2015,Thursday,Ascension Day,National holiday
+24/05/2015,Sunday,Whit Sunday,National holiday
+25/05/2015,Monday,Whit Monday,National holiday
+17/06/2015,Wednesday,Icelandic Republic Day,National holiday
+21/06/2015,Sunday,June Solstice,Season
+03/08/2015,Monday,Commerce Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+31/10/2015,Saturday,Halloween,Observance
+08/11/2015,Sunday,Fathers' Day,Observance
+01/12/2015,Tuesday,Independence Day,Observance
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve (from noon),National holiday
+25/12/2015,Friday,Christmas Day,National holiday
+26/12/2015,Saturday,Second Day of Christmas,National holiday
+31/12/2015,Thursday,New Year's Eve (from noon),National holiday
+01/01/2016,Friday,New Year's Day,National holiday
+06/01/2016,Wednesday,Twelfth Night,Observance
+10/02/2016,Wednesday,Ash Wednesday,Observance
+14/02/2016,Sunday,Valentine's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+24/03/2016,Thursday,Maundy Thursday,National holiday
+25/03/2016,Friday,Good Friday,National holiday
+26/03/2016,Saturday,Holy Saturday,Observance
+27/03/2016,Sunday,Easter Sunday,National holiday
+28/03/2016,Monday,Easter Monday,National holiday
+21/04/2016,Thursday,First Day of Summer,National holiday
+01/05/2016,Sunday,Labour Day,National holiday
+05/05/2016,Thursday,Ascension Day,National holiday
+08/05/2016,Sunday,Mothers' Day,Observance
+15/05/2016,Sunday,Whit Sunday,National holiday
+16/05/2016,Monday,Whit Monday,National holiday
+17/06/2016,Friday,Icelandic Republic Day,National holiday
+20/06/2016,Monday,June Solstice,Season
+01/08/2016,Monday,Commerce Day,National holiday
+22/09/2016,Thursday,September Equinox,Season
+31/10/2016,Monday,Halloween,Observance
+13/11/2016,Sunday,Fathers' Day,Observance
+01/12/2016,Thursday,Independence Day,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve (from noon),National holiday
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,Second Day of Christmas,National holiday
+31/12/2016,Saturday,New Year's Eve (from noon),National holiday
+01/01/2017,Sunday,New Year's Day,National holiday
+06/01/2017,Friday,Twelfth Night,Observance
+14/02/2017,Tuesday,Valentine's Day,Observance
+01/03/2017,Wednesday,Ash Wednesday,Observance
+20/03/2017,Monday,March Equinox,Season
+13/04/2017,Thursday,Maundy Thursday,National holiday
+14/04/2017,Friday,Good Friday,National holiday
+15/04/2017,Saturday,Holy Saturday,Observance
+16/04/2017,Sunday,Easter Sunday,National holiday
+17/04/2017,Monday,Easter Monday,National holiday
+20/04/2017,Thursday,First Day of Summer,National holiday
+01/05/2017,Monday,Labour Day,National holiday
+14/05/2017,Sunday,Mothers' Day,Observance
+25/05/2017,Thursday,Ascension Day,National holiday
+04/06/2017,Sunday,Whit Sunday,National holiday
+05/06/2017,Monday,Whit Monday,National holiday
+17/06/2017,Saturday,Icelandic Republic Day,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+07/08/2017,Monday,Commerce Day,National holiday
+22/09/2017,Friday,September Equinox,Season
+31/10/2017,Tuesday,Halloween,Observance
+12/11/2017,Sunday,Fathers' Day,Observance
+01/12/2017,Friday,Independence Day,Observance
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve (from noon),National holiday
+25/12/2017,Monday,Christmas Day,National holiday
+26/12/2017,Tuesday,Second Day of Christmas,National holiday
+31/12/2017,Sunday,New Year's Eve (from noon),National holiday
+01/01/2018,Monday,New Year's Day,National holiday
+06/01/2018,Saturday,Twelfth Night,Observance
+14/02/2018,Wednesday,Ash Wednesday,Observance
+14/02/2018,Wednesday,Valentine's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+29/03/2018,Thursday,Maundy Thursday,National holiday
+30/03/2018,Friday,Good Friday,National holiday
+31/03/2018,Saturday,Holy Saturday,Observance
+01/04/2018,Sunday,Easter Sunday,National holiday
+02/04/2018,Monday,Easter Monday,National holiday
+19/04/2018,Thursday,First Day of Summer,National holiday
+01/05/2018,Tuesday,Labour Day,National holiday
+10/05/2018,Thursday,Ascension Day,National holiday
+13/05/2018,Sunday,Mothers' Day,Observance
+20/05/2018,Sunday,Whit Sunday,National holiday
+21/05/2018,Monday,Whit Monday,National holiday
+17/06/2018,Sunday,Icelandic Republic Day,National holiday
+21/06/2018,Thursday,June Solstice,Season
+06/08/2018,Monday,Commerce Day,National holiday
+23/09/2018,Sunday,September Equinox,Season
+31/10/2018,Wednesday,Halloween,Observance
+11/11/2018,Sunday,Fathers' Day,Observance
+01/12/2018,Saturday,Independence Day,Observance
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve (from noon),National holiday
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,Second Day of Christmas,National holiday
+31/12/2018,Monday,New Year's Eve (from noon),National holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+06/01/2019,Sunday,Twelfth Night,Observance
+14/02/2019,Thursday,Valentine's Day,Observance
+06/03/2019,Wednesday,Ash Wednesday,Observance
+20/03/2019,Wednesday,March Equinox,Season
+18/04/2019,Thursday,Maundy Thursday,National holiday
+19/04/2019,Friday,Good Friday,National holiday
+20/04/2019,Saturday,Holy Saturday,Observance
+21/04/2019,Sunday,Easter Sunday,National holiday
+22/04/2019,Monday,Easter Monday,National holiday
+25/04/2019,Thursday,First Day of Summer,National holiday
+01/05/2019,Wednesday,Labour Day,National holiday
+12/05/2019,Sunday,Mothers' Day,Observance
+30/05/2019,Thursday,Ascension Day,National holiday
+09/06/2019,Sunday,Whit Sunday,National holiday
+10/06/2019,Monday,Whit Monday,National holiday
+17/06/2019,Monday,Icelandic Republic Day,National holiday
+21/06/2019,Friday,June Solstice,Season
+05/08/2019,Monday,Commerce Day,National holiday
+23/09/2019,Monday,September Equinox,Season
+31/10/2019,Thursday,Halloween,Observance
+10/11/2019,Sunday,Fathers' Day,Observance
+01/12/2019,Sunday,Independence Day,Observance
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve (from noon),National holiday
+25/12/2019,Wednesday,Christmas Day,National holiday
+26/12/2019,Thursday,Second Day of Christmas,National holiday
+31/12/2019,Tuesday,New Year's Eve (from noon),National holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+06/01/2020,Monday,Twelfth Night,Observance
+14/02/2020,Friday,Valentine's Day,Observance
+26/02/2020,Wednesday,Ash Wednesday,Observance
+20/03/2020,Friday,March Equinox,Season
+09/04/2020,Thursday,Maundy Thursday,National holiday
+10/04/2020,Friday,Good Friday,National holiday
+11/04/2020,Saturday,Holy Saturday,Observance
+12/04/2020,Sunday,Easter Sunday,National holiday
+13/04/2020,Monday,Easter Monday,National holiday
+23/04/2020,Thursday,First Day of Summer,National holiday
+01/05/2020,Friday,Labour Day,National holiday
+10/05/2020,Sunday,Mothers' Day,Observance
+21/05/2020,Thursday,Ascension Day,National holiday
+31/05/2020,Sunday,Whit Sunday,National holiday
+01/06/2020,Monday,Whit Monday,National holiday
+17/06/2020,Wednesday,Icelandic Republic Day,National holiday
+20/06/2020,Saturday,June Solstice,Season
+03/08/2020,Monday,Commerce Day,National holiday
+22/09/2020,Tuesday,September Equinox,Season
+31/10/2020,Saturday,Halloween,Observance
+08/11/2020,Sunday,Fathers' Day,Observance
+01/12/2020,Tuesday,Independence Day,Observance
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve (from noon),National holiday
+25/12/2020,Friday,Christmas Day,National holiday
+26/12/2020,Saturday,Second Day of Christmas,National holiday
+31/12/2020,Thursday,New Year's Eve (from noon),National holiday
+01/01/2021,Friday,New Year's Day,National holiday
+06/01/2021,Wednesday,Twelfth Night,Observance
+14/02/2021,Sunday,Valentine's Day,Observance
+17/02/2021,Wednesday,Ash Wednesday,Observance
+20/03/2021,Saturday,March Equinox,Season
+01/04/2021,Thursday,Maundy Thursday,National holiday
+02/04/2021,Friday,Good Friday,National holiday
+03/04/2021,Saturday,Holy Saturday,Observance
+04/04/2021,Sunday,Easter Sunday,National holiday
+05/04/2021,Monday,Easter Monday,National holiday
+22/04/2021,Thursday,First Day of Summer,National holiday
+01/05/2021,Saturday,Labour Day,National holiday
+09/05/2021,Sunday,Mothers' Day,Observance
+13/05/2021,Thursday,Ascension Day,National holiday
+23/05/2021,Sunday,Whit Sunday,National holiday
+24/05/2021,Monday,Whit Monday,National holiday
+17/06/2021,Thursday,Icelandic Republic Day,National holiday
+21/06/2021,Monday,June Solstice,Season
+02/08/2021,Monday,Commerce Day,National holiday
+22/09/2021,Wednesday,September Equinox,Season
+31/10/2021,Sunday,Halloween,Observance
+14/11/2021,Sunday,Fathers' Day,Observance
+01/12/2021,Wednesday,Independence Day,Observance
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve (from noon),National holiday
+25/12/2021,Saturday,Christmas Day,National holiday
+26/12/2021,Sunday,Second Day of Christmas,National holiday
+31/12/2021,Friday,New Year's Eve (from noon),National holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+06/01/2022,Thursday,Twelfth Night,Observance
+14/02/2022,Monday,Valentine's Day,Observance
+02/03/2022,Wednesday,Ash Wednesday,Observance
+20/03/2022,Sunday,March Equinox,Season
+14/04/2022,Thursday,Maundy Thursday,National holiday
+15/04/2022,Friday,Good Friday,National holiday
+16/04/2022,Saturday,Holy Saturday,Observance
+17/04/2022,Sunday,Easter Sunday,National holiday
+18/04/2022,Monday,Easter Monday,National holiday
+21/04/2022,Thursday,First Day of Summer,National holiday
+01/05/2022,Sunday,Labour Day,National holiday
+08/05/2022,Sunday,Mothers' Day,Observance
+26/05/2022,Thursday,Ascension Day,National holiday
+05/06/2022,Sunday,Whit Sunday,National holiday
+06/06/2022,Monday,Whit Monday,National holiday
+17/06/2022,Friday,Icelandic Republic Day,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+01/08/2022,Monday,Commerce Day,National holiday
+23/09/2022,Friday,September Equinox,Season
+31/10/2022,Monday,Halloween,Observance
+13/11/2022,Sunday,Fathers' Day,Observance
+01/12/2022,Thursday,Independence Day,Observance
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve (from noon),National holiday
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,Second Day of Christmas,National holiday
+31/12/2022,Saturday,New Year's Eve (from noon),National holiday

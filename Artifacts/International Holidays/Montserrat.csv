@@ -1,0 +1,362 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+03/01/2000,Monday,New Year's Day observed,Public Holiday
+17/03/2000,Friday,St. Patrick's Day,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+24/04/2000,Monday,Easter Monday,Public Holiday
+01/05/2000,Monday,Labour Day,Public Holiday
+12/06/2000,Monday,Whit Monday,Public Holiday
+20/06/2000,Tuesday,June Solstice,Season
+07/08/2000,Monday,Emancipation Day,Public Holiday
+22/09/2000,Friday,September Equinox,Season
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+31/12/2000,Sunday,Festival Day,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+17/03/2001,Saturday,St. Patrick's Day,Public Holiday
+19/03/2001,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+16/04/2001,Monday,Easter Monday,Public Holiday
+07/05/2001,Monday,Labour Day,Public Holiday
+04/06/2001,Monday,Whit Monday,Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+06/08/2001,Monday,Emancipation Day,Public Holiday
+22/09/2001,Saturday,September Equinox,Season
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+31/12/2001,Monday,Festival Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+17/03/2002,Sunday,St. Patrick's Day,Public Holiday
+18/03/2002,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+01/04/2002,Monday,Easter Monday,Public Holiday
+06/05/2002,Monday,Labour Day,Public Holiday
+20/05/2002,Monday,Whit Monday,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+05/08/2002,Monday,Emancipation Day,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+21/12/2002,Saturday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+31/12/2002,Tuesday,Festival Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+17/03/2003,Monday,St. Patrick's Day,Public Holiday
+20/03/2003,Thursday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+21/04/2003,Monday,Easter Monday,Public Holiday
+05/05/2003,Monday,Labour Day,Public Holiday
+09/06/2003,Monday,Whit Monday,Public Holiday
+21/06/2003,Saturday,June Solstice,Season
+04/08/2003,Monday,Emancipation Day,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+31/12/2003,Wednesday,Festival Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+17/03/2004,Wednesday,St. Patrick's Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+12/04/2004,Monday,Easter Monday,Public Holiday
+03/05/2004,Monday,Labour Day,Public Holiday
+31/05/2004,Monday,Whit Monday,Public Holiday
+20/06/2004,Sunday,June Solstice,Season
+02/08/2004,Monday,Emancipation Day,Public Holiday
+22/09/2004,Wednesday,September Equinox,Season
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+27/12/2004,Monday,Christmas Day observed,Public Holiday
+28/12/2004,Tuesday,Boxing Day observed,Public Holiday
+31/12/2004,Friday,Festival Day,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+03/01/2005,Monday,New Year's Day observed,Public Holiday
+17/03/2005,Thursday,St. Patrick's Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+28/03/2005,Monday,Easter Monday,Public Holiday
+02/05/2005,Monday,Labour Day,Public Holiday
+16/05/2005,Monday,Whit Monday,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+01/08/2005,Monday,Emancipation Day,Public Holiday
+22/09/2005,Thursday,September Equinox,Season
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+27/12/2005,Tuesday,Christmas Day observed,Public Holiday
+31/12/2005,Saturday,Festival Day,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,New Year's Day observed,Public Holiday
+17/03/2006,Friday,St. Patrick's Day,Public Holiday
+20/03/2006,Monday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+17/04/2006,Monday,Easter Monday,Public Holiday
+01/05/2006,Monday,Labour Day,Public Holiday
+05/06/2006,Monday,Whit Monday,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+07/08/2006,Monday,Emancipation Day,Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+21/12/2006,Thursday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+31/12/2006,Sunday,Festival Day,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+17/03/2007,Saturday,St. Patrick's Day,Public Holiday
+19/03/2007,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2007,Tuesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+09/04/2007,Monday,Easter Monday,Public Holiday
+07/05/2007,Monday,Labour Day,Public Holiday
+28/05/2007,Monday,Whit Monday,Public Holiday
+21/06/2007,Thursday,June Solstice,Season
+06/08/2007,Monday,Emancipation Day,Public Holiday
+23/09/2007,Sunday,September Equinox,Season
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+31/12/2007,Monday,Festival Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+17/03/2008,Monday,St. Patrick's Day,Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+24/03/2008,Monday,Easter Monday,Public Holiday
+05/05/2008,Monday,Labour Day,Public Holiday
+12/05/2008,Monday,Whit Monday,Public Holiday
+20/06/2008,Friday,June Solstice,Season
+04/08/2008,Monday,Emancipation Day,Public Holiday
+22/09/2008,Monday,September Equinox,Season
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+31/12/2008,Wednesday,Festival Day,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+17/03/2009,Tuesday,St. Patrick's Day,Public Holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+13/04/2009,Monday,Easter Monday,Public Holiday
+04/05/2009,Monday,Labour Day,Public Holiday
+01/06/2009,Monday,Whit Monday,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+03/08/2009,Monday,Emancipation Day,Public Holiday
+22/09/2009,Tuesday,September Equinox,Season
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+28/12/2009,Monday,Boxing Day observed,Public Holiday
+31/12/2009,Thursday,Festival Day,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+17/03/2010,Wednesday,St. Patrick's Day,Public Holiday
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+05/04/2010,Monday,Easter Monday,Public Holiday
+03/05/2010,Monday,Labour Day,Public Holiday
+24/05/2010,Monday,Whit Monday,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+02/08/2010,Monday,Emancipation Day,Public Holiday
+22/09/2010,Wednesday,September Equinox,Season
+21/12/2010,Tuesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+27/12/2010,Monday,Christmas Day observed,Public Holiday
+28/12/2010,Tuesday,Boxing Day observed,Public Holiday
+31/12/2010,Friday,Festival Day,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+03/01/2011,Monday,New Year's Day observed,Public Holiday
+17/03/2011,Thursday,St. Patrick's Day,Public Holiday
+20/03/2011,Sunday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+25/04/2011,Monday,Easter Monday,Public Holiday
+02/05/2011,Monday,Labour Day,Public Holiday
+13/06/2011,Monday,Whit Monday,Public Holiday
+21/06/2011,Tuesday,June Solstice,Season
+01/08/2011,Monday,Emancipation Day,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+27/12/2011,Tuesday,Christmas Day observed,Public Holiday
+31/12/2011,Saturday,Festival Day,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,New Year's Day observed,Public Holiday
+17/03/2012,Saturday,St. Patrick's Day,Public Holiday
+19/03/2012,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+09/04/2012,Monday,Easter Monday,Public Holiday
+07/05/2012,Monday,Labour Day,Public Holiday
+28/05/2012,Monday,Whit Monday,Public Holiday
+18/06/2012,Monday,Queen Elizabeth II's Diamond Jubilee,Public Holiday
+20/06/2012,Wednesday,June Solstice,Season
+06/08/2012,Monday,Emancipation Day,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+31/12/2012,Monday,Festival Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+17/03/2013,Sunday,St. Patrick's Day,Public Holiday
+18/03/2013,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+01/04/2013,Monday,Easter Monday,Public Holiday
+06/05/2013,Monday,Labour Day,Public Holiday
+20/05/2013,Monday,Whit Monday,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+05/08/2013,Monday,Emancipation Day,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+31/12/2013,Tuesday,Festival Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+17/03/2014,Monday,St. Patrick's Day,Public Holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+21/04/2014,Monday,Easter Monday,Public Holiday
+05/05/2014,Monday,Labour Day,Public Holiday
+09/06/2014,Monday,Whit Monday,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+04/08/2014,Monday,Emancipation Day,Public Holiday
+22/09/2014,Monday,September Equinox,Season
+21/12/2014,Sunday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+31/12/2014,Wednesday,Festival Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+17/03/2015,Tuesday,St. Patrick's Day,Public Holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+06/04/2015,Monday,Easter Monday,Public Holiday
+04/05/2015,Monday,Labour Day,Public Holiday
+25/05/2015,Monday,Whit Monday,Public Holiday
+21/06/2015,Sunday,June Solstice,Season
+03/08/2015,Monday,Emancipation Day,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+28/12/2015,Monday,Boxing Day observed,Public Holiday
+31/12/2015,Thursday,Festival Day,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+17/03/2016,Thursday,St. Patrick's Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+28/03/2016,Monday,Easter Monday,Public Holiday
+02/05/2016,Monday,Labour Day,Public Holiday
+16/05/2016,Monday,Whit Monday,Public Holiday
+13/06/2016,Monday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+20/06/2016,Monday,June Solstice,Season
+01/08/2016,Monday,Emancipation Day,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+27/12/2016,Tuesday,Christmas Day observed,Public Holiday
+31/12/2016,Saturday,Festival Day,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,New Year's Day observed,Public Holiday
+17/03/2017,Friday,St. Patrick's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,Labour Day,Public Holiday
+05/06/2017,Monday,Whit Monday,Public Holiday
+10/06/2017,Saturday,Queen Elizabeth II's Birthday,Public Holiday
+12/06/2017,Monday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+07/08/2017,Monday,Emancipation Day,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+31/12/2017,Sunday,Festival Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+17/03/2018,Saturday,St. Patrick's Day,Public Holiday
+19/03/2018,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+02/04/2018,Monday,Easter Monday,Public Holiday
+07/05/2018,Monday,Labour Day,Public Holiday
+21/05/2018,Monday,Whit Monday,Public Holiday
+11/06/2018,Monday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+06/08/2018,Monday,Emancipation Day,Public Holiday
+22/09/2018,Saturday,September Equinox,Season
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+31/12/2018,Monday,Festival Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+17/03/2019,Sunday,St. Patrick's Day,Public Holiday
+18/03/2019,Monday,St. Patrick's Day observed,Public Holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+22/04/2019,Monday,Easter Monday,Public Holiday
+06/05/2019,Monday,Labour Day,Public Holiday
+10/06/2019,Monday,Whit Monday,Public Holiday
+10/06/2019,Monday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+05/08/2019,Monday,Emancipation Day,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+31/12/2019,Tuesday,Festival Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+17/03/2020,Tuesday,St. Patrick's Day,Public Holiday
+19/03/2020,Thursday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+13/04/2020,Monday,Easter Monday,Public Holiday
+04/05/2020,Monday,Labour Day,Public Holiday
+01/06/2020,Monday,Whit Monday,Public Holiday
+15/06/2020,Monday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+15/07/2020,Wednesday,"National Day of Prayer, Reflection, and Thanksgiving",Public Holiday
+03/08/2020,Monday,Emancipation Day,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+28/12/2020,Monday,Boxing Day observed,Public Holiday
+31/12/2020,Thursday,Festival Day,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+17/03/2021,Wednesday,St. Patrick's Day,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+05/04/2021,Monday,Easter Monday,Public Holiday
+03/05/2021,Monday,Labour Day,Public Holiday
+24/05/2021,Monday,Whit Monday,Public Holiday
+14/06/2021,Monday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+20/06/2021,Sunday,June Solstice,Season
+21/07/2021,Wednesday,"National Day of Prayer, Reflection, and Thanksgiving",Public Holiday
+02/08/2021,Monday,Emancipation Day,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Christmas Day observed,Public Holiday
+28/12/2021,Tuesday,Boxing Day observed,Public Holiday
+31/12/2021,Friday,Festival Day,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+03/01/2022,Monday,New Year's Day observed,Public Holiday
+17/03/2022,Thursday,St. Patrick's Day,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+18/04/2022,Monday,Easter Monday,Public Holiday
+02/05/2022,Monday,Labour Day,Public Holiday
+02/06/2022,Thursday,Queen Elizabeth II's Birthday Celebration,Public Holiday
+03/06/2022,Friday,Queen Elizabeth II's Platinum Jubilee,Public Holiday
+06/06/2022,Monday,Whit Monday,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+01/08/2022,Monday,Emancipation Day,Public Holiday
+22/09/2022,Thursday,September Equinox,Season
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+27/12/2022,Tuesday,Christmas Day observed,Public Holiday
+31/12/2022,Saturday,Festival Day,Public Holiday

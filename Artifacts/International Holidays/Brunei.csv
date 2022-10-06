@@ -1,0 +1,532 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+08/01/2000,Saturday,Eid ul Fitr,Public Holiday
+09/01/2000,Sunday,Eid Al Fitr Holiday,Public Holiday
+10/01/2000,Monday,Eid Al Fitr Holiday observed,Public Holiday
+10/01/2000,Monday,Eid Al Fitr Holiday,Public Holiday
+05/02/2000,Saturday,Lunar New Year,Public Holiday
+23/02/2000,Wednesday,National Day,Public Holiday
+16/03/2000,Thursday,Eid al-Adha,Public Holiday
+20/03/2000,Monday,March Equinox,Season
+06/04/2000,Thursday,Muharram/Islamic New Year,Public Holiday
+31/05/2000,Wednesday,Royal Brunei Armed Forces Day,Public Holiday
+15/06/2000,Thursday,Milad un Nabi (Mawlid),Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+15/07/2000,Saturday,Sultan's Birthday,Public Holiday
+23/09/2000,Saturday,September Equinox,Season
+26/10/2000,Thursday,Isra and Mi'raj,Public Holiday
+28/11/2000,Tuesday,Ramadan Start,Public Holiday
+14/12/2000,Thursday,Nuzul Al-Qur'an,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+28/12/2000,Thursday,Eid ul Fitr,Public Holiday
+29/12/2000,Friday,Eid Al Fitr Holiday,Public Holiday
+30/12/2000,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+30/12/2000,Saturday,Eid Al Fitr Holiday,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+24/01/2001,Wednesday,Lunar New Year,Public Holiday
+23/02/2001,Friday,National Day,Public Holiday
+24/02/2001,Saturday,National Day observed,Public Holiday
+06/03/2001,Tuesday,Eid al-Adha,Public Holiday
+20/03/2001,Tuesday,March Equinox,Season
+26/03/2001,Monday,Muharram/Islamic New Year,Public Holiday
+31/05/2001,Thursday,Royal Brunei Armed Forces Day,Public Holiday
+04/06/2001,Monday,Milad un Nabi (Mawlid),Public Holiday
+21/06/2001,Thursday,June Solstice,Season
+15/07/2001,Sunday,Sultan's Birthday,Public Holiday
+16/07/2001,Monday,Sultan's Birthday observed,Public Holiday
+23/09/2001,Sunday,September Equinox,Season
+15/10/2001,Monday,Isra and Mi'raj,Public Holiday
+17/11/2001,Saturday,Ramadan Start,Public Holiday
+03/12/2001,Monday,Nuzul Al-Qur'an,Public Holiday
+17/12/2001,Monday,Eid ul Fitr,Public Holiday
+18/12/2001,Tuesday,Eid Al Fitr Holiday,Public Holiday
+19/12/2001,Wednesday,Eid Al Fitr Holiday,Public Holiday
+22/12/2001,Saturday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+12/02/2002,Tuesday,Lunar New Year,Public Holiday
+23/02/2002,Saturday,Eid al-Adha,Public Holiday
+23/02/2002,Saturday,National Day,Public Holiday
+15/03/2002,Friday,Muharram/Islamic New Year,Public Holiday
+16/03/2002,Saturday,Muharram/Islamic New Year observed,Public Holiday
+21/03/2002,Thursday,March Equinox,Season
+24/05/2002,Friday,Milad un Nabi (Mawlid),Public Holiday
+25/05/2002,Saturday,Milad un Nabi (Mawlid) observed,Public Holiday
+31/05/2002,Friday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2002,Saturday,Royal Brunei Armed Forces Day observed,Public Holiday
+21/06/2002,Friday,June Solstice,Season
+15/07/2002,Monday,Sultan's Birthday,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+04/10/2002,Friday,Isra and Mi'raj,Public Holiday
+05/10/2002,Saturday,Isra and Mi'raj observed,Public Holiday
+06/11/2002,Wednesday,Ramadan Start,Public Holiday
+22/11/2002,Friday,Nuzul Al-Qur'an,Public Holiday
+23/11/2002,Saturday,Nuzul Al-Qur'an observed,Public Holiday
+06/12/2002,Friday,Eid ul Fitr,Public Holiday
+07/12/2002,Saturday,Eid ul Fitr observed,Public Holiday
+07/12/2002,Saturday,Eid Al Fitr Holiday,Public Holiday
+08/12/2002,Sunday,Eid Al Fitr Holiday,Public Holiday
+09/12/2002,Monday,Eid Al Fitr Holiday observed,Public Holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+01/02/2003,Saturday,Lunar New Year,Public Holiday
+12/02/2003,Wednesday,Eid al-Adha,Public Holiday
+23/02/2003,Sunday,National Day,Public Holiday
+24/02/2003,Monday,National Day observed,Public Holiday
+05/03/2003,Wednesday,Muharram/Islamic New Year,Public Holiday
+21/03/2003,Friday,March Equinox,Season
+14/05/2003,Wednesday,Milad un Nabi (Mawlid),Public Holiday
+31/05/2003,Saturday,Royal Brunei Armed Forces Day,Public Holiday
+22/06/2003,Sunday,June Solstice,Season
+15/07/2003,Tuesday,Sultan's Birthday,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+24/09/2003,Wednesday,Isra and Mi'raj,Public Holiday
+27/10/2003,Monday,Ramadan Start,Public Holiday
+12/11/2003,Wednesday,Nuzul Al-Qur'an,Public Holiday
+26/11/2003,Wednesday,Eid ul Fitr,Public Holiday
+27/11/2003,Thursday,Eid Al Fitr Holiday,Public Holiday
+28/11/2003,Friday,Eid Al Fitr Holiday,Public Holiday
+29/11/2003,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+22/01/2004,Thursday,Lunar New Year,Public Holiday
+02/02/2004,Monday,Eid al-Adha,Public Holiday
+22/02/2004,Sunday,Muharram/Islamic New Year,Public Holiday
+23/02/2004,Monday,Muharram/Islamic New Year observed,Public Holiday
+23/02/2004,Monday,National Day,Public Holiday
+20/03/2004,Saturday,March Equinox,Season
+02/05/2004,Sunday,Milad un Nabi (Mawlid),Public Holiday
+03/05/2004,Monday,Milad un Nabi (Mawlid) observed,Public Holiday
+31/05/2004,Monday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2004,Monday,June Solstice,Season
+15/07/2004,Thursday,Sultan's Birthday,Public Holiday
+12/09/2004,Sunday,Isra and Mi'raj,Public Holiday
+13/09/2004,Monday,Isra and Mi'raj observed,Public Holiday
+23/09/2004,Thursday,September Equinox,Season
+16/10/2004,Saturday,Ramadan Start,Public Holiday
+01/11/2004,Monday,Nuzul Al-Qur'an,Public Holiday
+14/11/2004,Sunday,Eid ul Fitr,Public Holiday
+15/11/2004,Monday,Eid ul Fitr observed,Public Holiday
+15/11/2004,Monday,Eid Al Fitr Holiday,Public Holiday
+16/11/2004,Tuesday,Eid Al Fitr Holiday,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+21/01/2005,Friday,Eid al-Adha,Public Holiday
+22/01/2005,Saturday,Eid al-Adha observed,Public Holiday
+09/02/2005,Wednesday,Lunar New Year,Public Holiday
+10/02/2005,Thursday,Muharram/Islamic New Year,Public Holiday
+23/02/2005,Wednesday,National Day,Public Holiday
+20/03/2005,Sunday,March Equinox,Season
+21/04/2005,Thursday,Milad un Nabi (Mawlid),Public Holiday
+31/05/2005,Tuesday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2005,Tuesday,June Solstice,Season
+15/07/2005,Friday,Sultan's Birthday,Public Holiday
+16/07/2005,Saturday,Sultan's Birthday observed,Public Holiday
+01/09/2005,Thursday,Isra and Mi'raj,Public Holiday
+23/09/2005,Friday,September Equinox,Season
+05/10/2005,Wednesday,Ramadan Start,Public Holiday
+21/10/2005,Friday,Nuzul Al-Qur'an,Public Holiday
+22/10/2005,Saturday,Nuzul Al-Qur'an observed,Public Holiday
+04/11/2005,Friday,Eid ul Fitr,Public Holiday
+05/11/2005,Saturday,Eid ul Fitr observed,Public Holiday
+05/11/2005,Saturday,Eid Al Fitr Holiday,Public Holiday
+06/11/2005,Sunday,Eid Al Fitr Holiday,Public Holiday
+07/11/2005,Monday,Eid Al Fitr Holiday observed,Public Holiday
+22/12/2005,Thursday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Christmas Day observed,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+10/01/2006,Tuesday,Eid al-Adha,Public Holiday
+29/01/2006,Sunday,Lunar New Year,Public Holiday
+30/01/2006,Monday,Day off for Lunar New Year,Public Holiday
+31/01/2006,Tuesday,Muharram/Islamic New Year,Public Holiday
+23/02/2006,Thursday,National Day,Public Holiday
+21/03/2006,Tuesday,March Equinox,Season
+11/04/2006,Tuesday,Milad un Nabi (Mawlid),Public Holiday
+31/05/2006,Wednesday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2006,Wednesday,June Solstice,Season
+15/07/2006,Saturday,Sultan's Birthday,Public Holiday
+22/08/2006,Tuesday,Isra and Mi'raj,Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+24/09/2006,Sunday,Ramadan Start,Public Holiday
+25/09/2006,Monday,Ramadan Start observed,Public Holiday
+10/10/2006,Tuesday,Nuzul Al-Qur'an,Public Holiday
+24/10/2006,Tuesday,Eid ul Fitr,Public Holiday
+25/10/2006,Wednesday,Eid Al Fitr Holiday,Public Holiday
+26/10/2006,Thursday,Eid Al Fitr Holiday,Public Holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+31/12/2006,Sunday,Eid al-Adha,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+20/01/2007,Saturday,Muharram/Islamic New Year,Public Holiday
+18/02/2007,Sunday,Lunar New Year,Public Holiday
+19/02/2007,Monday,Day off for Lunar New Year,Public Holiday
+23/02/2007,Friday,National Day,Public Holiday
+24/02/2007,Saturday,National Day observed,Public Holiday
+21/03/2007,Wednesday,March Equinox,Season
+31/03/2007,Saturday,Milad un Nabi (Mawlid),Public Holiday
+31/05/2007,Thursday,Royal Brunei Armed Forces Day,Public Holiday
+22/06/2007,Friday,June Solstice,Season
+15/07/2007,Sunday,Sultan's Birthday,Public Holiday
+16/07/2007,Monday,Sultan's Birthday observed,Public Holiday
+11/08/2007,Saturday,Isra and Mi'raj,Public Holiday
+13/09/2007,Thursday,Ramadan Start,Public Holiday
+23/09/2007,Sunday,September Equinox,Season
+29/09/2007,Saturday,Nuzul Al-Qur'an,Public Holiday
+13/10/2007,Saturday,Eid ul Fitr,Public Holiday
+14/10/2007,Sunday,Eid Al Fitr Holiday,Public Holiday
+15/10/2007,Monday,Eid Al Fitr Holiday observed,Public Holiday
+15/10/2007,Monday,Eid Al Fitr Holiday,Public Holiday
+20/12/2007,Thursday,Eid al-Adha,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+10/01/2008,Thursday,Muharram/Islamic New Year,Public Holiday
+07/02/2008,Thursday,Lunar New Year,Public Holiday
+23/02/2008,Saturday,National Day,Public Holiday
+20/03/2008,Thursday,Milad un Nabi (Mawlid),Public Holiday
+20/03/2008,Thursday,March Equinox,Season
+31/05/2008,Saturday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2008,Saturday,June Solstice,Season
+15/07/2008,Tuesday,Sultan's Birthday,Public Holiday
+31/07/2008,Thursday,Isra and Mi'raj,Public Holiday
+02/09/2008,Tuesday,Ramadan Start,Public Holiday
+18/09/2008,Thursday,Nuzul Al-Qur'an,Public Holiday
+22/09/2008,Monday,September Equinox,Season
+02/10/2008,Thursday,Eid ul Fitr,Public Holiday
+03/10/2008,Friday,Eid Al Fitr Holiday,Public Holiday
+04/10/2008,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+04/10/2008,Saturday,Eid Al Fitr Holiday,Public Holiday
+09/12/2008,Tuesday,Eid al-Adha,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+29/12/2008,Monday,Muharram/Islamic New Year,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+26/01/2009,Monday,Lunar New Year,Public Holiday
+23/02/2009,Monday,National Day,Public Holiday
+09/03/2009,Monday,Milad un Nabi (Mawlid),Public Holiday
+20/03/2009,Friday,March Equinox,Season
+31/05/2009,Sunday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2009,Monday,Royal Brunei Armed Forces Day observed,Public Holiday
+21/06/2009,Sunday,June Solstice,Season
+15/07/2009,Wednesday,Sultan's Birthday,Public Holiday
+20/07/2009,Monday,Isra and Mi'raj,Public Holiday
+22/08/2009,Saturday,Ramadan Start,Public Holiday
+07/09/2009,Monday,Nuzul Al-Qur'an,Public Holiday
+21/09/2009,Monday,Eid ul Fitr,Public Holiday
+22/09/2009,Tuesday,Eid Al Fitr Holiday,Public Holiday
+23/09/2009,Wednesday,Eid Al Fitr Holiday,Public Holiday
+23/09/2009,Wednesday,September Equinox,Season
+28/11/2009,Saturday,Eid al-Adha,Public Holiday
+18/12/2009,Friday,Muharram/Islamic New Year,Public Holiday
+19/12/2009,Saturday,Muharram/Islamic New Year observed,Public Holiday
+22/12/2009,Tuesday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Christmas Day observed,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+14/02/2010,Sunday,Lunar New Year,Public Holiday
+15/02/2010,Monday,Day off for Lunar New Year,Public Holiday
+23/02/2010,Tuesday,National Day,Public Holiday
+26/02/2010,Friday,Milad un Nabi (Mawlid),Public Holiday
+27/02/2010,Saturday,Milad un Nabi (Mawlid) observed,Public Holiday
+21/03/2010,Sunday,March Equinox,Season
+31/05/2010,Monday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2010,Monday,June Solstice,Season
+09/07/2010,Friday,Isra and Mi'raj,Public Holiday
+10/07/2010,Saturday,Isra and Mi'raj observed,Public Holiday
+15/07/2010,Thursday,Sultan's Birthday,Public Holiday
+11/08/2010,Wednesday,Ramadan Start,Public Holiday
+27/08/2010,Friday,Nuzul Al-Qur'an,Public Holiday
+28/08/2010,Saturday,Nuzul Al-Qur'an observed,Public Holiday
+10/09/2010,Friday,Eid ul Fitr,Public Holiday
+11/09/2010,Saturday,Eid ul Fitr observed,Public Holiday
+11/09/2010,Saturday,Eid Al Fitr Holiday,Public Holiday
+12/09/2010,Sunday,Eid Al Fitr Holiday,Public Holiday
+13/09/2010,Monday,Eid Al Fitr Holiday observed,Public Holiday
+23/09/2010,Thursday,September Equinox,Season
+17/11/2010,Wednesday,Eid al-Adha,Public Holiday
+08/12/2010,Wednesday,Muharram/Islamic New Year,Public Holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+03/02/2011,Thursday,Lunar New Year,Public Holiday
+16/02/2011,Wednesday,Milad un Nabi (Mawlid),Public Holiday
+23/02/2011,Wednesday,National Day,Public Holiday
+21/03/2011,Monday,March Equinox,Season
+31/05/2011,Tuesday,Royal Brunei Armed Forces Day,Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+29/06/2011,Wednesday,Isra and Mi'raj,Public Holiday
+15/07/2011,Friday,Sultan's Birthday,Public Holiday
+16/07/2011,Saturday,Sultan's Birthday observed,Public Holiday
+01/08/2011,Monday,Ramadan Start,Public Holiday
+17/08/2011,Wednesday,Nuzul Al-Qur'an,Public Holiday
+31/08/2011,Wednesday,Eid ul Fitr,Public Holiday
+01/09/2011,Thursday,Eid Al Fitr Holiday,Public Holiday
+02/09/2011,Friday,Eid Al Fitr Holiday,Public Holiday
+03/09/2011,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+07/11/2011,Monday,Eid al-Adha,Public Holiday
+27/11/2011,Sunday,Muharram/Islamic New Year,Public Holiday
+28/11/2011,Monday,Muharram/Islamic New Year observed,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Christmas Day observed,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+23/01/2012,Monday,Lunar New Year,Public Holiday
+05/02/2012,Sunday,Milad un Nabi (Mawlid),Public Holiday
+06/02/2012,Monday,Milad un Nabi (Mawlid) observed,Public Holiday
+23/02/2012,Thursday,National Day,Public Holiday
+20/03/2012,Tuesday,March Equinox,Season
+31/05/2012,Thursday,Royal Brunei Armed Forces Day,Public Holiday
+17/06/2012,Sunday,Isra and Mi'raj,Public Holiday
+18/06/2012,Monday,Isra and Mi'raj observed,Public Holiday
+21/06/2012,Thursday,June Solstice,Season
+15/07/2012,Sunday,Sultan's Birthday,Public Holiday
+16/07/2012,Monday,Sultan's Birthday observed,Public Holiday
+20/07/2012,Friday,Ramadan Start,Public Holiday
+21/07/2012,Saturday,Ramadan Start observed,Public Holiday
+05/08/2012,Sunday,Nuzul Al-Qur'an,Public Holiday
+06/08/2012,Monday,Nuzul Al-Qur'an observed,Public Holiday
+19/08/2012,Sunday,Eid ul Fitr,Public Holiday
+20/08/2012,Monday,Eid ul Fitr observed,Public Holiday
+20/08/2012,Monday,Eid Al Fitr Holiday,Public Holiday
+21/08/2012,Tuesday,Eid Al Fitr Holiday,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+26/10/2012,Friday,Eid al-Adha,Public Holiday
+27/10/2012,Saturday,Eid al-Adha observed,Public Holiday
+15/11/2012,Thursday,Muharram/Islamic New Year,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+24/01/2013,Thursday,Milad un Nabi (Mawlid),Public Holiday
+10/02/2013,Sunday,Lunar New Year,Public Holiday
+11/02/2013,Monday,Day off for Lunar New Year,Public Holiday
+23/02/2013,Saturday,National Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+31/05/2013,Friday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2013,Saturday,Royal Brunei Armed Forces Day observed,Public Holiday
+06/06/2013,Thursday,Isra and Mi'raj,Public Holiday
+21/06/2013,Friday,June Solstice,Season
+09/07/2013,Tuesday,Ramadan Start,Public Holiday
+15/07/2013,Monday,Sultan's Birthday,Public Holiday
+25/07/2013,Thursday,Nuzul Al-Qur'an,Public Holiday
+08/08/2013,Thursday,Eid ul Fitr,Public Holiday
+09/08/2013,Friday,Eid Al Fitr Holiday,Public Holiday
+10/08/2013,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+10/08/2013,Saturday,Eid Al Fitr Holiday,Public Holiday
+23/09/2013,Monday,September Equinox,Season
+15/10/2013,Tuesday,Eid al-Adha,Public Holiday
+05/11/2013,Tuesday,Muharram/Islamic New Year,Public Holiday
+22/12/2013,Sunday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+14/01/2014,Tuesday,Milad un Nabi (Mawlid),Public Holiday
+31/01/2014,Friday,Lunar New Year,Public Holiday
+01/02/2014,Saturday,Day off for Lunar New Year,Public Holiday
+23/02/2014,Sunday,National Day,Public Holiday
+24/02/2014,Monday,National Day observed,Public Holiday
+21/03/2014,Friday,March Equinox,Season
+27/05/2014,Tuesday,Isra and Mi'raj,Public Holiday
+31/05/2014,Saturday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2014,Saturday,June Solstice,Season
+29/06/2014,Sunday,Ramadan Start,Public Holiday
+30/06/2014,Monday,Ramadan Start observed,Public Holiday
+15/07/2014,Tuesday,Nuzul Al-Qur'an,Public Holiday
+15/07/2014,Tuesday,Sultan's Birthday,Public Holiday
+29/07/2014,Tuesday,Eid ul Fitr,Public Holiday
+30/07/2014,Wednesday,Eid Al Fitr Holiday,Public Holiday
+31/07/2014,Thursday,Eid Al Fitr Holiday,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+05/10/2014,Sunday,Eid al-Adha,Public Holiday
+06/10/2014,Monday,Eid al-Adha observed,Public Holiday
+25/10/2014,Saturday,Muharram/Islamic New Year,Public Holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+03/01/2015,Saturday,Milad un Nabi (Mawlid),Public Holiday
+19/02/2015,Thursday,Lunar New Year,Public Holiday
+23/02/2015,Monday,National Day,Public Holiday
+21/03/2015,Saturday,March Equinox,Season
+16/05/2015,Saturday,Isra and Mi'raj,Public Holiday
+31/05/2015,Sunday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2015,Monday,Royal Brunei Armed Forces Day observed,Public Holiday
+18/06/2015,Thursday,Ramadan Start,Public Holiday
+22/06/2015,Monday,June Solstice,Season
+04/07/2015,Saturday,Nuzul Al-Qur'an,Public Holiday
+15/07/2015,Wednesday,Sultan's Birthday,Public Holiday
+18/07/2015,Saturday,Eid ul Fitr,Public Holiday
+19/07/2015,Sunday,Eid Al Fitr Holiday,Public Holiday
+20/07/2015,Monday,Eid Al Fitr Holiday observed,Public Holiday
+20/07/2015,Monday,Eid Al Fitr Holiday,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,Public Holiday
+15/10/2015,Thursday,Muharram/Islamic New Year,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Milad un Nabi (Mawlid),Public Holiday
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Christmas Day observed,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+08/02/2016,Monday,Lunar New Year,Public Holiday
+23/02/2016,Tuesday,National Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+05/05/2016,Thursday,Isra and Mi'raj,Public Holiday
+31/05/2016,Tuesday,Royal Brunei Armed Forces Day,Public Holiday
+07/06/2016,Tuesday,Ramadan Start,Public Holiday
+21/06/2016,Tuesday,June Solstice,Season
+23/06/2016,Thursday,Nuzul Al-Qur'an,Public Holiday
+07/07/2016,Thursday,Eid ul Fitr,Public Holiday
+08/07/2016,Friday,Eid Al Fitr Holiday,Public Holiday
+09/07/2016,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+09/07/2016,Saturday,Eid Al Fitr Holiday,Public Holiday
+15/07/2016,Friday,Sultan's Birthday,Public Holiday
+16/07/2016,Saturday,Sultan's Birthday observed,Public Holiday
+13/09/2016,Tuesday,Eid al-Adha,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+03/10/2016,Monday,Muharram/Islamic New Year,Public Holiday
+12/12/2016,Monday,Milad un Nabi (Mawlid),Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Christmas Day observed,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+28/01/2017,Saturday,Lunar New Year,Public Holiday
+23/02/2017,Thursday,National Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+24/04/2017,Monday,Isra and Mi'raj,Public Holiday
+27/05/2017,Saturday,Ramadan Start,Public Holiday
+31/05/2017,Wednesday,Royal Brunei Armed Forces Day,Public Holiday
+12/06/2017,Monday,Nuzul Al-Qur'an,Public Holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid ul Fitr,Public Holiday
+27/06/2017,Tuesday,Eid Al Fitr Holiday,Public Holiday
+28/06/2017,Wednesday,Eid Al Fitr Holiday,Public Holiday
+15/07/2017,Saturday,Sultan's Birthday,Public Holiday
+02/09/2017,Saturday,Eid al-Adha,Public Holiday
+22/09/2017,Friday,Muharram/Islamic New Year,Public Holiday
+23/09/2017,Saturday,Muharram/Islamic New Year observed,Public Holiday
+23/09/2017,Saturday,September Equinox,Season
+05/10/2017,Thursday,Golden Jubilee of His Majesty's Ascension to the throne,Public Holiday
+01/12/2017,Friday,Milad un Nabi (Mawlid),Public Holiday
+02/12/2017,Saturday,Milad un Nabi (Mawlid) observed,Public Holiday
+22/12/2017,Friday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+16/02/2018,Friday,Lunar New Year,Public Holiday
+17/02/2018,Saturday,Day off for Lunar New Year,Public Holiday
+23/02/2018,Friday,National Day,Public Holiday
+24/02/2018,Saturday,National Day observed,Public Holiday
+21/03/2018,Wednesday,March Equinox,Season
+14/04/2018,Saturday,Isra and Mi'raj,Public Holiday
+16/05/2018,Wednesday,Ramadan Start,Public Holiday
+31/05/2018,Thursday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2018,Friday,Nuzul Al-Qur'an,Public Holiday
+15/06/2018,Friday,Eid ul Fitr,Public Holiday
+16/06/2018,Saturday,Eid ul Fitr observed,Public Holiday
+16/06/2018,Saturday,Eid Al Fitr Holiday,Public Holiday
+17/06/2018,Sunday,Eid Al Fitr Holiday,Public Holiday
+18/06/2018,Monday,Eid Al Fitr Holiday observed,Public Holiday
+21/06/2018,Thursday,June Solstice,Season
+15/07/2018,Sunday,Sultan's Birthday,Public Holiday
+16/07/2018,Monday,Sultan's Birthday observed,Public Holiday
+22/08/2018,Wednesday,Eid al-Adha,Public Holiday
+12/09/2018,Wednesday,Muharram/Islamic New Year,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+21/11/2018,Wednesday,Milad un Nabi (Mawlid),Public Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+05/02/2019,Tuesday,Lunar New Year,Public Holiday
+23/02/2019,Saturday,National Day,Public Holiday
+21/03/2019,Thursday,March Equinox,Season
+03/04/2019,Wednesday,Isra and Mi'raj,Public Holiday
+06/05/2019,Monday,Ramadan Start,Public Holiday
+23/05/2019,Thursday,Nuzul Al-Qur'an,Public Holiday
+31/05/2019,Friday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2019,Saturday,Royal Brunei Armed Forces Day observed,Public Holiday
+05/06/2019,Wednesday,Eid ul Fitr,Public Holiday
+06/06/2019,Thursday,Eid Al Fitr Holiday,Public Holiday
+07/06/2019,Friday,Eid Al Fitr Holiday,Public Holiday
+08/06/2019,Saturday,Eid Al Fitr Holiday observed,Public Holiday
+21/06/2019,Friday,June Solstice,Season
+15/07/2019,Monday,Sultan's Birthday,Public Holiday
+11/08/2019,Sunday,Eid al-Adha,Public Holiday
+12/08/2019,Monday,Eid al-Adha observed,Public Holiday
+01/09/2019,Sunday,Muharram/Islamic New Year,Public Holiday
+02/09/2019,Monday,Muharram/Islamic New Year observed,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+09/11/2019,Saturday,Milad un Nabi (Mawlid),Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+25/01/2020,Saturday,Lunar New Year,Public Holiday
+23/02/2020,Sunday,National Day,Public Holiday
+24/02/2020,Monday,National Day observed,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+22/03/2020,Sunday,Isra and Mi'raj,Public Holiday
+23/03/2020,Monday,Isra and Mi'raj observed,Public Holiday
+25/04/2020,Saturday,Ramadan Start,Public Holiday
+10/05/2020,Sunday,Nuzul Al-Qur'an,Public Holiday
+11/05/2020,Monday,Nuzul Al-Qur'an observed,Public Holiday
+24/05/2020,Sunday,Eid ul Fitr,Public Holiday
+25/05/2020,Monday,Eid ul Fitr observed,Public Holiday
+25/05/2020,Monday,Eid Al Fitr Holiday,Public Holiday
+26/05/2020,Tuesday,Eid Al Fitr Holiday,Public Holiday
+31/05/2020,Sunday,Royal Brunei Armed Forces Day,Public Holiday
+01/06/2020,Monday,Royal Brunei Armed Forces Day observed,Public Holiday
+21/06/2020,Sunday,June Solstice,Season
+15/07/2020,Wednesday,Sultan's Birthday,Public Holiday
+01/08/2020,Saturday,Eid al-Adha,Public Holiday
+20/08/2020,Thursday,Muharram/Islamic New Year,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+29/10/2020,Thursday,Milad un Nabi (Mawlid),Public Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Christmas Day observed,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+02/01/2021,Saturday,Day off for New Year's Day,Public Holiday
+12/02/2021,Friday,Lunar New Year,Public Holiday
+13/02/2021,Saturday,Day off for Lunar New Year,Public Holiday
+23/02/2021,Tuesday,National Day,Public Holiday
+11/03/2021,Thursday,Isra and Mi'raj,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+14/04/2021,Wednesday,Ramadan Start,Public Holiday
+30/04/2021,Friday,Nuzul Al-Qur'an,Public Holiday
+01/05/2021,Saturday,Nuzul Al-Qur'an observed,Public Holiday
+14/05/2021,Friday,Eid ul Fitr,Public Holiday
+15/05/2021,Saturday,Eid Al Fitr Holiday,Public Holiday
+17/05/2021,Monday,Eid Al Fitr Holiday,Public Holiday
+31/05/2021,Monday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2021,Monday,June Solstice,Season
+15/07/2021,Thursday,Sultan's Birthday,Public Holiday
+21/07/2021,Wednesday,Eid al-Adha,Public Holiday
+10/08/2021,Tuesday,Muharram/Islamic New Year,Public Holiday
+23/09/2021,Thursday,September Equinox,Season
+19/10/2021,Tuesday,Milad un Nabi (Mawlid),Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+01/02/2022,Tuesday,Lunar New Year,Public Holiday
+23/02/2022,Wednesday,National Day,Public Holiday
+28/02/2022,Monday,Isra and Mi'raj,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+03/04/2022,Sunday,Ramadan Start,Public Holiday
+04/04/2022,Monday,Ramadan Start observed,Public Holiday
+19/04/2022,Tuesday,Nuzul Al-Qur'an (Tentative Date),Public Holiday
+02/05/2022,Monday,Eid ul Fitr,Public Holiday
+03/05/2022,Tuesday,Eid Al Fitr Holiday,Public Holiday
+04/05/2022,Wednesday,Eid Al Fitr Holiday,Public Holiday
+31/05/2022,Tuesday,Royal Brunei Armed Forces Day,Public Holiday
+21/06/2022,Tuesday,June Solstice,Season
+10/07/2022,Sunday,Eid al-Adha,Public Holiday
+11/07/2022,Monday,Day off for Eid al-Adha,Public Holiday
+15/07/2022,Friday,Sultan's Birthday,Public Holiday
+16/07/2022,Saturday,Sultan's Birthday observed,Public Holiday
+30/07/2022,Saturday,Muharram/Islamic New Year,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+08/10/2022,Saturday,Milad un Nabi (Mawlid),Public Holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Christmas Day observed,Public Holiday

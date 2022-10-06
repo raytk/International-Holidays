@@ -1,0 +1,826 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+06/01/2000,Thursday,The Three Wise Men Day,Observance
+06/03/2000,Monday,Carnival / Shrove Monday,National holiday
+07/03/2000,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2000,Sunday,Saint Joseph's Day,National holiday
+20/03/2000,Monday,March Equinox,Season
+16/04/2000,Sunday,Palm Sunday,"Observance, Christian"
+19/04/2000,Wednesday,Declaration of Independence,National holiday
+20/04/2000,Thursday,Maundy Thursday,"National holiday, Christian"
+21/04/2000,Friday,Good Friday,"National holiday, Christian"
+23/04/2000,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2000,Monday,Labor Day / May Day,National holiday
+01/06/2000,Thursday,Ascension Day,Observance
+20/06/2000,Tuesday,June Solstice,Season
+22/06/2000,Thursday,Corpus Christi,Observance
+24/06/2000,Saturday,Carabobo Battle,National holiday
+29/06/2000,Thursday,Saint Peter and Saint Paul,Observance
+05/07/2000,Wednesday,Independence Day,National holiday
+24/07/2000,Monday,Simón Bolívar's Birthday,National holiday
+03/08/2000,Thursday,Flag's Day,Observance
+04/08/2000,Friday,National Guard's Day,Observance
+15/08/2000,Tuesday,Assumption of Mary,Observance
+11/09/2000,Monday,Our Lady of Coromoto,Observance
+22/09/2000,Friday,September Equinox,Season
+12/10/2000,Thursday,Day of Indigenous Resistance,National holiday
+01/11/2000,Wednesday,All Saints Day,Observance
+02/11/2000,Thursday,All Souls Day,National holiday
+08/12/2000,Friday,Feast of the Immaculate Conception,Observance
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,"National holiday, Christian"
+25/12/2000,Monday,Christmas Day,"National holiday, Christian"
+25/12/2000,Monday,Christmas Eve observed,"National holiday, Christian"
+31/12/2000,Sunday,New Year's Eve,National holiday
+01/01/2001,Monday,New Year's Day,National holiday
+06/01/2001,Saturday,The Three Wise Men Day,Observance
+26/02/2001,Monday,Carnival / Shrove Monday,National holiday
+27/02/2001,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2001,Monday,Saint Joseph's Day,National holiday
+20/03/2001,Tuesday,March Equinox,Season
+08/04/2001,Sunday,Palm Sunday,"Observance, Christian"
+12/04/2001,Thursday,Maundy Thursday,"National holiday, Christian"
+13/04/2001,Friday,Good Friday,"National holiday, Christian"
+15/04/2001,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2001,Thursday,Declaration of Independence,National holiday
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+24/05/2001,Thursday,Ascension Day,Observance
+14/06/2001,Thursday,Corpus Christi,Observance
+21/06/2001,Thursday,June Solstice,Season
+24/06/2001,Sunday,Carabobo Battle,National holiday
+29/06/2001,Friday,Saint Peter and Saint Paul,Observance
+05/07/2001,Thursday,Independence Day,National holiday
+24/07/2001,Tuesday,Simón Bolívar's Birthday,National holiday
+03/08/2001,Friday,Flag's Day,Observance
+04/08/2001,Saturday,National Guard's Day,Observance
+15/08/2001,Wednesday,Assumption of Mary,Observance
+11/09/2001,Tuesday,Our Lady of Coromoto,Observance
+22/09/2001,Saturday,September Equinox,Season
+12/10/2001,Friday,Day of Indigenous Resistance,National holiday
+01/11/2001,Thursday,All Saints Day,Observance
+02/11/2001,Friday,All Souls Day,National holiday
+08/12/2001,Saturday,Feast of the Immaculate Conception,Observance
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,"National holiday, Christian"
+25/12/2001,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2001,Monday,New Year's Eve,National holiday
+01/01/2002,Tuesday,New Year's Day,National holiday
+06/01/2002,Sunday,The Three Wise Men Day,Observance
+11/02/2002,Monday,Carnival / Shrove Monday,National holiday
+12/02/2002,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2002,Tuesday,Saint Joseph's Day,National holiday
+20/03/2002,Wednesday,March Equinox,Season
+24/03/2002,Sunday,Palm Sunday,"Observance, Christian"
+28/03/2002,Thursday,Maundy Thursday,"National holiday, Christian"
+29/03/2002,Friday,Good Friday,"National holiday, Christian"
+31/03/2002,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2002,Friday,Declaration of Independence,National holiday
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+09/05/2002,Thursday,Ascension Day,Observance
+30/05/2002,Thursday,Corpus Christi,Observance
+21/06/2002,Friday,June Solstice,Season
+24/06/2002,Monday,Carabobo Battle,National holiday
+29/06/2002,Saturday,Saint Peter and Saint Paul,Observance
+05/07/2002,Friday,Independence Day,National holiday
+24/07/2002,Wednesday,Simón Bolívar's Birthday,National holiday
+03/08/2002,Saturday,Flag's Day,Observance
+04/08/2002,Sunday,National Guard's Day,Observance
+15/08/2002,Thursday,Assumption of Mary,Observance
+11/09/2002,Wednesday,Our Lady of Coromoto,Observance
+23/09/2002,Monday,September Equinox,Season
+12/10/2002,Saturday,Day of Indigenous Resistance,National holiday
+01/11/2002,Friday,All Saints Day,Observance
+02/11/2002,Saturday,All Souls Day,National holiday
+08/12/2002,Sunday,Feast of the Immaculate Conception,Observance
+21/12/2002,Saturday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,"National holiday, Christian"
+25/12/2002,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2002,Tuesday,New Year's Eve,National holiday
+01/01/2003,Wednesday,New Year's Day,National holiday
+06/01/2003,Monday,The Three Wise Men Day,Observance
+03/03/2003,Monday,Carnival / Shrove Monday,National holiday
+04/03/2003,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2003,Wednesday,Saint Joseph's Day,National holiday
+20/03/2003,Thursday,March Equinox,Season
+13/04/2003,Sunday,Palm Sunday,"Observance, Christian"
+17/04/2003,Thursday,Maundy Thursday,"National holiday, Christian"
+18/04/2003,Friday,Good Friday,"National holiday, Christian"
+19/04/2003,Saturday,Declaration of Independence,National holiday
+20/04/2003,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+29/05/2003,Thursday,Ascension Day,Observance
+19/06/2003,Thursday,Corpus Christi,Observance
+21/06/2003,Saturday,June Solstice,Season
+24/06/2003,Tuesday,Carabobo Battle,National holiday
+29/06/2003,Sunday,Saint Peter and Saint Paul,Observance
+05/07/2003,Saturday,Independence Day,National holiday
+24/07/2003,Thursday,Simón Bolívar's Birthday,National holiday
+03/08/2003,Sunday,Flag's Day,Observance
+04/08/2003,Monday,National Guard's Day,Observance
+15/08/2003,Friday,Assumption of Mary,Observance
+11/09/2003,Thursday,Our Lady of Coromoto,Observance
+23/09/2003,Tuesday,September Equinox,Season
+12/10/2003,Sunday,Day of Indigenous Resistance,National holiday
+01/11/2003,Saturday,All Saints Day,Observance
+02/11/2003,Sunday,All Souls Day,National holiday
+08/12/2003,Monday,Feast of the Immaculate Conception,Observance
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,"National holiday, Christian"
+25/12/2003,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2003,Wednesday,New Year's Eve,National holiday
+01/01/2004,Thursday,New Year's Day,National holiday
+06/01/2004,Tuesday,The Three Wise Men Day,Observance
+23/02/2004,Monday,Carnival / Shrove Monday,National holiday
+24/02/2004,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2004,Friday,Saint Joseph's Day,National holiday
+20/03/2004,Saturday,March Equinox,Season
+04/04/2004,Sunday,Palm Sunday,"Observance, Christian"
+08/04/2004,Thursday,Maundy Thursday,"National holiday, Christian"
+09/04/2004,Friday,Good Friday,"National holiday, Christian"
+11/04/2004,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2004,Monday,Declaration of Independence,National holiday
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+20/05/2004,Thursday,Ascension Day,Observance
+10/06/2004,Thursday,Corpus Christi,Observance
+20/06/2004,Sunday,June Solstice,Season
+24/06/2004,Thursday,Carabobo Battle,National holiday
+29/06/2004,Tuesday,Saint Peter and Saint Paul,Observance
+05/07/2004,Monday,Independence Day,National holiday
+24/07/2004,Saturday,Simón Bolívar's Birthday,National holiday
+03/08/2004,Tuesday,Flag's Day,Observance
+04/08/2004,Wednesday,National Guard's Day,Observance
+15/08/2004,Sunday,Assumption of Mary,Observance
+11/09/2004,Saturday,Our Lady of Coromoto,Observance
+22/09/2004,Wednesday,September Equinox,Season
+12/10/2004,Tuesday,Day of Indigenous Resistance,National holiday
+01/11/2004,Monday,All Saints Day,Observance
+02/11/2004,Tuesday,All Souls Day,National holiday
+08/12/2004,Wednesday,Feast of the Immaculate Conception,Observance
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,"National holiday, Christian"
+25/12/2004,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2004,Friday,New Year's Eve,National holiday
+01/01/2005,Saturday,New Year's Day,National holiday
+06/01/2005,Thursday,The Three Wise Men Day,Observance
+07/02/2005,Monday,Carnival / Shrove Monday,National holiday
+08/02/2005,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2005,Saturday,Saint Joseph's Day,National holiday
+20/03/2005,Sunday,Palm Sunday,"Observance, Christian"
+20/03/2005,Sunday,March Equinox,Season
+24/03/2005,Thursday,Maundy Thursday,"National holiday, Christian"
+25/03/2005,Friday,Good Friday,"National holiday, Christian"
+27/03/2005,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2005,Tuesday,Declaration of Independence,National holiday
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+05/05/2005,Thursday,Ascension Day,Observance
+26/05/2005,Thursday,Corpus Christi,Observance
+21/06/2005,Tuesday,June Solstice,Season
+24/06/2005,Friday,Carabobo Battle,National holiday
+29/06/2005,Wednesday,Saint Peter and Saint Paul,Observance
+05/07/2005,Tuesday,Independence Day,National holiday
+24/07/2005,Sunday,Simón Bolívar's Birthday,National holiday
+03/08/2005,Wednesday,Flag's Day,Observance
+04/08/2005,Thursday,National Guard's Day,Observance
+15/08/2005,Monday,Assumption of Mary,Observance
+11/09/2005,Sunday,Our Lady of Coromoto,Observance
+22/09/2005,Thursday,September Equinox,Season
+12/10/2005,Wednesday,Day of Indigenous Resistance,National holiday
+01/11/2005,Tuesday,All Saints Day,Observance
+02/11/2005,Wednesday,All Souls Day,National holiday
+08/12/2005,Thursday,Feast of the Immaculate Conception,Observance
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,"National holiday, Christian"
+25/12/2005,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2005,Monday,Christmas Day observed,"National holiday, Christian"
+31/12/2005,Saturday,New Year's Eve,National holiday
+01/01/2006,Sunday,New Year's Day,National holiday
+06/01/2006,Friday,The Three Wise Men Day,Observance
+27/02/2006,Monday,Carnival / Shrove Monday,National holiday
+28/02/2006,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2006,Sunday,Saint Joseph's Day,National holiday
+20/03/2006,Monday,March Equinox,Season
+09/04/2006,Sunday,Palm Sunday,"Observance, Christian"
+13/04/2006,Thursday,Maundy Thursday,"National holiday, Christian"
+14/04/2006,Friday,Good Friday,"National holiday, Christian"
+16/04/2006,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2006,Wednesday,Declaration of Independence,National holiday
+01/05/2006,Monday,Labor Day / May Day,National holiday
+25/05/2006,Thursday,Ascension Day,Observance
+15/06/2006,Thursday,Corpus Christi,Observance
+21/06/2006,Wednesday,June Solstice,Season
+24/06/2006,Saturday,Carabobo Battle,National holiday
+29/06/2006,Thursday,Saint Peter and Saint Paul,Observance
+05/07/2006,Wednesday,Independence Day,National holiday
+24/07/2006,Monday,Simón Bolívar's Birthday,National holiday
+03/08/2006,Thursday,Flag's Day,Observance
+04/08/2006,Friday,National Guard's Day,Observance
+15/08/2006,Tuesday,Assumption of Mary,Observance
+11/09/2006,Monday,Our Lady of Coromoto,Observance
+23/09/2006,Saturday,September Equinox,Season
+12/10/2006,Thursday,Day of Indigenous Resistance,National holiday
+01/11/2006,Wednesday,All Saints Day,Observance
+02/11/2006,Thursday,All Souls Day,National holiday
+08/12/2006,Friday,Feast of the Immaculate Conception,Observance
+21/12/2006,Thursday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,"National holiday, Christian"
+25/12/2006,Monday,Christmas Day,"National holiday, Christian"
+25/12/2006,Monday,Christmas Eve observed,"National holiday, Christian"
+31/12/2006,Sunday,New Year's Eve,National holiday
+01/01/2007,Monday,New Year's Day,National holiday
+06/01/2007,Saturday,The Three Wise Men Day,Observance
+19/02/2007,Monday,Carnival / Shrove Monday,National holiday
+20/02/2007,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2007,Monday,Saint Joseph's Day,National holiday
+20/03/2007,Tuesday,March Equinox,Season
+01/04/2007,Sunday,Palm Sunday,"Observance, Christian"
+05/04/2007,Thursday,Maundy Thursday,"National holiday, Christian"
+06/04/2007,Friday,Good Friday,"National holiday, Christian"
+08/04/2007,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2007,Thursday,Declaration of Independence,National holiday
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+17/05/2007,Thursday,Ascension Day,Observance
+07/06/2007,Thursday,Corpus Christi,Observance
+21/06/2007,Thursday,June Solstice,Season
+24/06/2007,Sunday,Carabobo Battle,National holiday
+29/06/2007,Friday,Saint Peter and Saint Paul,Observance
+05/07/2007,Thursday,Independence Day,National holiday
+24/07/2007,Tuesday,Simón Bolívar's Birthday,National holiday
+03/08/2007,Friday,Flag's Day,Observance
+04/08/2007,Saturday,National Guard's Day,Observance
+15/08/2007,Wednesday,Assumption of Mary,Observance
+11/09/2007,Tuesday,Our Lady of Coromoto,Observance
+23/09/2007,Sunday,September Equinox,Season
+12/10/2007,Friday,Day of Indigenous Resistance,National holiday
+01/11/2007,Thursday,All Saints Day,Observance
+02/11/2007,Friday,All Souls Day,National holiday
+08/12/2007,Saturday,Feast of the Immaculate Conception,Observance
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,"National holiday, Christian"
+25/12/2007,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2007,Monday,New Year's Eve,National holiday
+01/01/2008,Tuesday,New Year's Day,National holiday
+06/01/2008,Sunday,The Three Wise Men Day,Observance
+04/02/2008,Monday,Carnival / Shrove Monday,National holiday
+05/02/2008,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+16/03/2008,Sunday,Palm Sunday,"Observance, Christian"
+19/03/2008,Wednesday,Saint Joseph's Day,National holiday
+20/03/2008,Thursday,Maundy Thursday,"National holiday, Christian"
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,"National holiday, Christian"
+23/03/2008,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2008,Saturday,Declaration of Independence,National holiday
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+01/05/2008,Thursday,Ascension Day,Observance
+22/05/2008,Thursday,Corpus Christi,Observance
+20/06/2008,Friday,June Solstice,Season
+24/06/2008,Tuesday,Carabobo Battle,National holiday
+29/06/2008,Sunday,Saint Peter and Saint Paul,Observance
+05/07/2008,Saturday,Independence Day,National holiday
+24/07/2008,Thursday,Simón Bolívar's Birthday,National holiday
+03/08/2008,Sunday,Flag's Day,Observance
+04/08/2008,Monday,National Guard's Day,Observance
+15/08/2008,Friday,Assumption of Mary,Observance
+11/09/2008,Thursday,Our Lady of Coromoto,Observance
+22/09/2008,Monday,September Equinox,Season
+12/10/2008,Sunday,Day of Indigenous Resistance,National holiday
+01/11/2008,Saturday,All Saints Day,Observance
+02/11/2008,Sunday,All Souls Day,National holiday
+08/12/2008,Monday,Feast of the Immaculate Conception,Observance
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,"National holiday, Christian"
+25/12/2008,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2008,Wednesday,New Year's Eve,National holiday
+01/01/2009,Thursday,New Year's Day,National holiday
+06/01/2009,Tuesday,The Three Wise Men Day,Observance
+23/02/2009,Monday,Carnival / Shrove Monday,National holiday
+24/02/2009,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2009,Thursday,Saint Joseph's Day,National holiday
+20/03/2009,Friday,March Equinox,Season
+05/04/2009,Sunday,Palm Sunday,"Observance, Christian"
+09/04/2009,Thursday,Maundy Thursday,"National holiday, Christian"
+10/04/2009,Friday,Good Friday,"National holiday, Christian"
+12/04/2009,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2009,Sunday,Declaration of Independence,National holiday
+01/05/2009,Friday,Labor Day / May Day,National holiday
+21/05/2009,Thursday,Ascension Day,Observance
+11/06/2009,Thursday,Corpus Christi,Observance
+21/06/2009,Sunday,June Solstice,Season
+24/06/2009,Wednesday,Carabobo Battle,National holiday
+29/06/2009,Monday,Saint Peter and Saint Paul,Observance
+05/07/2009,Sunday,Independence Day,National holiday
+24/07/2009,Friday,Simón Bolívar's Birthday,National holiday
+03/08/2009,Monday,Flag's Day,Observance
+04/08/2009,Tuesday,National Guard's Day,Observance
+15/08/2009,Saturday,Assumption of Mary,Observance
+11/09/2009,Friday,Our Lady of Coromoto,Observance
+22/09/2009,Tuesday,September Equinox,Season
+12/10/2009,Monday,Day of Indigenous Resistance,National holiday
+01/11/2009,Sunday,All Saints Day,Observance
+02/11/2009,Monday,All Souls Day,National holiday
+08/12/2009,Tuesday,Feast of the Immaculate Conception,Observance
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,"National holiday, Christian"
+25/12/2009,Friday,Christmas Day,"National holiday, Christian"
+31/12/2009,Thursday,New Year's Eve,National holiday
+01/01/2010,Friday,New Year's Day,National holiday
+06/01/2010,Wednesday,The Three Wise Men Day,Observance
+15/02/2010,Monday,Carnival / Shrove Monday,National holiday
+16/02/2010,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2010,Friday,Saint Joseph's Day,National holiday
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Palm Sunday,"Observance, Christian"
+01/04/2010,Thursday,Maundy Thursday,"National holiday, Christian"
+02/04/2010,Friday,Good Friday,"National holiday, Christian"
+04/04/2010,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2010,Monday,Declaration of Independence,National holiday
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+13/05/2010,Thursday,Ascension Day,Observance
+03/06/2010,Thursday,Corpus Christi,Observance
+21/06/2010,Monday,June Solstice,Season
+24/06/2010,Thursday,Carabobo Battle,National holiday
+29/06/2010,Tuesday,Saint Peter and Saint Paul,Observance
+05/07/2010,Monday,Independence Day,National holiday
+24/07/2010,Saturday,Simón Bolívar's Birthday,National holiday
+03/08/2010,Tuesday,Flag's Day,Observance
+04/08/2010,Wednesday,National Guard's Day,Observance
+15/08/2010,Sunday,Assumption of Mary,Observance
+11/09/2010,Saturday,Our Lady of Coromoto,Observance
+22/09/2010,Wednesday,September Equinox,Season
+12/10/2010,Tuesday,Day of Indigenous Resistance,National holiday
+01/11/2010,Monday,All Saints Day,Observance
+02/11/2010,Tuesday,All Souls Day,National holiday
+27/11/2010,Saturday,Aviation Day,Observance
+08/12/2010,Wednesday,Feast of the Immaculate Conception,Observance
+21/12/2010,Tuesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,"National holiday, Christian"
+25/12/2010,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2010,Friday,New Year's Eve,National holiday
+01/01/2011,Saturday,New Year's Day,National holiday
+06/01/2011,Thursday,The Three Wise Men Day,Observance
+07/03/2011,Monday,Carnival / Shrove Monday,National holiday
+08/03/2011,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2011,Saturday,Saint Joseph's Day,National holiday
+20/03/2011,Sunday,March Equinox,Season
+17/04/2011,Sunday,Palm Sunday,"Observance, Christian"
+19/04/2011,Tuesday,Declaration of Independence,National holiday
+21/04/2011,Thursday,Maundy Thursday,"National holiday, Christian"
+22/04/2011,Friday,Good Friday,"National holiday, Christian"
+24/04/2011,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+02/06/2011,Thursday,Ascension Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+23/06/2011,Thursday,Corpus Christi,Observance
+24/06/2011,Friday,Carabobo Battle,National holiday
+29/06/2011,Wednesday,Saint Peter and Saint Paul,Observance
+05/07/2011,Tuesday,Independence Day,National holiday
+24/07/2011,Sunday,Simón Bolívar's Birthday,National holiday
+03/08/2011,Wednesday,Flag's Day,Observance
+04/08/2011,Thursday,National Guard's Day,Observance
+15/08/2011,Monday,Assumption of Mary,Observance
+11/09/2011,Sunday,Our Lady of Coromoto,Observance
+23/09/2011,Friday,September Equinox,Season
+12/10/2011,Wednesday,Day of Indigenous Resistance,National holiday
+01/11/2011,Tuesday,All Saints Day,Observance
+02/11/2011,Wednesday,All Souls Day,National holiday
+27/11/2011,Sunday,Aviation Day,Observance
+08/12/2011,Thursday,Feast of the Immaculate Conception,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,"National holiday, Christian"
+25/12/2011,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2011,Monday,Christmas Day observed,"National holiday, Christian"
+31/12/2011,Saturday,New Year's Eve,National holiday
+01/01/2012,Sunday,New Year's Day,National holiday
+06/01/2012,Friday,The Three Wise Men Day,Observance
+20/02/2012,Monday,Carnival / Shrove Monday,National holiday
+21/02/2012,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2012,Monday,Saint Joseph's Day,National holiday
+20/03/2012,Tuesday,March Equinox,Season
+01/04/2012,Sunday,Palm Sunday,"Observance, Christian"
+05/04/2012,Thursday,Maundy Thursday,"National holiday, Christian"
+06/04/2012,Friday,Good Friday,"National holiday, Christian"
+08/04/2012,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2012,Thursday,Declaration of Independence,National holiday
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+17/05/2012,Thursday,Ascension Day,Observance
+07/06/2012,Thursday,Corpus Christi,Observance
+20/06/2012,Wednesday,June Solstice,Season
+24/06/2012,Sunday,Carabobo Battle,National holiday
+29/06/2012,Friday,Saint Peter and Saint Paul,Observance
+05/07/2012,Thursday,Independence Day,National holiday
+24/07/2012,Tuesday,Simón Bolívar's Birthday,National holiday
+03/08/2012,Friday,Flag's Day,Observance
+04/08/2012,Saturday,National Guard's Day,Observance
+15/08/2012,Wednesday,Assumption of Mary,Observance
+11/09/2012,Tuesday,Our Lady of Coromoto,Observance
+22/09/2012,Saturday,September Equinox,Season
+12/10/2012,Friday,Day of Indigenous Resistance,National holiday
+01/11/2012,Thursday,All Saints Day,Observance
+02/11/2012,Friday,All Souls Day,National holiday
+27/11/2012,Tuesday,Aviation Day,Observance
+08/12/2012,Saturday,Feast of the Immaculate Conception,Observance
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,"National holiday, Christian"
+25/12/2012,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2012,Monday,New Year's Eve,National holiday
+01/01/2013,Tuesday,New Year's Day,National holiday
+06/01/2013,Sunday,The Three Wise Men Day,Observance
+11/02/2013,Monday,Carnival / Shrove Monday,National holiday
+12/02/2013,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2013,Tuesday,Saint Joseph's Day,National holiday
+20/03/2013,Wednesday,March Equinox,Season
+24/03/2013,Sunday,Palm Sunday,"Observance, Christian"
+28/03/2013,Thursday,Maundy Thursday,"National holiday, Christian"
+29/03/2013,Friday,Good Friday,"National holiday, Christian"
+31/03/2013,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2013,Friday,Declaration of Independence,National holiday
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+09/05/2013,Thursday,Ascension Day,Observance
+13/05/2013,Monday,Ascension Day Holiday,Bank holiday
+30/05/2013,Thursday,Corpus Christi,Observance
+03/06/2013,Monday,Corpus Christi observed,Observance
+21/06/2013,Friday,June Solstice,Season
+24/06/2013,Monday,Carabobo Battle,National holiday
+29/06/2013,Saturday,Saint Peter and Saint Paul,Observance
+29/06/2013,Saturday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2013,Friday,Independence Day,National holiday
+24/07/2013,Wednesday,Simón Bolívar's Birthday,National holiday
+03/08/2013,Saturday,Flag's Day,Observance
+04/08/2013,Sunday,National Guard's Day,Observance
+15/08/2013,Thursday,Assumption of Mary,Observance
+19/08/2013,Monday,Assumption of Mary Holiday,Bank holiday
+11/09/2013,Wednesday,Our Lady of Coromoto,Observance
+22/09/2013,Sunday,September Equinox,Season
+12/10/2013,Saturday,Day of Indigenous Resistance,National holiday
+01/11/2013,Friday,All Saints Day,Observance
+02/11/2013,Saturday,All Souls Day,National holiday
+04/11/2013,Monday,All Saints Day observed,Observance
+27/11/2013,Wednesday,Aviation Day,Observance
+08/12/2013,Sunday,Feast of the Immaculate Conception,Observance
+08/12/2013,Sunday,Hugo Chavez Day,National holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,"National holiday, Christian"
+25/12/2013,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2013,Tuesday,New Year's Eve,National holiday
+01/01/2014,Wednesday,New Year's Day,National holiday
+06/01/2014,Monday,Three Kings Day Holiday,Bank holiday
+27/02/2014,Thursday,Caracazo Remembrance Day (day 1),National holiday
+28/02/2014,Friday,Caracazo Remembrance Day (day 2),National holiday
+03/03/2014,Monday,Carnival / Shrove Monday,National holiday
+04/03/2014,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2014,Wednesday,Saint Joseph's Day,Bank holiday
+20/03/2014,Thursday,March Equinox,Season
+13/04/2014,Sunday,Palm Sunday,"Observance, Christian"
+17/04/2014,Thursday,Maundy Thursday,"National holiday, Christian"
+18/04/2014,Friday,Good Friday,"National holiday, Christian"
+19/04/2014,Saturday,Declaration of Independence,National holiday
+20/04/2014,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+29/05/2014,Thursday,Ascension Day,Observance
+02/06/2014,Monday,Ascension Day Holiday,Bank holiday
+19/06/2014,Thursday,Corpus Christi,Observance
+21/06/2014,Saturday,June Solstice,Season
+23/06/2014,Monday,Corpus Christi Holiday,Bank holiday
+24/06/2014,Tuesday,Carabobo Battle,National holiday
+29/06/2014,Sunday,Saint Peter and Saint Paul,National holiday
+29/06/2014,Sunday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2014,Saturday,Independence Day,National holiday
+24/07/2014,Thursday,Simón Bolívar's Birthday,National holiday
+03/08/2014,Sunday,Flag's Day,Observance
+04/08/2014,Monday,National Guard's Day,Observance
+15/08/2014,Friday,Assumption of Mary,Observance
+18/08/2014,Monday,Assumption of Mary Holiday,Bank holiday
+11/09/2014,Thursday,Our Lady of Coromoto,Observance
+22/09/2014,Monday,September Equinox,Season
+12/10/2014,Sunday,Day of Indigenous Resistance,National holiday
+01/11/2014,Saturday,All Saints Day,Observance
+02/11/2014,Sunday,All Souls Day,National holiday
+27/11/2014,Thursday,Aviation Day,Observance
+08/12/2014,Monday,Feast of the Immaculate Conception,Bank holiday
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,"National holiday, Christian"
+25/12/2014,Thursday,Christmas Day,"National holiday, Christian"
+31/12/2014,Wednesday,New Year's Eve,National holiday
+01/01/2015,Thursday,New Year's Day,National holiday
+05/01/2015,Monday,Three Kings Day Holiday,Bank holiday
+06/01/2015,Tuesday,The Three Wise Men Day,Observance
+16/02/2015,Monday,Carnival / Shrove Monday,National holiday
+17/02/2015,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2015,Thursday,Saint Joseph's Day,National holiday
+20/03/2015,Friday,March Equinox,Season
+29/03/2015,Sunday,Palm Sunday,"Observance, Christian"
+02/04/2015,Thursday,Maundy Thursday,"National holiday, Christian"
+03/04/2015,Friday,Good Friday,"National holiday, Christian"
+05/04/2015,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2015,Sunday,Declaration of Independence,National holiday
+01/05/2015,Friday,Labor Day / May Day,National holiday
+14/05/2015,Thursday,Ascension Day,Observance
+18/05/2015,Monday,Ascension Day,Bank holiday
+04/06/2015,Thursday,Corpus Christi,Observance
+08/06/2015,Monday,Corpus Christi Holiday,Bank holiday
+21/06/2015,Sunday,June Solstice,Season
+24/06/2015,Wednesday,Carabobo Battle,National holiday
+29/06/2015,Monday,Saint Peter and Saint Paul,National holiday
+29/06/2015,Monday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2015,Sunday,Independence Day,National holiday
+24/07/2015,Friday,Simón Bolívar's Birthday,National holiday
+03/08/2015,Monday,Flag's Day,Observance
+04/08/2015,Tuesday,National Guard's Day,Observance
+15/08/2015,Saturday,Assumption of Mary,Bank holiday
+11/09/2015,Friday,Our Lady of Coromoto,Observance
+23/09/2015,Wednesday,September Equinox,Season
+12/10/2015,Monday,Day of Indigenous Resistance,National holiday
+01/11/2015,Sunday,All Saints Day,National holiday
+02/11/2015,Monday,All Souls Day,Observance
+27/11/2015,Friday,Aviation Day,Observance
+07/12/2015,Monday,Feast of the Immaculate Conception,Bank holiday
+08/12/2015,Tuesday,Feast of the Immaculate Conception,Observance
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,"National holiday, Christian"
+25/12/2015,Friday,Christmas Day,"National holiday, Christian"
+31/12/2015,Thursday,New Year's Eve,National holiday
+01/01/2016,Friday,New Year's Day,National holiday
+11/01/2016,Monday,Three Kings Day Holiday,Bank holiday
+08/02/2016,Monday,Carnival / Shrove Monday,National holiday
+09/02/2016,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2016,Saturday,Saint Joseph's Day,National holiday
+20/03/2016,Sunday,Palm Sunday,"Observance, Christian"
+20/03/2016,Sunday,March Equinox,Season
+24/03/2016,Thursday,Maundy Thursday,"National holiday, Christian"
+25/03/2016,Friday,Good Friday,"National holiday, Christian"
+27/03/2016,Sunday,Easter Sunday,"Observance, Christian"
+08/04/2016,Friday,Friday Holiday,Bank holiday
+15/04/2016,Friday,Friday Holiday,Bank holiday
+19/04/2016,Tuesday,Declaration of Independence,National holiday
+22/04/2016,Friday,Friday Holiday,Bank holiday
+29/04/2016,Friday,Friday Holiday,Bank holiday
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+01/05/2016,Sunday,Friday Holiday,Bank holiday
+05/05/2016,Thursday,Ascension Day,Bank holiday
+08/05/2016,Sunday,Friday Holiday,Bank holiday
+15/05/2016,Sunday,Friday Holiday,Bank holiday
+22/05/2016,Sunday,Friday Holiday,Bank holiday
+26/05/2016,Thursday,Corpus Christi,Bank holiday
+29/05/2016,Sunday,Friday Holiday,Bank holiday
+20/06/2016,Monday,June Solstice,Season
+24/06/2016,Friday,Carabobo Battle,National holiday
+29/06/2016,Wednesday,Saint Peter and Saint Paul,National holiday
+29/06/2016,Wednesday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2016,Tuesday,Independence Day,National holiday
+24/07/2016,Sunday,Simón Bolívar's Birthday,National holiday
+03/08/2016,Wednesday,Flag's Day,Observance
+04/08/2016,Thursday,National Guard's Day,Observance
+15/08/2016,Monday,Assumption of Mary,Bank holiday
+11/09/2016,Sunday,Our Lady of Coromoto,Observance
+22/09/2016,Thursday,September Equinox,Season
+12/10/2016,Wednesday,Day of Indigenous Resistance,National holiday
+01/11/2016,Tuesday,All Saints Day,National holiday
+02/11/2016,Wednesday,All Souls Day,Observance
+27/11/2016,Sunday,Aviation Day,Observance
+08/12/2016,Thursday,Feast of the Immaculate Conception,Bank holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,"National holiday, Christian"
+25/12/2016,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2016,Monday,Christmas Day observed,"National holiday, Christian"
+31/12/2016,Saturday,New Year's Eve,National holiday
+01/01/2017,Sunday,New Year's Day,National holiday
+06/01/2017,Friday,The Three Wise Men Day,Bank holiday
+01/02/2017,Wednesday,Anniversary of Ezequiel Zamora,Non-working Day
+27/02/2017,Monday,Carnival / Shrove Monday,National holiday
+28/02/2017,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2017,Sunday,Saint Joseph's Day,National holiday
+20/03/2017,Monday,March Equinox,Season
+09/04/2017,Sunday,Palm Sunday,"Observance, Christian"
+13/04/2017,Thursday,Maundy Thursday,"National holiday, Christian"
+14/04/2017,Friday,Good Friday,"National holiday, Christian"
+16/04/2017,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2017,Wednesday,Declaration of Independence,National holiday
+01/05/2017,Monday,Labor Day / May Day,National holiday
+25/05/2017,Thursday,Ascension Day,Bank holiday
+15/06/2017,Thursday,Corpus Christi,Bank holiday
+21/06/2017,Wednesday,June Solstice,Season
+24/06/2017,Saturday,Carabobo Battle,National holiday
+29/06/2017,Thursday,Saint Peter and Saint Paul,National holiday
+29/06/2017,Thursday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2017,Wednesday,Independence Day,National holiday
+24/07/2017,Monday,Simón Bolívar's Birthday,National holiday
+03/08/2017,Thursday,Flag's Day,Observance
+04/08/2017,Friday,National Guard's Day,Observance
+15/08/2017,Tuesday,Assumption of Mary,Bank holiday
+11/09/2017,Monday,Our Lady of Coromoto,Observance
+22/09/2017,Friday,September Equinox,Season
+12/10/2017,Thursday,Day of Indigenous Resistance,National holiday
+01/11/2017,Wednesday,All Saints Day,National holiday
+02/11/2017,Thursday,All Souls Day,Observance
+27/11/2017,Monday,Aviation Day,Observance
+08/12/2017,Friday,Feast of the Immaculate Conception,Bank holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,"National holiday, Christian"
+25/12/2017,Monday,Christmas Day,"National holiday, Christian"
+25/12/2017,Monday,Christmas Eve observed,"National holiday, Christian"
+31/12/2017,Sunday,New Year's Eve,National holiday
+01/01/2018,Monday,New Year's Day,National holiday
+06/01/2018,Saturday,The Three Wise Men Day,Bank holiday
+12/02/2018,Monday,Carnival / Shrove Monday,National holiday
+13/02/2018,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2018,Monday,Saint Joseph's Day,Bank holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Palm Sunday,"Observance, Christian"
+29/03/2018,Thursday,Maundy Thursday,"National holiday, Christian"
+30/03/2018,Friday,Good Friday,"National holiday, Christian"
+01/04/2018,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2018,Thursday,Declaration of Independence,National holiday
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+10/05/2018,Thursday,Ascension Day,Observance
+14/05/2018,Monday,Ascension Day Holiday,Bank holiday
+31/05/2018,Thursday,Corpus Christi,Observance
+04/06/2018,Monday,Corpus Christi Holiday,Bank holiday
+21/06/2018,Thursday,June Solstice,Season
+24/06/2018,Sunday,Carabobo Battle,National holiday
+29/06/2018,Friday,Saint Peter and Saint Paul,Observance
+02/07/2018,Monday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2018,Thursday,Independence Day,National holiday
+24/07/2018,Tuesday,Simón Bolívar's Birthday,National holiday
+03/08/2018,Friday,Flag's Day,Observance
+04/08/2018,Saturday,National Guard's Day,Observance
+15/08/2018,Wednesday,Assumption of Mary,Observance
+20/08/2018,Monday,Assumption of Mary Holiday,Bank holiday
+11/09/2018,Tuesday,Our Lady of Coromoto,Observance
+22/09/2018,Saturday,September Equinox,Season
+12/10/2018,Friday,Day of Indigenous Resistance,National holiday
+01/11/2018,Thursday,All Saints Day,National holiday
+02/11/2018,Friday,All Souls Day,Observance
+27/11/2018,Tuesday,Aviation Day,Observance
+08/12/2018,Saturday,Feast of the Immaculate Conception,Bank holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,"National holiday, Christian"
+25/12/2018,Tuesday,Christmas Day,"National holiday, Christian"
+31/12/2018,Monday,New Year's Eve,National holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+06/01/2019,Sunday,The Three Wise Men Day,Bank holiday
+28/02/2019,Thursday,Carnaval Non-working Holiday,Non-working Day
+01/03/2019,Friday,Carnaval Non-working Holiday,Non-working Day
+04/03/2019,Monday,Carnival / Shrove Monday,National holiday
+05/03/2019,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+11/03/2019,Monday,Power Outage National Holiday,National holiday
+12/03/2019,Tuesday,Power Outage National Holiday,National holiday
+19/03/2019,Tuesday,Saint Joseph's Day,Bank holiday
+20/03/2019,Wednesday,March Equinox,Season
+26/03/2019,Tuesday,Power Outage National Holiday,National holiday
+14/04/2019,Sunday,Palm Sunday,"Observance, Christian"
+18/04/2019,Thursday,Maundy Thursday,"National holiday, Christian"
+19/04/2019,Friday,Good Friday,"National holiday, Christian"
+19/04/2019,Friday,Declaration of Independence,National holiday
+21/04/2019,Sunday,Easter Sunday,"Observance, Christian"
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+30/05/2019,Thursday,Ascension Day,Observance
+03/06/2019,Monday,Ascension Day Holiday,Bank holiday
+20/06/2019,Thursday,Corpus Christi,Observance
+21/06/2019,Friday,June Solstice,Season
+24/06/2019,Monday,Carabobo Battle,National holiday
+24/06/2019,Monday,Corpus Christi Holiday,Bank holiday
+29/06/2019,Saturday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2019,Friday,Independence Day,National holiday
+24/07/2019,Wednesday,Simón Bolívar's Birthday,National holiday
+03/08/2019,Saturday,Flag's Day,Observance
+04/08/2019,Sunday,National Guard's Day,Observance
+15/08/2019,Thursday,Assumption of Mary,Observance
+19/08/2019,Monday,Assumption of Mary Holiday,Bank holiday
+11/09/2019,Wednesday,Our Lady of Coromoto,Observance
+23/09/2019,Monday,September Equinox,Season
+12/10/2019,Saturday,Day of Indigenous Resistance,National holiday
+01/11/2019,Friday,All Saints Day,Observance
+02/11/2019,Saturday,All Souls Day,Observance
+04/11/2019,Monday,All Saints Day observed,National holiday
+27/11/2019,Wednesday,Aviation Day,Observance
+08/12/2019,Sunday,Feast of the Immaculate Conception,Bank holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,"National holiday, Christian"
+25/12/2019,Wednesday,Christmas Day,"National holiday, Christian"
+31/12/2019,Tuesday,New Year's Eve,National holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+06/01/2020,Monday,The Three Wise Men Day,Bank holiday
+24/02/2020,Monday,Carnival / Shrove Monday,National holiday
+25/02/2020,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2020,Thursday,Saint Joseph's Day,Bank holiday
+19/03/2020,Thursday,March Equinox,Season
+05/04/2020,Sunday,Palm Sunday,"Observance, Christian"
+09/04/2020,Thursday,Maundy Thursday,"National holiday, Christian"
+10/04/2020,Friday,Good Friday,"National holiday, Christian"
+12/04/2020,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2020,Sunday,Declaration of Independence,National holiday
+01/05/2020,Friday,Labor Day / May Day,National holiday
+21/05/2020,Thursday,Ascension Day,Bank holiday
+11/06/2020,Thursday,Corpus Christi,Bank holiday
+13/06/2020,Saturday,St Anthony's Day,Bank holiday
+20/06/2020,Saturday,June Solstice,Season
+24/06/2020,Wednesday,Carabobo Battle,National holiday
+29/06/2020,Monday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2020,Sunday,Independence Day,National holiday
+24/07/2020,Friday,Simón Bolívar's Birthday,National holiday
+03/08/2020,Monday,Flag's Day,Observance
+04/08/2020,Tuesday,National Guard's Day,Observance
+15/08/2020,Saturday,Assumption of Mary,Bank holiday
+11/09/2020,Friday,Our Lady of Coromoto,Observance
+22/09/2020,Tuesday,September Equinox,Season
+12/10/2020,Monday,Day of Indigenous Resistance,National holiday
+01/11/2020,Sunday,All Saints Day,National holiday
+02/11/2020,Monday,All Souls Day,Observance
+18/11/2020,Wednesday,Day of the Virgin of the Rosary of Chiquinquirá,Observance
+23/11/2020,Monday,Holiday for the Day of the Virgin of the Rosary of Chiquinquirá,Bank holiday
+27/11/2020,Friday,Aviation Day,Observance
+08/12/2020,Tuesday,Feast of the Immaculate Conception,Bank holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,"National holiday, Christian"
+25/12/2020,Friday,Christmas Day,"National holiday, Christian"
+31/12/2020,Thursday,New Year's Eve,National holiday
+01/01/2021,Friday,New Year's Day,National holiday
+06/01/2021,Wednesday,The Three Wise Men Day,Observance
+06/01/2021,Wednesday,The Three Wise Men Day,Bank holiday
+11/01/2021,Monday,Three Kings Day Holiday,Bank holiday
+14/01/2021,Thursday,Divina Pastora Day,Observance
+18/01/2021,Monday,Holiday for Divina Pastora Day,Bank holiday
+15/02/2021,Monday,Carnival / Shrove Monday,National holiday
+16/02/2021,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2021,Friday,Saint Joseph's Day,Bank holiday
+20/03/2021,Saturday,March Equinox,Season
+28/03/2021,Sunday,Palm Sunday,"Observance, Christian"
+01/04/2021,Thursday,Maundy Thursday,"National holiday, Christian"
+02/04/2021,Friday,Good Friday,"National holiday, Christian"
+04/04/2021,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2021,Monday,Declaration of Independence,National holiday
+01/05/2021,Saturday,Labor Day / May Day,National holiday
+13/05/2021,Thursday,Ascension Day,Observance
+24/05/2021,Monday,Ascension Day,Bank holiday
+03/06/2021,Thursday,Corpus Christi,Observance
+13/06/2021,Sunday,St Anthony's Day,Bank holiday
+14/06/2021,Monday,Corpus Christi Holiday,Bank holiday
+20/06/2021,Sunday,June Solstice,Season
+24/06/2021,Thursday,Carabobo Battle,National holiday
+28/06/2021,Monday,Saint Peter and Saint Paul Holiday,Bank holiday
+29/06/2021,Tuesday,Saint Peter and Saint Paul,Observance
+05/07/2021,Monday,Independence Day,National holiday
+24/07/2021,Saturday,Simón Bolívar's Birthday,National holiday
+03/08/2021,Tuesday,Flag's Day,Observance
+04/08/2021,Wednesday,National Guard's Day,Observance
+15/08/2021,Sunday,Assumption of Mary,Bank holiday
+11/09/2021,Saturday,Our Lady of Coromoto,Observance
+22/09/2021,Wednesday,September Equinox,Season
+12/10/2021,Tuesday,Day of Indigenous Resistance,National holiday
+01/11/2021,Monday,All Saints Day,Bank holiday
+02/11/2021,Tuesday,All Souls Day,Observance
+18/11/2021,Thursday,Day of the Virgin of the Rosary of Chiquinquirá,Observance
+22/11/2021,Monday,Holiday for the Day of the Virgin of the Rosary of Chiquinquirá,Bank holiday
+27/11/2021,Saturday,Aviation Day,Observance
+08/12/2021,Wednesday,Feast of the Immaculate Conception,Observance
+14/12/2021,Tuesday,Holiday for Feast of the Immaculate Conception,Bank holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,"National holiday, Christian"
+25/12/2021,Saturday,Christmas Day,"National holiday, Christian"
+31/12/2021,Friday,New Year's Eve,National holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+06/01/2022,Thursday,The Three Wise Men Day,Observance
+06/01/2022,Thursday,The Three Wise Men Day,Bank holiday
+10/01/2022,Monday,Three Kings Day Holiday,Bank holiday
+14/01/2022,Friday,Divina Pastora Day,Observance
+17/01/2022,Monday,Holiday for Divina Pastora Day,Bank holiday
+28/02/2022,Monday,Carnival / Shrove Monday,National holiday
+01/03/2022,Tuesday,Carnival / Shrove Tuesday / Pancake Day,National holiday
+19/03/2022,Saturday,Saint Joseph's Day,National holiday
+20/03/2022,Sunday,March Equinox,Season
+10/04/2022,Sunday,Palm Sunday,"Observance, Christian"
+14/04/2022,Thursday,Maundy Thursday,"National holiday, Christian"
+15/04/2022,Friday,Good Friday,"National holiday, Christian"
+17/04/2022,Sunday,Easter Sunday,"Observance, Christian"
+19/04/2022,Tuesday,Declaration of Independence,National holiday
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+26/05/2022,Thursday,Ascension Day,Observance
+30/05/2022,Monday,Ascension Day Holiday,Bank holiday
+13/06/2022,Monday,St Anthony's Day,Bank holiday
+16/06/2022,Thursday,Corpus Christi,Observance
+20/06/2022,Monday,Corpus Christi Holiday,Bank holiday
+21/06/2022,Tuesday,June Solstice,Season
+24/06/2022,Friday,Carabobo Battle,National holiday
+29/06/2022,Wednesday,Saint Peter and Saint Paul,Observance
+04/07/2022,Monday,Saint Peter and Saint Paul Holiday,Bank holiday
+05/07/2022,Tuesday,Independence Day,National holiday
+24/07/2022,Sunday,Simón Bolívar's Birthday,National holiday
+03/08/2022,Wednesday,Flag's Day,Observance
+04/08/2022,Thursday,National Guard's Day,Observance
+15/08/2022,Monday,Assumption of Mary,Bank holiday
+11/09/2022,Sunday,Our Lady of Coromoto,Observance
+22/09/2022,Thursday,September Equinox,Season
+12/10/2022,Wednesday,Day of Indigenous Resistance,National holiday
+24/10/2022,Monday,Holiday for Dr. José Gregorio Hernández Day,Bank holiday
+26/10/2022,Wednesday,Dr. José Gregorio Hernández Day,Observance
+31/10/2022,Monday,All Saints Day,Bank holiday
+01/11/2022,Tuesday,All Saints Day,Observance
+02/11/2022,Wednesday,All Souls Day,Observance
+18/11/2022,Friday,Day of the Virgin of the Rosary of Chiquinquirá,Observance
+21/11/2022,Monday,Holiday for the Day of the Virgin of the Rosary of Chiquinquirá,Bank holiday
+27/11/2022,Sunday,Aviation Day,Observance
+08/12/2022,Thursday,Feast of the Immaculate Conception,Observance
+12/12/2022,Monday,Holiday for Feast of the Immaculate Conception,Bank holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,"National holiday, Christian"
+25/12/2022,Sunday,Christmas Day,"National holiday, Christian"
+31/12/2022,Saturday,New Year's Eve,National holiday

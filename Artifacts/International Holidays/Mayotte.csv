@@ -1,0 +1,170 @@
+Date,Day,Name,Type
+01/01/2015,Thursday,New Year's Day,Public Holiday
+03/01/2015,Saturday,The Prophet's Birthday,Optional Holiday
+21/03/2015,Saturday,March Equinox,Season
+06/04/2015,Monday,Easter Monday,Public Holiday
+27/04/2015,Monday,Abolition Day,Public Holiday
+01/05/2015,Friday,Labour Day,Public Holiday
+08/05/2015,Friday,Victory Day,Optional Holiday
+14/05/2015,Thursday,Ascension Day,Optional Holiday
+16/05/2015,Saturday,Mi'raj,Optional Holiday
+24/05/2015,Sunday,Whit Sunday,Optional Holiday
+25/05/2015,Monday,Whit Monday,Optional Holiday
+21/06/2015,Sunday,June Solstice,Season
+14/07/2015,Tuesday,French National Day,Optional Holiday
+18/07/2015,Saturday,Eid al-Fitr,Optional Holiday
+15/08/2015,Saturday,Assumption of Mary,Optional Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,Public Holiday
+01/11/2015,Sunday,All Saints' Day,Optional Holiday
+11/11/2015,Wednesday,Armistice Day,Optional Holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,The Prophet's Birthday,Optional Holiday
+25/12/2015,Friday,Christmas Day,Optional Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+28/03/2016,Monday,Easter Monday,Public Holiday
+27/04/2016,Wednesday,Abolition Day,Public Holiday
+01/05/2016,Sunday,Labour Day,Public Holiday
+05/05/2016,Thursday,Ascension Day,Optional Holiday
+05/05/2016,Thursday,Mi'raj,Optional Holiday
+08/05/2016,Sunday,Victory Day,Optional Holiday
+15/05/2016,Sunday,Whit Sunday,Optional Holiday
+16/05/2016,Monday,Whit Monday,Optional Holiday
+21/06/2016,Tuesday,June Solstice,Season
+07/07/2016,Thursday,Eid al-Fitr,Optional Holiday
+14/07/2016,Thursday,French National Day,Optional Holiday
+15/08/2016,Monday,Assumption of Mary,Optional Holiday
+13/09/2016,Tuesday,Eid al-Adha,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+01/11/2016,Tuesday,All Saints' Day,Optional Holiday
+11/11/2016,Friday,Armistice Day,Optional Holiday
+12/12/2016,Monday,The Prophet's Birthday,Optional Holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Optional Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+17/04/2017,Monday,Easter Monday,Public Holiday
+24/04/2017,Monday,Mi'raj,Optional Holiday
+27/04/2017,Thursday,Abolition Day,Public Holiday
+01/05/2017,Monday,Labour Day,Public Holiday
+08/05/2017,Monday,Victory Day,Optional Holiday
+25/05/2017,Thursday,Ascension Day,Optional Holiday
+04/06/2017,Sunday,Whit Sunday,Optional Holiday
+05/06/2017,Monday,Whit Monday,Optional Holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid al-Fitr,Optional Holiday
+14/07/2017,Friday,French National Day,Optional Holiday
+15/08/2017,Tuesday,Assumption of Mary,Optional Holiday
+02/09/2017,Saturday,Eid al-Adha,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+01/11/2017,Wednesday,All Saints' Day,Optional Holiday
+11/11/2017,Saturday,Armistice Day,Optional Holiday
+01/12/2017,Friday,The Prophet's Birthday,Optional Holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Optional Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+02/04/2018,Monday,Easter Monday,Public Holiday
+13/04/2018,Friday,Mi'raj,Optional Holiday
+27/04/2018,Friday,Abolition Day,Public Holiday
+01/05/2018,Tuesday,Labour Day,Public Holiday
+08/05/2018,Tuesday,Victory Day,Optional Holiday
+10/05/2018,Thursday,Ascension Day,Optional Holiday
+20/05/2018,Sunday,Whit Sunday,Optional Holiday
+21/05/2018,Monday,Whit Monday,Optional Holiday
+15/06/2018,Friday,Eid al-Fitr,Optional Holiday
+21/06/2018,Thursday,June Solstice,Season
+14/07/2018,Saturday,French National Day,Optional Holiday
+15/08/2018,Wednesday,Assumption of Mary,Optional Holiday
+22/08/2018,Wednesday,Eid al-Adha,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+01/11/2018,Thursday,All Saints' Day,Optional Holiday
+11/11/2018,Sunday,Armistice Day,Optional Holiday
+21/11/2018,Wednesday,The Prophet's Birthday,Optional Holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Optional Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+21/03/2019,Thursday,March Equinox,Season
+03/04/2019,Wednesday,Mi'raj,Optional Holiday
+22/04/2019,Monday,Easter Monday,Public Holiday
+27/04/2019,Saturday,Abolition Day,Public Holiday
+01/05/2019,Wednesday,Labour Day,Public Holiday
+08/05/2019,Wednesday,Victory Day,Optional Holiday
+30/05/2019,Thursday,Ascension Day,Optional Holiday
+05/06/2019,Wednesday,Eid al-Fitr,Optional Holiday
+09/06/2019,Sunday,Whit Sunday,Optional Holiday
+10/06/2019,Monday,Whit Monday,Optional Holiday
+21/06/2019,Friday,June Solstice,Season
+14/07/2019,Sunday,French National Day,Optional Holiday
+11/08/2019,Sunday,Eid al-Adha,Public Holiday
+15/08/2019,Thursday,Assumption of Mary,Optional Holiday
+23/09/2019,Monday,September Equinox,Season
+01/11/2019,Friday,All Saints' Day,Optional Holiday
+10/11/2019,Sunday,The Prophet's Birthday,Optional Holiday
+11/11/2019,Monday,Armistice Day,Optional Holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Optional Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+22/03/2020,Sunday,Mi'raj,Optional Holiday
+13/04/2020,Monday,Easter Monday,Public Holiday
+27/04/2020,Monday,Abolition Day,Public Holiday
+01/05/2020,Friday,Labour Day,Public Holiday
+08/05/2020,Friday,Victory Day,Optional Holiday
+21/05/2020,Thursday,Ascension Day,Optional Holiday
+24/05/2020,Sunday,Eid al-Fitr,Optional Holiday
+31/05/2020,Sunday,Whit Sunday,Optional Holiday
+01/06/2020,Monday,Whit Monday,Optional Holiday
+21/06/2020,Sunday,June Solstice,Season
+14/07/2020,Tuesday,French National Day,Optional Holiday
+31/07/2020,Friday,Eid al-Adha,Public Holiday
+15/08/2020,Saturday,Assumption of Mary,Optional Holiday
+22/09/2020,Tuesday,September Equinox,Season
+29/10/2020,Thursday,The Prophet's Birthday,Optional Holiday
+01/11/2020,Sunday,All Saints' Day,Optional Holiday
+11/11/2020,Wednesday,Armistice Day,Optional Holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Optional Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+11/03/2021,Thursday,Mi'raj,Optional Holiday
+20/03/2021,Saturday,March Equinox,Season
+05/04/2021,Monday,Easter Monday,Public Holiday
+27/04/2021,Tuesday,Abolition Day,Public Holiday
+01/05/2021,Saturday,Labour Day,Public Holiday
+08/05/2021,Saturday,Victory Day,Optional Holiday
+13/05/2021,Thursday,Ascension Day,Optional Holiday
+14/05/2021,Friday,Eid al-Fitr,Optional Holiday
+23/05/2021,Sunday,Whit Sunday,Optional Holiday
+24/05/2021,Monday,Whit Monday,Optional Holiday
+21/06/2021,Monday,June Solstice,Season
+14/07/2021,Wednesday,French National Day,Optional Holiday
+20/07/2021,Tuesday,Eid al-Adha,Public Holiday
+15/08/2021,Sunday,Assumption of Mary,Optional Holiday
+22/09/2021,Wednesday,September Equinox,Season
+19/10/2021,Tuesday,The Prophet's Birthday,Optional Holiday
+01/11/2021,Monday,All Saints' Day,Optional Holiday
+11/11/2021,Thursday,Armistice Day,Optional Holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Optional Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+28/02/2022,Monday,Mi'raj,Optional Holiday
+20/03/2022,Sunday,March Equinox,Season
+18/04/2022,Monday,Easter Monday,Public Holiday
+27/04/2022,Wednesday,Abolition Day,Public Holiday
+01/05/2022,Sunday,Labour Day,Public Holiday
+03/05/2022,Tuesday,Eid al-Fitr,Optional Holiday
+08/05/2022,Sunday,Victory Day,Optional Holiday
+26/05/2022,Thursday,Ascension Day,Optional Holiday
+05/06/2022,Sunday,Whit Sunday,Optional Holiday
+06/06/2022,Monday,Whit Monday,Optional Holiday
+21/06/2022,Tuesday,June Solstice,Season
+10/07/2022,Sunday,Eid al-Adha,Public Holiday
+14/07/2022,Thursday,French National Day,Optional Holiday
+15/08/2022,Monday,Assumption of Mary,Optional Holiday
+23/09/2022,Friday,September Equinox,Season
+08/10/2022,Saturday,The Prophet's Birthday (Tentative Date),Optional Holiday
+01/11/2022,Tuesday,All Saints' Day,Optional Holiday
+11/11/2022,Friday,Armistice Day,Optional Holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Optional Holiday

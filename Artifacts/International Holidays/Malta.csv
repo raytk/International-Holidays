@@ -1,0 +1,414 @@
+Date,Day,Name,Type
+01/01/2005,Saturday,New Year's Day,Public holiday
+10/02/2005,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2005,Saturday,Feast of Saint Joseph,Public holiday
+25/03/2005,Friday,Good Friday,Public holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,Observance
+28/03/2005,Monday,Bank Holiday,Bank holiday
+31/03/2005,Thursday,Freedom Day,National holiday
+01/05/2005,Sunday,Labour Day/May Day,Public holiday
+08/05/2005,Sunday,Mother's Day,Observance
+07/06/2005,Tuesday,Sette Giugno,National holiday
+19/06/2005,Sunday,Father's Day,Observance
+29/06/2005,Wednesday,Feast of Saints Peter and Paul,Public holiday
+15/08/2005,Monday,The Feast of Mary's Assumption,Public holiday
+08/09/2005,Thursday,The Feast of Our Lady of Victories,National holiday
+21/09/2005,Wednesday,Independence Day,National holiday
+08/12/2005,Thursday,Feast of the Immaculate Conception,Public holiday
+13/12/2005,Tuesday,Republic Day,National holiday
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Public holiday
+26/12/2005,Monday,Boxing Day,Observance
+26/12/2005,Monday,Bank Holiday,Bank holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,Public holiday
+10/02/2006,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2006,Sunday,Feast of Saint Joseph,Public holiday
+31/03/2006,Friday,Freedom Day,National holiday
+14/04/2006,Friday,Good Friday,Public holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Observance
+17/04/2006,Monday,Bank Holiday,Bank holiday
+01/05/2006,Monday,Labour Day/May Day,Public holiday
+14/05/2006,Sunday,Mother's Day,Observance
+07/06/2006,Wednesday,Sette Giugno,National holiday
+18/06/2006,Sunday,Father's Day,Observance
+29/06/2006,Thursday,Feast of Saints Peter and Paul,Public holiday
+15/08/2006,Tuesday,The Feast of Mary's Assumption,Public holiday
+08/09/2006,Friday,The Feast of Our Lady of Victories,National holiday
+21/09/2006,Thursday,Independence Day,National holiday
+08/12/2006,Friday,Feast of the Immaculate Conception,Public holiday
+13/12/2006,Wednesday,Republic Day,National holiday
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Public holiday
+26/12/2006,Tuesday,Boxing Day,Observance
+26/12/2006,Tuesday,Bank Holiday,Bank holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,Public holiday
+10/02/2007,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2007,Monday,Feast of Saint Joseph,Public holiday
+31/03/2007,Saturday,Freedom Day,National holiday
+06/04/2007,Friday,Good Friday,Public holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Observance
+09/04/2007,Monday,Bank Holiday,Bank holiday
+01/05/2007,Tuesday,Labour Day/May Day,Public holiday
+13/05/2007,Sunday,Mother's Day,Observance
+07/06/2007,Thursday,Sette Giugno,National holiday
+17/06/2007,Sunday,Father's Day,Observance
+29/06/2007,Friday,Feast of Saints Peter and Paul,Public holiday
+15/08/2007,Wednesday,The Feast of Mary's Assumption,Public holiday
+08/09/2007,Saturday,The Feast of Our Lady of Victories,National holiday
+21/09/2007,Friday,Independence Day,National holiday
+08/12/2007,Saturday,Feast of the Immaculate Conception,Public holiday
+13/12/2007,Thursday,Republic Day,National holiday
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Public holiday
+26/12/2007,Wednesday,Boxing Day,Observance
+26/12/2007,Wednesday,Bank Holiday,Bank holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,Public holiday
+10/02/2008,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2008,Wednesday,Feast of Saint Joseph,Public holiday
+21/03/2008,Friday,Good Friday,Public holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Observance
+24/03/2008,Monday,Bank Holiday,Bank holiday
+31/03/2008,Monday,Freedom Day,National holiday
+01/05/2008,Thursday,Labour Day/May Day,Public holiday
+11/05/2008,Sunday,Mother's Day,Observance
+07/06/2008,Saturday,Sette Giugno,National holiday
+15/06/2008,Sunday,Father's Day,Observance
+29/06/2008,Sunday,Feast of Saints Peter and Paul,Public holiday
+15/08/2008,Friday,The Feast of Mary's Assumption,Public holiday
+08/09/2008,Monday,The Feast of Our Lady of Victories,National holiday
+21/09/2008,Sunday,Independence Day,National holiday
+08/12/2008,Monday,Feast of the Immaculate Conception,Public holiday
+13/12/2008,Saturday,Republic Day,National holiday
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Public holiday
+26/12/2008,Friday,Boxing Day,Observance
+26/12/2008,Friday,Bank Holiday,Bank holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,Public holiday
+10/02/2009,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2009,Thursday,Feast of Saint Joseph,Public holiday
+31/03/2009,Tuesday,Freedom Day,National holiday
+10/04/2009,Friday,Good Friday,Public holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Observance
+13/04/2009,Monday,Bank Holiday,Bank holiday
+01/05/2009,Friday,Labour Day/May Day,Public holiday
+10/05/2009,Sunday,Mother's Day,Observance
+07/06/2009,Sunday,Sette Giugno,National holiday
+21/06/2009,Sunday,Father's Day,Observance
+29/06/2009,Monday,Feast of Saints Peter and Paul,Public holiday
+15/08/2009,Saturday,The Feast of Mary's Assumption,Public holiday
+08/09/2009,Tuesday,The Feast of Our Lady of Victories,National holiday
+21/09/2009,Monday,Independence Day,National holiday
+08/12/2009,Tuesday,Feast of the Immaculate Conception,Public holiday
+13/12/2009,Sunday,Republic Day,National holiday
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Public holiday
+26/12/2009,Saturday,Boxing Day,Observance
+26/12/2009,Saturday,Bank Holiday,Bank holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,Public holiday
+10/02/2010,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2010,Friday,Feast of Saint Joseph,Public holiday
+31/03/2010,Wednesday,Freedom Day,National holiday
+02/04/2010,Friday,Good Friday,Public holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,Observance
+05/04/2010,Monday,Bank Holiday,Bank holiday
+01/05/2010,Saturday,Labour Day/May Day,Public holiday
+09/05/2010,Sunday,Mother's Day,Observance
+07/06/2010,Monday,Sette Giugno,National holiday
+20/06/2010,Sunday,Father's Day,Observance
+29/06/2010,Tuesday,Feast of Saints Peter and Paul,Public holiday
+15/08/2010,Sunday,The Feast of Mary's Assumption,Public holiday
+08/09/2010,Wednesday,The Feast of Our Lady of Victories,National holiday
+21/09/2010,Tuesday,Independence Day,National holiday
+08/12/2010,Wednesday,Feast of the Immaculate Conception,Public holiday
+13/12/2010,Monday,Republic Day,National holiday
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Public holiday
+26/12/2010,Sunday,Boxing Day,Observance
+26/12/2010,Sunday,Bank Holiday,Bank holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,Public holiday
+10/02/2011,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2011,Saturday,Feast of Saint Joseph,Public holiday
+31/03/2011,Thursday,Freedom Day,National holiday
+22/04/2011,Friday,Good Friday,Public holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Observance
+25/04/2011,Monday,Bank Holiday,Bank holiday
+01/05/2011,Sunday,Labour Day/May Day,Public holiday
+08/05/2011,Sunday,Mother's Day,Observance
+07/06/2011,Tuesday,Sette Giugno,National holiday
+19/06/2011,Sunday,Father's Day,Observance
+29/06/2011,Wednesday,Feast of Saints Peter and Paul,Public holiday
+15/08/2011,Monday,The Feast of Mary's Assumption,Public holiday
+08/09/2011,Thursday,The Feast of Our Lady of Victories,National holiday
+21/09/2011,Wednesday,Independence Day,National holiday
+08/12/2011,Thursday,Feast of the Immaculate Conception,Public holiday
+13/12/2011,Tuesday,Republic Day,National holiday
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Public holiday
+26/12/2011,Monday,Boxing Day,Observance
+26/12/2011,Monday,Bank Holiday,Bank holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,Public holiday
+10/02/2012,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2012,Monday,Feast of Saint Joseph,Public holiday
+31/03/2012,Saturday,Freedom Day,National holiday
+06/04/2012,Friday,Good Friday,Public holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Observance
+09/04/2012,Monday,Bank Holiday,Bank holiday
+01/05/2012,Tuesday,Labour Day/May Day,Public holiday
+13/05/2012,Sunday,Mother's Day,Observance
+07/06/2012,Thursday,Sette Giugno,National holiday
+17/06/2012,Sunday,Father's Day,Observance
+29/06/2012,Friday,Feast of Saints Peter and Paul,Public holiday
+15/08/2012,Wednesday,The Feast of Mary's Assumption,Public holiday
+08/09/2012,Saturday,The Feast of Our Lady of Victories,National holiday
+21/09/2012,Friday,Independence Day,National holiday
+08/12/2012,Saturday,Feast of the Immaculate Conception,Public holiday
+13/12/2012,Thursday,Republic Day,National holiday
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Public holiday
+26/12/2012,Wednesday,Boxing Day,Observance
+26/12/2012,Wednesday,Bank Holiday,Bank holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,Public holiday
+10/02/2013,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2013,Tuesday,Feast of Saint Joseph,Public holiday
+29/03/2013,Friday,Good Friday,Public holiday
+31/03/2013,Sunday,Freedom Day,National holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Observance
+01/04/2013,Monday,Bank Holiday,Bank holiday
+01/05/2013,Wednesday,Labour Day/May Day,Public holiday
+12/05/2013,Sunday,Mother's Day,Observance
+07/06/2013,Friday,Sette Giugno,National holiday
+16/06/2013,Sunday,Father's Day,Observance
+29/06/2013,Saturday,Feast of Saints Peter and Paul,Public holiday
+15/08/2013,Thursday,The Feast of Mary's Assumption,Public holiday
+08/09/2013,Sunday,The Feast of Our Lady of Victories,National holiday
+21/09/2013,Saturday,Independence Day,National holiday
+08/12/2013,Sunday,Feast of the Immaculate Conception,Public holiday
+13/12/2013,Friday,Republic Day,National holiday
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Public holiday
+26/12/2013,Thursday,Boxing Day,Observance
+26/12/2013,Thursday,Bank Holiday,Bank holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,Public holiday
+10/02/2014,Monday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2014,Wednesday,Feast of Saint Joseph,Public holiday
+31/03/2014,Monday,Freedom Day,National holiday
+18/04/2014,Friday,Good Friday,Public holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Observance
+21/04/2014,Monday,Bank Holiday,Bank holiday
+01/05/2014,Thursday,Labour Day/May Day,Public holiday
+11/05/2014,Sunday,Mother's Day,Observance
+07/06/2014,Saturday,Sette Giugno,National holiday
+15/06/2014,Sunday,Father's Day,Observance
+29/06/2014,Sunday,Feast of Saints Peter and Paul,Public holiday
+15/08/2014,Friday,The Feast of Mary's Assumption,Public holiday
+08/09/2014,Monday,The Feast of Our Lady of Victories,National holiday
+21/09/2014,Sunday,Independence Day,National holiday
+08/12/2014,Monday,Feast of the Immaculate Conception,Public holiday
+13/12/2014,Saturday,Republic Day,National holiday
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Public holiday
+26/12/2014,Friday,Boxing Day,Observance
+26/12/2014,Friday,Bank Holiday,Bank holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,Public holiday
+10/02/2015,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2015,Thursday,Feast of Saint Joseph,Public holiday
+31/03/2015,Tuesday,Freedom Day,National holiday
+03/04/2015,Friday,Good Friday,Public holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Observance
+06/04/2015,Monday,Bank Holiday,Bank holiday
+01/05/2015,Friday,Labour Day/May Day,Public holiday
+10/05/2015,Sunday,Mother's Day,Observance
+07/06/2015,Sunday,Sette Giugno,National holiday
+21/06/2015,Sunday,Father's Day,Observance
+29/06/2015,Monday,Feast of Saints Peter and Paul,Public holiday
+15/08/2015,Saturday,The Feast of Mary's Assumption,Public holiday
+08/09/2015,Tuesday,The Feast of Our Lady of Victories,National holiday
+21/09/2015,Monday,Independence Day,National holiday
+08/12/2015,Tuesday,Feast of the Immaculate Conception,Public holiday
+13/12/2015,Sunday,Republic Day,National holiday
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Public holiday
+26/12/2015,Saturday,Boxing Day,Observance
+26/12/2015,Saturday,Bank Holiday,Bank holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,Public holiday
+10/02/2016,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2016,Saturday,Feast of Saint Joseph,Public holiday
+25/03/2016,Friday,Good Friday,Public holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Observance
+28/03/2016,Monday,Bank Holiday,Bank holiday
+31/03/2016,Thursday,Freedom Day,National holiday
+01/05/2016,Sunday,Labour Day/May Day,Public holiday
+08/05/2016,Sunday,Mother's Day,Observance
+07/06/2016,Tuesday,Sette Giugno,National holiday
+19/06/2016,Sunday,Father's Day,Observance
+29/06/2016,Wednesday,Feast of Saints Peter and Paul,Public holiday
+15/08/2016,Monday,The Feast of Mary's Assumption,Public holiday
+08/09/2016,Thursday,The Feast of Our Lady of Victories,National holiday
+21/09/2016,Wednesday,Independence Day,National holiday
+08/12/2016,Thursday,Feast of the Immaculate Conception,Public holiday
+13/12/2016,Tuesday,Republic Day,National holiday
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Public holiday
+26/12/2016,Monday,Boxing Day,Observance
+26/12/2016,Monday,Bank Holiday,Bank holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,Public holiday
+10/02/2017,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2017,Sunday,Feast of Saint Joseph,Public holiday
+31/03/2017,Friday,Freedom Day,National holiday
+14/04/2017,Friday,Good Friday,Public holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Observance
+17/04/2017,Monday,Bank Holiday,Bank holiday
+01/05/2017,Monday,Labour Day/May Day,Public holiday
+14/05/2017,Sunday,Mother's Day,Observance
+07/06/2017,Wednesday,Sette Giugno,National holiday
+18/06/2017,Sunday,Father's Day,Observance
+29/06/2017,Thursday,Feast of Saints Peter and Paul,Public holiday
+15/08/2017,Tuesday,The Feast of Mary's Assumption,Public holiday
+08/09/2017,Friday,The Feast of Our Lady of Victories,National holiday
+21/09/2017,Thursday,Independence Day,National holiday
+08/12/2017,Friday,Feast of the Immaculate Conception,Public holiday
+13/12/2017,Wednesday,Republic Day,National holiday
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Public holiday
+26/12/2017,Tuesday,Boxing Day,Observance
+26/12/2017,Tuesday,Bank Holiday,Bank holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,Public holiday
+10/02/2018,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2018,Monday,Feast of Saint Joseph,Public holiday
+30/03/2018,Friday,Good Friday,Public holiday
+31/03/2018,Saturday,Freedom Day,National holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Observance
+02/04/2018,Monday,Bank Holiday,Bank holiday
+01/05/2018,Tuesday,Labour Day/May Day,Public holiday
+13/05/2018,Sunday,Mother's Day,Observance
+07/06/2018,Thursday,Sette Giugno,National holiday
+17/06/2018,Sunday,Father's Day,Observance
+29/06/2018,Friday,Feast of Saints Peter and Paul,Public holiday
+15/08/2018,Wednesday,The Feast of Mary's Assumption,Public holiday
+08/09/2018,Saturday,The Feast of Our Lady of Victories,National holiday
+21/09/2018,Friday,Independence Day,National holiday
+08/12/2018,Saturday,Feast of the Immaculate Conception,Public holiday
+13/12/2018,Thursday,Republic Day,National holiday
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Public holiday
+26/12/2018,Wednesday,Boxing Day,Observance
+26/12/2018,Wednesday,Bank Holiday,Bank holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,Public holiday
+10/02/2019,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2019,Tuesday,Feast of Saint Joseph,Public holiday
+31/03/2019,Sunday,Freedom Day,National holiday
+19/04/2019,Friday,Good Friday,Public holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Observance
+22/04/2019,Monday,Bank Holiday,Bank holiday
+01/05/2019,Wednesday,Labour Day/May Day,Public holiday
+12/05/2019,Sunday,Mother's Day,Observance
+07/06/2019,Friday,Sette Giugno,National holiday
+16/06/2019,Sunday,Father's Day,Observance
+29/06/2019,Saturday,Feast of Saints Peter and Paul,Public holiday
+15/08/2019,Thursday,The Feast of Mary's Assumption,Public holiday
+08/09/2019,Sunday,The Feast of Our Lady of Victories,National holiday
+21/09/2019,Saturday,Independence Day,National holiday
+08/12/2019,Sunday,Feast of the Immaculate Conception,Public holiday
+13/12/2019,Friday,Republic Day,National holiday
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Public holiday
+26/12/2019,Thursday,Boxing Day,Observance
+26/12/2019,Thursday,Bank Holiday,Bank holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,Public holiday
+10/02/2020,Monday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2020,Thursday,Feast of Saint Joseph,Public holiday
+31/03/2020,Tuesday,Freedom Day,National holiday
+10/04/2020,Friday,Good Friday,Public holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Observance
+13/04/2020,Monday,Bank Holiday,Bank holiday
+01/05/2020,Friday,Labour Day/May Day,Public holiday
+10/05/2020,Sunday,Mother's Day,Observance
+07/06/2020,Sunday,Sette Giugno,National holiday
+21/06/2020,Sunday,Father's Day,Observance
+29/06/2020,Monday,Feast of Saints Peter and Paul,Public holiday
+15/08/2020,Saturday,The Feast of Mary's Assumption,Public holiday
+08/09/2020,Tuesday,The Feast of Our Lady of Victories,National holiday
+21/09/2020,Monday,Independence Day,National holiday
+08/12/2020,Tuesday,Feast of the Immaculate Conception,Public holiday
+13/12/2020,Sunday,Republic Day,National holiday
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Public holiday
+26/12/2020,Saturday,Boxing Day,Observance
+26/12/2020,Saturday,Bank Holiday,Bank holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,Public holiday
+10/02/2021,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2021,Friday,Feast of Saint Joseph,Public holiday
+31/03/2021,Wednesday,Freedom Day,National holiday
+02/04/2021,Friday,Good Friday,Public holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Observance
+05/04/2021,Monday,Bank Holiday,Bank holiday
+01/05/2021,Saturday,Labour Day/May Day,Public holiday
+09/05/2021,Sunday,Mother's Day,Observance
+07/06/2021,Monday,Sette Giugno,National holiday
+20/06/2021,Sunday,Father's Day,Observance
+29/06/2021,Tuesday,Feast of Saints Peter and Paul,Public holiday
+15/08/2021,Sunday,The Feast of Mary's Assumption,Public holiday
+08/09/2021,Wednesday,The Feast of Our Lady of Victories,National holiday
+21/09/2021,Tuesday,Independence Day,National holiday
+08/12/2021,Wednesday,Feast of the Immaculate Conception,Public holiday
+13/12/2021,Monday,Republic Day,National holiday
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Public holiday
+26/12/2021,Sunday,Boxing Day,Observance
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,Public holiday
+10/02/2022,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+19/03/2022,Saturday,Feast of Saint Joseph,Public holiday
+31/03/2022,Thursday,Freedom Day,National holiday
+15/04/2022,Friday,Good Friday,Public holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Observance
+18/04/2022,Monday,Bank Holiday,Bank holiday
+01/05/2022,Sunday,Labour Day/May Day,Public holiday
+08/05/2022,Sunday,Mother's Day,Observance
+07/06/2022,Tuesday,Sette Giugno,National holiday
+19/06/2022,Sunday,Father's Day,Observance
+29/06/2022,Wednesday,Feast of Saints Peter and Paul,Public holiday
+15/08/2022,Monday,The Feast of Mary's Assumption,Public holiday
+08/09/2022,Thursday,The Feast of Our Lady of Victories,National holiday
+21/09/2022,Wednesday,Independence Day,National holiday
+08/12/2022,Thursday,Feast of the Immaculate Conception,Public holiday
+13/12/2022,Tuesday,Republic Day,National holiday
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Public holiday
+26/12/2022,Monday,Boxing Day,Observance
+26/12/2022,Monday,Bank Holiday,Bank holiday
+31/12/2022,Saturday,New Year's Eve,Observance

@@ -1,0 +1,402 @@
+Date,Day,Name,Type
+01/01/2012,Sunday,New Year's Day,National holiday
+02/01/2012,Monday,New Year's Day Holiday,National holiday
+03/01/2012,Tuesday,New Year's Day observed,National holiday
+06/01/2012,Friday,Orthodox Christmas Eve,Optional holiday
+07/01/2012,Saturday,Orthodox Christmas Day,Optional holiday
+08/01/2012,Sunday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Optional holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Optional holiday
+13/04/2012,Friday,Orthodox Good Friday,Optional holiday
+15/04/2012,Sunday,Orthodox Easter Sunday,Optional holiday
+16/04/2012,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2012,Tuesday,Labour Day/May Day,National holiday
+02/05/2012,Wednesday,Labour Day/May Day Holiday,National holiday
+21/05/2012,Monday,Independence Day,National holiday
+22/05/2012,Tuesday,Independence Day Holiday,National holiday
+21/06/2012,Thursday,June Solstice,Season
+13/07/2012,Friday,Statehood Day,National holiday
+14/07/2012,Saturday,Statehood Day Holiday,National holiday
+19/08/2012,Sunday,Ramdan Bayram,Optional holiday
+20/08/2012,Monday,Ramdan Bayram Holiday,Optional holiday
+21/08/2012,Tuesday,Ramdan Bayram Holiday,Optional holiday
+22/09/2012,Saturday,September Equinox,Season
+26/09/2012,Wednesday,Yom Kippur,Optional holiday
+27/09/2012,Thursday,Yom Kippur Holiday,Optional holiday
+26/10/2012,Friday,Kurban Bayram,Optional holiday
+27/10/2012,Saturday,Kurban Bayram Holiday,Optional holiday
+28/10/2012,Sunday,Kurban Bayram Holiday,Optional holiday
+01/11/2012,Thursday,All Saint's Day,Optional holiday
+21/12/2012,Friday,December Solstice,Season
+23/12/2012,Sunday,Mother's Day,Observance
+24/12/2012,Monday,Christmas Eve,Optional holiday
+25/12/2012,Tuesday,Christmas Day,Optional holiday
+26/12/2012,Wednesday,Day After Christmas,Optional holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+02/01/2013,Wednesday,New Year's Day Holiday,National holiday
+06/01/2013,Sunday,Orthodox Christmas Eve,Optional holiday
+07/01/2013,Monday,Orthodox Christmas Day,Optional holiday
+08/01/2013,Tuesday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Optional holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Optional holiday
+01/05/2013,Wednesday,Labour Day/May Day,National holiday
+02/05/2013,Thursday,Labour Day/May Day Holiday,National holiday
+03/05/2013,Friday,Orthodox Good Friday,Optional holiday
+05/05/2013,Sunday,Orthodox Easter Sunday,Optional holiday
+06/05/2013,Monday,Orthodox Easter Monday,Optional holiday
+21/05/2013,Tuesday,Independence Day,National holiday
+22/05/2013,Wednesday,Independence Day Holiday,National holiday
+21/06/2013,Friday,June Solstice,Season
+13/07/2013,Saturday,Statehood Day,National holiday
+14/07/2013,Sunday,Statehood Day Holiday,National holiday
+15/07/2013,Monday,Statehood Day Holiday observed,National holiday
+08/08/2013,Thursday,Ramdan Bayram,Optional holiday
+09/08/2013,Friday,Ramdan Bayram Holiday,Optional holiday
+10/08/2013,Saturday,Ramdan Bayram Holiday,Optional holiday
+14/09/2013,Saturday,Yom Kippur,Optional holiday
+15/09/2013,Sunday,Yom Kippur Holiday,Optional holiday
+22/09/2013,Sunday,September Equinox,Season
+15/10/2013,Tuesday,Kurban Bayram,Optional holiday
+16/10/2013,Wednesday,Kurban Bayram Holiday,Optional holiday
+17/10/2013,Thursday,Kurban Bayram Holiday,Optional holiday
+01/11/2013,Friday,All Saint's Day,Optional holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Optional holiday
+25/12/2013,Wednesday,Christmas Day,Optional holiday
+26/12/2013,Thursday,Day After Christmas,Optional holiday
+29/12/2013,Sunday,Mother's Day,Observance
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+02/01/2014,Thursday,New Year's Day Holiday,National holiday
+06/01/2014,Monday,Orthodox Christmas Eve,Optional holiday
+07/01/2014,Tuesday,Orthodox Christmas Day,Optional holiday
+08/01/2014,Wednesday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Orthodox Good Friday,Optional holiday
+18/04/2014,Friday,Good Friday,Optional holiday
+20/04/2014,Sunday,Orthodox Easter Sunday,Optional holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Orthodox Easter Monday,Optional holiday
+21/04/2014,Monday,Easter Monday,Optional holiday
+01/05/2014,Thursday,Labour Day/May Day,National holiday
+02/05/2014,Friday,Labour Day/May Day Holiday,National holiday
+21/05/2014,Wednesday,Independence Day,National holiday
+22/05/2014,Thursday,Independence Day Holiday,National holiday
+21/06/2014,Saturday,June Solstice,Season
+13/07/2014,Sunday,Statehood Day,National holiday
+14/07/2014,Monday,Statehood Day Holiday,National holiday
+15/07/2014,Tuesday,Statehood Day observed,National holiday
+29/07/2014,Tuesday,Ramdan Bayram,Optional holiday
+30/07/2014,Wednesday,Ramdan Bayram Holiday,Optional holiday
+31/07/2014,Thursday,Ramdan Bayram Holiday,Optional holiday
+23/09/2014,Tuesday,September Equinox,Season
+04/10/2014,Saturday,Yom Kippur,Optional holiday
+05/10/2014,Sunday,Kurban Bayram,Optional holiday
+05/10/2014,Sunday,Yom Kippur Holiday,Optional holiday
+06/10/2014,Monday,Kurban Bayram Holiday,Optional holiday
+07/10/2014,Tuesday,Kurban Bayram Holiday,Optional holiday
+01/11/2014,Saturday,All Saint's Day,Optional holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Optional holiday
+25/12/2014,Thursday,Christmas Day,Optional holiday
+26/12/2014,Friday,Day After Christmas,Optional holiday
+28/12/2014,Sunday,Mother's Day,Observance
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+02/01/2015,Friday,New Year's Day Holiday,National holiday
+06/01/2015,Tuesday,Orthodox Christmas Eve,Optional holiday
+07/01/2015,Wednesday,Orthodox Christmas Day,Optional holiday
+08/01/2015,Thursday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Optional holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Optional holiday
+10/04/2015,Friday,Orthodox Good Friday,Optional holiday
+12/04/2015,Sunday,Orthodox Easter Sunday,Optional holiday
+13/04/2015,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2015,Friday,Labour Day/May Day,National holiday
+02/05/2015,Saturday,Labour Day/May Day Holiday,National holiday
+21/05/2015,Thursday,Independence Day,National holiday
+22/05/2015,Friday,Independence Day Holiday,National holiday
+21/06/2015,Sunday,June Solstice,Season
+13/07/2015,Monday,Statehood Day,National holiday
+14/07/2015,Tuesday,Statehood Day Holiday,National holiday
+18/07/2015,Saturday,Ramdan Bayram,Optional holiday
+19/07/2015,Sunday,Ramdan Bayram Holiday,Optional holiday
+20/07/2015,Monday,Ramdan Bayram Holiday,Optional holiday
+23/09/2015,Wednesday,Yom Kippur,Optional holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Kurban Bayram,Optional holiday
+24/09/2015,Thursday,Yom Kippur Holiday,Optional holiday
+25/09/2015,Friday,Kurban Bayram Holiday,Optional holiday
+26/09/2015,Saturday,Kurban Bayram Holiday,Optional holiday
+01/11/2015,Sunday,All Saint's Day,Optional holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Optional holiday
+25/12/2015,Friday,Christmas Day,Optional holiday
+26/12/2015,Saturday,Day After Christmas,Optional holiday
+27/12/2015,Sunday,Mother's Day,Observance
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+02/01/2016,Saturday,New Year's Day Holiday,National holiday
+06/01/2016,Wednesday,Orthodox Christmas Eve,Optional holiday
+07/01/2016,Thursday,Orthodox Christmas Day,Optional holiday
+08/01/2016,Friday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Optional holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Optional holiday
+29/04/2016,Friday,Orthodox Good Friday,Optional holiday
+01/05/2016,Sunday,Labour Day/May Day,National holiday
+01/05/2016,Sunday,Orthodox Easter Sunday,Optional holiday
+02/05/2016,Monday,Labour Day/May Day Holiday,National holiday
+02/05/2016,Monday,Orthodox Easter Monday,Optional holiday
+03/05/2016,Tuesday,Labour Day/May Day observed,National holiday
+21/05/2016,Saturday,Independence Day,National holiday
+22/05/2016,Sunday,Independence Day Holiday,National holiday
+23/05/2016,Monday,Independence Day Holiday observed,National holiday
+21/06/2016,Tuesday,June Solstice,Season
+07/07/2016,Thursday,Ramdan Bayram,Optional holiday
+08/07/2016,Friday,Ramdan Bayram Holiday,Optional holiday
+09/07/2016,Saturday,Ramdan Bayram Holiday,Optional holiday
+13/07/2016,Wednesday,Statehood Day,National holiday
+14/07/2016,Thursday,Statehood Day Holiday,National holiday
+13/09/2016,Tuesday,Kurban Bayram,Optional holiday
+14/09/2016,Wednesday,Kurban Bayram Holiday,Optional holiday
+15/09/2016,Thursday,Kurban Bayram Holiday,Optional holiday
+22/09/2016,Thursday,September Equinox,Season
+12/10/2016,Wednesday,Yom Kippur,Optional holiday
+13/10/2016,Thursday,Yom Kippur Holiday,Optional holiday
+01/11/2016,Tuesday,All Saint's Day,Optional holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Optional holiday
+25/12/2016,Sunday,Mother's Day,Observance
+25/12/2016,Sunday,Christmas Day,Optional holiday
+26/12/2016,Monday,Day After Christmas,Optional holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+02/01/2017,Monday,New Year's Day Holiday,National holiday
+03/01/2017,Tuesday,New Year's Day observed,National holiday
+06/01/2017,Friday,Orthodox Christmas Eve,Optional holiday
+07/01/2017,Saturday,Orthodox Christmas Day,Optional holiday
+08/01/2017,Sunday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Orthodox Good Friday,Optional holiday
+14/04/2017,Friday,Good Friday,Optional holiday
+16/04/2017,Sunday,Orthodox Easter Sunday,Optional holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Orthodox Easter Monday,Optional holiday
+17/04/2017,Monday,Easter Monday,Optional holiday
+01/05/2017,Monday,Labour Day/May Day,National holiday
+02/05/2017,Tuesday,Labour Day/May Day Holiday,National holiday
+21/05/2017,Sunday,Independence Day,National holiday
+22/05/2017,Monday,Independence Day Holiday,National holiday
+23/05/2017,Tuesday,Independence Day observed,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Ramdan Bayram,Optional holiday
+27/06/2017,Tuesday,Ramdan Bayram Holiday,Optional holiday
+28/06/2017,Wednesday,Ramdan Bayram Holiday,Optional holiday
+13/07/2017,Thursday,Statehood Day,National holiday
+14/07/2017,Friday,Statehood Day Holiday,National holiday
+02/09/2017,Saturday,Kurban Bayram,Optional holiday
+03/09/2017,Sunday,Kurban Bayram Holiday,Optional holiday
+04/09/2017,Monday,Kurban Bayram Holiday,Optional holiday
+22/09/2017,Friday,September Equinox,Season
+30/09/2017,Saturday,Yom Kippur,Optional holiday
+01/10/2017,Sunday,Yom Kippur Holiday,Optional holiday
+01/11/2017,Wednesday,All Saint's Day,Optional holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Mother's Day,Observance
+24/12/2017,Sunday,Christmas Eve,Optional holiday
+25/12/2017,Monday,Christmas Day,Optional holiday
+26/12/2017,Tuesday,Day After Christmas,Optional holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+02/01/2018,Tuesday,New Year's Day Holiday,National holiday
+06/01/2018,Saturday,Orthodox Christmas Eve,Optional holiday
+07/01/2018,Sunday,Orthodox Christmas Day,Optional holiday
+08/01/2018,Monday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Optional holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Optional holiday
+06/04/2018,Friday,Orthodox Good Friday,Optional holiday
+08/04/2018,Sunday,Orthodox Easter Sunday,Optional holiday
+09/04/2018,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2018,Tuesday,Labour Day/May Day,National holiday
+02/05/2018,Wednesday,Labour Day/May Day Holiday,National holiday
+21/05/2018,Monday,Independence Day,National holiday
+22/05/2018,Tuesday,Independence Day Holiday,National holiday
+15/06/2018,Friday,Ramdan Bayram,Optional holiday
+16/06/2018,Saturday,Ramdan Bayram Holiday,Optional holiday
+17/06/2018,Sunday,Ramdan Bayram Holiday,Optional holiday
+21/06/2018,Thursday,June Solstice,Season
+13/07/2018,Friday,Statehood Day,National holiday
+14/07/2018,Saturday,Statehood Day Holiday,National holiday
+22/08/2018,Wednesday,Kurban Bayram,Optional holiday
+23/08/2018,Thursday,Kurban Bayram Holiday,Optional holiday
+24/08/2018,Friday,Kurban Bayram Holiday,Optional holiday
+19/09/2018,Wednesday,Yom Kippur,Optional holiday
+20/09/2018,Thursday,Yom Kippur Holiday,Optional holiday
+23/09/2018,Sunday,September Equinox,Season
+01/11/2018,Thursday,All Saint's Day,Optional holiday
+21/12/2018,Friday,December Solstice,Season
+23/12/2018,Sunday,Mother's Day,Observance
+24/12/2018,Monday,Christmas Eve,Optional holiday
+25/12/2018,Tuesday,Christmas Day,Optional holiday
+26/12/2018,Wednesday,Day After Christmas,Optional holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+02/01/2019,Wednesday,New Year's Day Holiday,National holiday
+06/01/2019,Sunday,Orthodox Christmas Eve,Optional holiday
+07/01/2019,Monday,Orthodox Christmas Day,Optional holiday
+08/01/2019,Tuesday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Optional holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Optional holiday
+26/04/2019,Friday,Orthodox Good Friday,Optional holiday
+28/04/2019,Sunday,Passover,Optional holiday
+28/04/2019,Sunday,Orthodox Easter Sunday,Optional holiday
+29/04/2019,Monday,Passover Holiday,Optional holiday
+29/04/2019,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2019,Wednesday,Labour Day/May Day,National holiday
+02/05/2019,Thursday,Labour Day/May Day Holiday,National holiday
+21/05/2019,Tuesday,Independence Day,National holiday
+22/05/2019,Wednesday,Independence Day Holiday,National holiday
+04/06/2019,Tuesday,Ramdan Bayram,Optional holiday
+05/06/2019,Wednesday,Ramdan Bayram Holiday,Optional holiday
+06/06/2019,Thursday,Ramdan Bayram Holiday,Optional holiday
+21/06/2019,Friday,June Solstice,Season
+13/07/2019,Saturday,Statehood Day,National holiday
+14/07/2019,Sunday,Statehood Day Holiday,National holiday
+15/07/2019,Monday,Statehood Day Holiday observed,National holiday
+11/08/2019,Sunday,Kurban Bayram,Optional holiday
+12/08/2019,Monday,Kurban Bayram Holiday,Optional holiday
+13/08/2019,Tuesday,Kurban Bayram Holiday,Optional holiday
+23/09/2019,Monday,September Equinox,Season
+08/10/2019,Tuesday,Yom Kippur,Optional holiday
+09/10/2019,Wednesday,Yom Kippur Holiday,Optional holiday
+01/11/2019,Friday,All Saint's Day,Optional holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Optional holiday
+25/12/2019,Wednesday,Christmas Day,Optional holiday
+26/12/2019,Thursday,Day After Christmas,Optional holiday
+29/12/2019,Sunday,Mother's Day,Observance
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+02/01/2020,Thursday,New Year's Day Holiday,National holiday
+06/01/2020,Monday,Orthodox Christmas Eve,Optional holiday
+07/01/2020,Tuesday,Orthodox Christmas Day,Optional holiday
+08/01/2020,Wednesday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Optional holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Optional holiday
+17/04/2020,Friday,Orthodox Good Friday,Optional holiday
+19/04/2020,Sunday,Orthodox Easter Sunday,Optional holiday
+20/04/2020,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2020,Friday,Labour Day/May Day,National holiday
+02/05/2020,Saturday,Labour Day/May Day Holiday,National holiday
+21/05/2020,Thursday,Independence Day,National holiday
+22/05/2020,Friday,Independence Day Holiday,National holiday
+24/05/2020,Sunday,Ramdan Bayram,Optional holiday
+25/05/2020,Monday,Ramdan Bayram Holiday,Optional holiday
+26/05/2020,Tuesday,Ramdan Bayram Holiday,Optional holiday
+20/06/2020,Saturday,June Solstice,Season
+13/07/2020,Monday,Statehood Day,National holiday
+14/07/2020,Tuesday,Statehood Day Holiday,National holiday
+31/07/2020,Friday,Kurban Bayram,Optional holiday
+01/08/2020,Saturday,Kurban Bayram Holiday,Optional holiday
+02/08/2020,Sunday,Kurban Bayram Holiday,Optional holiday
+22/09/2020,Tuesday,September Equinox,Season
+28/09/2020,Monday,Yom Kippur,Optional holiday
+29/09/2020,Tuesday,Yom Kippur Holiday,Optional holiday
+01/11/2020,Sunday,All Saint's Day,Optional holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Optional holiday
+25/12/2020,Friday,Christmas Day,Optional holiday
+26/12/2020,Saturday,Day After Christmas,Optional holiday
+27/12/2020,Sunday,Mother's Day,Observance
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+02/01/2021,Saturday,New Year's Day Holiday,National holiday
+06/01/2021,Wednesday,Orthodox Christmas Eve,Optional holiday
+07/01/2021,Thursday,Orthodox Christmas Day,Optional holiday
+08/01/2021,Friday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2021,Saturday,March Equinox,Season
+27/03/2021,Saturday,Passover Holiday,Optional holiday
+28/03/2021,Sunday,Passover,Optional holiday
+02/04/2021,Friday,Good Friday,Optional holiday
+04/04/2021,Sunday,Easter Sunday,Optional holiday
+05/04/2021,Monday,Easter Monday,Optional holiday
+30/04/2021,Friday,Orthodox Good Friday,Optional holiday
+01/05/2021,Saturday,Labour Day/May Day,National holiday
+02/05/2021,Sunday,Labour Day/May Day Holiday,National holiday
+02/05/2021,Sunday,Orthodox Easter Sunday,Optional holiday
+03/05/2021,Monday,Labour Day/May Day Holiday observed,National holiday
+03/05/2021,Monday,Orthodox Easter Monday,Optional holiday
+13/05/2021,Thursday,Ramdan Bayram,Optional holiday
+14/05/2021,Friday,Ramdan Bayram Holiday,Optional holiday
+15/05/2021,Saturday,Ramdan Bayram Holiday,Optional holiday
+21/05/2021,Friday,Independence Day,National holiday
+22/05/2021,Saturday,Independence Day Holiday,National holiday
+21/06/2021,Monday,June Solstice,Season
+13/07/2021,Tuesday,Statehood Day,National holiday
+14/07/2021,Wednesday,Statehood Day Holiday,National holiday
+20/07/2021,Tuesday,Kurban Bayram,Optional holiday
+21/07/2021,Wednesday,Kurban Bayram Holiday,Optional holiday
+22/07/2021,Thursday,Kurban Bayram Holiday,Optional holiday
+15/09/2021,Wednesday,Yom Kippur Holiday,Optional holiday
+16/09/2021,Thursday,Yom Kippur,Optional holiday
+22/09/2021,Wednesday,September Equinox,Season
+01/11/2021,Monday,All Saint's Day,Optional holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Optional holiday
+25/12/2021,Saturday,Christmas Day,Optional holiday
+26/12/2021,Sunday,Mother's Day,Observance
+26/12/2021,Sunday,Day After Christmas,Optional holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+02/01/2022,Sunday,New Year's Day Holiday,National holiday
+03/01/2022,Monday,New Year's Day Holiday observed,National holiday
+06/01/2022,Thursday,Orthodox Christmas Eve,Optional holiday
+07/01/2022,Friday,Orthodox Christmas Day,Optional holiday
+08/01/2022,Saturday,Orthodox Christmas Day Holiday,Optional holiday
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Optional holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Optional holiday
+22/04/2022,Friday,Orthodox Good Friday,Optional holiday
+24/04/2022,Sunday,Orthodox Easter Sunday,Optional holiday
+25/04/2022,Monday,Orthodox Easter Monday,Optional holiday
+01/05/2022,Sunday,Labour Day/May Day,National holiday
+02/05/2022,Monday,Labour Day/May Day Holiday,National holiday
+02/05/2022,Monday,Ramdan Bayram,Optional holiday
+03/05/2022,Tuesday,Labour Day/May Day observed,National holiday
+03/05/2022,Tuesday,Ramdan Bayram Holiday,Optional holiday
+04/05/2022,Wednesday,Ramdan Bayram Holiday,Optional holiday
+21/05/2022,Saturday,Independence Day,National holiday
+22/05/2022,Sunday,Independence Day Holiday,National holiday
+23/05/2022,Monday,Independence Day Holiday observed,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+09/07/2022,Saturday,Kurban Bayram,Optional holiday
+10/07/2022,Sunday,Kurban Bayram Holiday,Optional holiday
+11/07/2022,Monday,Kurban Bayram Holiday,Optional holiday
+13/07/2022,Wednesday,Statehood Day,National holiday
+14/07/2022,Thursday,Statehood Day Holiday,National holiday
+23/09/2022,Friday,September Equinox,Season
+05/10/2022,Wednesday,Yom Kippur,Optional holiday
+06/10/2022,Thursday,Yom Kippur Holiday,Optional holiday
+01/11/2022,Tuesday,All Saint's Day,Optional holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Optional holiday
+25/12/2022,Sunday,Mother's Day,Observance
+25/12/2022,Sunday,Christmas Day,Optional holiday
+26/12/2022,Monday,Day After Christmas,Optional holiday
+31/12/2022,Saturday,New Year's Eve,Observance

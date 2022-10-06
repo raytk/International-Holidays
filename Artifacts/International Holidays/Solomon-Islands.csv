@@ -1,0 +1,614 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+25/02/2000,Friday,Choiseul Province Day,Local holiday
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+22/04/2000,Saturday,Holy Saturday,Public Holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,Public Holiday
+02/06/2000,Friday,Isabel Province Day,Local holiday
+08/06/2000,Thursday,Temotu Province Day,Local holiday
+09/06/2000,Friday,Day off for Queen's Official Birthday,Public Holiday
+10/06/2000,Saturday,Queen's Official Birthday,Observance
+12/06/2000,Monday,Whit Monday,Public Holiday
+21/06/2000,Wednesday,June Solstice,Season
+29/06/2000,Thursday,Central Province Day,Local holiday
+07/07/2000,Friday,Independence Day,Public Holiday
+20/07/2000,Thursday,Rennell and Bellona Province Day,Local holiday
+01/08/2000,Tuesday,Gualdalcanal Province Day,Local holiday
+03/08/2000,Thursday,Makira-Ulawa Province Day,Local holiday
+15/08/2000,Tuesday,Malaita Province Day,Local holiday
+23/09/2000,Saturday,September Equinox,Season
+07/12/2000,Thursday,Western Province Day,Local holiday
+22/12/2000,Friday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,National Day of Thanksgiving,Public Holiday
+01/01/2001,Monday,New Year's Day,Public Holiday
+25/02/2001,Sunday,Choiseul Province Day,Local holiday
+26/02/2001,Monday,Choiseul Province Day observed,Local holiday
+21/03/2001,Wednesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+14/04/2001,Saturday,Holy Saturday,Public Holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,Public Holiday
+02/06/2001,Saturday,Isabel Province Day,Local holiday
+04/06/2001,Monday,Whit Monday,Public Holiday
+08/06/2001,Friday,Day off for Queen's Official Birthday,Public Holiday
+08/06/2001,Friday,Temotu Province Day,Local holiday
+09/06/2001,Saturday,Queen's Official Birthday,Observance
+21/06/2001,Thursday,June Solstice,Season
+29/06/2001,Friday,Central Province Day,Local holiday
+06/07/2001,Friday,Day off for Independence Day,Public Holiday
+07/07/2001,Saturday,Independence Day,Public Holiday
+20/07/2001,Friday,Rennell and Bellona Province Day,Local holiday
+01/08/2001,Wednesday,Gualdalcanal Province Day,Local holiday
+03/08/2001,Friday,Makira-Ulawa Province Day,Local holiday
+15/08/2001,Wednesday,Malaita Province Day,Local holiday
+23/09/2001,Sunday,September Equinox,Season
+07/12/2001,Friday,Western Province Day,Local holiday
+22/12/2001,Saturday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,National Day of Thanksgiving,Public Holiday
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+25/02/2002,Monday,Choiseul Province Day,Local holiday
+21/03/2002,Thursday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+30/03/2002,Saturday,Holy Saturday,Public Holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,Public Holiday
+20/05/2002,Monday,Whit Monday,Public Holiday
+02/06/2002,Sunday,Isabel Province Day,Local holiday
+03/06/2002,Monday,Day off for Isabel Province Day,Local holiday
+07/06/2002,Friday,Day off for Queen's Official Birthday,Public Holiday
+07/06/2002,Friday,Day off for Temotu Province Day,Local holiday
+08/06/2002,Saturday,Queen's Official Birthday,Observance
+08/06/2002,Saturday,Temotu Province Day,Local holiday
+22/06/2002,Saturday,June Solstice,Season
+28/06/2002,Friday,Day off for Central Province Day,Local holiday
+29/06/2002,Saturday,Central Province Day,Local holiday
+07/07/2002,Sunday,Independence Day,Public Holiday
+08/07/2002,Monday,Day off for Independence Day,Public Holiday
+19/07/2002,Friday,Day off for Rennell and Bellona Province Day,Local holiday
+20/07/2002,Saturday,Rennell and Bellona Province Day,Local holiday
+01/08/2002,Thursday,Gualdalcanal Province Day,Local holiday
+02/08/2002,Friday,Day off for Makira-Ulawa Province Day,Local holiday
+03/08/2002,Saturday,Makira-Ulawa Province Day,Local holiday
+15/08/2002,Thursday,Malaita Province Day,Local holiday
+23/09/2002,Monday,September Equinox,Season
+06/12/2002,Friday,Day off for Western Province Day,Local holiday
+07/12/2002,Saturday,Western Province Day,Local holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,National Day of Thanksgiving,Public Holiday
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+25/02/2003,Tuesday,Choiseul Province Day,Local holiday
+21/03/2003,Friday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+19/04/2003,Saturday,Holy Saturday,Public Holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,Public Holiday
+02/06/2003,Monday,Isabel Province Day,Local holiday
+08/06/2003,Sunday,Temotu Province Day,Local holiday
+09/06/2003,Monday,Whit Monday,Public Holiday
+09/06/2003,Monday,Day off for Temotu Province Day,Local holiday
+13/06/2003,Friday,Day off for Queen's Official Birthday,Public Holiday
+14/06/2003,Saturday,Queen's Official Birthday,Observance
+22/06/2003,Sunday,June Solstice,Season
+29/06/2003,Sunday,Central Province Day,Local holiday
+30/06/2003,Monday,Day off for Central Province Day,Local holiday
+07/07/2003,Monday,Independence Day,Public Holiday
+20/07/2003,Sunday,Rennell and Bellona Province Day,Local holiday
+21/07/2003,Monday,Day off for Rennell and Bellona Province Day,Local holiday
+01/08/2003,Friday,Gualdalcanal Province Day,Local holiday
+03/08/2003,Sunday,Makira-Ulawa Province Day,Local holiday
+04/08/2003,Monday,Day off for Makira-Ulawa Province Day,Local holiday
+15/08/2003,Friday,Malaita Province Day,Local holiday
+23/09/2003,Tuesday,September Equinox,Season
+07/12/2003,Sunday,Western Province Day,Local holiday
+08/12/2003,Monday,Day off for Western Province Day,Local holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,National Day of Thanksgiving,Public Holiday
+01/01/2004,Thursday,New Year's Day,Public Holiday
+25/02/2004,Wednesday,Choiseul Province Day,Local holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+10/04/2004,Saturday,Holy Saturday,Public Holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,Public Holiday
+31/05/2004,Monday,Whit Monday,Public Holiday
+02/06/2004,Wednesday,Isabel Province Day,Local holiday
+08/06/2004,Tuesday,Temotu Province Day,Local holiday
+11/06/2004,Friday,Day off for Queen's Official Birthday,Public Holiday
+12/06/2004,Saturday,Queen's Official Birthday,Observance
+21/06/2004,Monday,June Solstice,Season
+29/06/2004,Tuesday,Central Province Day,Local holiday
+07/07/2004,Wednesday,Independence Day,Public Holiday
+20/07/2004,Tuesday,Rennell and Bellona Province Day,Local holiday
+01/08/2004,Sunday,Gualdalcanal Province Day,Local holiday
+02/08/2004,Monday,Gualdalcanal Province Day observed,Local holiday
+03/08/2004,Tuesday,Makira-Ulawa Province Day,Local holiday
+15/08/2004,Sunday,Malaita Province Day,Local holiday
+16/08/2004,Monday,Malaita Province Day observed,Local holiday
+23/09/2004,Thursday,September Equinox,Season
+07/12/2004,Tuesday,Western Province Day,Local holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,National Day of Thanksgiving,Public Holiday
+01/01/2005,Saturday,New Year's Day,Public Holiday
+25/02/2005,Friday,Choiseul Province Day,Local holiday
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+26/03/2005,Saturday,Holy Saturday,Public Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,Public Holiday
+16/05/2005,Monday,Whit Monday,Public Holiday
+02/06/2005,Thursday,Isabel Province Day,Local holiday
+08/06/2005,Wednesday,Temotu Province Day,Local holiday
+10/06/2005,Friday,Day off for Queen's Official Birthday,Public Holiday
+11/06/2005,Saturday,Queen's Official Birthday,Observance
+21/06/2005,Tuesday,June Solstice,Season
+29/06/2005,Wednesday,Central Province Day,Local holiday
+07/07/2005,Thursday,Independence Day,Public Holiday
+20/07/2005,Wednesday,Rennell and Bellona Province Day,Local holiday
+01/08/2005,Monday,Gualdalcanal Province Day,Local holiday
+03/08/2005,Wednesday,Makira-Ulawa Province Day,Local holiday
+15/08/2005,Monday,Malaita Province Day,Local holiday
+23/09/2005,Friday,September Equinox,Season
+07/12/2005,Wednesday,Western Province Day,Local holiday
+22/12/2005,Thursday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,National Day of Thanksgiving,Public Holiday
+27/12/2005,Tuesday,Day off for National Day of Thanksgiving,Public Holiday
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,Day off for New Year's Day,Public Holiday
+25/02/2006,Saturday,Choiseul Province Day,Local holiday
+21/03/2006,Tuesday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+15/04/2006,Saturday,Holy Saturday,Public Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Public Holiday
+02/06/2006,Friday,Isabel Province Day,Local holiday
+05/06/2006,Monday,Whit Monday,Public Holiday
+08/06/2006,Thursday,Temotu Province Day,Local holiday
+09/06/2006,Friday,Day off for Queen's Official Birthday,Public Holiday
+10/06/2006,Saturday,Queen's Official Birthday,Observance
+21/06/2006,Wednesday,June Solstice,Season
+29/06/2006,Thursday,Central Province Day,Local holiday
+07/07/2006,Friday,Independence Day,Public Holiday
+20/07/2006,Thursday,Rennell and Bellona Province Day,Local holiday
+01/08/2006,Tuesday,Gualdalcanal Province Day,Local holiday
+03/08/2006,Thursday,Makira-Ulawa Province Day,Local holiday
+15/08/2006,Tuesday,Malaita Province Day,Local holiday
+23/09/2006,Saturday,September Equinox,Season
+07/12/2006,Thursday,Western Province Day,Local holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,National Day of Thanksgiving,Public Holiday
+01/01/2007,Monday,New Year's Day,Public Holiday
+25/02/2007,Sunday,Choiseul Province Day,Local holiday
+26/02/2007,Monday,Choiseul Province Day observed,Local holiday
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+07/04/2007,Saturday,Holy Saturday,Public Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Public Holiday
+28/05/2007,Monday,Whit Monday,Public Holiday
+02/06/2007,Saturday,Isabel Province Day,Local holiday
+08/06/2007,Friday,Day off for Queen's Official Birthday,Public Holiday
+08/06/2007,Friday,Temotu Province Day,Local holiday
+09/06/2007,Saturday,Queen's Official Birthday,Observance
+22/06/2007,Friday,June Solstice,Season
+29/06/2007,Friday,Central Province Day,Local holiday
+06/07/2007,Friday,Day off for Independence Day,Public Holiday
+07/07/2007,Saturday,Independence Day,Public Holiday
+20/07/2007,Friday,Rennell and Bellona Province Day,Local holiday
+01/08/2007,Wednesday,Gualdalcanal Province Day,Local holiday
+03/08/2007,Friday,Makira-Ulawa Province Day,Local holiday
+15/08/2007,Wednesday,Malaita Province Day,Local holiday
+23/09/2007,Sunday,September Equinox,Season
+07/12/2007,Friday,Western Province Day,Local holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,National Day of Thanksgiving,Public Holiday
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+25/02/2008,Monday,Choiseul Province Day,Local holiday
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+22/03/2008,Saturday,Holy Saturday,Public Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Public Holiday
+12/05/2008,Monday,Whit Monday,Public Holiday
+02/06/2008,Monday,Isabel Province Day,Local holiday
+08/06/2008,Sunday,Temotu Province Day,Local holiday
+09/06/2008,Monday,Day off for Temotu Province Day,Local holiday
+13/06/2008,Friday,Day off for Queen's Official Birthday,Public Holiday
+14/06/2008,Saturday,Queen's Official Birthday,Observance
+21/06/2008,Saturday,June Solstice,Season
+29/06/2008,Sunday,Central Province Day,Local holiday
+30/06/2008,Monday,Day off for Central Province Day,Local holiday
+07/07/2008,Monday,Independence Day,Public Holiday
+20/07/2008,Sunday,Rennell and Bellona Province Day,Local holiday
+21/07/2008,Monday,Day off for Rennell and Bellona Province Day,Local holiday
+01/08/2008,Friday,Gualdalcanal Province Day,Local holiday
+03/08/2008,Sunday,Makira-Ulawa Province Day,Local holiday
+04/08/2008,Monday,Day off for Makira-Ulawa Province Day,Local holiday
+15/08/2008,Friday,Malaita Province Day,Local holiday
+23/09/2008,Tuesday,September Equinox,Season
+07/12/2008,Sunday,Western Province Day,Local holiday
+08/12/2008,Monday,Day off for Western Province Day,Local holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,National Day of Thanksgiving,Public Holiday
+01/01/2009,Thursday,New Year's Day,Public Holiday
+25/02/2009,Wednesday,Choiseul Province Day,Local holiday
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+11/04/2009,Saturday,Holy Saturday,Public Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Public Holiday
+01/06/2009,Monday,Whit Monday,Public Holiday
+02/06/2009,Tuesday,Isabel Province Day,Local holiday
+08/06/2009,Monday,Temotu Province Day,Local holiday
+12/06/2009,Friday,Day off for Queen's Official Birthday,Public Holiday
+13/06/2009,Saturday,Queen's Official Birthday,Observance
+21/06/2009,Sunday,June Solstice,Season
+29/06/2009,Monday,Central Province Day,Local holiday
+07/07/2009,Tuesday,Independence Day,Public Holiday
+20/07/2009,Monday,Rennell and Bellona Province Day,Local holiday
+01/08/2009,Saturday,Gualdalcanal Province Day,Local holiday
+03/08/2009,Monday,Makira-Ulawa Province Day,Local holiday
+15/08/2009,Saturday,Malaita Province Day,Local holiday
+23/09/2009,Wednesday,September Equinox,Season
+07/12/2009,Monday,Western Province Day,Local holiday
+22/12/2009,Tuesday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,National Day of Thanksgiving,Public Holiday
+01/01/2010,Friday,New Year's Day,Public Holiday
+25/02/2010,Thursday,Choiseul Province Day,Local holiday
+21/03/2010,Sunday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+03/04/2010,Saturday,Holy Saturday,Public Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,Public Holiday
+24/05/2010,Monday,Whit Monday,Public Holiday
+02/06/2010,Wednesday,Isabel Province Day,Local holiday
+08/06/2010,Tuesday,Temotu Province Day,Local holiday
+11/06/2010,Friday,Day off for Queen's Official Birthday,Public Holiday
+12/06/2010,Saturday,Queen's Official Birthday,Observance
+21/06/2010,Monday,June Solstice,Season
+29/06/2010,Tuesday,Central Province Day,Local holiday
+07/07/2010,Wednesday,Independence Day,Public Holiday
+20/07/2010,Tuesday,Rennell and Bellona Province Day,Local holiday
+01/08/2010,Sunday,Gualdalcanal Province Day,Local holiday
+02/08/2010,Monday,Gualdalcanal Province Day observed,Local holiday
+03/08/2010,Tuesday,Makira-Ulawa Province Day,Local holiday
+15/08/2010,Sunday,Malaita Province Day,Local holiday
+16/08/2010,Monday,Malaita Province Day observed,Local holiday
+23/09/2010,Thursday,September Equinox,Season
+07/12/2010,Tuesday,Western Province Day,Local holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,National Day of Thanksgiving,Public Holiday
+01/01/2011,Saturday,New Year's Day,Public Holiday
+25/02/2011,Friday,Choiseul Province Day,Local holiday
+21/03/2011,Monday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+23/04/2011,Saturday,Holy Saturday,Public Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Public Holiday
+02/06/2011,Thursday,Isabel Province Day,Local holiday
+08/06/2011,Wednesday,Temotu Province Day,Local holiday
+10/06/2011,Friday,Day off for Queen's Official Birthday,Public Holiday
+11/06/2011,Saturday,Queen's Official Birthday,Observance
+13/06/2011,Monday,Whit Monday,Public Holiday
+22/06/2011,Wednesday,June Solstice,Season
+29/06/2011,Wednesday,Central Province Day,Local holiday
+07/07/2011,Thursday,Independence Day,Public Holiday
+20/07/2011,Wednesday,Rennell and Bellona Province Day,Local holiday
+01/08/2011,Monday,Gualdalcanal Province Day,Local holiday
+03/08/2011,Wednesday,Makira-Ulawa Province Day,Local holiday
+15/08/2011,Monday,Malaita Province Day,Local holiday
+23/09/2011,Friday,September Equinox,Season
+07/12/2011,Wednesday,Western Province Day,Local holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,National Day of Thanksgiving,Public Holiday
+27/12/2011,Tuesday,Day off for National Day of Thanksgiving,Public Holiday
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,Day off for New Year's Day,Public Holiday
+25/02/2012,Saturday,Choiseul Province Day,Local holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+07/04/2012,Saturday,Holy Saturday,Public Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Public Holiday
+28/05/2012,Monday,Whit Monday,Public Holiday
+02/06/2012,Saturday,Isabel Province Day,Local holiday
+08/06/2012,Friday,Day off for Queen's Official Birthday,Public Holiday
+08/06/2012,Friday,Temotu Province Day,Local holiday
+09/06/2012,Saturday,Queen's Official Birthday,Observance
+21/06/2012,Thursday,June Solstice,Season
+29/06/2012,Friday,Central Province Day,Local holiday
+06/07/2012,Friday,Day off for Independence Day,Public Holiday
+07/07/2012,Saturday,Independence Day,Public Holiday
+20/07/2012,Friday,Rennell and Bellona Province Day,Local holiday
+01/08/2012,Wednesday,Gualdalcanal Province Day,Local holiday
+03/08/2012,Friday,Makira-Ulawa Province Day,Local holiday
+15/08/2012,Wednesday,Malaita Province Day,Local holiday
+23/09/2012,Sunday,September Equinox,Season
+07/12/2012,Friday,Western Province Day,Local holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,National Day of Thanksgiving,Public Holiday
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+25/02/2013,Monday,Choiseul Province Day,Local holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+30/03/2013,Saturday,Holy Saturday,Public Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Public Holiday
+20/05/2013,Monday,Whit Monday,Public Holiday
+02/06/2013,Sunday,Isabel Province Day,Local holiday
+03/06/2013,Monday,Day off for Isabel Province Day,Local holiday
+07/06/2013,Friday,Day off for Queen's Official Birthday,Public Holiday
+07/06/2013,Friday,Day off for Temotu Province Day,Local holiday
+08/06/2013,Saturday,Queen's Official Birthday,Observance
+08/06/2013,Saturday,Temotu Province Day,Local holiday
+21/06/2013,Friday,June Solstice,Season
+28/06/2013,Friday,Day off for Central Province Day,Local holiday
+29/06/2013,Saturday,Central Province Day,Local holiday
+07/07/2013,Sunday,Independence Day,Public Holiday
+08/07/2013,Monday,Day off for Independence Day,Public Holiday
+19/07/2013,Friday,Day off for Rennell and Bellona Province Day,Local holiday
+20/07/2013,Saturday,Rennell and Bellona Province Day,Local holiday
+01/08/2013,Thursday,Gualdalcanal Province Day,Local holiday
+02/08/2013,Friday,Day off for Makira-Ulawa Province Day,Local holiday
+03/08/2013,Saturday,Makira-Ulawa Province Day,Local holiday
+15/08/2013,Thursday,Malaita Province Day,Local holiday
+23/09/2013,Monday,September Equinox,Season
+06/12/2013,Friday,Day off for Western Province Day,Local holiday
+07/12/2013,Saturday,Western Province Day,Local holiday
+22/12/2013,Sunday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,National Day of Thanksgiving,Public Holiday
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+25/02/2014,Tuesday,Choiseul Province Day,Local holiday
+21/03/2014,Friday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+19/04/2014,Saturday,Holy Saturday,Public Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Public Holiday
+02/06/2014,Monday,Isabel Province Day,Local holiday
+08/06/2014,Sunday,Temotu Province Day,Local holiday
+09/06/2014,Monday,Whit Monday,Public Holiday
+09/06/2014,Monday,Day off for Temotu Province Day,Local holiday
+13/06/2014,Friday,Day off for Queen's Official Birthday,Public Holiday
+14/06/2014,Saturday,Queen's Official Birthday,Observance
+21/06/2014,Saturday,June Solstice,Season
+29/06/2014,Sunday,Central Province Day,Local holiday
+30/06/2014,Monday,Day off for Central Province Day,Local holiday
+07/07/2014,Monday,Independence Day,Public Holiday
+20/07/2014,Sunday,Rennell and Bellona Province Day,Local holiday
+21/07/2014,Monday,Day off for Rennell and Bellona Province Day,Local holiday
+01/08/2014,Friday,Gualdalcanal Province Day,Local holiday
+03/08/2014,Sunday,Makira-Ulawa Province Day,Local holiday
+04/08/2014,Monday,Day off for Makira-Ulawa Province Day,Local holiday
+15/08/2014,Friday,Malaita Province Day,Local holiday
+23/09/2014,Tuesday,September Equinox,Season
+07/12/2014,Sunday,Western Province Day,Local holiday
+08/12/2014,Monday,Day off for Western Province Day,Local holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,National Day of Thanksgiving,Public Holiday
+01/01/2015,Thursday,New Year's Day,Public Holiday
+25/02/2015,Wednesday,Choiseul Province Day,Local holiday
+21/03/2015,Saturday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+04/04/2015,Saturday,Holy Saturday,Public Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Public Holiday
+25/05/2015,Monday,Whit Monday,Public Holiday
+02/06/2015,Tuesday,Isabel Province Day,Local holiday
+08/06/2015,Monday,Temotu Province Day,Local holiday
+12/06/2015,Friday,Day off for Queen's Official Birthday,Public Holiday
+13/06/2015,Saturday,Queen's Official Birthday,Observance
+22/06/2015,Monday,June Solstice,Season
+29/06/2015,Monday,Central Province Day,Local holiday
+07/07/2015,Tuesday,Independence Day,Public Holiday
+20/07/2015,Monday,Rennell and Bellona Province Day,Local holiday
+01/08/2015,Saturday,Gualdalcanal Province Day,Local holiday
+03/08/2015,Monday,Makira-Ulawa Province Day,Local holiday
+15/08/2015,Saturday,Malaita Province Day,Local holiday
+23/09/2015,Wednesday,September Equinox,Season
+07/12/2015,Monday,Western Province Day,Local holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,National Day of Thanksgiving,Public Holiday
+01/01/2016,Friday,New Year's Day,Public Holiday
+25/02/2016,Thursday,Choiseul Province Day,Local holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+26/03/2016,Saturday,Holy Saturday,Public Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Public Holiday
+16/05/2016,Monday,Whit Monday,Public Holiday
+02/06/2016,Thursday,Isabel Province Day,Local holiday
+08/06/2016,Wednesday,Temotu Province Day,Local holiday
+10/06/2016,Friday,Day off for Queen's Official Birthday,Public Holiday
+11/06/2016,Saturday,Queen's Official Birthday,Observance
+21/06/2016,Tuesday,June Solstice,Season
+29/06/2016,Wednesday,Central Province Day,Local holiday
+07/07/2016,Thursday,Independence Day,Public Holiday
+20/07/2016,Wednesday,Rennell and Bellona Province Day,Local holiday
+01/08/2016,Monday,Gualdalcanal Province Day,Local holiday
+03/08/2016,Wednesday,Makira-Ulawa Province Day,Local holiday
+15/08/2016,Monday,Malaita Province Day,Local holiday
+23/09/2016,Friday,September Equinox,Season
+07/12/2016,Wednesday,Western Province Day,Local holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,National Day of Thanksgiving,Public Holiday
+27/12/2016,Tuesday,Day off for National Day of Thanksgiving,Public Holiday
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,Day off for New Year's Day,Public Holiday
+25/02/2017,Saturday,Choiseul Province Day,Local holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+15/04/2017,Saturday,Holy Saturday,Public Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Public Holiday
+02/06/2017,Friday,Isabel Province Day,Local holiday
+05/06/2017,Monday,Whit Monday,Public Holiday
+08/06/2017,Thursday,Temotu Province Day,Local holiday
+09/06/2017,Friday,Day off for Queen's Official Birthday,Public Holiday
+10/06/2017,Saturday,Queen's Official Birthday,Observance
+21/06/2017,Wednesday,June Solstice,Season
+29/06/2017,Thursday,Central Province Day,Local holiday
+07/07/2017,Friday,Independence Day,Public Holiday
+20/07/2017,Thursday,Rennell and Bellona Province Day,Local holiday
+01/08/2017,Tuesday,Gualdalcanal Province Day,Local holiday
+03/08/2017,Thursday,Makira-Ulawa Province Day,Local holiday
+15/08/2017,Tuesday,Malaita Province Day,Local holiday
+23/09/2017,Saturday,September Equinox,Season
+07/12/2017,Thursday,Western Province Day,Local holiday
+22/12/2017,Friday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,National Day of Thanksgiving,Public Holiday
+01/01/2018,Monday,New Year's Day,Public Holiday
+25/02/2018,Sunday,Choiseul Province Day,Local holiday
+26/02/2018,Monday,Choiseul Province Day observed,Local holiday
+21/03/2018,Wednesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+31/03/2018,Saturday,Holy Saturday,Public Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Public Holiday
+21/05/2018,Monday,Whit Monday,Public Holiday
+01/06/2018,Friday,Day off for Isabel Province Day,Local holiday
+02/06/2018,Saturday,Isabel Province Day,Local holiday
+08/06/2018,Friday,Day off for Queen's Official Birthday,Public Holiday
+08/06/2018,Friday,Temotu Province Day,Local holiday
+09/06/2018,Saturday,Queen's Official Birthday,Observance
+21/06/2018,Thursday,June Solstice,Season
+29/06/2018,Friday,Central Province Day,Local holiday
+06/07/2018,Friday,Day off for Independence Day,Public Holiday
+07/07/2018,Saturday,Independence Day,Public Holiday
+20/07/2018,Friday,Rennell and Bellona Province Day,Local holiday
+01/08/2018,Wednesday,Gualdalcanal Province Day,Local holiday
+03/08/2018,Friday,Makira-Ulawa Province Day,Local holiday
+15/08/2018,Wednesday,Malaita Province Day,Local holiday
+23/09/2018,Sunday,September Equinox,Season
+07/12/2018,Friday,Western Province Day,Local holiday
+22/12/2018,Saturday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,National Day of Thanksgiving,Public Holiday
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+25/02/2019,Monday,Choiseul Province Day,Local holiday
+21/03/2019,Thursday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+20/04/2019,Saturday,Holy Saturday,Public Holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Public Holiday
+02/06/2019,Sunday,Isabel Province Day,Local holiday
+03/06/2019,Monday,Day off for Isabel Province Day,Local holiday
+07/06/2019,Friday,Day off for Queen's Official Birthday,Public Holiday
+07/06/2019,Friday,Day off for Temotu Province Day,Local holiday
+08/06/2019,Saturday,Queen's Official Birthday,Observance
+08/06/2019,Saturday,Temotu Province Day,Local holiday
+10/06/2019,Monday,Whit Monday,Public Holiday
+22/06/2019,Saturday,June Solstice,Season
+28/06/2019,Friday,Day off for Central Province Day,Local holiday
+29/06/2019,Saturday,Central Province Day,Local holiday
+07/07/2019,Sunday,Independence Day,Public Holiday
+08/07/2019,Monday,Day off for Independence Day,Public Holiday
+19/07/2019,Friday,Day off for Rennell and Bellona Province Day,Local holiday
+20/07/2019,Saturday,Rennell and Bellona Province Day,Local holiday
+01/08/2019,Thursday,Gualdalcanal Province Day,Local holiday
+02/08/2019,Friday,Day off for Makira-Ulawa Province Day,Local holiday
+03/08/2019,Saturday,Makira-Ulawa Province Day,Local holiday
+15/08/2019,Thursday,Malaita Province Day,Local holiday
+23/09/2019,Monday,September Equinox,Season
+06/12/2019,Friday,Day off for Western Province Day,Local holiday
+07/12/2019,Saturday,Western Province Day,Local holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,National Day of Thanksgiving,Public Holiday
+27/12/2019,Friday,Special Public Holiday,Public Holiday
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+25/02/2020,Tuesday,Choiseul Province Day,Local holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+11/04/2020,Saturday,Holy Saturday,Public Holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Public Holiday
+01/06/2020,Monday,Whit Monday,Public Holiday
+02/06/2020,Tuesday,Isabel Province Day,Local holiday
+08/06/2020,Monday,Temotu Province Day,Local holiday
+12/06/2020,Friday,Day off for Queen's Official Birthday,Public Holiday
+13/06/2020,Saturday,Queen's Official Birthday,Observance
+21/06/2020,Sunday,June Solstice,Season
+29/06/2020,Monday,Central Province Day,Local holiday
+07/07/2020,Tuesday,Independence Day,Public Holiday
+20/07/2020,Monday,Rennell and Bellona Province Day,Local holiday
+01/08/2020,Saturday,Gualdalcanal Province Day,Local holiday
+03/08/2020,Monday,Makira-Ulawa Province Day,Local holiday
+15/08/2020,Saturday,Malaita Province Day,Local holiday
+23/09/2020,Wednesday,September Equinox,Season
+07/12/2020,Monday,Western Province Day,Local holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,National Day of Thanksgiving,Public Holiday
+01/01/2021,Friday,New Year's Day,Public Holiday
+25/02/2021,Thursday,Choiseul Province Day,Local holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+03/04/2021,Saturday,Holy Saturday,Public Holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Public Holiday
+24/05/2021,Monday,Whit Monday,Public Holiday
+02/06/2021,Wednesday,Isabel Province Day,Local holiday
+08/06/2021,Tuesday,Temotu Province Day,Local holiday
+11/06/2021,Friday,Day off for Queen's Official Birthday,Public Holiday
+12/06/2021,Saturday,Queen's Official Birthday,Observance
+21/06/2021,Monday,June Solstice,Season
+29/06/2021,Tuesday,Central Province Day,Local holiday
+07/07/2021,Wednesday,Independence Day,Public Holiday
+20/07/2021,Tuesday,Rennell and Bellona Province Day,Local holiday
+01/08/2021,Sunday,Gualdalcanal Province Day,Local holiday
+02/08/2021,Monday,Gualdalcanal Province Day observed,Local holiday
+03/08/2021,Tuesday,Makira-Ulawa Province Day,Local holiday
+15/08/2021,Sunday,Malaita Province Day,Local holiday
+16/08/2021,Monday,Malaita Province Day observed,Local holiday
+23/09/2021,Thursday,September Equinox,Season
+07/12/2021,Tuesday,Western Province Day,Local holiday
+22/12/2021,Wednesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,National Day of Thanksgiving,Public Holiday
+01/01/2022,Saturday,New Year's Day,Public Holiday
+25/02/2022,Friday,Choiseul Province Day,Local holiday
+21/03/2022,Monday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+16/04/2022,Saturday,Holy Saturday,Public Holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Public Holiday
+02/06/2022,Thursday,Isabel Province Day,Local holiday
+03/06/2022,Friday,Day off for Queen's Official Birthday,Public Holiday
+06/06/2022,Monday,Whit Monday,Public Holiday
+08/06/2022,Wednesday,Temotu Province Day,Local holiday
+11/06/2022,Saturday,Queen's Official Birthday,Observance
+21/06/2022,Tuesday,June Solstice,Season
+29/06/2022,Wednesday,Central Province Day,Local holiday
+07/07/2022,Thursday,Independence Day,Public Holiday
+20/07/2022,Wednesday,Rennell and Bellona Province Day,Local holiday
+01/08/2022,Monday,Gualdalcanal Province Day,Local holiday
+03/08/2022,Wednesday,Makira-Ulawa Province Day,Local holiday
+15/08/2022,Monday,Malaita Province Day,Local holiday
+12/09/2022,Monday,National Day of Mourning for Queen Elizabeth II,Public Holiday
+13/09/2022,Tuesday,National Day of Mourning for Queen Elizabeth II,Observance
+14/09/2022,Wednesday,National Day of Mourning for Queen Elizabeth II,Observance
+23/09/2022,Friday,September Equinox,Season
+07/12/2022,Wednesday,Western Province Day,Local holiday
+22/12/2022,Thursday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,National Day of Thanksgiving,Public Holiday
+27/12/2022,Tuesday,Day off for National Day of Thanksgiving,Public Holiday

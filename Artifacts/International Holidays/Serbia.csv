@@ -1,0 +1,648 @@
+Date,Day,Name,Type
+01/01/2001,Monday,Western New Year's Day,National holiday
+02/01/2001,Tuesday,Second Day of Western New Year's Day,National holiday
+07/01/2001,Sunday,Christmas Day,"National holiday, Orthodox"
+14/01/2001,Sunday,New Year,"Observance, Orthodox"
+27/01/2001,Saturday,Spirituality Day/St Sava's Day,Observance
+15/02/2001,Thursday,National Day of Serbia,Common local holiday
+16/02/2001,Friday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2001,Tuesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,"National holiday, Orthodox"
+14/04/2001,Saturday,Holy Saturday,"National holiday, Orthodox"
+15/04/2001,Sunday,Easter Day,"National holiday, Orthodox"
+16/04/2001,Monday,Easter Monday,"National holiday, Orthodox"
+27/04/2001,Friday,Constitution Day,National holiday
+01/05/2001,Tuesday,Labor holiday,National holiday
+02/05/2001,Wednesday,Labor Day Holiday,National holiday
+09/05/2001,Wednesday,Victory Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+28/06/2001,Thursday,St Vitus' Day,Observance
+13/07/2001,Friday,National Day of Montenegro,Common local holiday
+23/09/2001,Sunday,September Equinox,Season
+21/12/2001,Friday,December Solstice,Season
+23/12/2001,Sunday,Mother's Day,"Observance, Orthodox"
+30/12/2001,Sunday,Father's Day,"Observance, Orthodox"
+31/12/2001,Monday,Western New Year's Eve,Observance
+01/01/2002,Tuesday,Western New Year's Day,National holiday
+02/01/2002,Wednesday,Second Day of Western New Year's Day,National holiday
+07/01/2002,Monday,Christmas Day,"National holiday, Orthodox"
+14/01/2002,Monday,New Year,"Observance, Orthodox"
+27/01/2002,Sunday,Spirituality Day/St Sava's Day,Observance
+15/02/2002,Friday,National Day of Serbia,Common local holiday
+16/02/2002,Saturday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2002,Wednesday,March Equinox,Season
+27/04/2002,Saturday,Constitution Day,National holiday
+01/05/2002,Wednesday,Labor holiday,National holiday
+02/05/2002,Thursday,Labor Day Holiday,National holiday
+03/05/2002,Friday,Good Friday,"National holiday, Orthodox"
+04/05/2002,Saturday,Holy Saturday,"National holiday, Orthodox"
+05/05/2002,Sunday,Easter Day,"National holiday, Orthodox"
+06/05/2002,Monday,Easter Monday,"National holiday, Orthodox"
+09/05/2002,Thursday,Victory Day,Observance
+21/06/2002,Friday,June Solstice,Season
+28/06/2002,Friday,St Vitus' Day,Observance
+13/07/2002,Saturday,National Day of Montenegro,Common local holiday
+23/09/2002,Monday,September Equinox,Season
+22/12/2002,Sunday,December Solstice,Season
+29/12/2002,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2002,Tuesday,Western New Year's Eve,Observance
+01/01/2003,Wednesday,Western New Year's Day,National holiday
+02/01/2003,Thursday,Second Day of Western New Year's Day,National holiday
+05/01/2003,Sunday,Father's Day,"Observance, Orthodox"
+07/01/2003,Tuesday,Christmas Day,"National holiday, Orthodox"
+14/01/2003,Tuesday,New Year,"Observance, Orthodox"
+27/01/2003,Monday,Spirituality Day/St Sava's Day,Observance
+15/02/2003,Saturday,National Day of Serbia,Common local holiday
+17/02/2003,Monday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+21/03/2003,Friday,March Equinox,Season
+25/04/2003,Friday,Good Friday,"National holiday, Orthodox"
+26/04/2003,Saturday,Holy Saturday,"National holiday, Orthodox"
+27/04/2003,Sunday,Constitution Day,National holiday
+27/04/2003,Sunday,Easter Day,"National holiday, Orthodox"
+28/04/2003,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2003,Thursday,Labor holiday,National holiday
+02/05/2003,Friday,Labor Day Holiday,National holiday
+09/05/2003,Friday,Victory Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+28/06/2003,Saturday,St Vitus' Day,Observance
+13/07/2003,Sunday,National Day of Montenegro,Common local holiday
+23/09/2003,Tuesday,September Equinox,Season
+22/12/2003,Monday,December Solstice,Season
+28/12/2003,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2003,Wednesday,Western New Year's Eve,Observance
+01/01/2004,Thursday,Western New Year's Day,National holiday
+02/01/2004,Friday,Second Day of Western New Year's Day,National holiday
+04/01/2004,Sunday,Father's Day,"Observance, Orthodox"
+07/01/2004,Wednesday,Christmas Day,"National holiday, Orthodox"
+14/01/2004,Wednesday,New Year,"Observance, Orthodox"
+27/01/2004,Tuesday,Spirituality Day/St Sava's Day,Observance
+15/02/2004,Sunday,National Day of Serbia,Common local holiday
+17/02/2004,Tuesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,"National holiday, Orthodox"
+10/04/2004,Saturday,Holy Saturday,"National holiday, Orthodox"
+11/04/2004,Sunday,Easter Day,"National holiday, Orthodox"
+12/04/2004,Monday,Easter Monday,"National holiday, Orthodox"
+27/04/2004,Tuesday,Constitution Day,National holiday
+01/05/2004,Saturday,Labor holiday,National holiday
+03/05/2004,Monday,Labor Day Holiday,National holiday
+09/05/2004,Sunday,Victory Day,Observance
+21/06/2004,Monday,June Solstice,Season
+28/06/2004,Monday,St Vitus' Day,Observance
+13/07/2004,Tuesday,National Day of Montenegro,Common local holiday
+22/09/2004,Wednesday,September Equinox,Season
+21/12/2004,Tuesday,December Solstice,Season
+26/12/2004,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2004,Friday,Western New Year's Eve,Observance
+01/01/2005,Saturday,Western New Year's Day,National holiday
+02/01/2005,Sunday,Father's Day,"Observance, Orthodox"
+02/01/2005,Sunday,Second Day of Western New Year's Day,National holiday
+03/01/2005,Monday,Day off for Second Day of Western New Year's Day,National holiday
+07/01/2005,Friday,Christmas Day,"National holiday, Orthodox"
+14/01/2005,Friday,New Year,"Observance, Orthodox"
+27/01/2005,Thursday,Spirituality Day/St Sava's Day,Observance
+15/02/2005,Tuesday,National Day of Serbia,Common local holiday
+16/02/2005,Wednesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2005,Sunday,March Equinox,Season
+27/04/2005,Wednesday,Constitution Day,National holiday
+29/04/2005,Friday,Good Friday,"National holiday, Orthodox"
+30/04/2005,Saturday,Holy Saturday,"National holiday, Orthodox"
+01/05/2005,Sunday,Labor holiday,National holiday
+01/05/2005,Sunday,Easter Day,"National holiday, Orthodox"
+02/05/2005,Monday,Easter Monday,"National holiday, Orthodox"
+02/05/2005,Monday,Day off for Labor holiday,National holiday
+03/05/2005,Tuesday,Labor Day Holiday,National holiday
+09/05/2005,Monday,Victory Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+28/06/2005,Tuesday,St Vitus' Day,Observance
+13/07/2005,Wednesday,National Day of Montenegro,Common local holiday
+23/09/2005,Friday,September Equinox,Season
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2005,Saturday,Western New Year's Eve,Observance
+01/01/2006,Sunday,Father's Day,"Observance, Orthodox"
+01/01/2006,Sunday,Western New Year's Day,National holiday
+02/01/2006,Monday,Second Day of Western New Year's Day,National holiday
+03/01/2006,Tuesday,Day off for Western New Year's Day,National holiday
+07/01/2006,Saturday,Christmas Day,"National holiday, Orthodox"
+14/01/2006,Saturday,New Year,"Observance, Orthodox"
+27/01/2006,Friday,Spirituality Day/St Sava's Day,Observance
+15/02/2006,Wednesday,National Day of Serbia,Common local holiday
+16/02/2006,Thursday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2006,Monday,March Equinox,Season
+21/04/2006,Friday,Good Friday,"National holiday, Orthodox"
+22/04/2006,Saturday,Holy Saturday,"National holiday, Orthodox"
+23/04/2006,Sunday,Easter Day,"National holiday, Orthodox"
+24/04/2006,Monday,Easter Monday,"National holiday, Orthodox"
+27/04/2006,Thursday,Constitution Day,National holiday
+01/05/2006,Monday,Labor holiday,National holiday
+02/05/2006,Tuesday,Labor Day Holiday,National holiday
+09/05/2006,Tuesday,Victory Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+28/06/2006,Wednesday,St Vitus' Day,Observance
+13/07/2006,Thursday,National Day of Montenegro,Common local holiday
+23/09/2006,Saturday,September Equinox,Season
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2006,Sunday,Father's Day,"Observance, Orthodox"
+31/12/2006,Sunday,Western New Year's Eve,Observance
+01/01/2007,Monday,Western New Year's Day,National holiday
+02/01/2007,Tuesday,Second Day of Western New Year's Day,National holiday
+07/01/2007,Sunday,Christmas Day,"National holiday, Orthodox"
+14/01/2007,Sunday,New Year,"Observance, Orthodox"
+27/01/2007,Saturday,Spirituality Day/St Sava's Day,Observance
+15/02/2007,Thursday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2007,Friday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,"National holiday, Orthodox"
+07/04/2007,Saturday,Holy Saturday,"National holiday, Orthodox"
+08/04/2007,Sunday,Easter Day,"National holiday, Orthodox"
+09/04/2007,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2007,Tuesday,Labor holiday,National holiday
+02/05/2007,Wednesday,Labor Day Holiday,National holiday
+09/05/2007,Wednesday,Victory Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+28/06/2007,Thursday,St Vitus' Day,Observance
+23/09/2007,Sunday,September Equinox,Season
+22/12/2007,Saturday,December Solstice,Season
+23/12/2007,Sunday,Mother's Day,"Observance, Orthodox"
+30/12/2007,Sunday,Father's Day,"Observance, Orthodox"
+31/12/2007,Monday,Western New Year's Eve,Observance
+01/01/2008,Tuesday,Western New Year's Day,National holiday
+02/01/2008,Wednesday,Second Day of Western New Year's Day,National holiday
+07/01/2008,Monday,Christmas Day,"National holiday, Orthodox"
+14/01/2008,Monday,New Year,"Observance, Orthodox"
+27/01/2008,Sunday,Spirituality Day/St Sava's Day,Observance
+15/02/2008,Friday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2008,Saturday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2008,Thursday,March Equinox,Season
+25/04/2008,Friday,Good Friday,"National holiday, Orthodox"
+26/04/2008,Saturday,Holy Saturday,"National holiday, Orthodox"
+27/04/2008,Sunday,Easter Day,"National holiday, Orthodox"
+28/04/2008,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2008,Thursday,Labor holiday,National holiday
+02/05/2008,Friday,Labor Day Holiday,National holiday
+09/05/2008,Friday,Victory Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+28/06/2008,Saturday,St Vitus' Day,Observance
+22/09/2008,Monday,September Equinox,Season
+21/12/2008,Sunday,December Solstice,Season
+28/12/2008,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2008,Wednesday,Western New Year's Eve,Observance
+01/01/2009,Thursday,Western New Year's Day,National holiday
+02/01/2009,Friday,Second Day of Western New Year's Day,National holiday
+04/01/2009,Sunday,Father's Day,"Observance, Orthodox"
+07/01/2009,Wednesday,Christmas Day,"National holiday, Orthodox"
+14/01/2009,Wednesday,New Year,"Observance, Orthodox"
+27/01/2009,Tuesday,Spirituality Day/St Sava's Day,Observance
+15/02/2009,Sunday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2009,Monday,Statehood Day of the Republic of Serbia observed,National holiday
+17/02/2009,Tuesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2009,Friday,March Equinox,Season
+17/04/2009,Friday,Good Friday,"National holiday, Orthodox"
+18/04/2009,Saturday,Holy Saturday,"National holiday, Orthodox"
+19/04/2009,Sunday,Easter Day,"National holiday, Orthodox"
+20/04/2009,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2009,Friday,Labor holiday,National holiday
+02/05/2009,Saturday,Labor Day Holiday,National holiday
+09/05/2009,Saturday,Victory Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+28/06/2009,Sunday,St Vitus' Day,Observance
+22/09/2009,Tuesday,September Equinox,Season
+21/12/2009,Monday,December Solstice,Season
+27/12/2009,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2009,Thursday,Western New Year's Eve,Observance
+01/01/2010,Friday,Western New Year's Day,National holiday
+02/01/2010,Saturday,Second Day of Western New Year's Day,National holiday
+03/01/2010,Sunday,Father's Day,"Observance, Orthodox"
+07/01/2010,Thursday,Christmas Day,"National holiday, Orthodox"
+14/01/2010,Thursday,New Year,"Observance, Orthodox"
+27/01/2010,Wednesday,Spirituality Day/St Sava's Day,Observance
+15/02/2010,Monday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2010,Tuesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,"National holiday, Orthodox"
+03/04/2010,Saturday,Holy Saturday,"National holiday, Orthodox"
+04/04/2010,Sunday,Easter Day,"National holiday, Orthodox"
+05/04/2010,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2010,Saturday,Labor holiday,National holiday
+03/05/2010,Monday,Labor Day Holiday,National holiday
+09/05/2010,Sunday,Victory Day,Observance
+21/06/2010,Monday,June Solstice,Season
+28/06/2010,Monday,St Vitus' Day,Observance
+23/09/2010,Thursday,September Equinox,Season
+22/12/2010,Wednesday,December Solstice,Season
+26/12/2010,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2010,Friday,Western New Year's Eve,Observance
+01/01/2011,Saturday,Western New Year's Day,National holiday
+02/01/2011,Sunday,Father's Day,"Observance, Orthodox"
+02/01/2011,Sunday,Second Day of Western New Year's Day,National holiday
+03/01/2011,Monday,Day off for Second Day of Western New Year's Day,National holiday
+06/01/2011,Thursday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2011,Friday,Christmas Day,"National holiday, Orthodox"
+14/01/2011,Friday,New Year,"Observance, Orthodox"
+27/01/2011,Thursday,Spirituality Day/St Sava's Day,Observance
+15/02/2011,Tuesday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2011,Wednesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+21/03/2011,Monday,March Equinox,Season
+22/04/2011,Friday,Good Friday,"National holiday, Orthodox"
+22/04/2011,Friday,Western Good Friday,"Christian, Optional holiday"
+23/04/2011,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+23/04/2011,Saturday,Holy Saturday,"National holiday, Orthodox"
+24/04/2011,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+24/04/2011,Sunday,Easter Day,"National holiday, Orthodox"
+25/04/2011,Monday,Easter Monday,"National holiday, Orthodox"
+25/04/2011,Monday,Western Easter Monday,"Christian, Optional holiday"
+01/05/2011,Sunday,Labor holiday,National holiday
+02/05/2011,Monday,Day off for Labor holiday,National holiday
+03/05/2011,Tuesday,Labor Day Holiday,National holiday
+09/05/2011,Monday,Victory Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+28/06/2011,Tuesday,St Vitus' Day,Observance
+31/08/2011,Wednesday,Eid al-Fitr,"Muslim, Optional holiday"
+23/09/2011,Friday,September Equinox,Season
+08/10/2011,Saturday,Yom Kippur,"Hebrew, Optional holiday"
+07/11/2011,Monday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Mother's Day,"Observance, Orthodox"
+25/12/2011,Sunday,First Day of Western Christmas,"Christian, Optional holiday"
+31/12/2011,Saturday,Western New Year's Eve,Observance
+01/01/2012,Sunday,Father's Day,"Observance, Orthodox"
+01/01/2012,Sunday,Western New Year's Day,National holiday
+02/01/2012,Monday,Second Day of Western New Year's Day,National holiday
+03/01/2012,Tuesday,Day off for Western New Year's Day,National holiday
+06/01/2012,Friday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2012,Saturday,Christmas Day,"National holiday, Orthodox"
+14/01/2012,Saturday,New Year,"Observance, Orthodox"
+27/01/2012,Friday,Spirituality Day/St Sava's Day,Observance
+15/02/2012,Wednesday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2012,Thursday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Western Good Friday,"Christian, Optional holiday"
+07/04/2012,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+08/04/2012,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+09/04/2012,Monday,Western Easter Monday,"Christian, Optional holiday"
+13/04/2012,Friday,Good Friday,"National holiday, Orthodox"
+14/04/2012,Saturday,Holy Saturday,"National holiday, Orthodox"
+15/04/2012,Sunday,Easter Day,"National holiday, Orthodox"
+16/04/2012,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2012,Tuesday,Labor holiday,National holiday
+02/05/2012,Wednesday,Labor Day Holiday,National holiday
+09/05/2012,Wednesday,Victory Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+28/06/2012,Thursday,St Vitus' Day,Observance
+19/08/2012,Sunday,Eid al-Fitr,"Muslim, Optional holiday"
+22/09/2012,Saturday,September Equinox,Season
+26/09/2012,Wednesday,Yom Kippur,"Hebrew, Optional holiday"
+26/10/2012,Friday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+21/12/2012,Friday,December Solstice,Season
+23/12/2012,Sunday,Mother's Day,"Observance, Orthodox"
+25/12/2012,Tuesday,First Day of Western Christmas,"Christian, Optional holiday"
+30/12/2012,Sunday,Father's Day,"Observance, Orthodox"
+31/12/2012,Monday,Western New Year's Eve,Observance
+01/01/2013,Tuesday,Western New Year's Day,National holiday
+02/01/2013,Wednesday,Second Day of Western New Year's Day,National holiday
+06/01/2013,Sunday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2013,Monday,Christmas Day,"National holiday, Orthodox"
+14/01/2013,Monday,New Year,"Observance, Orthodox"
+27/01/2013,Sunday,Spirituality Day/St Sava's Day,Observance
+15/02/2013,Friday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2013,Saturday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Western Good Friday,"Christian, Optional holiday"
+30/03/2013,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+31/03/2013,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+01/04/2013,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2013,Monday,Holocaust Remembrance Day,Observance
+01/05/2013,Wednesday,Labor holiday,National holiday
+02/05/2013,Thursday,Labor Day Holiday,National holiday
+03/05/2013,Friday,Good Friday,"National holiday, Orthodox"
+04/05/2013,Saturday,Holy Saturday,"National holiday, Orthodox"
+05/05/2013,Sunday,Easter Day,"National holiday, Orthodox"
+06/05/2013,Monday,Easter Monday,"National holiday, Orthodox"
+09/05/2013,Thursday,Victory Day,Observance
+21/06/2013,Friday,June Solstice,Season
+28/06/2013,Friday,St Vitus' Day,Observance
+08/08/2013,Thursday,Eid al-Fitr,"Muslim, Optional holiday"
+14/09/2013,Saturday,Yom Kippur,"Hebrew, Optional holiday"
+22/09/2013,Sunday,September Equinox,Season
+15/10/2013,Tuesday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+21/10/2013,Monday,World War II Victims Remembrance Day,Observance
+11/11/2013,Monday,Armistice Day,National holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,First Day of Western Christmas,"Christian, Optional holiday"
+29/12/2013,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2013,Tuesday,Western New Year's Eve,Observance
+01/01/2014,Wednesday,Western New Year's Day,National holiday
+02/01/2014,Thursday,Second Day of Western New Year's Day,National holiday
+05/01/2014,Sunday,Father's Day,"Observance, Orthodox"
+06/01/2014,Monday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2014,Tuesday,Christmas Day,"National holiday, Orthodox"
+14/01/2014,Tuesday,New Year,"Observance, Orthodox"
+27/01/2014,Monday,Spirituality Day/St Sava's Day,Observance
+15/02/2014,Saturday,Statehood Day of the Republic of Serbia,National holiday
+17/02/2014,Monday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,"National holiday, Orthodox"
+18/04/2014,Friday,Western Good Friday,"Christian, Optional holiday"
+19/04/2014,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+19/04/2014,Saturday,Holy Saturday,"National holiday, Orthodox"
+20/04/2014,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+20/04/2014,Sunday,Easter Day,"National holiday, Orthodox"
+21/04/2014,Monday,Easter Monday,"National holiday, Orthodox"
+21/04/2014,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2014,Tuesday,Holocaust Remembrance Day,Observance
+01/05/2014,Thursday,Labor holiday,National holiday
+02/05/2014,Friday,Labor Day Holiday,National holiday
+09/05/2014,Friday,Victory Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+28/06/2014,Saturday,St Vitus' Day,Observance
+29/07/2014,Tuesday,Eid al-Fitr,"Muslim, Optional holiday"
+23/09/2014,Tuesday,September Equinox,Season
+04/10/2014,Saturday,Yom Kippur,"Hebrew, Optional holiday"
+05/10/2014,Sunday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+21/10/2014,Tuesday,World War II Victims Remembrance Day,Observance
+11/11/2014,Tuesday,Armistice Day,National holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,First Day of Western Christmas,"Christian, Optional holiday"
+28/12/2014,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2014,Wednesday,Western New Year's Eve,Observance
+01/01/2015,Thursday,Western New Year's Day,National holiday
+02/01/2015,Friday,Second Day of Western New Year's Day,National holiday
+04/01/2015,Sunday,Father's Day,"Observance, Orthodox"
+06/01/2015,Tuesday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2015,Wednesday,Christmas Day,"National holiday, Orthodox"
+14/01/2015,Wednesday,New Year,"Observance, Orthodox"
+27/01/2015,Tuesday,Spirituality Day/St Sava's Day,Observance
+15/02/2015,Sunday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2015,Monday,Statehood Day of the Republic of Serbia observed,National holiday
+17/02/2015,Tuesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Western Good Friday,"Christian, Optional holiday"
+04/04/2015,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+05/04/2015,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+06/04/2015,Monday,Western Easter Monday,"Christian, Optional holiday"
+10/04/2015,Friday,Good Friday,"National holiday, Orthodox"
+11/04/2015,Saturday,Holy Saturday,"National holiday, Orthodox"
+12/04/2015,Sunday,Easter Day,"National holiday, Orthodox"
+13/04/2015,Monday,Easter Monday,"National holiday, Orthodox"
+22/04/2015,Wednesday,Holocaust Remembrance Day,Observance
+01/05/2015,Friday,Labor holiday,National holiday
+02/05/2015,Saturday,Labor Day Holiday,National holiday
+09/05/2015,Saturday,Victory Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+28/06/2015,Sunday,St Vitus' Day,Observance
+18/07/2015,Saturday,Eid al-Fitr,"Muslim, Optional holiday"
+23/09/2015,Wednesday,Yom Kippur,"Hebrew, Optional holiday"
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+21/10/2015,Wednesday,World War II Victims Remembrance Day,Observance
+11/11/2015,Wednesday,Armistice Day,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,First Day of Western Christmas,"Christian, Optional holiday"
+27/12/2015,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2015,Thursday,Western New Year's Eve,Observance
+01/01/2016,Friday,Western New Year's Day,National holiday
+02/01/2016,Saturday,Second Day of Western New Year's Day,National holiday
+03/01/2016,Sunday,Father's Day,"Observance, Orthodox"
+06/01/2016,Wednesday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2016,Thursday,Christmas Day,"National holiday, Orthodox"
+14/01/2016,Thursday,New Year,"Observance, Orthodox"
+27/01/2016,Wednesday,Spirituality Day/St Sava's Day,Observance
+15/02/2016,Monday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2016,Tuesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Western Good Friday,"Christian, Optional holiday"
+26/03/2016,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+27/03/2016,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+28/03/2016,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2016,Friday,Holocaust Remembrance Day,Observance
+29/04/2016,Friday,Good Friday,"National holiday, Orthodox"
+30/04/2016,Saturday,Holy Saturday,"National holiday, Orthodox"
+01/05/2016,Sunday,Labor holiday,National holiday
+01/05/2016,Sunday,Easter Day,"National holiday, Orthodox"
+02/05/2016,Monday,Easter Monday,"National holiday, Orthodox"
+02/05/2016,Monday,Day off for Labor holiday,National holiday
+03/05/2016,Tuesday,Labor Day Holiday,National holiday
+09/05/2016,Monday,Victory Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+28/06/2016,Tuesday,St Vitus' Day,Observance
+07/07/2016,Thursday,Eid al-Fitr,"Muslim, Optional holiday"
+13/09/2016,Tuesday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+22/09/2016,Thursday,September Equinox,Season
+12/10/2016,Wednesday,Yom Kippur,"Hebrew, Optional holiday"
+21/10/2016,Friday,World War II Victims Remembrance Day,Observance
+11/11/2016,Friday,Armistice Day,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Mother's Day,"Observance, Orthodox"
+25/12/2016,Sunday,First Day of Western Christmas,"Christian, Optional holiday"
+31/12/2016,Saturday,Western New Year's Eve,Observance
+01/01/2017,Sunday,Father's Day,"Observance, Orthodox"
+01/01/2017,Sunday,Western New Year's Day,National holiday
+02/01/2017,Monday,Second Day of Western New Year's Day,National holiday
+03/01/2017,Tuesday,Day off for Western New Year's Day,National holiday
+06/01/2017,Friday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2017,Saturday,Christmas Day,"National holiday, Orthodox"
+14/01/2017,Saturday,New Year,"Observance, Orthodox"
+27/01/2017,Friday,Spirituality Day/St Sava's Day,Observance
+15/02/2017,Wednesday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2017,Thursday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,"National holiday, Orthodox"
+14/04/2017,Friday,Western Good Friday,"Christian, Optional holiday"
+15/04/2017,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+15/04/2017,Saturday,Holy Saturday,"National holiday, Orthodox"
+16/04/2017,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+16/04/2017,Sunday,Easter Day,"National holiday, Orthodox"
+17/04/2017,Monday,Easter Monday,"National holiday, Orthodox"
+17/04/2017,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2017,Saturday,Holocaust Remembrance Day,Observance
+01/05/2017,Monday,Labor holiday,National holiday
+02/05/2017,Tuesday,Labor Day Holiday,National holiday
+09/05/2017,Tuesday,Victory Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid al-Fitr,"Muslim, Optional holiday"
+28/06/2017,Wednesday,St Vitus' Day,Observance
+02/09/2017,Saturday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+22/09/2017,Friday,September Equinox,Season
+30/09/2017,Saturday,Yom Kippur,"Hebrew, Optional holiday"
+21/10/2017,Saturday,World War II Victims Remembrance Day,Observance
+11/11/2017,Saturday,Armistice Day,National holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Mother's Day,"Observance, Orthodox"
+25/12/2017,Monday,First Day of Western Christmas,"Christian, Optional holiday"
+31/12/2017,Sunday,Father's Day,"Observance, Orthodox"
+31/12/2017,Sunday,Western New Year's Eve,Observance
+01/01/2018,Monday,Western New Year's Day,National holiday
+02/01/2018,Tuesday,Second Day of Western New Year's Day,National holiday
+06/01/2018,Saturday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2018,Sunday,Christmas Day,"National holiday, Orthodox"
+14/01/2018,Sunday,New Year,"Observance, Orthodox"
+27/01/2018,Saturday,Spirituality Day/St Sava's Day,Observance
+15/02/2018,Thursday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2018,Friday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Western Good Friday,"Christian, Optional holiday"
+31/03/2018,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+01/04/2018,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+02/04/2018,Monday,Western Easter Monday,"Christian, Optional holiday"
+06/04/2018,Friday,Good Friday,"National holiday, Orthodox"
+07/04/2018,Saturday,Holy Saturday,"National holiday, Orthodox"
+08/04/2018,Sunday,Easter Day,"National holiday, Orthodox"
+09/04/2018,Monday,Easter Monday,"National holiday, Orthodox"
+22/04/2018,Sunday,Holocaust Remembrance Day,Observance
+01/05/2018,Tuesday,Labor holiday,National holiday
+02/05/2018,Wednesday,Labor Day Holiday,National holiday
+09/05/2018,Wednesday,Victory Day,Observance
+15/06/2018,Friday,Eid al-Fitr,"Muslim, Optional holiday"
+21/06/2018,Thursday,June Solstice,Season
+28/06/2018,Thursday,St Vitus' Day,Observance
+22/08/2018,Wednesday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+19/09/2018,Wednesday,Yom Kippur,"Hebrew, Optional holiday"
+23/09/2018,Sunday,September Equinox,Season
+21/10/2018,Sunday,World War II Victims Remembrance Day,Observance
+11/11/2018,Sunday,Armistice Day,National holiday
+12/11/2018,Monday,Armistice Day observed,National holiday
+21/12/2018,Friday,December Solstice,Season
+23/12/2018,Sunday,Mother's Day,"Observance, Orthodox"
+25/12/2018,Tuesday,First Day of Western Christmas,"Christian, Optional holiday"
+30/12/2018,Sunday,Father's Day,"Observance, Orthodox"
+31/12/2018,Monday,Western New Year's Eve,Observance
+01/01/2019,Tuesday,Western New Year's Day,National holiday
+02/01/2019,Wednesday,Second Day of Western New Year's Day,National holiday
+06/01/2019,Sunday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2019,Monday,Christmas Day,"National holiday, Orthodox"
+14/01/2019,Monday,New Year,"Observance, Orthodox"
+27/01/2019,Sunday,Spirituality Day/St Sava's Day,Observance
+15/02/2019,Friday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2019,Saturday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Western Good Friday,"Christian, Optional holiday"
+20/04/2019,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+21/04/2019,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+22/04/2019,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2019,Monday,Holocaust Remembrance Day,Observance
+26/04/2019,Friday,Good Friday,"National holiday, Orthodox"
+27/04/2019,Saturday,Holy Saturday,"National holiday, Orthodox"
+28/04/2019,Sunday,Easter Day,"National holiday, Orthodox"
+29/04/2019,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2019,Wednesday,Labor holiday,National holiday
+02/05/2019,Thursday,Labor Day Holiday,National holiday
+09/05/2019,Thursday,Victory Day,Observance
+05/06/2019,Wednesday,Eid al-Fitr,"Muslim, Optional holiday"
+21/06/2019,Friday,June Solstice,Season
+28/06/2019,Friday,St Vitus' Day,Observance
+12/08/2019,Monday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+23/09/2019,Monday,September Equinox,Season
+09/10/2019,Wednesday,Yom Kippur,"Hebrew, Optional holiday"
+21/10/2019,Monday,World War II Victims Remembrance Day,Observance
+11/11/2019,Monday,Armistice Day,National holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,First Day of Western Christmas,"Christian, Optional holiday"
+29/12/2019,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2019,Tuesday,Western New Year's Eve,Observance
+01/01/2020,Wednesday,Western New Year's Day,National holiday
+02/01/2020,Thursday,Second Day of Western New Year's Day,National holiday
+05/01/2020,Sunday,Father's Day,"Observance, Orthodox"
+06/01/2020,Monday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2020,Tuesday,Christmas Day,"National holiday, Orthodox"
+14/01/2020,Tuesday,New Year,"Observance, Orthodox"
+27/01/2020,Monday,Spirituality Day/St Sava's Day,Observance
+15/02/2020,Saturday,Statehood Day of the Republic of Serbia,National holiday
+17/02/2020,Monday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Western Good Friday,"Christian, Optional holiday"
+11/04/2020,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+12/04/2020,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+13/04/2020,Monday,Western Easter Monday,"Christian, Optional holiday"
+17/04/2020,Friday,Good Friday,"National holiday, Orthodox"
+18/04/2020,Saturday,Holy Saturday,"National holiday, Orthodox"
+19/04/2020,Sunday,Easter Day,"National holiday, Orthodox"
+20/04/2020,Monday,Easter Monday,"National holiday, Orthodox"
+22/04/2020,Wednesday,Holocaust Remembrance Day,Observance
+01/05/2020,Friday,Labor holiday,National holiday
+02/05/2020,Saturday,Labor Day Holiday,National holiday
+09/05/2020,Saturday,Victory Day,Observance
+24/05/2020,Sunday,Eid al-Fitr,"Muslim, Optional holiday"
+20/06/2020,Saturday,June Solstice,Season
+28/06/2020,Sunday,St Vitus' Day,Observance
+31/07/2020,Friday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+22/09/2020,Tuesday,September Equinox,Season
+28/09/2020,Monday,Yom Kippur,"Hebrew, Optional holiday"
+21/10/2020,Wednesday,World War II Victims Remembrance Day,Observance
+11/11/2020,Wednesday,Armistice Day,National holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,First Day of Western Christmas,"Christian, Optional holiday"
+27/12/2020,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2020,Thursday,Western New Year's Eve,Observance
+01/01/2021,Friday,Western New Year's Day,National holiday
+02/01/2021,Saturday,Second Day of Western New Year's Day,National holiday
+03/01/2021,Sunday,Father's Day,"Observance, Orthodox"
+06/01/2021,Wednesday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2021,Thursday,Christmas Day,"National holiday, Orthodox"
+14/01/2021,Thursday,New Year,"Observance, Orthodox"
+27/01/2021,Wednesday,Spirituality Day/St Sava's Day,Observance
+15/02/2021,Monday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2021,Tuesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Western Good Friday,"Christian, Optional holiday"
+03/04/2021,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+04/04/2021,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+05/04/2021,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2021,Thursday,Holocaust Remembrance Day,Observance
+30/04/2021,Friday,Good Friday,"National holiday, Orthodox"
+01/05/2021,Saturday,Labor holiday,National holiday
+01/05/2021,Saturday,Holy Saturday,"National holiday, Orthodox"
+02/05/2021,Sunday,Easter Day,"National holiday, Orthodox"
+03/05/2021,Monday,Easter Monday,"National holiday, Orthodox"
+03/05/2021,Monday,Labor Day Holiday,National holiday
+04/05/2021,Tuesday,Day off for Labor holiday,National holiday
+09/05/2021,Sunday,Victory Day,Observance
+13/05/2021,Thursday,Eid al-Fitr,"Muslim, Optional holiday"
+21/06/2021,Monday,June Solstice,Season
+28/06/2021,Monday,St Vitus' Day,Observance
+20/07/2021,Tuesday,First Day of Eid al-Adha,"Muslim, Optional holiday"
+16/09/2021,Thursday,Yom Kippur,"Hebrew, Optional holiday"
+22/09/2021,Wednesday,September Equinox,Season
+21/10/2021,Thursday,World War II Victims Remembrance Day,Observance
+11/11/2021,Thursday,Armistice Day,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,First Day of Western Christmas,"Christian, Optional holiday"
+26/12/2021,Sunday,Mother's Day,"Observance, Orthodox"
+31/12/2021,Friday,Western New Year's Eve,Observance
+01/01/2022,Saturday,Western New Year's Day,National holiday
+02/01/2022,Sunday,Father's Day,"Observance, Orthodox"
+02/01/2022,Sunday,Second Day of Western New Year's Day,National holiday
+03/01/2022,Monday,Day off for Second Day of Western New Year's Day,National holiday
+06/01/2022,Thursday,First Day of Baptism,"Orthodox, Optional holiday"
+07/01/2022,Friday,Christmas Day,"National holiday, Orthodox"
+14/01/2022,Friday,New Year,"Observance, Orthodox"
+27/01/2022,Thursday,Spirituality Day/St Sava's Day,Observance
+15/02/2022,Tuesday,Statehood Day of the Republic of Serbia,National holiday
+16/02/2022,Wednesday,Statehood Day of the Republic of Serbia (Day 2),National holiday
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Western Good Friday,"Christian, Optional holiday"
+16/04/2022,Saturday,Western Easter Saturday,"Christian, Optional holiday"
+17/04/2022,Sunday,Western Easter Sunday,"Christian, Optional holiday"
+18/04/2022,Monday,Western Easter Monday,"Christian, Optional holiday"
+22/04/2022,Friday,Good Friday,"National holiday, Orthodox"
+22/04/2022,Friday,Holocaust Remembrance Day,Observance
+23/04/2022,Saturday,Holy Saturday,"National holiday, Orthodox"
+24/04/2022,Sunday,Easter Day,"National holiday, Orthodox"
+25/04/2022,Monday,Easter Monday,"National holiday, Orthodox"
+01/05/2022,Sunday,Labor holiday,National holiday
+02/05/2022,Monday,Eid al-Fitr (Tentative Date),"Muslim, Optional holiday"
+02/05/2022,Monday,Day off for Labor holiday,National holiday
+03/05/2022,Tuesday,Labor Day Holiday,National holiday
+09/05/2022,Monday,Victory Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+28/06/2022,Tuesday,St Vitus' Day,Observance
+09/07/2022,Saturday,First Day of Eid al-Adha (Tentative Date),"Muslim, Optional holiday"
+23/09/2022,Friday,September Equinox,Season
+05/10/2022,Wednesday,Yom Kippur,"Hebrew, Optional holiday"
+21/10/2022,Friday,World War II Victims Remembrance Day,Observance
+11/11/2022,Friday,Armistice Day,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Mother's Day,"Observance, Orthodox"
+25/12/2022,Sunday,First Day of Western Christmas,"Christian, Optional holiday"
+31/12/2022,Saturday,Western New Year's Eve,Observance

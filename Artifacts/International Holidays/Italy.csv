@@ -1,0 +1,623 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+06/01/2000,Thursday,Epiphany,National holiday
+08/03/2000,Wednesday,Ash Wednesday,Observance
+19/03/2000,Sunday,Father's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Observance
+23/04/2000,Sunday,Easter Sunday,National holiday
+24/04/2000,Monday,Easter Monday,National holiday
+25/04/2000,Tuesday,Liberation Day,National holiday
+25/04/2000,Tuesday,The Feast of St Mark (Venice),Local holiday
+01/05/2000,Monday,Labor Day / May Day,National holiday
+14/05/2000,Sunday,Mother's Day,Observance
+02/06/2000,Friday,Republic Day,National holiday
+21/06/2000,Wednesday,June Solstice,Season
+24/06/2000,Saturday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2000,Thursday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2000,Tuesday,Assumption of Mary,National holiday
+15/08/2000,Tuesday,Ferragosto,Observance
+19/09/2000,Tuesday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2000,Friday,September Equinox,Season
+01/11/2000,Wednesday,All Saints' Day,National holiday
+07/12/2000,Thursday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2000,Friday,Feast of the Immaculate Conception,National holiday
+21/12/2000,Thursday,December Solstice,Season
+25/12/2000,Monday,Christmas Day,National holiday
+26/12/2000,Tuesday,St. Stephen's Day,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+06/01/2001,Saturday,Epiphany,National holiday
+28/02/2001,Wednesday,Ash Wednesday,Observance
+19/03/2001,Monday,Father's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Observance
+15/04/2001,Sunday,Easter Sunday,National holiday
+16/04/2001,Monday,Easter Monday,National holiday
+25/04/2001,Wednesday,Liberation Day,National holiday
+25/04/2001,Wednesday,The Feast of St Mark (Venice),Local holiday
+01/05/2001,Tuesday,Labor Day / May Day,National holiday
+13/05/2001,Sunday,Mother's Day,Observance
+02/06/2001,Saturday,Republic Day,National holiday
+21/06/2001,Thursday,June Solstice,Season
+24/06/2001,Sunday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2001,Friday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2001,Wednesday,Assumption of Mary,National holiday
+15/08/2001,Wednesday,Ferragosto,Observance
+19/09/2001,Wednesday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2001,Sunday,September Equinox,Season
+01/11/2001,Thursday,All Saints' Day,National holiday
+07/12/2001,Friday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2001,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2001,Friday,December Solstice,Season
+25/12/2001,Tuesday,Christmas Day,National holiday
+26/12/2001,Wednesday,St. Stephen's Day,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+06/01/2002,Sunday,Epiphany,National holiday
+13/02/2002,Wednesday,Ash Wednesday,Observance
+19/03/2002,Tuesday,Father's Day,Observance
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Observance
+31/03/2002,Sunday,Easter Sunday,National holiday
+01/04/2002,Monday,Easter Monday,National holiday
+25/04/2002,Thursday,Liberation Day,National holiday
+25/04/2002,Thursday,The Feast of St Mark (Venice),Local holiday
+01/05/2002,Wednesday,Labor Day / May Day,National holiday
+12/05/2002,Sunday,Mother's Day,Observance
+02/06/2002,Sunday,Republic Day,National holiday
+21/06/2002,Friday,June Solstice,Season
+24/06/2002,Monday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2002,Saturday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2002,Thursday,Assumption of Mary,National holiday
+15/08/2002,Thursday,Ferragosto,Observance
+19/09/2002,Thursday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2002,Monday,September Equinox,Season
+01/11/2002,Friday,All Saints' Day,National holiday
+07/12/2002,Saturday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2002,Sunday,Feast of the Immaculate Conception,National holiday
+22/12/2002,Sunday,December Solstice,Season
+25/12/2002,Wednesday,Christmas Day,National holiday
+26/12/2002,Thursday,St. Stephen's Day,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+06/01/2003,Monday,Epiphany,National holiday
+05/03/2003,Wednesday,Ash Wednesday,Observance
+19/03/2003,Wednesday,Father's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Observance
+20/04/2003,Sunday,Easter Sunday,National holiday
+21/04/2003,Monday,Easter Monday,National holiday
+25/04/2003,Friday,Liberation Day,National holiday
+25/04/2003,Friday,The Feast of St Mark (Venice),Local holiday
+01/05/2003,Thursday,Labor Day / May Day,National holiday
+11/05/2003,Sunday,Mother's Day,Observance
+02/06/2003,Monday,Republic Day,National holiday
+21/06/2003,Saturday,June Solstice,Season
+24/06/2003,Tuesday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2003,Sunday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2003,Friday,Assumption of Mary,National holiday
+15/08/2003,Friday,Ferragosto,Observance
+19/09/2003,Friday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2003,Tuesday,September Equinox,Season
+01/11/2003,Saturday,All Saints' Day,National holiday
+07/12/2003,Sunday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2003,Monday,Feast of the Immaculate Conception,National holiday
+22/12/2003,Monday,December Solstice,Season
+25/12/2003,Thursday,Christmas Day,National holiday
+26/12/2003,Friday,St. Stephen's Day,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+06/01/2004,Tuesday,Epiphany,National holiday
+25/02/2004,Wednesday,Ash Wednesday,Observance
+19/03/2004,Friday,Father's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Observance
+11/04/2004,Sunday,Easter Sunday,National holiday
+12/04/2004,Monday,Easter Monday,National holiday
+25/04/2004,Sunday,Liberation Day,National holiday
+25/04/2004,Sunday,The Feast of St Mark (Venice),Local holiday
+01/05/2004,Saturday,Labor Day / May Day,National holiday
+09/05/2004,Sunday,Mother's Day,Observance
+02/06/2004,Wednesday,Republic Day,National holiday
+21/06/2004,Monday,June Solstice,Season
+24/06/2004,Thursday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2004,Tuesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2004,Sunday,Assumption of Mary,National holiday
+15/08/2004,Sunday,Ferragosto,Observance
+19/09/2004,Sunday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2004,Wednesday,September Equinox,Season
+01/11/2004,Monday,All Saints' Day,National holiday
+07/12/2004,Tuesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2004,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+25/12/2004,Saturday,Christmas Day,National holiday
+26/12/2004,Sunday,St. Stephen's Day,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+06/01/2005,Thursday,Epiphany,National holiday
+09/02/2005,Wednesday,Ash Wednesday,Observance
+19/03/2005,Saturday,Father's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Observance
+27/03/2005,Sunday,Easter Sunday,National holiday
+28/03/2005,Monday,Easter Monday,National holiday
+25/04/2005,Monday,Liberation Day,National holiday
+25/04/2005,Monday,The Feast of St Mark (Venice),Local holiday
+01/05/2005,Sunday,Labor Day / May Day,National holiday
+08/05/2005,Sunday,Mother's Day,Observance
+02/06/2005,Thursday,Republic Day,National holiday
+21/06/2005,Tuesday,June Solstice,Season
+24/06/2005,Friday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2005,Wednesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2005,Monday,Assumption of Mary,National holiday
+15/08/2005,Monday,Ferragosto,Observance
+19/09/2005,Monday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2005,Friday,September Equinox,Season
+01/11/2005,Tuesday,All Saints' Day,National holiday
+07/12/2005,Wednesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2005,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2005,Wednesday,December Solstice,Season
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,St. Stephen's Day,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+06/01/2006,Friday,Epiphany,National holiday
+01/03/2006,Wednesday,Ash Wednesday,Observance
+19/03/2006,Sunday,Father's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Observance
+16/04/2006,Sunday,Easter Sunday,National holiday
+17/04/2006,Monday,Easter Monday,National holiday
+25/04/2006,Tuesday,Liberation Day,National holiday
+25/04/2006,Tuesday,The Feast of St Mark (Venice),Local holiday
+01/05/2006,Monday,Labor Day / May Day,National holiday
+14/05/2006,Sunday,Mother's Day,Observance
+02/06/2006,Friday,Republic Day,National holiday
+21/06/2006,Wednesday,June Solstice,Season
+24/06/2006,Saturday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2006,Thursday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2006,Tuesday,Assumption of Mary,National holiday
+15/08/2006,Tuesday,Ferragosto,Observance
+19/09/2006,Tuesday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2006,Saturday,September Equinox,Season
+01/11/2006,Wednesday,All Saints' Day,National holiday
+07/12/2006,Thursday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2006,Friday,Feast of the Immaculate Conception,National holiday
+22/12/2006,Friday,December Solstice,Season
+25/12/2006,Monday,Christmas Day,National holiday
+26/12/2006,Tuesday,St. Stephen's Day,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+06/01/2007,Saturday,Epiphany,National holiday
+21/02/2007,Wednesday,Ash Wednesday,Observance
+19/03/2007,Monday,Father's Day,Observance
+21/03/2007,Wednesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Observance
+08/04/2007,Sunday,Easter Sunday,National holiday
+09/04/2007,Monday,Easter Monday,National holiday
+25/04/2007,Wednesday,Liberation Day,National holiday
+25/04/2007,Wednesday,The Feast of St Mark (Venice),Local holiday
+01/05/2007,Tuesday,Labor Day / May Day,National holiday
+13/05/2007,Sunday,Mother's Day,Observance
+02/06/2007,Saturday,Republic Day,National holiday
+21/06/2007,Thursday,June Solstice,Season
+24/06/2007,Sunday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2007,Friday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2007,Wednesday,Assumption of Mary,National holiday
+15/08/2007,Wednesday,Ferragosto,Observance
+19/09/2007,Wednesday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2007,Sunday,September Equinox,Season
+01/11/2007,Thursday,All Saints' Day,National holiday
+07/12/2007,Friday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2007,Saturday,Feast of the Immaculate Conception,National holiday
+22/12/2007,Saturday,December Solstice,Season
+25/12/2007,Tuesday,Christmas Day,National holiday
+26/12/2007,Wednesday,St. Stephen's Day,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+06/01/2008,Sunday,Epiphany,National holiday
+06/02/2008,Wednesday,Ash Wednesday,Observance
+19/03/2008,Wednesday,Father's Day,Observance
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Observance
+23/03/2008,Sunday,Easter Sunday,National holiday
+24/03/2008,Monday,Easter Monday,National holiday
+25/04/2008,Friday,Liberation Day,National holiday
+25/04/2008,Friday,The Feast of St Mark (Venice),Local holiday
+01/05/2008,Thursday,Labor Day / May Day,National holiday
+11/05/2008,Sunday,Mother's Day,Observance
+02/06/2008,Monday,Republic Day,National holiday
+21/06/2008,Saturday,June Solstice,Season
+24/06/2008,Tuesday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2008,Sunday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2008,Friday,Assumption of Mary,National holiday
+15/08/2008,Friday,Ferragosto,Observance
+19/09/2008,Friday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2008,Monday,September Equinox,Season
+01/11/2008,Saturday,All Saints' Day,National holiday
+07/12/2008,Sunday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2008,Monday,Feast of the Immaculate Conception,National holiday
+21/12/2008,Sunday,December Solstice,Season
+25/12/2008,Thursday,Christmas Day,National holiday
+26/12/2008,Friday,St. Stephen's Day,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+06/01/2009,Tuesday,Epiphany,National holiday
+25/02/2009,Wednesday,Ash Wednesday,Observance
+19/03/2009,Thursday,Father's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Observance
+12/04/2009,Sunday,Easter Sunday,National holiday
+13/04/2009,Monday,Easter Monday,National holiday
+25/04/2009,Saturday,Liberation Day,National holiday
+25/04/2009,Saturday,The Feast of St Mark (Venice),Local holiday
+01/05/2009,Friday,Labor Day / May Day,National holiday
+10/05/2009,Sunday,Mother's Day,Observance
+02/06/2009,Tuesday,Republic Day,National holiday
+21/06/2009,Sunday,June Solstice,Season
+24/06/2009,Wednesday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2009,Monday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2009,Saturday,Assumption of Mary,National holiday
+15/08/2009,Saturday,Ferragosto,Observance
+19/09/2009,Saturday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2009,Tuesday,September Equinox,Season
+01/11/2009,Sunday,All Saints' Day,National holiday
+07/12/2009,Monday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2009,Tuesday,Feast of the Immaculate Conception,National holiday
+21/12/2009,Monday,December Solstice,Season
+25/12/2009,Friday,Christmas Day,National holiday
+26/12/2009,Saturday,St. Stephen's Day,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+06/01/2010,Wednesday,Epiphany,National holiday
+17/02/2010,Wednesday,Ash Wednesday,Observance
+19/03/2010,Friday,Father's Day,Observance
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Observance
+04/04/2010,Sunday,Easter Sunday,National holiday
+05/04/2010,Monday,Easter Monday,National holiday
+25/04/2010,Sunday,Liberation Day,National holiday
+25/04/2010,Sunday,The Feast of St Mark (Venice),Local holiday
+01/05/2010,Saturday,Labor Day / May Day,National holiday
+09/05/2010,Sunday,Mother's Day,Observance
+02/06/2010,Wednesday,Republic Day,National holiday
+21/06/2010,Monday,June Solstice,Season
+24/06/2010,Thursday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2010,Tuesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2010,Sunday,Assumption of Mary,National holiday
+15/08/2010,Sunday,Ferragosto,Observance
+19/09/2010,Sunday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2010,Thursday,September Equinox,Season
+01/11/2010,Monday,All Saints' Day,National holiday
+07/12/2010,Tuesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2010,Wednesday,Feast of the Immaculate Conception,National holiday
+22/12/2010,Wednesday,December Solstice,Season
+25/12/2010,Saturday,Christmas Day,National holiday
+26/12/2010,Sunday,St. Stephen's Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+06/01/2011,Thursday,Epiphany,National holiday
+09/03/2011,Wednesday,Ash Wednesday,Observance
+17/03/2011,Thursday,150th Anniversary of National Unity,National holiday
+19/03/2011,Saturday,Father's Day,Observance
+21/03/2011,Monday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Observance
+24/04/2011,Sunday,Easter Sunday,National holiday
+25/04/2011,Monday,Easter Monday,National holiday
+25/04/2011,Monday,Liberation Day,National holiday
+25/04/2011,Monday,The Feast of St Mark (Venice),Local holiday
+01/05/2011,Sunday,Labor Day / May Day,National holiday
+08/05/2011,Sunday,Mother's Day,Observance
+02/06/2011,Thursday,Republic Day,National holiday
+21/06/2011,Tuesday,June Solstice,Season
+24/06/2011,Friday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2011,Wednesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2011,Monday,Assumption of Mary,National holiday
+15/08/2011,Monday,Ferragosto,Observance
+19/09/2011,Monday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2011,Friday,September Equinox,Season
+01/11/2011,Tuesday,All Saints' Day,National holiday
+07/12/2011,Wednesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2011,Thursday,Feast of the Immaculate Conception,National holiday
+22/12/2011,Thursday,December Solstice,Season
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,St. Stephen's Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+06/01/2012,Friday,Epiphany,National holiday
+22/02/2012,Wednesday,Ash Wednesday,Observance
+19/03/2012,Monday,Father's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Observance
+08/04/2012,Sunday,Easter Sunday,National holiday
+09/04/2012,Monday,Easter Monday,National holiday
+25/04/2012,Wednesday,Liberation Day,National holiday
+25/04/2012,Wednesday,The Feast of St Mark (Venice),Local holiday
+01/05/2012,Tuesday,Labor Day / May Day,National holiday
+13/05/2012,Sunday,Mother's Day,Observance
+02/06/2012,Saturday,Republic Day,National holiday
+21/06/2012,Thursday,June Solstice,Season
+24/06/2012,Sunday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2012,Friday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2012,Wednesday,Assumption of Mary,National holiday
+15/08/2012,Wednesday,Ferragosto,Observance
+19/09/2012,Wednesday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2012,Saturday,September Equinox,Season
+01/11/2012,Thursday,All Saints' Day,National holiday
+07/12/2012,Friday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2012,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2012,Friday,December Solstice,Season
+25/12/2012,Tuesday,Christmas Day,National holiday
+26/12/2012,Wednesday,St. Stephen's Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+06/01/2013,Sunday,Epiphany,National holiday
+13/02/2013,Wednesday,Ash Wednesday,Observance
+19/03/2013,Tuesday,Father's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Observance
+31/03/2013,Sunday,Easter Sunday,National holiday
+01/04/2013,Monday,Easter Monday,National holiday
+25/04/2013,Thursday,Liberation Day,National holiday
+25/04/2013,Thursday,The Feast of St Mark (Venice),Local holiday
+01/05/2013,Wednesday,Labor Day / May Day,National holiday
+12/05/2013,Sunday,Mother's Day,Observance
+02/06/2013,Sunday,Republic Day,National holiday
+21/06/2013,Friday,June Solstice,Season
+24/06/2013,Monday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2013,Saturday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2013,Thursday,Assumption of Mary,National holiday
+15/08/2013,Thursday,Ferragosto,Observance
+19/09/2013,Thursday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2013,Sunday,September Equinox,Season
+01/11/2013,Friday,All Saints' Day,National holiday
+07/12/2013,Saturday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2013,Sunday,Feast of the Immaculate Conception,National holiday
+21/12/2013,Saturday,December Solstice,Season
+25/12/2013,Wednesday,Christmas Day,National holiday
+26/12/2013,Thursday,St. Stephen's Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+06/01/2014,Monday,Epiphany,National holiday
+05/03/2014,Wednesday,Ash Wednesday,Observance
+19/03/2014,Wednesday,Father's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Observance
+20/04/2014,Sunday,Easter Sunday,National holiday
+21/04/2014,Monday,Easter Monday,National holiday
+25/04/2014,Friday,Liberation Day,National holiday
+25/04/2014,Friday,The Feast of St Mark (Venice),Local holiday
+01/05/2014,Thursday,Labor Day / May Day,National holiday
+11/05/2014,Sunday,Mother's Day,Observance
+02/06/2014,Monday,Republic Day,National holiday
+21/06/2014,Saturday,June Solstice,Season
+24/06/2014,Tuesday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2014,Sunday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2014,Friday,Assumption of Mary,National holiday
+15/08/2014,Friday,Ferragosto,Observance
+19/09/2014,Friday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2014,Tuesday,September Equinox,Season
+01/11/2014,Saturday,All Saints' Day,National holiday
+07/12/2014,Sunday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2014,Monday,Feast of the Immaculate Conception,National holiday
+22/12/2014,Monday,December Solstice,Season
+25/12/2014,Thursday,Christmas Day,National holiday
+26/12/2014,Friday,St. Stephen's Day,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+06/01/2015,Tuesday,Epiphany,National holiday
+18/02/2015,Wednesday,Ash Wednesday,Observance
+19/03/2015,Thursday,Father's Day,Observance
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Observance
+05/04/2015,Sunday,Easter Sunday,National holiday
+06/04/2015,Monday,Easter Monday,National holiday
+25/04/2015,Saturday,Liberation Day,National holiday
+25/04/2015,Saturday,The Feast of St Mark (Venice),Local holiday
+01/05/2015,Friday,Labor Day / May Day,National holiday
+10/05/2015,Sunday,Mother's Day,Observance
+02/06/2015,Tuesday,Republic Day,National holiday
+21/06/2015,Sunday,June Solstice,Season
+24/06/2015,Wednesday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2015,Monday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2015,Saturday,Assumption of Mary,National holiday
+15/08/2015,Saturday,Ferragosto,Observance
+19/09/2015,Saturday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2015,Wednesday,September Equinox,Season
+01/11/2015,Sunday,All Saints' Day,National holiday
+07/12/2015,Monday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2015,Tuesday,Feast of the Immaculate Conception,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+25/12/2015,Friday,Christmas Day,National holiday
+26/12/2015,Saturday,St. Stephen's Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+06/01/2016,Wednesday,Epiphany,National holiday
+10/02/2016,Wednesday,Ash Wednesday,Observance
+19/03/2016,Saturday,Father's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Observance
+27/03/2016,Sunday,Easter Sunday,National holiday
+28/03/2016,Monday,Easter Monday,National holiday
+25/04/2016,Monday,Liberation Day,National holiday
+25/04/2016,Monday,The Feast of St Mark (Venice),Local holiday
+01/05/2016,Sunday,Labor Day / May Day,National holiday
+08/05/2016,Sunday,Mother's Day,Observance
+02/06/2016,Thursday,Republic Day,National holiday
+21/06/2016,Tuesday,June Solstice,Season
+24/06/2016,Friday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2016,Wednesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2016,Monday,Assumption of Mary,National holiday
+15/08/2016,Monday,Ferragosto,Observance
+19/09/2016,Monday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2016,Thursday,September Equinox,Season
+01/11/2016,Tuesday,All Saints' Day,National holiday
+07/12/2016,Wednesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2016,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,St. Stephen's Day,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+06/01/2017,Friday,Epiphany,National holiday
+01/03/2017,Wednesday,Ash Wednesday,Observance
+19/03/2017,Sunday,Father's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Observance
+16/04/2017,Sunday,Easter Sunday,National holiday
+17/04/2017,Monday,Easter Monday,National holiday
+25/04/2017,Tuesday,Liberation Day,National holiday
+25/04/2017,Tuesday,The Feast of St Mark (Venice),Local holiday
+01/05/2017,Monday,Labor Day / May Day,National holiday
+14/05/2017,Sunday,Mother's Day,Observance
+02/06/2017,Friday,Republic Day,National holiday
+21/06/2017,Wednesday,June Solstice,Season
+24/06/2017,Saturday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2017,Thursday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2017,Tuesday,Assumption of Mary,National holiday
+15/08/2017,Tuesday,Ferragosto,Observance
+19/09/2017,Tuesday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2017,Friday,September Equinox,Season
+01/11/2017,Wednesday,All Saints' Day,National holiday
+07/12/2017,Thursday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2017,Friday,Feast of the Immaculate Conception,National holiday
+21/12/2017,Thursday,December Solstice,Season
+25/12/2017,Monday,Christmas Day,National holiday
+26/12/2017,Tuesday,St. Stephen's Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+06/01/2018,Saturday,Epiphany,National holiday
+14/02/2018,Wednesday,Ash Wednesday,Observance
+19/03/2018,Monday,Father's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Observance
+01/04/2018,Sunday,Easter Sunday,National holiday
+02/04/2018,Monday,Easter Monday,National holiday
+25/04/2018,Wednesday,Liberation Day,National holiday
+25/04/2018,Wednesday,The Feast of St Mark (Venice),Local holiday
+01/05/2018,Tuesday,Labor Day / May Day,National holiday
+13/05/2018,Sunday,Mother's Day,Observance
+02/06/2018,Saturday,Republic Day,National holiday
+21/06/2018,Thursday,June Solstice,Season
+24/06/2018,Sunday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2018,Friday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2018,Wednesday,Assumption of Mary,National holiday
+15/08/2018,Wednesday,Ferragosto,Observance
+19/09/2018,Wednesday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2018,Sunday,September Equinox,Season
+01/11/2018,Thursday,All Saints' Day,National holiday
+07/12/2018,Friday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2018,Saturday,Feast of the Immaculate Conception,National holiday
+21/12/2018,Friday,December Solstice,Season
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,St. Stephen's Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+06/01/2019,Sunday,Epiphany,National holiday
+06/03/2019,Wednesday,Ash Wednesday,Observance
+19/03/2019,Tuesday,Father's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Observance
+21/04/2019,Sunday,Easter Sunday,National holiday
+22/04/2019,Monday,Easter Monday,National holiday
+25/04/2019,Thursday,Liberation Day,National holiday
+25/04/2019,Thursday,The Feast of St Mark (Venice),Local holiday
+01/05/2019,Wednesday,Labor Day / May Day,National holiday
+12/05/2019,Sunday,Mother's Day,Observance
+02/06/2019,Sunday,Republic Day,National holiday
+21/06/2019,Friday,June Solstice,Season
+24/06/2019,Monday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2019,Saturday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2019,Thursday,Assumption of Mary,National holiday
+15/08/2019,Thursday,Ferragosto,Observance
+19/09/2019,Thursday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2019,Monday,September Equinox,Season
+01/11/2019,Friday,All Saints' Day,National holiday
+07/12/2019,Saturday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2019,Sunday,Feast of the Immaculate Conception,National holiday
+22/12/2019,Sunday,December Solstice,Season
+25/12/2019,Wednesday,Christmas Day,National holiday
+26/12/2019,Thursday,St. Stephen's Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+06/01/2020,Monday,Epiphany,National holiday
+26/02/2020,Wednesday,Ash Wednesday,Observance
+19/03/2020,Thursday,Father's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Observance
+12/04/2020,Sunday,Easter Sunday,National holiday
+13/04/2020,Monday,Easter Monday,National holiday
+25/04/2020,Saturday,Liberation Day,National holiday
+25/04/2020,Saturday,The Feast of St Mark (Venice),Local holiday
+01/05/2020,Friday,Labor Day / May Day,National holiday
+10/05/2020,Sunday,Mother's Day,Observance
+02/06/2020,Tuesday,Republic Day,National holiday
+20/06/2020,Saturday,June Solstice,Season
+24/06/2020,Wednesday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2020,Monday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2020,Saturday,Assumption of Mary,National holiday
+15/08/2020,Saturday,Ferragosto,Observance
+19/09/2020,Saturday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2020,Tuesday,September Equinox,Season
+01/11/2020,Sunday,All Saints' Day,National holiday
+07/12/2020,Monday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2020,Tuesday,Feast of the Immaculate Conception,National holiday
+21/12/2020,Monday,December Solstice,Season
+25/12/2020,Friday,Christmas Day,National holiday
+26/12/2020,Saturday,St. Stephen's Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+06/01/2021,Wednesday,Epiphany,National holiday
+17/02/2021,Wednesday,Ash Wednesday,Observance
+19/03/2021,Friday,Father's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Observance
+04/04/2021,Sunday,Easter Sunday,National holiday
+05/04/2021,Monday,Easter Monday,National holiday
+25/04/2021,Sunday,Liberation Day,National holiday
+25/04/2021,Sunday,The Feast of St Mark (Venice),Local holiday
+01/05/2021,Saturday,Labor Day / May Day,National holiday
+09/05/2021,Sunday,Mother's Day,Observance
+02/06/2021,Wednesday,Republic Day,National holiday
+21/06/2021,Monday,June Solstice,Season
+24/06/2021,Thursday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2021,Tuesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2021,Sunday,Assumption of Mary,National holiday
+15/08/2021,Sunday,Ferragosto,Observance
+19/09/2021,Sunday,The Feast of Saint Januarius (Naples),Local holiday
+22/09/2021,Wednesday,September Equinox,Season
+01/11/2021,Monday,All Saints' Day,National holiday
+07/12/2021,Tuesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2021,Wednesday,Feast of the Immaculate Conception,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+25/12/2021,Saturday,Christmas Day,National holiday
+26/12/2021,Sunday,St. Stephen's Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+06/01/2022,Thursday,Epiphany,National holiday
+02/03/2022,Wednesday,Ash Wednesday,Observance
+19/03/2022,Saturday,Father's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Observance
+17/04/2022,Sunday,Easter Sunday,National holiday
+18/04/2022,Monday,Easter Monday,National holiday
+25/04/2022,Monday,Liberation Day,National holiday
+25/04/2022,Monday,The Feast of St Mark (Venice),Local holiday
+01/05/2022,Sunday,Labor Day / May Day,National holiday
+08/05/2022,Sunday,Mother's Day,Observance
+02/06/2022,Thursday,Republic Day,National holiday
+21/06/2022,Tuesday,June Solstice,Season
+24/06/2022,Friday,"The Feast of St. John (Florence, Genoa, Turin)",Local holiday
+29/06/2022,Wednesday,The Feast of St. Peter and St. Paul (Rome),Local holiday
+15/08/2022,Monday,Assumption of Mary,National holiday
+15/08/2022,Monday,Ferragosto,Observance
+19/09/2022,Monday,The Feast of Saint Januarius (Naples),Local holiday
+23/09/2022,Friday,September Equinox,Season
+01/11/2022,Tuesday,All Saints' Day,National holiday
+07/12/2022,Wednesday,The Feast of St. Ambrose (Milan),Local holiday
+08/12/2022,Thursday,Feast of the Immaculate Conception,National holiday
+21/12/2022,Wednesday,December Solstice,Season
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,St. Stephen's Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

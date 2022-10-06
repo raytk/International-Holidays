@@ -1,0 +1,808 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+08/01/2000,Saturday,Hari Raya Puasa,National holiday
+05/02/2000,Saturday,Lunar New Year's Day,National holiday
+07/02/2000,Monday,Second Day of Lunar New Year,National holiday
+14/02/2000,Monday,Valentine's Day,Observance
+15/02/2000,Tuesday,Total Defense Day,Observance
+08/03/2000,Wednesday,International Women's Day,Observance
+16/03/2000,Thursday,Hari Raya Haji,National holiday
+20/03/2000,Monday,March Equinox,Season
+01/04/2000,Saturday,April Fool's Day,Observance
+04/04/2000,Tuesday,Qingming Festival,Observance
+21/04/2000,Friday,Good Friday,National holiday
+22/04/2000,Saturday,Easter Saturday,Observance
+23/04/2000,Sunday,Easter Sunday,Observance
+01/05/2000,Monday,Labour Day,National holiday
+14/05/2000,Sunday,Mother's Day,Observance
+18/05/2000,Thursday,Vesak Day,National holiday
+18/05/2000,Thursday,International Museum Day,Observance
+18/06/2000,Sunday,Father's Day,Observance
+21/06/2000,Wednesday,June Solstice,Season
+01/07/2000,Saturday,Singapore Armed Forces Day,Observance
+02/07/2000,Sunday,Youth Day,Observance
+21/07/2000,Friday,Racial Harmony Day,Observance
+09/08/2000,Wednesday,National Day,National holiday
+01/09/2000,Friday,Teachers' Day,Observance
+23/09/2000,Saturday,September Equinox,Season
+01/10/2000,Sunday,Children's Day,Observance
+02/10/2000,Monday,Children's Day observed,Observance
+26/10/2000,Thursday,Diwali/Deepavali,National holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,National holiday
+31/12/2000,Sunday,New Year's Eve,Observance
+01/01/2001,Monday,New Year's Day,National holiday
+24/01/2001,Wednesday,Lunar New Year's Day,National holiday
+25/01/2001,Thursday,Second Day of Lunar New Year,National holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+15/02/2001,Thursday,Total Defense Day,Observance
+06/03/2001,Tuesday,Hari Raya Haji,National holiday
+08/03/2001,Thursday,International Women's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+01/04/2001,Sunday,April Fool's Day,Observance
+05/04/2001,Thursday,Qingming Festival,Observance
+13/04/2001,Friday,Good Friday,National holiday
+14/04/2001,Saturday,Easter Saturday,Observance
+15/04/2001,Sunday,Easter Sunday,Observance
+01/05/2001,Tuesday,Labour Day,National holiday
+07/05/2001,Monday,Vesak Day,National holiday
+13/05/2001,Sunday,Mother's Day,Observance
+18/05/2001,Friday,International Museum Day,Observance
+17/06/2001,Sunday,Father's Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+01/07/2001,Sunday,Youth Day,Observance
+01/07/2001,Sunday,Singapore Armed Forces Day,Observance
+21/07/2001,Saturday,Racial Harmony Day,Observance
+09/08/2001,Thursday,National Day,National holiday
+01/09/2001,Saturday,Teachers' Day,Observance
+23/09/2001,Sunday,September Equinox,Season
+01/10/2001,Monday,Children's Day,Observance
+14/11/2001,Wednesday,Diwali/Deepavali,National holiday
+16/12/2001,Sunday,Hari Raya Puasa,National holiday
+17/12/2001,Monday,Hari Raya Puasa observed,National holiday
+22/12/2001,Saturday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,National holiday
+31/12/2001,Monday,New Year's Eve,Observance
+01/01/2002,Tuesday,New Year's Day,National holiday
+12/02/2002,Tuesday,Lunar New Year's Day,National holiday
+13/02/2002,Wednesday,Second Day of Lunar New Year,National holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+15/02/2002,Friday,Total Defense Day,Observance
+23/02/2002,Saturday,Hari Raya Haji,National holiday
+08/03/2002,Friday,International Women's Day,Observance
+21/03/2002,Thursday,March Equinox,Season
+29/03/2002,Friday,Good Friday,National holiday
+30/03/2002,Saturday,Easter Saturday,Observance
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,April Fool's Day,Observance
+05/04/2002,Friday,Qingming Festival,Observance
+01/05/2002,Wednesday,Labour Day,National holiday
+12/05/2002,Sunday,Mother's Day,Observance
+18/05/2002,Saturday,International Museum Day,Observance
+26/05/2002,Sunday,Vesak Day,National holiday
+27/05/2002,Monday,Day off for Vesak Day,National holiday
+16/06/2002,Sunday,Father's Day,Observance
+21/06/2002,Friday,June Solstice,Season
+01/07/2002,Monday,Singapore Armed Forces Day,Observance
+07/07/2002,Sunday,Youth Day,Observance
+21/07/2002,Sunday,Racial Harmony Day,Observance
+09/08/2002,Friday,National Day,National holiday
+01/09/2002,Sunday,Teachers' Day,Observance
+02/09/2002,Monday,Teachers' Day observed,Observance
+23/09/2002,Monday,September Equinox,Season
+01/10/2002,Tuesday,Children's Day,Observance
+03/11/2002,Sunday,Diwali/Deepavali,National holiday
+04/11/2002,Monday,Day off for Diwali/Deepavali,National holiday
+06/12/2002,Friday,Hari Raya Puasa,National holiday
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,National holiday
+31/12/2002,Tuesday,New Year's Eve,Observance
+01/01/2003,Wednesday,New Year's Day,National holiday
+01/02/2003,Saturday,Lunar New Year's Day,National holiday
+03/02/2003,Monday,Second Day of Lunar New Year,National holiday
+12/02/2003,Wednesday,Hari Raya Haji,National holiday
+14/02/2003,Friday,Valentine's Day,Observance
+15/02/2003,Saturday,Total Defense Day,Observance
+08/03/2003,Saturday,International Women's Day,Observance
+21/03/2003,Friday,March Equinox,Season
+01/04/2003,Tuesday,April Fool's Day,Observance
+05/04/2003,Saturday,Qingming Festival,Observance
+18/04/2003,Friday,Good Friday,National holiday
+19/04/2003,Saturday,Easter Saturday,Observance
+20/04/2003,Sunday,Easter Sunday,Observance
+01/05/2003,Thursday,Labour Day,National holiday
+11/05/2003,Sunday,Mother's Day,Observance
+15/05/2003,Thursday,Vesak Day,National holiday
+18/05/2003,Sunday,International Museum Day,Observance
+15/06/2003,Sunday,Father's Day,Observance
+22/06/2003,Sunday,June Solstice,Season
+01/07/2003,Tuesday,Singapore Armed Forces Day,Observance
+06/07/2003,Sunday,Youth Day,Observance
+21/07/2003,Monday,Racial Harmony Day,Observance
+09/08/2003,Saturday,National Day,National holiday
+01/09/2003,Monday,Teachers' Day,Observance
+23/09/2003,Tuesday,September Equinox,Season
+01/10/2003,Wednesday,Children's Day,Observance
+23/10/2003,Thursday,Diwali/Deepavali,National holiday
+25/11/2003,Tuesday,Hari Raya Puasa,National holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,National holiday
+31/12/2003,Wednesday,New Year's Eve,Observance
+01/01/2004,Thursday,New Year's Day,National holiday
+22/01/2004,Thursday,Lunar New Year's Day,National holiday
+23/01/2004,Friday,Second Day of Lunar New Year,National holiday
+01/02/2004,Sunday,Hari Raya Haji,National holiday
+02/02/2004,Monday,Hari Raya Haji observed,National holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+15/02/2004,Sunday,Total Defense Day,Observance
+08/03/2004,Monday,International Women's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+01/04/2004,Thursday,April Fool's Day,Observance
+04/04/2004,Sunday,Qingming Festival,Observance
+09/04/2004,Friday,Good Friday,National holiday
+10/04/2004,Saturday,Easter Saturday,Observance
+11/04/2004,Sunday,Easter Sunday,Observance
+01/05/2004,Saturday,Labour Day,National holiday
+09/05/2004,Sunday,Mother's Day,Observance
+18/05/2004,Tuesday,International Museum Day,Observance
+02/06/2004,Wednesday,Vesak Day,National holiday
+20/06/2004,Sunday,Father's Day,Observance
+21/06/2004,Monday,June Solstice,Season
+01/07/2004,Thursday,Singapore Armed Forces Day,Observance
+04/07/2004,Sunday,Youth Day,Observance
+21/07/2004,Wednesday,Racial Harmony Day,Observance
+09/08/2004,Monday,National Day,National holiday
+01/09/2004,Wednesday,Teachers' Day,Observance
+23/09/2004,Thursday,September Equinox,Season
+01/10/2004,Friday,Children's Day,Observance
+11/11/2004,Thursday,Diwali/Deepavali,National holiday
+14/11/2004,Sunday,Hari Raya Puasa,National holiday
+15/11/2004,Monday,Hari Raya Puasa observed,National holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,National holiday
+31/12/2004,Friday,New Year's Eve,Observance
+01/01/2005,Saturday,New Year's Day,National holiday
+21/01/2005,Friday,Hari Raya Haji,National holiday
+09/02/2005,Wednesday,Lunar New Year's Day,National holiday
+10/02/2005,Thursday,Second Day of Lunar New Year,National holiday
+14/02/2005,Monday,Valentine's Day,Observance
+15/02/2005,Tuesday,Total Defense Day,Observance
+08/03/2005,Tuesday,International Women's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,National holiday
+26/03/2005,Saturday,Easter Saturday,Observance
+27/03/2005,Sunday,Easter Sunday,Observance
+01/04/2005,Friday,April Fool's Day,Observance
+05/04/2005,Tuesday,Qingming Festival,Observance
+01/05/2005,Sunday,Labour Day,National holiday
+02/05/2005,Monday,Day off for Labour Day,National holiday
+08/05/2005,Sunday,Mother's Day,Observance
+18/05/2005,Wednesday,International Museum Day,Observance
+22/05/2005,Sunday,Vesak Day,National holiday
+23/05/2005,Monday,Day off for Vesak Day,National holiday
+19/06/2005,Sunday,Father's Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+01/07/2005,Friday,Singapore Armed Forces Day,Observance
+03/07/2005,Sunday,Youth Day,Observance
+21/07/2005,Thursday,Racial Harmony Day,Observance
+09/08/2005,Tuesday,National Day,National holiday
+01/09/2005,Thursday,Teachers' Day,Observance
+23/09/2005,Friday,September Equinox,Season
+01/10/2005,Saturday,Children's Day,Observance
+01/11/2005,Tuesday,Diwali/Deepavali,National holiday
+03/11/2005,Thursday,Hari Raya Puasa,National holiday
+22/12/2005,Thursday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,National holiday
+26/12/2005,Monday,Day off for Christmas Day,National holiday
+31/12/2005,Saturday,New Year's Eve,Observance
+01/01/2006,Sunday,New Year's Day,National holiday
+02/01/2006,Monday,New Year's Day observed,National holiday
+10/01/2006,Tuesday,Hari Raya Haji,National holiday
+30/01/2006,Monday,Lunar New Year's Day,National holiday
+30/01/2006,Monday,Second Day of Lunar New Year,National holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+15/02/2006,Wednesday,Total Defense Day,Observance
+08/03/2006,Wednesday,International Women's Day,Observance
+21/03/2006,Tuesday,March Equinox,Season
+01/04/2006,Saturday,April Fool's Day,Observance
+05/04/2006,Wednesday,Qingming Festival,Observance
+14/04/2006,Friday,Good Friday,National holiday
+15/04/2006,Saturday,Easter Saturday,Observance
+16/04/2006,Sunday,Easter Sunday,Observance
+01/05/2006,Monday,Labour Day,National holiday
+12/05/2006,Friday,Vesak Day,National holiday
+14/05/2006,Sunday,Mother's Day,Observance
+18/05/2006,Thursday,International Museum Day,Observance
+18/06/2006,Sunday,Father's Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+01/07/2006,Saturday,Dragon Boat Festival,Observance
+01/07/2006,Saturday,Singapore Armed Forces Day,Observance
+02/07/2006,Sunday,Youth Day,Observance
+21/07/2006,Friday,Racial Harmony Day,Observance
+08/08/2006,Tuesday,Hungry Ghost Festival,Observance
+09/08/2006,Wednesday,National Day,National holiday
+01/09/2006,Friday,Teachers' Day,Observance
+23/09/2006,Saturday,September Equinox,Season
+01/10/2006,Sunday,Children's Day,Observance
+02/10/2006,Monday,Children's Day observed,Observance
+06/10/2006,Friday,Mid-Autumn Festival,Observance
+21/10/2006,Saturday,Diwali/Deepavali,National holiday
+24/10/2006,Tuesday,Hari Raya Puasa,National holiday
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,National holiday
+31/12/2006,Sunday,New Year's Eve,Observance
+01/01/2007,Monday,New Year's Day,National holiday
+01/02/2007,Thursday,Thaipusam,Observance
+14/02/2007,Wednesday,Valentine's Day,Observance
+15/02/2007,Thursday,Total Defense Day,Observance
+19/02/2007,Monday,Lunar New Year's Day,National holiday
+19/02/2007,Monday,Second Day of Lunar New Year,National holiday
+08/03/2007,Thursday,International Women's Day,Observance
+21/03/2007,Wednesday,March Equinox,Season
+01/04/2007,Sunday,April Fool's Day,Observance
+05/04/2007,Thursday,Qingming Festival,Observance
+06/04/2007,Friday,Good Friday,National holiday
+07/04/2007,Saturday,Easter Saturday,Observance
+08/04/2007,Sunday,Easter Sunday,Observance
+01/05/2007,Tuesday,Labour Day,National holiday
+13/05/2007,Sunday,Mother's Day,Observance
+18/05/2007,Friday,International Museum Day,Observance
+31/05/2007,Thursday,Vesak Day,National holiday
+17/06/2007,Sunday,Father's Day,Observance
+22/06/2007,Friday,June Solstice,Season
+30/06/2007,Saturday,Dragon Boat Festival,Observance
+01/07/2007,Sunday,Youth Day,Observance
+01/07/2007,Sunday,Singapore Armed Forces Day,Observance
+21/07/2007,Saturday,Racial Harmony Day,Observance
+09/08/2007,Thursday,National Day,National holiday
+13/08/2007,Monday,Hungry Ghost Festival,Observance
+01/09/2007,Saturday,Teachers' Day,Observance
+23/09/2007,Sunday,September Equinox,Season
+25/09/2007,Tuesday,Mid-Autumn Festival,Observance
+01/10/2007,Monday,Children's Day,Observance
+13/10/2007,Saturday,Hari Raya Puasa,National holiday
+08/11/2007,Thursday,Diwali/Deepavali,National holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,National holiday
+27/12/2007,Thursday,Hari Raya Haji,National holiday
+31/12/2007,Monday,New Year's Eve,Observance
+01/01/2008,Tuesday,New Year's Day,National holiday
+21/01/2008,Monday,Thaipusam,Observance
+07/02/2008,Thursday,Lunar New Year's Day,National holiday
+08/02/2008,Friday,Second Day of Lunar New Year,National holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+15/02/2008,Friday,Total Defense Day,Observance
+08/03/2008,Saturday,International Women's Day,Observance
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,National holiday
+22/03/2008,Saturday,Easter Saturday,Observance
+23/03/2008,Sunday,Easter Sunday,Observance
+01/04/2008,Tuesday,April Fool's Day,Observance
+05/04/2008,Saturday,Qingming Festival,Observance
+01/05/2008,Thursday,Labour Day,National holiday
+11/05/2008,Sunday,Mother's Day,Observance
+18/05/2008,Sunday,International Museum Day,Observance
+19/05/2008,Monday,Vesak Day,National holiday
+15/06/2008,Sunday,Father's Day,Observance
+21/06/2008,Saturday,June Solstice,Season
+28/06/2008,Saturday,Dragon Boat Festival,Observance
+01/07/2008,Tuesday,Singapore Armed Forces Day,Observance
+06/07/2008,Sunday,Youth Day,Observance
+21/07/2008,Monday,Racial Harmony Day,Observance
+09/08/2008,Saturday,National Day,National holiday
+11/08/2008,Monday,Hungry Ghost Festival,Observance
+01/09/2008,Monday,Teachers' Day,Observance
+14/09/2008,Sunday,Mid-Autumn Festival,Observance
+22/09/2008,Monday,September Equinox,Season
+01/10/2008,Wednesday,Hari Raya Puasa,National holiday
+01/10/2008,Wednesday,Children's Day,Observance
+27/10/2008,Monday,Diwali/Deepavali,National holiday
+08/12/2008,Monday,Hari Raya Haji,National holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,National holiday
+31/12/2008,Wednesday,New Year's Eve,Observance
+01/01/2009,Thursday,New Year's Day,National holiday
+26/01/2009,Monday,Lunar New Year's Day,National holiday
+27/01/2009,Tuesday,Second Day of Lunar New Year,National holiday
+08/02/2009,Sunday,Thaipusam,Observance
+14/02/2009,Saturday,Valentine's Day,Observance
+15/02/2009,Sunday,Total Defense Day,Observance
+08/03/2009,Sunday,International Women's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+01/04/2009,Wednesday,April Fool's Day,Observance
+04/04/2009,Saturday,Qingming Festival,Observance
+10/04/2009,Friday,Good Friday,National holiday
+11/04/2009,Saturday,Easter Saturday,Observance
+12/04/2009,Sunday,Easter Sunday,Observance
+01/05/2009,Friday,Labour Day,National holiday
+09/05/2009,Saturday,Vesak Day,National holiday
+10/05/2009,Sunday,Mother's Day,Observance
+18/05/2009,Monday,International Museum Day,Observance
+21/06/2009,Sunday,Father's Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+27/06/2009,Saturday,Dragon Boat Festival,Observance
+01/07/2009,Wednesday,Singapore Armed Forces Day,Observance
+05/07/2009,Sunday,Youth Day,Observance
+21/07/2009,Tuesday,Racial Harmony Day,Observance
+09/08/2009,Sunday,National Day,National holiday
+10/08/2009,Monday,National Day observed,National holiday
+01/09/2009,Tuesday,Teachers' Day,Observance
+02/09/2009,Wednesday,Hungry Ghost Festival,Observance
+20/09/2009,Sunday,Hari Raya Puasa,National holiday
+21/09/2009,Monday,Hari Raya Puasa observed,National holiday
+23/09/2009,Wednesday,September Equinox,Season
+01/10/2009,Thursday,Children's Day,Observance
+03/10/2009,Saturday,Mid-Autumn Festival,Observance
+15/11/2009,Sunday,Diwali/Deepavali,National holiday
+16/11/2009,Monday,Day off for Diwali/Deepavali,National holiday
+27/11/2009,Friday,Hari Raya Haji,National holiday
+22/12/2009,Tuesday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,National holiday
+31/12/2009,Thursday,New Year's Eve,Observance
+01/01/2010,Friday,New Year's Day,National holiday
+30/01/2010,Saturday,Thaipusam,Observance
+14/02/2010,Sunday,Lunar New Year's Day,National holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+15/02/2010,Monday,Second Day of Lunar New Year,National holiday
+15/02/2010,Monday,Total Defense Day,Observance
+08/03/2010,Monday,International Women's Day,Observance
+21/03/2010,Sunday,March Equinox,Season
+01/04/2010,Thursday,April Fool's Day,Observance
+02/04/2010,Friday,Good Friday,National holiday
+03/04/2010,Saturday,Easter Saturday,Observance
+04/04/2010,Sunday,Easter Sunday,Observance
+04/04/2010,Sunday,Qingming Festival,Observance
+01/05/2010,Saturday,Labour Day,National holiday
+09/05/2010,Sunday,Mother's Day,Observance
+18/05/2010,Tuesday,International Museum Day,Observance
+28/05/2010,Friday,Vesak Day,National holiday
+16/06/2010,Wednesday,Dragon Boat Festival,Observance
+20/06/2010,Sunday,Father's Day,Observance
+21/06/2010,Monday,June Solstice,Season
+01/07/2010,Thursday,Singapore Armed Forces Day,Observance
+04/07/2010,Sunday,Youth Day,Observance
+21/07/2010,Wednesday,Racial Harmony Day,Observance
+09/08/2010,Monday,National Day,National holiday
+24/08/2010,Tuesday,Hungry Ghost Festival,Observance
+01/09/2010,Wednesday,Teachers' Day,Observance
+10/09/2010,Friday,Hari Raya Puasa,National holiday
+22/09/2010,Wednesday,Mid-Autumn Festival,Observance
+23/09/2010,Thursday,September Equinox,Season
+01/10/2010,Friday,Children's Day,Observance
+05/11/2010,Friday,Diwali/Deepavali,National holiday
+17/11/2010,Wednesday,Hari Raya Haji,National holiday
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,National holiday
+31/12/2010,Friday,New Year's Eve,Observance
+01/01/2011,Saturday,New Year's Day,National holiday
+20/01/2011,Thursday,Thaipusam,Observance
+03/02/2011,Thursday,Lunar New Year's Day,National holiday
+04/02/2011,Friday,Second Day of Lunar New Year,National holiday
+14/02/2011,Monday,Valentine's Day,Observance
+15/02/2011,Tuesday,Total Defense Day,Observance
+08/03/2011,Tuesday,International Women's Day,Observance
+21/03/2011,Monday,March Equinox,Season
+01/04/2011,Friday,April Fool's Day,Observance
+05/04/2011,Tuesday,Qingming Festival,Observance
+22/04/2011,Friday,Good Friday,National holiday
+23/04/2011,Saturday,Easter Saturday,Observance
+24/04/2011,Sunday,Easter Sunday,Observance
+01/05/2011,Sunday,Labour Day,National holiday
+02/05/2011,Monday,Day off for Labour Day,National holiday
+08/05/2011,Sunday,Mother's Day,Observance
+17/05/2011,Tuesday,Vesak Day,National holiday
+18/05/2011,Wednesday,International Museum Day,Observance
+06/06/2011,Monday,Dragon Boat Festival,Observance
+19/06/2011,Sunday,Father's Day,Observance
+22/06/2011,Wednesday,June Solstice,Season
+01/07/2011,Friday,Singapore Armed Forces Day,Observance
+03/07/2011,Sunday,Youth Day,Observance
+21/07/2011,Thursday,Racial Harmony Day,Observance
+09/08/2011,Tuesday,National Day,National holiday
+14/08/2011,Sunday,Hungry Ghost Festival,Observance
+30/08/2011,Tuesday,Hari Raya Puasa,National holiday
+02/09/2011,Friday,Teachers' Day,Observance
+12/09/2011,Monday,Mid-Autumn Festival,Observance
+23/09/2011,Friday,September Equinox,Season
+07/10/2011,Friday,Children's Day,Observance
+26/10/2011,Wednesday,Diwali/Deepavali,National holiday
+06/11/2011,Sunday,Hari Raya Haji,National holiday
+07/11/2011,Monday,Hari Raya Haji observed,National holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,National holiday
+26/12/2011,Monday,Day off for Christmas Day,National holiday
+31/12/2011,Saturday,New Year's Eve,Observance
+01/01/2012,Sunday,New Year's Day,National holiday
+02/01/2012,Monday,New Year's Day observed,National holiday
+23/01/2012,Monday,Lunar New Year's Day,National holiday
+24/01/2012,Tuesday,Second Day of Lunar New Year,National holiday
+07/02/2012,Tuesday,Thaipusam,Observance
+14/02/2012,Tuesday,Valentine's Day,Observance
+15/02/2012,Wednesday,Total Defense Day,Observance
+08/03/2012,Thursday,International Women's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+01/04/2012,Sunday,April Fool's Day,Observance
+05/04/2012,Thursday,Qingming Festival,Observance
+06/04/2012,Friday,Good Friday,National holiday
+07/04/2012,Saturday,Easter Saturday,Observance
+08/04/2012,Sunday,Easter Sunday,Observance
+01/05/2012,Tuesday,Labour Day,National holiday
+05/05/2012,Saturday,Vesak Day,National holiday
+13/05/2012,Sunday,Mother's Day,Observance
+18/05/2012,Friday,International Museum Day,Observance
+17/06/2012,Sunday,Father's Day,Observance
+21/06/2012,Thursday,June Solstice,Season
+23/06/2012,Saturday,Dragon Boat Festival,Observance
+01/07/2012,Sunday,Youth Day,Observance
+01/07/2012,Sunday,Singapore Armed Forces Day,Observance
+21/07/2012,Saturday,Racial Harmony Day,Observance
+09/08/2012,Thursday,National Day,National holiday
+19/08/2012,Sunday,Hari Raya Puasa,National holiday
+20/08/2012,Monday,Hari Raya Puasa observed,National holiday
+31/08/2012,Friday,Hungry Ghost Festival,Observance
+01/09/2012,Saturday,Teachers' Day,Observance
+22/09/2012,Saturday,September Equinox,Season
+30/09/2012,Sunday,Mid-Autumn Festival,Observance
+05/10/2012,Friday,Children's Day,Observance
+26/10/2012,Friday,Hari Raya Haji,National holiday
+13/11/2012,Tuesday,Diwali/Deepavali,National holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,National holiday
+31/12/2012,Monday,New Year's Eve,Observance
+01/01/2013,Tuesday,New Year's Day,National holiday
+27/01/2013,Sunday,Thaipusam,Observance
+10/02/2013,Sunday,Lunar New Year's Day,National holiday
+11/02/2013,Monday,Second Day of Lunar New Year,National holiday
+12/02/2013,Tuesday,Lunar New Year Public Holiday,National holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+15/02/2013,Friday,Total Defense Day,Observance
+08/03/2013,Friday,International Women's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,National holiday
+30/03/2013,Saturday,Easter Saturday,Observance
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,April Fool's Day,Observance
+04/04/2013,Thursday,Qingming Festival,Observance
+01/05/2013,Wednesday,Labour Day,National holiday
+12/05/2013,Sunday,Mother's Day,Observance
+18/05/2013,Saturday,International Museum Day,Observance
+24/05/2013,Friday,Vesak Day,National holiday
+12/06/2013,Wednesday,Dragon Boat Festival,Observance
+16/06/2013,Sunday,Father's Day,Observance
+21/06/2013,Friday,June Solstice,Season
+01/07/2013,Monday,Singapore Armed Forces Day,Observance
+07/07/2013,Sunday,Youth Day,Observance
+08/07/2013,Monday,Youth Day observed,Observance
+21/07/2013,Sunday,Racial Harmony Day,Observance
+08/08/2013,Thursday,Hari Raya Puasa,National holiday
+09/08/2013,Friday,National Day,National holiday
+20/08/2013,Tuesday,Hungry Ghost Festival,Observance
+06/09/2013,Friday,Teachers' Day,Observance
+19/09/2013,Thursday,Mid-Autumn Festival,Observance
+23/09/2013,Monday,September Equinox,Season
+04/10/2013,Friday,Children's Day,Observance
+15/10/2013,Tuesday,Hari Raya Haji,National holiday
+02/11/2013,Saturday,Diwali/Deepavali,National holiday
+22/12/2013,Sunday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,National holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,National holiday
+17/01/2014,Friday,Thaipusam,Observance
+31/01/2014,Friday,Lunar New Year's Day,National holiday
+01/02/2014,Saturday,Second Day of Lunar New Year,National holiday
+14/02/2014,Friday,Valentine's Day,Observance
+15/02/2014,Saturday,Total Defense Day,Observance
+08/03/2014,Saturday,International Women's Day,Observance
+21/03/2014,Friday,March Equinox,Season
+01/04/2014,Tuesday,April Fool's Day,Observance
+05/04/2014,Saturday,Qingming Festival,Observance
+18/04/2014,Friday,Good Friday,National holiday
+19/04/2014,Saturday,Easter Saturday,Observance
+20/04/2014,Sunday,Easter Sunday,Observance
+01/05/2014,Thursday,Labour Day,National holiday
+11/05/2014,Sunday,Mother's Day,Observance
+13/05/2014,Tuesday,Vesak Day,National holiday
+18/05/2014,Sunday,International Museum Day,Observance
+02/06/2014,Monday,Dragon Boat Festival,Observance
+15/06/2014,Sunday,Father's Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+01/07/2014,Tuesday,Singapore Armed Forces Day,Observance
+06/07/2014,Sunday,Youth Day,Observance
+07/07/2014,Monday,Youth Day observed,Observance
+21/07/2014,Monday,Racial Harmony Day,Observance
+27/07/2014,Sunday,Hungry Ghost Festival,Observance
+28/07/2014,Monday,Hari Raya Puasa,National holiday
+09/08/2014,Saturday,National Day,National holiday
+05/09/2014,Friday,Teachers' Day,Observance
+08/09/2014,Monday,Mid-Autumn Festival,Observance
+23/09/2014,Tuesday,September Equinox,Season
+03/10/2014,Friday,Children's Day,Observance
+05/10/2014,Sunday,Hari Raya Haji,National holiday
+06/10/2014,Monday,Hari Raya Haji observed,National holiday
+22/10/2014,Wednesday,Diwali/Deepavali,National holiday
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,National holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,National holiday
+03/02/2015,Tuesday,Thaipusam,Observance
+14/02/2015,Saturday,Valentine's Day,Observance
+15/02/2015,Sunday,Total Defense Day,Observance
+19/02/2015,Thursday,Lunar New Year's Day,National holiday
+20/02/2015,Friday,Second Day of Lunar New Year,National holiday
+08/03/2015,Sunday,International Women's Day,Observance
+21/03/2015,Saturday,March Equinox,Season
+01/04/2015,Wednesday,April Fool's Day,Observance
+03/04/2015,Friday,Good Friday,National holiday
+04/04/2015,Saturday,Easter Saturday,Observance
+05/04/2015,Sunday,Easter Sunday,Observance
+01/05/2015,Friday,Labour Day,National holiday
+10/05/2015,Sunday,Mother's Day,Observance
+18/05/2015,Monday,International Museum Day,Observance
+01/06/2015,Monday,Vesak Day,National holiday
+20/06/2015,Saturday,Dragon Boat Festival,Observance
+21/06/2015,Sunday,Father's Day,Observance
+22/06/2015,Monday,June Solstice,Season
+01/07/2015,Wednesday,Singapore Armed Forces Day,Observance
+05/07/2015,Sunday,Youth Day,Observance
+06/07/2015,Monday,Youth Day observed,Observance
+17/07/2015,Friday,Hari Raya Puasa,National holiday
+21/07/2015,Tuesday,Racial Harmony Day,Observance
+07/08/2015,Friday,SG50 Public Holiday,National holiday
+09/08/2015,Sunday,National Day,National holiday
+10/08/2015,Monday,National Day observed,National holiday
+11/09/2015,Friday,2015 Polling Day,National holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Hari Raya Haji,National holiday
+27/09/2015,Sunday,Mid-Autumn Festival,Observance
+04/10/2015,Sunday,Children's Day,Observance
+05/10/2015,Monday,Children's Day observed,Observance
+10/11/2015,Tuesday,Diwali/Deepavali,National holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,National holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,National holiday
+24/01/2016,Sunday,Thaipusam,Observance
+08/02/2016,Monday,Lunar New Year's Day,National holiday
+09/02/2016,Tuesday,Second Day of Lunar New Year,National holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+15/02/2016,Monday,Total Defense Day,Observance
+08/03/2016,Tuesday,International Women's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,National holiday
+26/03/2016,Saturday,Easter Saturday,Observance
+27/03/2016,Sunday,Easter Sunday,Observance
+01/04/2016,Friday,April Fool's Day,Observance
+01/05/2016,Sunday,Labour Day,National holiday
+02/05/2016,Monday,Day off for Labour Day,National holiday
+08/05/2016,Sunday,Mother's Day,Observance
+18/05/2016,Wednesday,International Museum Day,Observance
+21/05/2016,Saturday,Vesak Day,National holiday
+19/06/2016,Sunday,Father's Day,Observance
+21/06/2016,Tuesday,June Solstice,Season
+01/07/2016,Friday,Singapore Armed Forces Day,Observance
+06/07/2016,Wednesday,Hari Raya Puasa,National holiday
+21/07/2016,Thursday,Racial Harmony Day,Observance
+23/07/2016,Saturday,Dragon Boat Festival,Observance
+09/08/2016,Tuesday,National Day,National holiday
+12/09/2016,Monday,Hari Raya Haji,National holiday
+22/09/2016,Thursday,September Equinox,Season
+04/10/2016,Tuesday,Children's Day,Observance
+29/10/2016,Saturday,Diwali/Deepavali,National holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,National holiday
+26/12/2016,Monday,Day off for Christmas Day,National holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,National holiday
+02/01/2017,Monday,New Year's Day observed,National holiday
+28/01/2017,Saturday,Lunar New Year's Day,National holiday
+29/01/2017,Sunday,Second Day of Lunar New Year,National holiday
+30/01/2017,Monday,Lunar New Year Holiday,National holiday
+09/02/2017,Thursday,Thaipusam,Observance
+14/02/2017,Tuesday,Valentine's Day,Observance
+15/02/2017,Wednesday,Total Defense Day,Observance
+08/03/2017,Wednesday,International Women's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+01/04/2017,Saturday,April Fool's Day,Observance
+14/04/2017,Friday,Good Friday,National holiday
+15/04/2017,Saturday,Easter Saturday,Observance
+16/04/2017,Sunday,Easter Sunday,Observance
+01/05/2017,Monday,Labour Day,National holiday
+10/05/2017,Wednesday,Vesak Day,National holiday
+14/05/2017,Sunday,Mother's Day,Observance
+18/05/2017,Thursday,International Museum Day,Observance
+18/06/2017,Sunday,Father's Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+25/06/2017,Sunday,Hari Raya Puasa,National holiday
+26/06/2017,Monday,Hari Raya Puasa observed,National holiday
+01/07/2017,Saturday,Singapore Armed Forces Day,Observance
+21/07/2017,Friday,Racial Harmony Day,Observance
+09/08/2017,Wednesday,National Day,National holiday
+01/09/2017,Friday,Hari Raya Haji,National holiday
+23/09/2017,Saturday,September Equinox,Season
+06/10/2017,Friday,Children's Day,Observance
+18/10/2017,Wednesday,Diwali/Deepavali,National holiday
+22/12/2017,Friday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,National holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+31/01/2018,Wednesday,Thaipusam,Observance
+14/02/2018,Wednesday,Valentine's Day,Observance
+15/02/2018,Thursday,Total Defense Day,Observance
+16/02/2018,Friday,Lunar New Year's Day,National holiday
+17/02/2018,Saturday,Second Day of Lunar New Year,National holiday
+08/03/2018,Thursday,International Women's Day,Observance
+21/03/2018,Wednesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,National holiday
+31/03/2018,Saturday,Easter Saturday,Observance
+01/04/2018,Sunday,Easter Sunday,Observance
+01/04/2018,Sunday,April Fool's Day,Observance
+01/05/2018,Tuesday,Labour Day,National holiday
+13/05/2018,Sunday,Mother's Day,Observance
+18/05/2018,Friday,International Museum Day,Observance
+29/05/2018,Tuesday,Vesak Day,National holiday
+15/06/2018,Friday,Hari Raya Puasa,National holiday
+17/06/2018,Sunday,Father's Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+01/07/2018,Sunday,Singapore Armed Forces Day,Observance
+21/07/2018,Saturday,Racial Harmony Day,Observance
+09/08/2018,Thursday,National Day,National holiday
+22/08/2018,Wednesday,Hari Raya Haji,National holiday
+23/09/2018,Sunday,September Equinox,Season
+04/10/2018,Thursday,Children's Day,Observance
+06/11/2018,Tuesday,Diwali/Deepavali,National holiday
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,National holiday
+21/01/2019,Monday,Thaipusam,Observance
+05/02/2019,Tuesday,Lunar New Year's Day,National holiday
+06/02/2019,Wednesday,Second Day of Lunar New Year,National holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+15/02/2019,Friday,Total Defense Day,Observance
+08/03/2019,Friday,International Women's Day,Observance
+21/03/2019,Thursday,March Equinox,Season
+01/04/2019,Monday,April Fool's Day,Observance
+19/04/2019,Friday,Good Friday,National holiday
+20/04/2019,Saturday,Easter Saturday,Observance
+21/04/2019,Sunday,Easter Sunday,Observance
+01/05/2019,Wednesday,Labour Day,National holiday
+12/05/2019,Sunday,Mother's Day,Observance
+18/05/2019,Saturday,International Museum Day,Observance
+19/05/2019,Sunday,Vesak Day,National holiday
+20/05/2019,Monday,Day off for Vesak Day,National holiday
+05/06/2019,Wednesday,Hari Raya Puasa,National holiday
+16/06/2019,Sunday,Father's Day,Observance
+21/06/2019,Friday,June Solstice,Season
+01/07/2019,Monday,Singapore Armed Forces Day,Observance
+21/07/2019,Sunday,Racial Harmony Day,Observance
+09/08/2019,Friday,National Day,National holiday
+11/08/2019,Sunday,Hari Raya Haji,National holiday
+12/08/2019,Monday,Hari Raya Haji observed,National holiday
+23/09/2019,Monday,September Equinox,Season
+04/10/2019,Friday,Children's Day,Observance
+27/10/2019,Sunday,Diwali/Deepavali,National holiday
+28/10/2019,Monday,Day off for Diwali/Deepavali,National holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,National holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,National holiday
+25/01/2020,Saturday,Lunar New Year's Day,National holiday
+26/01/2020,Sunday,Second Day of Lunar New Year,National holiday
+27/01/2020,Monday,Lunar New Year Holiday,National holiday
+08/02/2020,Saturday,Thaipusam,Observance
+14/02/2020,Friday,Valentine's Day,Observance
+15/02/2020,Saturday,Total Defense Day,Observance
+08/03/2020,Sunday,International Women's Day,Observance
+20/03/2020,Friday,March Equinox,Season
+01/04/2020,Wednesday,April Fool's Day,Observance
+10/04/2020,Friday,Good Friday,National holiday
+11/04/2020,Saturday,Easter Saturday,Observance
+12/04/2020,Sunday,Easter Sunday,Observance
+01/05/2020,Friday,Labour Day,National holiday
+07/05/2020,Thursday,Vesak Day,National holiday
+10/05/2020,Sunday,Mother's Day,Observance
+18/05/2020,Monday,International Museum Day,Observance
+24/05/2020,Sunday,Hari Raya Puasa,National holiday
+25/05/2020,Monday,Hari Raya Puasa observed,National holiday
+21/06/2020,Sunday,Father's Day,Observance
+21/06/2020,Sunday,June Solstice,Season
+01/07/2020,Wednesday,Singapore Armed Forces Day,Observance
+10/07/2020,Friday,2020 Polling Day,National holiday
+21/07/2020,Tuesday,Racial Harmony Day,Observance
+31/07/2020,Friday,Hari Raya Haji,National holiday
+09/08/2020,Sunday,National Day,National holiday
+10/08/2020,Monday,National Day observed,National holiday
+04/09/2020,Friday,Teachers' Day,Observance
+22/09/2020,Tuesday,September Equinox,Season
+09/10/2020,Friday,Children's Day,Observance
+14/11/2020,Saturday,Diwali/Deepavali,National holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,National holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,National holiday
+28/01/2021,Thursday,Thaipusam,Observance
+12/02/2021,Friday,Lunar New Year's Day,National holiday
+13/02/2021,Saturday,Second Day of Lunar New Year,National holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+15/02/2021,Monday,Total Defense Day,Observance
+08/03/2021,Monday,International Women's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+01/04/2021,Thursday,April Fool's Day,Observance
+02/04/2021,Friday,Good Friday,National holiday
+03/04/2021,Saturday,Easter Saturday,Observance
+04/04/2021,Sunday,Easter Sunday,Observance
+01/05/2021,Saturday,Labour Day,National holiday
+09/05/2021,Sunday,Mother's Day,Observance
+13/05/2021,Thursday,Hari Raya Puasa,National holiday
+18/05/2021,Tuesday,International Museum Day,Observance
+26/05/2021,Wednesday,Vesak Day,National holiday
+20/06/2021,Sunday,Father's Day,Observance
+21/06/2021,Monday,June Solstice,Season
+01/07/2021,Thursday,Singapore Armed Forces Day,Observance
+20/07/2021,Tuesday,Hari Raya Haji,National holiday
+21/07/2021,Wednesday,Racial Harmony Day,Observance
+09/08/2021,Monday,National Day,National holiday
+03/09/2021,Friday,Teachers' Day,Observance
+23/09/2021,Thursday,September Equinox,Season
+08/10/2021,Friday,Children's Day,Observance
+04/11/2021,Thursday,Diwali/Deepavali,National holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,National holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,National holiday
+18/01/2022,Tuesday,Thaipusam,Observance
+01/02/2022,Tuesday,Lunar New Year's Day,National holiday
+02/02/2022,Wednesday,Second Day of Lunar New Year,National holiday
+14/02/2022,Monday,Valentine's Day,Observance
+15/02/2022,Tuesday,Total Defense Day,Observance
+08/03/2022,Tuesday,International Women's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+01/04/2022,Friday,April Fool's Day,Observance
+15/04/2022,Friday,Good Friday,National holiday
+16/04/2022,Saturday,Easter Saturday,Observance
+17/04/2022,Sunday,Easter Sunday,Observance
+01/05/2022,Sunday,Labour Day,National holiday
+02/05/2022,Monday,Day off for Labour Day,National holiday
+03/05/2022,Tuesday,Hari Raya Puasa,National holiday
+08/05/2022,Sunday,Mother's Day,Observance
+15/05/2022,Sunday,Vesak Day,National holiday
+16/05/2022,Monday,Day off for Vesak Day,National holiday
+18/05/2022,Wednesday,International Museum Day,Observance
+19/06/2022,Sunday,Father's Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+01/07/2022,Friday,Singapore Armed Forces Day,Observance
+10/07/2022,Sunday,Hari Raya Haji,National holiday
+11/07/2022,Monday,Day off for Hari Raya Haji,National holiday
+21/07/2022,Thursday,Racial Harmony Day,Observance
+09/08/2022,Tuesday,National Day,National holiday
+02/09/2022,Friday,Teachers' Day,Observance
+23/09/2022,Friday,September Equinox,Season
+07/10/2022,Friday,Children's Day,Observance
+24/10/2022,Monday,Diwali/Deepavali,National holiday
+22/12/2022,Thursday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,National holiday
+26/12/2022,Monday,Day off for Christmas Day,National holiday
+31/12/2022,Saturday,New Year's Eve,Observance

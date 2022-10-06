@@ -1,0 +1,2340 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,National holiday
+06/01/2000,Thursday,Epiphany,"Observance, Christian"
+06/01/2000,Thursday,Epiphany,Common local holiday
+08/01/2000,Saturday,Eid ul Fitr,"Observance, Muslim"
+22/01/2000,Saturday,Franco-German Day,Observance
+27/01/2000,Thursday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2000,Monday,Valentine's Day,Observance
+06/03/2000,Monday,Shrove Monday,Observance
+07/03/2000,Tuesday,Carnival Tuesday,Observance
+08/03/2000,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2000,Wednesday,International Women's Day,Observance
+16/03/2000,Thursday,Eid al-Adha,"Observance, Muslim"
+17/03/2000,Friday,St. Patrick's Day,"Observance, Christian"
+20/03/2000,Monday,March Equinox,Season
+26/03/2000,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+15/04/2000,Saturday,Ashura,"Observance, Muslim"
+16/04/2000,Sunday,Palm Sunday,"Observance, Christian"
+20/04/2000,Thursday,Maundy Thursday,Silent Day
+20/04/2000,Thursday,Maundy Thursday,"Observance, Christian"
+20/04/2000,Thursday,First Day of Passover,"Observance, Hebrew"
+21/04/2000,Friday,Good Friday,"National holiday, Christian"
+21/04/2000,Friday,Second Day of Passover,"Observance, Hebrew"
+22/04/2000,Saturday,Holy Saturday,Silent Day
+23/04/2000,Sunday,Easter Sunday,"Christian, Common local holiday"
+23/04/2000,Sunday,Easter Sunday,"Observance, Christian"
+23/04/2000,Sunday,German Beer Day,Observance
+24/04/2000,Monday,Easter Monday,"National holiday, Christian"
+25/04/2000,Tuesday,Sixth Day of Passover,"Observance, Hebrew"
+26/04/2000,Wednesday,Seventh Day of Passover,"Observance, Hebrew"
+30/04/2000,Sunday,Walpurgis Night,Observance
+01/05/2000,Monday,May Day,National holiday
+05/05/2000,Friday,Europe Day (Council of Europe),Observance
+08/05/2000,Monday,Anniversary of the End of World War II,Observance
+09/05/2000,Tuesday,Europe Day (European Union),Observance
+14/05/2000,Sunday,Mother's Day,Observance
+23/05/2000,Tuesday,Constitution Day,Observance
+01/06/2000,Thursday,Father's Day,Observance
+01/06/2000,Thursday,Ascension Day,"National holiday, Christian"
+01/06/2000,Thursday,International Childrens' Day,Observance
+03/06/2000,Saturday,European Bicycle Day,Observance
+09/06/2000,Friday,First Day of Shavuot,"Observance, Hebrew"
+10/06/2000,Saturday,Second Day of Shavuot,"Observance, Hebrew"
+11/06/2000,Sunday,Whit Sunday,"Christian, Common local holiday"
+11/06/2000,Sunday,Whit Sunday,"Observance, Christian"
+12/06/2000,Monday,Whit Monday,"National holiday, Christian"
+18/06/2000,Sunday,Car-free Sunday,Observance
+21/06/2000,Wednesday,June Solstice,Season
+22/06/2000,Thursday,Corpus Christi,"Christian, Common local holiday"
+24/06/2000,Saturday,St. John,"Observance, Christian"
+29/06/2000,Thursday,St Peter and Paul,"Observance, Christian"
+08/08/2000,Tuesday,Peace Festival in Augsburg,Local holiday
+15/08/2000,Tuesday,Assumption of Mary,"Observance, Christian"
+15/08/2000,Tuesday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2000,Friday,Anti War Day,Observance
+10/09/2000,Sunday,European Heritage Days,Observance
+20/09/2000,Wednesday,German World Children's Day,Observance
+22/09/2000,Friday,September Equinox,Season
+29/09/2000,Friday,German Sandwich Day,Observance
+30/09/2000,Saturday,Rosh Hashana,"Observance, Hebrew"
+01/10/2000,Sunday,Harvest Festival,Observance
+01/10/2000,Sunday,Second Day of Rosh Hashana,"Observance, Hebrew"
+03/10/2000,Tuesday,Day of German Unity,National holiday
+09/10/2000,Monday,Yom Kippur,"Observance, Hebrew"
+14/10/2000,Saturday,First day of Sukkot,"Observance, Hebrew"
+15/10/2000,Sunday,Second Day of Sukkot,"Observance, Hebrew"
+19/10/2000,Thursday,Sixth Day of Sukkot,"Observance, Hebrew"
+20/10/2000,Friday,Seventh Day of Sukkot,"Observance, Hebrew"
+21/10/2000,Saturday,Shemini Atzeret,"Observance, Hebrew"
+22/10/2000,Sunday,Simchat Torah,"Observance, Hebrew"
+29/10/2000,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2000,Monday,World Thrift Day,Observance
+31/10/2000,Tuesday,Reformation Day,Common local holiday
+31/10/2000,Tuesday,Halloween,Observance
+01/11/2000,Wednesday,All Saints' Day,"Observance, Christian"
+01/11/2000,Wednesday,All Saints' Day,"Silent Day, public holiday"
+02/11/2000,Thursday,All Souls' Day,Silent Day
+09/11/2000,Thursday,Night of Broken Glass Remembrance Day,Observance
+09/11/2000,Thursday,9th of November,Observance
+09/11/2000,Thursday,Fall of the Berlin Wall,Observance
+11/11/2000,Saturday,St. Martin's Day,"Observance, Christian"
+19/11/2000,Sunday,National Day of Mourning,Silent Day
+22/11/2000,Wednesday,Repentance Day,"Christian, Common local holiday"
+22/11/2000,Wednesday,Repentance Day,Silent Day
+22/11/2000,Wednesday,Repentance Day,"Observance, Christian"
+26/11/2000,Sunday,Sunday of the Dead,Silent Day
+03/12/2000,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2000,Wednesday,Saint Nicholas Day,"Observance, Christian"
+08/12/2000,Friday,Feast of the Immaculate Conception,"Observance, Christian"
+10/12/2000,Sunday,Second Advent Sunday,"Observance, Christian"
+17/12/2000,Sunday,Third Advent Sunday,"Observance, Christian"
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2000,Sunday,Christmas Eve,Silent Day
+25/12/2000,Monday,Christmas Day,"National holiday, Christian"
+26/12/2000,Tuesday,Boxing Day,"National holiday, Christian"
+28/12/2000,Thursday,Eid ul Fitr,"Observance, Muslim"
+31/12/2000,Sunday,New Year's Eve,Bank holiday
+01/01/2001,Monday,New Year's Day,National holiday
+06/01/2001,Saturday,Epiphany,"Observance, Christian"
+06/01/2001,Saturday,Epiphany,Common local holiday
+22/01/2001,Monday,Franco-German Day,Observance
+27/01/2001,Saturday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2001,Wednesday,Valentine's Day,Observance
+26/02/2001,Monday,Shrove Monday,Observance
+27/02/2001,Tuesday,Carnival Tuesday,Observance
+28/02/2001,Wednesday,Carnival / Ash Wednesday,Silent Day
+06/03/2001,Tuesday,Eid al-Adha,"Observance, Muslim"
+08/03/2001,Thursday,International Women's Day,Observance
+17/03/2001,Saturday,St. Patrick's Day,"Observance, Christian"
+20/03/2001,Tuesday,March Equinox,Season
+25/03/2001,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+04/04/2001,Wednesday,Ashura,"Observance, Muslim"
+08/04/2001,Sunday,Palm Sunday,"Observance, Christian"
+08/04/2001,Sunday,First Day of Passover,"Observance, Hebrew"
+09/04/2001,Monday,Second Day of Passover,"Observance, Hebrew"
+12/04/2001,Thursday,Maundy Thursday,Silent Day
+12/04/2001,Thursday,Maundy Thursday,"Observance, Christian"
+13/04/2001,Friday,Good Friday,"National holiday, Christian"
+13/04/2001,Friday,Sixth Day of Passover,"Observance, Hebrew"
+14/04/2001,Saturday,Holy Saturday,Silent Day
+14/04/2001,Saturday,Seventh Day of Passover,"Observance, Hebrew"
+15/04/2001,Sunday,Easter Sunday,"Christian, Common local holiday"
+15/04/2001,Sunday,Easter Sunday,"Observance, Christian"
+16/04/2001,Monday,Easter Monday,"National holiday, Christian"
+23/04/2001,Monday,German Beer Day,Observance
+26/04/2001,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2001,Monday,Walpurgis Night,Observance
+01/05/2001,Tuesday,May Day,National holiday
+05/05/2001,Saturday,Europe Day (Council of Europe),Observance
+08/05/2001,Tuesday,Anniversary of the End of World War II,Observance
+09/05/2001,Wednesday,Europe Day (European Union),Observance
+13/05/2001,Sunday,Mother's Day,Observance
+23/05/2001,Wednesday,Constitution Day,Observance
+24/05/2001,Thursday,Father's Day,Observance
+24/05/2001,Thursday,Ascension Day,"National holiday, Christian"
+28/05/2001,Monday,First Day of Shavuot,"Observance, Hebrew"
+29/05/2001,Tuesday,Second Day of Shavuot,"Observance, Hebrew"
+01/06/2001,Friday,International Childrens' Day,Observance
+03/06/2001,Sunday,Whit Sunday,"Observance, Christian"
+03/06/2001,Sunday,Whit Sunday,"Christian, Common local holiday"
+03/06/2001,Sunday,European Bicycle Day,Observance
+04/06/2001,Monday,Whit Monday,"National holiday, Christian"
+14/06/2001,Thursday,Corpus Christi,"Christian, Common local holiday"
+17/06/2001,Sunday,Car-free Sunday,Observance
+21/06/2001,Thursday,June Solstice,Season
+23/06/2001,Saturday,Architecture Day,Observance
+24/06/2001,Sunday,St. John,"Observance, Christian"
+29/06/2001,Friday,St Peter and Paul,"Observance, Christian"
+08/08/2001,Wednesday,Peace Festival in Augsburg,Local holiday
+15/08/2001,Wednesday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2001,Wednesday,Assumption of Mary,"Observance, Christian"
+01/09/2001,Saturday,Anti War Day,Observance
+08/09/2001,Saturday,German Language Day,Observance
+09/09/2001,Sunday,European Heritage Days,Observance
+18/09/2001,Tuesday,Rosh Hashana,"Observance, Hebrew"
+19/09/2001,Wednesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+20/09/2001,Thursday,German World Children's Day,Observance
+23/09/2001,Sunday,September Equinox,Season
+27/09/2001,Thursday,Yom Kippur,"Observance, Hebrew"
+28/09/2001,Friday,German Sandwich Day,Observance
+02/10/2001,Tuesday,First day of Sukkot,"Observance, Hebrew"
+03/10/2001,Wednesday,Day of German Unity,National holiday
+03/10/2001,Wednesday,Second Day of Sukkot,"Observance, Hebrew"
+07/10/2001,Sunday,Harvest Festival,Observance
+07/10/2001,Sunday,Sixth Day of Sukkot,"Observance, Hebrew"
+08/10/2001,Monday,Seventh Day of Sukkot,"Observance, Hebrew"
+09/10/2001,Tuesday,Shemini Atzeret,"Observance, Hebrew"
+10/10/2001,Wednesday,Simchat Torah,"Observance, Hebrew"
+28/10/2001,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2001,Tuesday,World Thrift Day,Observance
+31/10/2001,Wednesday,Reformation Day,Common local holiday
+31/10/2001,Wednesday,Halloween,Observance
+01/11/2001,Thursday,All Saints' Day,"Observance, Christian"
+01/11/2001,Thursday,All Saints' Day,"Silent Day, public holiday"
+02/11/2001,Friday,All Souls' Day,Silent Day
+09/11/2001,Friday,Night of Broken Glass Remembrance Day,Observance
+09/11/2001,Friday,9th of November,Observance
+09/11/2001,Friday,Fall of the Berlin Wall,Observance
+11/11/2001,Sunday,St. Martin's Day,"Observance, Christian"
+18/11/2001,Sunday,National Day of Mourning,Silent Day
+21/11/2001,Wednesday,Repentance Day,"Christian, Common local holiday"
+21/11/2001,Wednesday,Repentance Day,Silent Day
+21/11/2001,Wednesday,Repentance Day,"Observance, Christian"
+25/11/2001,Sunday,Sunday of the Dead,Silent Day
+02/12/2001,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2001,Thursday,Saint Nicholas Day,"Observance, Christian"
+08/12/2001,Saturday,Feast of the Immaculate Conception,"Observance, Christian"
+09/12/2001,Sunday,Second Advent Sunday,"Observance, Christian"
+16/12/2001,Sunday,Third Advent Sunday,"Observance, Christian"
+17/12/2001,Monday,Eid ul Fitr,"Observance, Muslim"
+21/12/2001,Friday,December Solstice,Season
+23/12/2001,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2001,Monday,Christmas Eve,Silent Day
+25/12/2001,Tuesday,Christmas Day,"National holiday, Christian"
+26/12/2001,Wednesday,Boxing Day,"National holiday, Christian"
+31/12/2001,Monday,New Year's Eve,Bank holiday
+01/01/2002,Tuesday,New Year's Day,National holiday
+06/01/2002,Sunday,Epiphany,"Observance, Christian"
+06/01/2002,Sunday,Epiphany,Common local holiday
+22/01/2002,Tuesday,Franco-German Day,Observance
+27/01/2002,Sunday,Remembrance Day for the Victims of National Socialism,Observance
+11/02/2002,Monday,Shrove Monday,Observance
+12/02/2002,Tuesday,Carnival Tuesday,Observance
+13/02/2002,Wednesday,Carnival / Ash Wednesday,Silent Day
+14/02/2002,Thursday,Valentine's Day,Observance
+23/02/2002,Saturday,Eid al-Adha,"Observance, Muslim"
+08/03/2002,Friday,International Women's Day,Observance
+17/03/2002,Sunday,St. Patrick's Day,"Observance, Christian"
+20/03/2002,Wednesday,March Equinox,Season
+24/03/2002,Sunday,Palm Sunday,"Observance, Christian"
+24/03/2002,Sunday,Ashura,"Observance, Muslim"
+28/03/2002,Thursday,Maundy Thursday,Silent Day
+28/03/2002,Thursday,Maundy Thursday,"Observance, Christian"
+28/03/2002,Thursday,First Day of Passover,"Observance, Hebrew"
+29/03/2002,Friday,Good Friday,"National holiday, Christian"
+29/03/2002,Friday,Second Day of Passover,"Observance, Hebrew"
+30/03/2002,Saturday,Holy Saturday,Silent Day
+31/03/2002,Sunday,Easter Sunday,"Observance, Christian"
+31/03/2002,Sunday,Easter Sunday,"Christian, Common local holiday"
+31/03/2002,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2002,Monday,Easter Monday,"National holiday, Christian"
+02/04/2002,Tuesday,Sixth Day of Passover,"Observance, Hebrew"
+03/04/2002,Wednesday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2002,Tuesday,German Beer Day,Observance
+25/04/2002,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2002,Tuesday,Walpurgis Night,Observance
+01/05/2002,Wednesday,May Day,National holiday
+05/05/2002,Sunday,Europe Day (Council of Europe),Observance
+08/05/2002,Wednesday,Anniversary of the End of World War II,Observance
+09/05/2002,Thursday,Father's Day,Observance
+09/05/2002,Thursday,Ascension Day,"National holiday, Christian"
+09/05/2002,Thursday,Europe Day (European Union),Observance
+12/05/2002,Sunday,Mother's Day,Observance
+17/05/2002,Friday,First Day of Shavuot,"Observance, Hebrew"
+18/05/2002,Saturday,Second Day of Shavuot,"Observance, Hebrew"
+19/05/2002,Sunday,Whit Sunday,"Christian, Common local holiday"
+19/05/2002,Sunday,Whit Sunday,"Observance, Christian"
+20/05/2002,Monday,Whit Monday,"National holiday, Christian"
+23/05/2002,Thursday,Constitution Day,Observance
+30/05/2002,Thursday,Corpus Christi,"Christian, Common local holiday"
+01/06/2002,Saturday,International Childrens' Day,Observance
+03/06/2002,Monday,European Bicycle Day,Observance
+16/06/2002,Sunday,Car-free Sunday,Observance
+21/06/2002,Friday,June Solstice,Season
+24/06/2002,Monday,St. John,"Observance, Christian"
+29/06/2002,Saturday,Architecture Day,Observance
+29/06/2002,Saturday,St Peter and Paul,"Observance, Christian"
+08/08/2002,Thursday,Peace Festival in Augsburg,Local holiday
+15/08/2002,Thursday,Assumption of Mary,"Observance, Christian"
+15/08/2002,Thursday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2002,Sunday,Anti War Day,Observance
+07/09/2002,Saturday,Rosh Hashana,"Observance, Hebrew"
+08/09/2002,Sunday,European Heritage Days,Observance
+08/09/2002,Sunday,Second Day of Rosh Hashana,"Observance, Hebrew"
+14/09/2002,Saturday,German Language Day,Observance
+16/09/2002,Monday,Yom Kippur,"Observance, Hebrew"
+20/09/2002,Friday,German World Children's Day,Observance
+21/09/2002,Saturday,First day of Sukkot,"Observance, Hebrew"
+22/09/2002,Sunday,Second Day of Sukkot,"Observance, Hebrew"
+23/09/2002,Monday,September Equinox,Season
+26/09/2002,Thursday,Sixth Day of Sukkot,"Observance, Hebrew"
+27/09/2002,Friday,German Sandwich Day,Observance
+27/09/2002,Friday,Seventh Day of Sukkot,"Observance, Hebrew"
+28/09/2002,Saturday,Shemini Atzeret,"Observance, Hebrew"
+29/09/2002,Sunday,Simchat Torah,"Observance, Hebrew"
+03/10/2002,Thursday,Day of German Unity,National holiday
+06/10/2002,Sunday,Harvest Festival,Observance
+27/10/2002,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2002,Wednesday,World Thrift Day,Observance
+31/10/2002,Thursday,Reformation Day,Common local holiday
+31/10/2002,Thursday,Halloween,Observance
+01/11/2002,Friday,All Saints' Day,"Observance, Christian"
+01/11/2002,Friday,All Saints' Day,"Silent Day, public holiday"
+02/11/2002,Saturday,All Souls' Day,Silent Day
+09/11/2002,Saturday,Night of Broken Glass Remembrance Day,Observance
+09/11/2002,Saturday,9th of November,Observance
+09/11/2002,Saturday,Fall of the Berlin Wall,Observance
+11/11/2002,Monday,St. Martin's Day,"Observance, Christian"
+17/11/2002,Sunday,National Day of Mourning,Silent Day
+20/11/2002,Wednesday,Repentance Day,Silent Day
+20/11/2002,Wednesday,Repentance Day,"Observance, Christian"
+20/11/2002,Wednesday,Repentance Day,"Christian, Common local holiday"
+24/11/2002,Sunday,Sunday of the Dead,Silent Day
+01/12/2002,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2002,Friday,Saint Nicholas Day,"Observance, Christian"
+06/12/2002,Friday,Eid ul Fitr,"Observance, Muslim"
+08/12/2002,Sunday,Second Advent Sunday,"Observance, Christian"
+08/12/2002,Sunday,Feast of the Immaculate Conception,"Observance, Christian"
+15/12/2002,Sunday,Third Advent Sunday,"Observance, Christian"
+22/12/2002,Sunday,Fourth Advent Sunday,"Observance, Christian"
+22/12/2002,Sunday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Silent Day
+25/12/2002,Wednesday,Christmas Day,"National holiday, Christian"
+26/12/2002,Thursday,Boxing Day,"National holiday, Christian"
+31/12/2002,Tuesday,New Year's Eve,Bank holiday
+01/01/2003,Wednesday,New Year's Day,National holiday
+06/01/2003,Monday,Epiphany,Common local holiday
+06/01/2003,Monday,Epiphany,"Observance, Christian"
+22/01/2003,Wednesday,Franco-German Day,Observance
+27/01/2003,Monday,Remembrance Day for the Victims of National Socialism,Observance
+12/02/2003,Wednesday,Eid al-Adha,"Observance, Muslim"
+14/02/2003,Friday,Valentine's Day,Observance
+03/03/2003,Monday,Shrove Monday,Observance
+04/03/2003,Tuesday,Carnival Tuesday,Observance
+05/03/2003,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2003,Saturday,International Women's Day,Observance
+14/03/2003,Friday,Ashura,"Observance, Muslim"
+17/03/2003,Monday,St. Patrick's Day,"Observance, Christian"
+21/03/2003,Friday,March Equinox,Season
+30/03/2003,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+13/04/2003,Sunday,Palm Sunday,"Observance, Christian"
+17/04/2003,Thursday,Maundy Thursday,Silent Day
+17/04/2003,Thursday,Maundy Thursday,"Observance, Christian"
+17/04/2003,Thursday,First Day of Passover,"Observance, Hebrew"
+18/04/2003,Friday,Good Friday,"National holiday, Christian"
+18/04/2003,Friday,Second Day of Passover,"Observance, Hebrew"
+19/04/2003,Saturday,Holy Saturday,Silent Day
+20/04/2003,Sunday,Easter Sunday,"Christian, Common local holiday"
+20/04/2003,Sunday,Easter Sunday,"Observance, Christian"
+21/04/2003,Monday,Easter Monday,"National holiday, Christian"
+22/04/2003,Tuesday,Sixth Day of Passover,"Observance, Hebrew"
+23/04/2003,Wednesday,German Beer Day,Observance
+23/04/2003,Wednesday,Seventh Day of Passover,"Observance, Hebrew"
+24/04/2003,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2003,Wednesday,Walpurgis Night,Observance
+01/05/2003,Thursday,May Day,National holiday
+05/05/2003,Monday,Europe Day (Council of Europe),Observance
+08/05/2003,Thursday,Anniversary of the End of World War II,Observance
+09/05/2003,Friday,Europe Day (European Union),Observance
+11/05/2003,Sunday,Mother's Day,Observance
+23/05/2003,Friday,Constitution Day,Observance
+29/05/2003,Thursday,Father's Day,Observance
+29/05/2003,Thursday,Ascension Day,"National holiday, Christian"
+01/06/2003,Sunday,International Childrens' Day,Observance
+03/06/2003,Tuesday,European Bicycle Day,Observance
+06/06/2003,Friday,First Day of Shavuot,"Observance, Hebrew"
+07/06/2003,Saturday,Second Day of Shavuot,"Observance, Hebrew"
+08/06/2003,Sunday,Whit Sunday,"Observance, Christian"
+08/06/2003,Sunday,Whit Sunday,"Christian, Common local holiday"
+09/06/2003,Monday,Whit Monday,"National holiday, Christian"
+15/06/2003,Sunday,Car-free Sunday,Observance
+19/06/2003,Thursday,Corpus Christi,"Christian, Common local holiday"
+21/06/2003,Saturday,June Solstice,Season
+24/06/2003,Tuesday,St. John,"Observance, Christian"
+28/06/2003,Saturday,Architecture Day,Observance
+29/06/2003,Sunday,St Peter and Paul,"Observance, Christian"
+08/08/2003,Friday,Peace Festival in Augsburg,Local holiday
+15/08/2003,Friday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2003,Friday,Assumption of Mary,"Observance, Christian"
+01/09/2003,Monday,Anti War Day,Observance
+13/09/2003,Saturday,German Language Day,Observance
+14/09/2003,Sunday,European Heritage Days,Observance
+20/09/2003,Saturday,German World Children's Day,Observance
+23/09/2003,Tuesday,September Equinox,Season
+26/09/2003,Friday,German Sandwich Day,Observance
+27/09/2003,Saturday,Rosh Hashana,"Observance, Hebrew"
+28/09/2003,Sunday,Second Day of Rosh Hashana,"Observance, Hebrew"
+03/10/2003,Friday,Day of German Unity,National holiday
+05/10/2003,Sunday,Harvest Festival,Observance
+06/10/2003,Monday,Yom Kippur,"Observance, Hebrew"
+11/10/2003,Saturday,First day of Sukkot,"Observance, Hebrew"
+12/10/2003,Sunday,Second Day of Sukkot,"Observance, Hebrew"
+16/10/2003,Thursday,Sixth Day of Sukkot,"Observance, Hebrew"
+17/10/2003,Friday,Seventh Day of Sukkot,"Observance, Hebrew"
+18/10/2003,Saturday,Shemini Atzeret,"Observance, Hebrew"
+19/10/2003,Sunday,Simchat Torah,"Observance, Hebrew"
+26/10/2003,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2003,Thursday,World Thrift Day,Observance
+31/10/2003,Friday,Reformation Day,Common local holiday
+31/10/2003,Friday,Halloween,Observance
+01/11/2003,Saturday,All Saints' Day,"Observance, Christian"
+01/11/2003,Saturday,All Saints' Day,"Silent Day, public holiday"
+02/11/2003,Sunday,All Souls' Day,Silent Day
+09/11/2003,Sunday,Night of Broken Glass Remembrance Day,Observance
+09/11/2003,Sunday,9th of November,Observance
+09/11/2003,Sunday,Fall of the Berlin Wall,Observance
+11/11/2003,Tuesday,St. Martin's Day,"Observance, Christian"
+16/11/2003,Sunday,National Day of Mourning,Silent Day
+19/11/2003,Wednesday,Repentance Day,"Christian, Common local holiday"
+19/11/2003,Wednesday,Repentance Day,"Observance, Christian"
+19/11/2003,Wednesday,Repentance Day,Silent Day
+23/11/2003,Sunday,Sunday of the Dead,Silent Day
+26/11/2003,Wednesday,Eid ul Fitr,"Observance, Muslim"
+30/11/2003,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2003,Saturday,Saint Nicholas Day,"Observance, Christian"
+07/12/2003,Sunday,Second Advent Sunday,"Observance, Christian"
+08/12/2003,Monday,Feast of the Immaculate Conception,"Observance, Christian"
+14/12/2003,Sunday,Third Advent Sunday,"Observance, Christian"
+21/12/2003,Sunday,Fourth Advent Sunday,"Observance, Christian"
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Silent Day
+25/12/2003,Thursday,Christmas Day,"National holiday, Christian"
+26/12/2003,Friday,Boxing Day,"National holiday, Christian"
+31/12/2003,Wednesday,New Year's Eve,Bank holiday
+01/01/2004,Thursday,New Year's Day,National holiday
+06/01/2004,Tuesday,Epiphany,Common local holiday
+06/01/2004,Tuesday,Epiphany,"Observance, Christian"
+22/01/2004,Thursday,Franco-German Day,Observance
+27/01/2004,Tuesday,Remembrance Day for the Victims of National Socialism,Observance
+02/02/2004,Monday,Eid al-Adha,"Observance, Muslim"
+14/02/2004,Saturday,Valentine's Day,Observance
+23/02/2004,Monday,Shrove Monday,Observance
+24/02/2004,Tuesday,Carnival Tuesday,Observance
+25/02/2004,Wednesday,Carnival / Ash Wednesday,Silent Day
+02/03/2004,Tuesday,Ashura,"Observance, Muslim"
+08/03/2004,Monday,International Women's Day,Observance
+17/03/2004,Wednesday,St. Patrick's Day,"Observance, Christian"
+20/03/2004,Saturday,March Equinox,Season
+28/03/2004,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+04/04/2004,Sunday,Palm Sunday,"Observance, Christian"
+06/04/2004,Tuesday,First Day of Passover,"Observance, Hebrew"
+07/04/2004,Wednesday,Second Day of Passover,"Observance, Hebrew"
+08/04/2004,Thursday,Maundy Thursday,"Observance, Christian"
+08/04/2004,Thursday,Maundy Thursday,Silent Day
+09/04/2004,Friday,Good Friday,"National holiday, Christian"
+10/04/2004,Saturday,Holy Saturday,Silent Day
+11/04/2004,Sunday,Easter Sunday,"Christian, Common local holiday"
+11/04/2004,Sunday,Easter Sunday,"Observance, Christian"
+11/04/2004,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+12/04/2004,Monday,Easter Monday,"National holiday, Christian"
+12/04/2004,Monday,Seventh Day of Passover,"Observance, Hebrew"
+22/04/2004,Thursday,Girls' Day / Boys' Day,Observance
+23/04/2004,Friday,German Beer Day,Observance
+30/04/2004,Friday,Walpurgis Night,Observance
+01/05/2004,Saturday,May Day,National holiday
+05/05/2004,Wednesday,Europe Day (Council of Europe),Observance
+08/05/2004,Saturday,Anniversary of the End of World War II,Observance
+09/05/2004,Sunday,Mother's Day,Observance
+09/05/2004,Sunday,Europe Day (European Union),Observance
+20/05/2004,Thursday,Father's Day,Observance
+20/05/2004,Thursday,Ascension Day,"National holiday, Christian"
+23/05/2004,Sunday,Constitution Day,Observance
+26/05/2004,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+27/05/2004,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+30/05/2004,Sunday,Whit Sunday,"Christian, Common local holiday"
+30/05/2004,Sunday,Whit Sunday,"Observance, Christian"
+31/05/2004,Monday,Whit Monday,"National holiday, Christian"
+01/06/2004,Tuesday,International Childrens' Day,Observance
+03/06/2004,Thursday,European Bicycle Day,Observance
+10/06/2004,Thursday,Corpus Christi,"Christian, Common local holiday"
+20/06/2004,Sunday,Car-free Sunday,Observance
+21/06/2004,Monday,June Solstice,Season
+24/06/2004,Thursday,St. John,"Observance, Christian"
+26/06/2004,Saturday,Architecture Day,Observance
+29/06/2004,Tuesday,St Peter and Paul,"Observance, Christian"
+08/08/2004,Sunday,Peace Festival in Augsburg,Local holiday
+15/08/2004,Sunday,Assumption of Mary,"Observance, Christian"
+15/08/2004,Sunday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2004,Wednesday,Anti War Day,Observance
+11/09/2004,Saturday,German Language Day,Observance
+12/09/2004,Sunday,European Heritage Days,Observance
+16/09/2004,Thursday,Rosh Hashana,"Observance, Hebrew"
+17/09/2004,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+20/09/2004,Monday,German World Children's Day,Observance
+22/09/2004,Wednesday,September Equinox,Season
+24/09/2004,Friday,German Sandwich Day,Observance
+25/09/2004,Saturday,Yom Kippur,"Observance, Hebrew"
+30/09/2004,Thursday,First day of Sukkot,"Observance, Hebrew"
+01/10/2004,Friday,Second Day of Sukkot,"Observance, Hebrew"
+03/10/2004,Sunday,Day of German Unity,National holiday
+03/10/2004,Sunday,Harvest Festival,Observance
+05/10/2004,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+06/10/2004,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+07/10/2004,Thursday,Shemini Atzeret,"Observance, Hebrew"
+08/10/2004,Friday,Simchat Torah,"Observance, Hebrew"
+29/10/2004,Friday,World Thrift Day,Observance
+31/10/2004,Sunday,Reformation Day,Common local holiday
+31/10/2004,Sunday,Halloween,Observance
+31/10/2004,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2004,Monday,All Saints' Day,"Observance, Christian"
+01/11/2004,Monday,All Saints' Day,"Silent Day, public holiday"
+02/11/2004,Tuesday,All Souls' Day,Silent Day
+09/11/2004,Tuesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2004,Tuesday,9th of November,Observance
+09/11/2004,Tuesday,Fall of the Berlin Wall,Observance
+11/11/2004,Thursday,St. Martin's Day,"Observance, Christian"
+14/11/2004,Sunday,National Day of Mourning,Silent Day
+14/11/2004,Sunday,Eid ul Fitr,"Observance, Muslim"
+17/11/2004,Wednesday,Repentance Day,Silent Day
+17/11/2004,Wednesday,Repentance Day,"Christian, Common local holiday"
+17/11/2004,Wednesday,Repentance Day,"Observance, Christian"
+21/11/2004,Sunday,Sunday of the Dead,Silent Day
+28/11/2004,Sunday,First Advent Sunday,"Observance, Christian"
+05/12/2004,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2004,Monday,Saint Nicholas Day,"Observance, Christian"
+08/12/2004,Wednesday,Feast of the Immaculate Conception,"Observance, Christian"
+12/12/2004,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2004,Sunday,Fourth Advent Sunday,"Observance, Christian"
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Silent Day
+25/12/2004,Saturday,Christmas Day,"National holiday, Christian"
+26/12/2004,Sunday,Boxing Day,"National holiday, Christian"
+31/12/2004,Friday,New Year's Eve,Bank holiday
+01/01/2005,Saturday,New Year's Day,National holiday
+06/01/2005,Thursday,Epiphany,Common local holiday
+06/01/2005,Thursday,Epiphany,"Observance, Christian"
+21/01/2005,Friday,Eid al-Adha,"Observance, Muslim"
+22/01/2005,Saturday,Franco-German Day,Observance
+27/01/2005,Thursday,Remembrance Day for the Victims of National Socialism,Observance
+07/02/2005,Monday,Shrove Monday,Observance
+08/02/2005,Tuesday,Carnival Tuesday,Observance
+09/02/2005,Wednesday,Carnival / Ash Wednesday,Silent Day
+14/02/2005,Monday,Valentine's Day,Observance
+19/02/2005,Saturday,Ashura,"Observance, Muslim"
+08/03/2005,Tuesday,International Women's Day,Observance
+17/03/2005,Thursday,St. Patrick's Day,"Observance, Christian"
+20/03/2005,Sunday,Palm Sunday,"Observance, Christian"
+20/03/2005,Sunday,March Equinox,Season
+24/03/2005,Thursday,Maundy Thursday,"Observance, Christian"
+24/03/2005,Thursday,Maundy Thursday,Silent Day
+25/03/2005,Friday,Good Friday,"National holiday, Christian"
+26/03/2005,Saturday,Holy Saturday,Silent Day
+27/03/2005,Sunday,Easter Sunday,"Observance, Christian"
+27/03/2005,Sunday,Easter Sunday,"Christian, Common local holiday"
+27/03/2005,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2005,Monday,Easter Monday,"National holiday, Christian"
+23/04/2005,Saturday,German Beer Day,Observance
+24/04/2005,Sunday,First Day of Passover,"Observance, Hebrew"
+25/04/2005,Monday,Second Day of Passover,"Observance, Hebrew"
+28/04/2005,Thursday,Girls' Day / Boys' Day,Observance
+29/04/2005,Friday,Sixth Day of Passover,"Observance, Hebrew"
+30/04/2005,Saturday,Walpurgis Night,Observance
+30/04/2005,Saturday,Seventh Day of Passover,"Observance, Hebrew"
+01/05/2005,Sunday,May Day,National holiday
+05/05/2005,Thursday,Father's Day,Observance
+05/05/2005,Thursday,Ascension Day,"National holiday, Christian"
+05/05/2005,Thursday,Europe Day (Council of Europe),Observance
+08/05/2005,Sunday,Mother's Day,Observance
+08/05/2005,Sunday,Anniversary of the End of World War II,Observance
+09/05/2005,Monday,Europe Day (European Union),Observance
+15/05/2005,Sunday,Whit Sunday,"Christian, Common local holiday"
+15/05/2005,Sunday,Whit Sunday,"Observance, Christian"
+16/05/2005,Monday,Whit Monday,"National holiday, Christian"
+23/05/2005,Monday,Constitution Day,Observance
+26/05/2005,Thursday,Corpus Christi,"Christian, Common local holiday"
+01/06/2005,Wednesday,International Childrens' Day,Observance
+03/06/2005,Friday,European Bicycle Day,Observance
+13/06/2005,Monday,First Day of Shavuot,"Observance, Hebrew"
+14/06/2005,Tuesday,Second Day of Shavuot,"Observance, Hebrew"
+19/06/2005,Sunday,Car-free Sunday,Observance
+21/06/2005,Tuesday,June Solstice,Season
+24/06/2005,Friday,St. John,"Observance, Christian"
+25/06/2005,Saturday,Architecture Day,Observance
+29/06/2005,Wednesday,St Peter and Paul,"Observance, Christian"
+08/08/2005,Monday,Peace Festival in Augsburg,Local holiday
+15/08/2005,Monday,Assumption of Mary,"Observance, Christian"
+15/08/2005,Monday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2005,Thursday,Anti War Day,Observance
+10/09/2005,Saturday,German Language Day,Observance
+11/09/2005,Sunday,European Heritage Days,Observance
+20/09/2005,Tuesday,German World Children's Day,Observance
+23/09/2005,Friday,September Equinox,Season
+30/09/2005,Friday,German Sandwich Day,Observance
+02/10/2005,Sunday,Harvest Festival,Observance
+03/10/2005,Monday,Day of German Unity,National holiday
+04/10/2005,Tuesday,Rosh Hashana,"Observance, Hebrew"
+05/10/2005,Wednesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+13/10/2005,Thursday,Yom Kippur,"Observance, Hebrew"
+18/10/2005,Tuesday,First day of Sukkot,"Observance, Hebrew"
+19/10/2005,Wednesday,Second Day of Sukkot,"Observance, Hebrew"
+23/10/2005,Sunday,Sixth Day of Sukkot,"Observance, Hebrew"
+24/10/2005,Monday,Seventh Day of Sukkot,"Observance, Hebrew"
+25/10/2005,Tuesday,Shemini Atzeret,"Observance, Hebrew"
+26/10/2005,Wednesday,Simchat Torah,"Observance, Hebrew"
+28/10/2005,Friday,World Thrift Day,Observance
+30/10/2005,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2005,Monday,Reformation Day,Common local holiday
+31/10/2005,Monday,Halloween,Observance
+01/11/2005,Tuesday,All Saints' Day,"Observance, Christian"
+01/11/2005,Tuesday,All Saints' Day,"Silent Day, public holiday"
+02/11/2005,Wednesday,All Souls' Day,Silent Day
+04/11/2005,Friday,Eid ul Fitr,"Observance, Muslim"
+09/11/2005,Wednesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2005,Wednesday,9th of November,Observance
+09/11/2005,Wednesday,Fall of the Berlin Wall,Observance
+11/11/2005,Friday,St. Martin's Day,"Observance, Christian"
+13/11/2005,Sunday,National Day of Mourning,Silent Day
+16/11/2005,Wednesday,Repentance Day,"Observance, Christian"
+16/11/2005,Wednesday,Repentance Day,"Christian, Common local holiday"
+16/11/2005,Wednesday,Repentance Day,Silent Day
+20/11/2005,Sunday,Sunday of the Dead,Silent Day
+27/11/2005,Sunday,First Advent Sunday,"Observance, Christian"
+04/12/2005,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2005,Tuesday,Saint Nicholas Day,"Observance, Christian"
+08/12/2005,Thursday,Feast of the Immaculate Conception,"Observance, Christian"
+11/12/2005,Sunday,Third Advent Sunday,"Observance, Christian"
+18/12/2005,Sunday,Fourth Advent Sunday,"Observance, Christian"
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Silent Day
+25/12/2005,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2005,Monday,Boxing Day,"National holiday, Christian"
+31/12/2005,Saturday,New Year's Eve,Bank holiday
+01/01/2006,Sunday,New Year's Day,National holiday
+06/01/2006,Friday,Epiphany,Common local holiday
+06/01/2006,Friday,Epiphany,"Observance, Christian"
+10/01/2006,Tuesday,Eid al-Adha,"Observance, Muslim"
+22/01/2006,Sunday,Franco-German Day,Observance
+27/01/2006,Friday,Remembrance Day for the Victims of National Socialism,Observance
+09/02/2006,Thursday,Ashura,"Observance, Muslim"
+14/02/2006,Tuesday,Valentine's Day,Observance
+27/02/2006,Monday,Shrove Monday,Observance
+28/02/2006,Tuesday,Carnival Tuesday,Observance
+01/03/2006,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2006,Wednesday,International Women's Day,Observance
+17/03/2006,Friday,St. Patrick's Day,"Observance, Christian"
+20/03/2006,Monday,March Equinox,Season
+26/03/2006,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+09/04/2006,Sunday,Palm Sunday,"Observance, Christian"
+13/04/2006,Thursday,Maundy Thursday,"Observance, Christian"
+13/04/2006,Thursday,Maundy Thursday,Silent Day
+13/04/2006,Thursday,First Day of Passover,"Observance, Hebrew"
+14/04/2006,Friday,Good Friday,"National holiday, Christian"
+14/04/2006,Friday,Second Day of Passover,"Observance, Hebrew"
+15/04/2006,Saturday,Holy Saturday,Silent Day
+16/04/2006,Sunday,Easter Sunday,"Christian, Common local holiday"
+16/04/2006,Sunday,Easter Sunday,"Observance, Christian"
+17/04/2006,Monday,Easter Monday,"National holiday, Christian"
+18/04/2006,Tuesday,Sixth Day of Passover,"Observance, Hebrew"
+19/04/2006,Wednesday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2006,Sunday,German Beer Day,Observance
+27/04/2006,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2006,Sunday,Walpurgis Night,Observance
+01/05/2006,Monday,May Day,National holiday
+05/05/2006,Friday,Europe Day (Council of Europe),Observance
+08/05/2006,Monday,Anniversary of the End of World War II,Observance
+09/05/2006,Tuesday,Europe Day (European Union),Observance
+14/05/2006,Sunday,Mother's Day,Observance
+23/05/2006,Tuesday,Constitution Day,Observance
+25/05/2006,Thursday,Father's Day,Observance
+25/05/2006,Thursday,Ascension Day,"National holiday, Christian"
+01/06/2006,Thursday,International Childrens' Day,Observance
+02/06/2006,Friday,First Day of Shavuot,"Observance, Hebrew"
+03/06/2006,Saturday,European Bicycle Day,Observance
+03/06/2006,Saturday,Second Day of Shavuot,"Observance, Hebrew"
+04/06/2006,Sunday,Whit Sunday,"Observance, Christian"
+04/06/2006,Sunday,Whit Sunday,"Christian, Common local holiday"
+05/06/2006,Monday,Whit Monday,"National holiday, Christian"
+15/06/2006,Thursday,Corpus Christi,"Christian, Common local holiday"
+18/06/2006,Sunday,Car-free Sunday,Observance
+21/06/2006,Wednesday,June Solstice,Season
+24/06/2006,Saturday,St. John,"Observance, Christian"
+24/06/2006,Saturday,Architecture Day,Observance
+29/06/2006,Thursday,St Peter and Paul,"Observance, Christian"
+08/08/2006,Tuesday,Peace Festival in Augsburg,Local holiday
+15/08/2006,Tuesday,Assumption of Mary,"Observance, Christian"
+15/08/2006,Tuesday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2006,Friday,Anti War Day,Observance
+09/09/2006,Saturday,German Language Day,Observance
+10/09/2006,Sunday,European Heritage Days,Observance
+20/09/2006,Wednesday,German World Children's Day,Observance
+23/09/2006,Saturday,Rosh Hashana,"Observance, Hebrew"
+23/09/2006,Saturday,September Equinox,Season
+24/09/2006,Sunday,Second Day of Rosh Hashana,"Observance, Hebrew"
+29/09/2006,Friday,German Sandwich Day,Observance
+01/10/2006,Sunday,Harvest Festival,Observance
+02/10/2006,Monday,Yom Kippur,"Observance, Hebrew"
+03/10/2006,Tuesday,Day of German Unity,National holiday
+07/10/2006,Saturday,First day of Sukkot,"Observance, Hebrew"
+08/10/2006,Sunday,Second Day of Sukkot,"Observance, Hebrew"
+12/10/2006,Thursday,Sixth Day of Sukkot,"Observance, Hebrew"
+13/10/2006,Friday,Seventh Day of Sukkot,"Observance, Hebrew"
+14/10/2006,Saturday,Shemini Atzeret,"Observance, Hebrew"
+15/10/2006,Sunday,Simchat Torah,"Observance, Hebrew"
+24/10/2006,Tuesday,Eid ul Fitr,"Observance, Muslim"
+29/10/2006,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2006,Monday,World Thrift Day,Observance
+31/10/2006,Tuesday,Reformation Day,Common local holiday
+31/10/2006,Tuesday,Halloween,Observance
+01/11/2006,Wednesday,All Saints' Day,"Silent Day, public holiday"
+01/11/2006,Wednesday,All Saints' Day,"Observance, Christian"
+02/11/2006,Thursday,All Souls' Day,Silent Day
+09/11/2006,Thursday,Night of Broken Glass Remembrance Day,Observance
+09/11/2006,Thursday,9th of November,Observance
+09/11/2006,Thursday,Fall of the Berlin Wall,Observance
+11/11/2006,Saturday,St. Martin's Day,"Observance, Christian"
+19/11/2006,Sunday,National Day of Mourning,Silent Day
+22/11/2006,Wednesday,Repentance Day,Silent Day
+22/11/2006,Wednesday,Repentance Day,"Observance, Christian"
+22/11/2006,Wednesday,Repentance Day,"Christian, Common local holiday"
+26/11/2006,Sunday,Sunday of the Dead,Silent Day
+03/12/2006,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2006,Wednesday,Saint Nicholas Day,"Observance, Christian"
+08/12/2006,Friday,Feast of the Immaculate Conception,"Observance, Christian"
+10/12/2006,Sunday,Second Advent Sunday,"Observance, Christian"
+17/12/2006,Sunday,Third Advent Sunday,"Observance, Christian"
+22/12/2006,Friday,December Solstice,Season
+24/12/2006,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2006,Sunday,Christmas Eve,Silent Day
+25/12/2006,Monday,Christmas Day,"National holiday, Christian"
+26/12/2006,Tuesday,Boxing Day,"National holiday, Christian"
+31/12/2006,Sunday,New Year's Eve,Bank holiday
+31/12/2006,Sunday,Eid al-Adha,"Observance, Muslim"
+01/01/2007,Monday,New Year's Day,National holiday
+06/01/2007,Saturday,Epiphany,"Observance, Christian"
+06/01/2007,Saturday,Epiphany,Common local holiday
+22/01/2007,Monday,Franco-German Day,Observance
+27/01/2007,Saturday,Remembrance Day for the Victims of National Socialism,Observance
+29/01/2007,Monday,Ashura,"Observance, Muslim"
+14/02/2007,Wednesday,Valentine's Day,Observance
+19/02/2007,Monday,Shrove Monday,Observance
+20/02/2007,Tuesday,Carnival Tuesday,Observance
+21/02/2007,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2007,Thursday,International Women's Day,Observance
+17/03/2007,Saturday,St. Patrick's Day,"Observance, Christian"
+21/03/2007,Wednesday,March Equinox,Season
+25/03/2007,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2007,Sunday,Palm Sunday,"Observance, Christian"
+03/04/2007,Tuesday,First Day of Passover,"Observance, Hebrew"
+04/04/2007,Wednesday,Second Day of Passover,"Observance, Hebrew"
+05/04/2007,Thursday,Maundy Thursday,"Observance, Christian"
+05/04/2007,Thursday,Maundy Thursday,Silent Day
+06/04/2007,Friday,Good Friday,"National holiday, Christian"
+07/04/2007,Saturday,Holy Saturday,Silent Day
+08/04/2007,Sunday,Easter Sunday,"Observance, Christian"
+08/04/2007,Sunday,Easter Sunday,"Christian, Common local holiday"
+08/04/2007,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+09/04/2007,Monday,Easter Monday,"National holiday, Christian"
+09/04/2007,Monday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2007,Monday,German Beer Day,Observance
+26/04/2007,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2007,Monday,Walpurgis Night,Observance
+01/05/2007,Tuesday,May Day,National holiday
+05/05/2007,Saturday,Europe Day (Council of Europe),Observance
+08/05/2007,Tuesday,Anniversary of the End of World War II,Observance
+09/05/2007,Wednesday,Europe Day (European Union),Observance
+13/05/2007,Sunday,Mother's Day,Observance
+17/05/2007,Thursday,Father's Day,Observance
+17/05/2007,Thursday,Ascension Day,"National holiday, Christian"
+23/05/2007,Wednesday,Constitution Day,Observance
+23/05/2007,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+24/05/2007,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+27/05/2007,Sunday,Whit Sunday,"Christian, Common local holiday"
+27/05/2007,Sunday,Whit Sunday,"Observance, Christian"
+28/05/2007,Monday,Whit Monday,"National holiday, Christian"
+01/06/2007,Friday,International Childrens' Day,Observance
+03/06/2007,Sunday,European Bicycle Day,Observance
+07/06/2007,Thursday,Corpus Christi,"Christian, Common local holiday"
+17/06/2007,Sunday,Car-free Sunday,Observance
+21/06/2007,Thursday,June Solstice,Season
+23/06/2007,Saturday,Architecture Day,Observance
+24/06/2007,Sunday,St. John,"Observance, Christian"
+29/06/2007,Friday,St Peter and Paul,"Observance, Christian"
+08/08/2007,Wednesday,Peace Festival in Augsburg,Local holiday
+15/08/2007,Wednesday,Assumption of Mary,"Observance, Christian"
+15/08/2007,Wednesday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2007,Saturday,Anti War Day,Observance
+08/09/2007,Saturday,German Language Day,Observance
+09/09/2007,Sunday,European Heritage Days,Observance
+13/09/2007,Thursday,Rosh Hashana,"Observance, Hebrew"
+14/09/2007,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+20/09/2007,Thursday,German World Children's Day,Observance
+22/09/2007,Saturday,Yom Kippur,"Observance, Hebrew"
+23/09/2007,Sunday,September Equinox,Season
+27/09/2007,Thursday,First day of Sukkot,"Observance, Hebrew"
+28/09/2007,Friday,German Sandwich Day,Observance
+28/09/2007,Friday,Second Day of Sukkot,"Observance, Hebrew"
+29/09/2007,Saturday,German Food Bank Day,Observance
+02/10/2007,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+03/10/2007,Wednesday,Day of German Unity,National holiday
+03/10/2007,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+04/10/2007,Thursday,Shemini Atzeret,"Observance, Hebrew"
+05/10/2007,Friday,Simchat Torah,"Observance, Hebrew"
+07/10/2007,Sunday,Harvest Festival,Observance
+13/10/2007,Saturday,Eid ul Fitr,"Observance, Muslim"
+28/10/2007,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2007,Tuesday,World Thrift Day,Observance
+31/10/2007,Wednesday,Reformation Day,Common local holiday
+31/10/2007,Wednesday,Halloween,Observance
+01/11/2007,Thursday,All Saints' Day,"Observance, Christian"
+01/11/2007,Thursday,All Saints' Day,"Silent Day, public holiday"
+02/11/2007,Friday,All Souls' Day,Silent Day
+09/11/2007,Friday,Night of Broken Glass Remembrance Day,Observance
+09/11/2007,Friday,9th of November,Observance
+09/11/2007,Friday,Fall of the Berlin Wall,Observance
+11/11/2007,Sunday,St. Martin's Day,"Observance, Christian"
+18/11/2007,Sunday,National Day of Mourning,Silent Day
+21/11/2007,Wednesday,Repentance Day,"Christian, Common local holiday"
+21/11/2007,Wednesday,Repentance Day,"Observance, Christian"
+21/11/2007,Wednesday,Repentance Day,Silent Day
+25/11/2007,Sunday,Sunday of the Dead,Silent Day
+02/12/2007,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2007,Thursday,Saint Nicholas Day,"Observance, Christian"
+08/12/2007,Saturday,Feast of the Immaculate Conception,"Observance, Christian"
+09/12/2007,Sunday,Second Advent Sunday,"Observance, Christian"
+16/12/2007,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2007,Wednesday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+20/12/2007,Thursday,Eid al-Adha,"Observance, Muslim"
+22/12/2007,Saturday,December Solstice,Season
+23/12/2007,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2007,Monday,Christmas Eve,Silent Day
+25/12/2007,Tuesday,Christmas Day,"National holiday, Christian"
+26/12/2007,Wednesday,Boxing Day,"National holiday, Christian"
+31/12/2007,Monday,New Year's Eve,Bank holiday
+01/01/2008,Tuesday,New Year's Day,National holiday
+06/01/2008,Sunday,Epiphany,Common local holiday
+06/01/2008,Sunday,Epiphany,"Observance, Christian"
+19/01/2008,Saturday,Ashura,"Observance, Muslim"
+22/01/2008,Tuesday,Franco-German Day,Observance
+27/01/2008,Sunday,Remembrance Day for the Victims of National Socialism,Observance
+04/02/2008,Monday,Shrove Monday,Observance
+05/02/2008,Tuesday,Carnival Tuesday,Observance
+06/02/2008,Wednesday,Carnival / Ash Wednesday,Silent Day
+14/02/2008,Thursday,Valentine's Day,Observance
+08/03/2008,Saturday,International Women's Day,Observance
+15/03/2008,Saturday,St. Patrick's Day,"Observance, Christian"
+16/03/2008,Sunday,Palm Sunday,"Observance, Christian"
+20/03/2008,Thursday,Maundy Thursday,Silent Day
+20/03/2008,Thursday,Maundy Thursday,"Observance, Christian"
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,"National holiday, Christian"
+22/03/2008,Saturday,Holy Saturday,Silent Day
+23/03/2008,Sunday,Easter Sunday,"Christian, Common local holiday"
+23/03/2008,Sunday,Easter Sunday,"Observance, Christian"
+24/03/2008,Monday,Easter Monday,"National holiday, Christian"
+30/03/2008,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+20/04/2008,Sunday,First Day of Passover,"Observance, Hebrew"
+21/04/2008,Monday,Second Day of Passover,"Observance, Hebrew"
+23/04/2008,Wednesday,German Beer Day,Observance
+24/04/2008,Thursday,Girls' Day / Boys' Day,Observance
+25/04/2008,Friday,Sixth Day of Passover,"Observance, Hebrew"
+26/04/2008,Saturday,Seventh Day of Passover,"Observance, Hebrew"
+30/04/2008,Wednesday,Walpurgis Night,Observance
+01/05/2008,Thursday,Father's Day,Observance
+01/05/2008,Thursday,May Day,National holiday
+01/05/2008,Thursday,Ascension Day,"National holiday, Christian"
+05/05/2008,Monday,Europe Day (Council of Europe),Observance
+08/05/2008,Thursday,Anniversary of the End of World War II,Observance
+09/05/2008,Friday,Europe Day (European Union),Observance
+11/05/2008,Sunday,Whit Sunday,"Observance, Christian"
+11/05/2008,Sunday,Whit Sunday,"Christian, Common local holiday"
+11/05/2008,Sunday,Mother's Day,Observance
+12/05/2008,Monday,Whit Monday,"National holiday, Christian"
+22/05/2008,Thursday,Corpus Christi,"Christian, Common local holiday"
+23/05/2008,Friday,Constitution Day,Observance
+01/06/2008,Sunday,International Childrens' Day,Observance
+03/06/2008,Tuesday,European Bicycle Day,Observance
+09/06/2008,Monday,First Day of Shavuot,"Observance, Hebrew"
+10/06/2008,Tuesday,Second Day of Shavuot,"Observance, Hebrew"
+15/06/2008,Sunday,Car-free Sunday,Observance
+21/06/2008,Saturday,June Solstice,Season
+24/06/2008,Tuesday,St. John,"Observance, Christian"
+28/06/2008,Saturday,Architecture Day,Observance
+29/06/2008,Sunday,St Peter and Paul,"Observance, Christian"
+08/08/2008,Friday,Peace Festival in Augsburg,Local holiday
+15/08/2008,Friday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2008,Friday,Assumption of Mary,"Observance, Christian"
+01/09/2008,Monday,Anti War Day,Observance
+13/09/2008,Saturday,German Language Day,Observance
+14/09/2008,Sunday,European Heritage Days,Observance
+20/09/2008,Saturday,German World Children's Day,Observance
+22/09/2008,Monday,September Equinox,Season
+26/09/2008,Friday,German Sandwich Day,Observance
+30/09/2008,Tuesday,Rosh Hashana,"Observance, Hebrew"
+01/10/2008,Wednesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+02/10/2008,Thursday,Eid ul Fitr,"Observance, Muslim"
+03/10/2008,Friday,Day of German Unity,National holiday
+04/10/2008,Saturday,German Food Bank Day,Observance
+05/10/2008,Sunday,Harvest Festival,Observance
+09/10/2008,Thursday,Yom Kippur,"Observance, Hebrew"
+14/10/2008,Tuesday,First day of Sukkot,"Observance, Hebrew"
+15/10/2008,Wednesday,Second Day of Sukkot,"Observance, Hebrew"
+19/10/2008,Sunday,Sixth Day of Sukkot,"Observance, Hebrew"
+20/10/2008,Monday,Seventh Day of Sukkot,"Observance, Hebrew"
+21/10/2008,Tuesday,Shemini Atzeret,"Observance, Hebrew"
+22/10/2008,Wednesday,Simchat Torah,"Observance, Hebrew"
+26/10/2008,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2008,Thursday,World Thrift Day,Observance
+31/10/2008,Friday,Reformation Day,Common local holiday
+31/10/2008,Friday,Halloween,Observance
+01/11/2008,Saturday,All Saints' Day,"Silent Day, public holiday"
+01/11/2008,Saturday,All Saints' Day,"Observance, Christian"
+02/11/2008,Sunday,All Souls' Day,Silent Day
+09/11/2008,Sunday,Night of Broken Glass Remembrance Day,Observance
+09/11/2008,Sunday,9th of November,Observance
+09/11/2008,Sunday,Fall of the Berlin Wall,Observance
+11/11/2008,Tuesday,St. Martin's Day,"Observance, Christian"
+16/11/2008,Sunday,National Day of Mourning,Silent Day
+19/11/2008,Wednesday,Repentance Day,"Christian, Common local holiday"
+19/11/2008,Wednesday,Repentance Day,"Observance, Christian"
+19/11/2008,Wednesday,Repentance Day,Silent Day
+23/11/2008,Sunday,Sunday of the Dead,Silent Day
+30/11/2008,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2008,Saturday,Saint Nicholas Day,"Observance, Christian"
+07/12/2008,Sunday,Second Advent Sunday,"Observance, Christian"
+08/12/2008,Monday,Feast of the Immaculate Conception,"Observance, Christian"
+09/12/2008,Tuesday,Eid al-Adha,"Observance, Muslim"
+14/12/2008,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2008,Friday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2008,Sunday,Fourth Advent Sunday,"Observance, Christian"
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Silent Day
+25/12/2008,Thursday,Christmas Day,"National holiday, Christian"
+26/12/2008,Friday,Boxing Day,"National holiday, Christian"
+31/12/2008,Wednesday,New Year's Eve,Bank holiday
+01/01/2009,Thursday,New Year's Day,National holiday
+06/01/2009,Tuesday,Epiphany,Common local holiday
+06/01/2009,Tuesday,Epiphany,"Observance, Christian"
+07/01/2009,Wednesday,Ashura,"Observance, Muslim"
+22/01/2009,Thursday,Franco-German Day,Observance
+27/01/2009,Tuesday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2009,Saturday,Valentine's Day,Observance
+23/02/2009,Monday,Shrove Monday,Observance
+24/02/2009,Tuesday,Carnival Tuesday,Observance
+25/02/2009,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2009,Sunday,International Women's Day,Observance
+17/03/2009,Tuesday,St. Patrick's Day,"Observance, Christian"
+20/03/2009,Friday,March Equinox,Season
+29/03/2009,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+05/04/2009,Sunday,Palm Sunday,"Observance, Christian"
+09/04/2009,Thursday,Maundy Thursday,Silent Day
+09/04/2009,Thursday,Maundy Thursday,"Observance, Christian"
+09/04/2009,Thursday,First Day of Passover,"Observance, Hebrew"
+10/04/2009,Friday,Good Friday,"National holiday, Christian"
+10/04/2009,Friday,Second Day of Passover,"Observance, Hebrew"
+11/04/2009,Saturday,Holy Saturday,Silent Day
+12/04/2009,Sunday,Easter Sunday,"Observance, Christian"
+12/04/2009,Sunday,Easter Sunday,"Christian, Common local holiday"
+13/04/2009,Monday,Easter Monday,"National holiday, Christian"
+14/04/2009,Tuesday,Sixth Day of Passover,"Observance, Hebrew"
+15/04/2009,Wednesday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2009,Thursday,German Beer Day,Observance
+23/04/2009,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2009,Thursday,Walpurgis Night,Observance
+01/05/2009,Friday,May Day,National holiday
+05/05/2009,Tuesday,Europe Day (Council of Europe),Observance
+08/05/2009,Friday,Anniversary of the End of World War II,Observance
+09/05/2009,Saturday,Europe Day (European Union),Observance
+10/05/2009,Sunday,Mother's Day,Observance
+21/05/2009,Thursday,Father's Day,Observance
+21/05/2009,Thursday,Ascension Day,"National holiday, Christian"
+23/05/2009,Saturday,Constitution Day,Observance
+29/05/2009,Friday,First Day of Shavuot,"Observance, Hebrew"
+30/05/2009,Saturday,Second Day of Shavuot,"Observance, Hebrew"
+31/05/2009,Sunday,Whit Sunday,"Christian, Common local holiday"
+31/05/2009,Sunday,Whit Sunday,"Observance, Christian"
+01/06/2009,Monday,Whit Monday,"National holiday, Christian"
+01/06/2009,Monday,International Childrens' Day,Observance
+03/06/2009,Wednesday,European Bicycle Day,Observance
+11/06/2009,Thursday,Corpus Christi,"Christian, Common local holiday"
+21/06/2009,Sunday,Car-free Sunday,Observance
+21/06/2009,Sunday,June Solstice,Season
+24/06/2009,Wednesday,St. John,"Observance, Christian"
+27/06/2009,Saturday,Architecture Day,Observance
+29/06/2009,Monday,St Peter and Paul,"Observance, Christian"
+08/08/2009,Saturday,Peace Festival in Augsburg,Local holiday
+15/08/2009,Saturday,Assumption of Mary,"Observance, Christian"
+15/08/2009,Saturday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2009,Tuesday,Anti War Day,Observance
+12/09/2009,Saturday,German Language Day,Observance
+13/09/2009,Sunday,European Heritage Days,Observance
+19/09/2009,Saturday,Rosh Hashana,"Observance, Hebrew"
+20/09/2009,Sunday,German World Children's Day,Observance
+20/09/2009,Sunday,Second Day of Rosh Hashana,"Observance, Hebrew"
+21/09/2009,Monday,Eid ul Fitr,"Observance, Muslim"
+22/09/2009,Tuesday,September Equinox,Season
+28/09/2009,Monday,Yom Kippur,"Observance, Hebrew"
+03/10/2009,Saturday,Day of German Unity,National holiday
+03/10/2009,Saturday,German Food Bank Day,Observance
+03/10/2009,Saturday,First day of Sukkot,"Observance, Hebrew"
+04/10/2009,Sunday,Harvest Festival,Observance
+04/10/2009,Sunday,Second Day of Sukkot,"Observance, Hebrew"
+08/10/2009,Thursday,Sixth Day of Sukkot,"Observance, Hebrew"
+09/10/2009,Friday,Seventh Day of Sukkot,"Observance, Hebrew"
+10/10/2009,Saturday,Shemini Atzeret,"Observance, Hebrew"
+11/10/2009,Sunday,Simchat Torah,"Observance, Hebrew"
+25/10/2009,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2009,Friday,World Thrift Day,Observance
+31/10/2009,Saturday,Reformation Day,Common local holiday
+31/10/2009,Saturday,Halloween,Observance
+01/11/2009,Sunday,All Saints' Day,"Silent Day, public holiday"
+01/11/2009,Sunday,All Saints' Day,"Observance, Christian"
+02/11/2009,Monday,All Souls' Day,Silent Day
+09/11/2009,Monday,Night of Broken Glass Remembrance Day,Observance
+09/11/2009,Monday,9th of November,Observance
+09/11/2009,Monday,Fall of the Berlin Wall,Observance
+11/11/2009,Wednesday,St. Martin's Day,"Observance, Christian"
+15/11/2009,Sunday,National Day of Mourning,Silent Day
+18/11/2009,Wednesday,Repentance Day,"Christian, Common local holiday"
+18/11/2009,Wednesday,Repentance Day,Silent Day
+18/11/2009,Wednesday,Repentance Day,"Observance, Christian"
+22/11/2009,Sunday,Sunday of the Dead,Silent Day
+28/11/2009,Saturday,Eid al-Adha,"Observance, Muslim"
+29/11/2009,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2009,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2009,Sunday,Saint Nicholas Day,"Observance, Christian"
+08/12/2009,Tuesday,Feast of the Immaculate Conception,"Observance, Christian"
+13/12/2009,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2009,Saturday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+20/12/2009,Sunday,Fourth Advent Sunday,"Observance, Christian"
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Silent Day
+25/12/2009,Friday,Christmas Day,"National holiday, Christian"
+26/12/2009,Saturday,Boxing Day,"National holiday, Christian"
+27/12/2009,Sunday,Ashura,"Observance, Muslim"
+31/12/2009,Thursday,New Year's Eve,Bank holiday
+01/01/2010,Friday,New Year's Day,National holiday
+06/01/2010,Wednesday,Epiphany,"Observance, Christian"
+06/01/2010,Wednesday,Epiphany,Common local holiday
+22/01/2010,Friday,Franco-German Day,Observance
+27/01/2010,Wednesday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2010,Sunday,Valentine's Day,Observance
+15/02/2010,Monday,Shrove Monday,Observance
+16/02/2010,Tuesday,Carnival Tuesday,Observance
+17/02/2010,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2010,Monday,International Women's Day,Observance
+17/03/2010,Wednesday,St. Patrick's Day,"Observance, Christian"
+18/03/2010,Thursday,Anniversary of the March Revolution,Observance
+20/03/2010,Saturday,March Equinox,Season
+28/03/2010,Sunday,Palm Sunday,"Observance, Christian"
+28/03/2010,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+30/03/2010,Tuesday,First Day of Passover,"Observance, Hebrew"
+31/03/2010,Wednesday,Second Day of Passover,"Observance, Hebrew"
+01/04/2010,Thursday,Maundy Thursday,Silent Day
+01/04/2010,Thursday,Maundy Thursday,"Observance, Christian"
+02/04/2010,Friday,Good Friday,"National holiday, Christian"
+03/04/2010,Saturday,Holy Saturday,Silent Day
+04/04/2010,Sunday,Easter Sunday,"Observance, Christian"
+04/04/2010,Sunday,Easter Sunday,"Christian, Common local holiday"
+04/04/2010,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+05/04/2010,Monday,Easter Monday,"National holiday, Christian"
+05/04/2010,Monday,Seventh Day of Passover,"Observance, Hebrew"
+22/04/2010,Thursday,Girls' Day / Boys' Day,Observance
+23/04/2010,Friday,German Beer Day,Observance
+30/04/2010,Friday,Walpurgis Night,Observance
+01/05/2010,Saturday,May Day,National holiday
+05/05/2010,Wednesday,Europe Day (Council of Europe),Observance
+08/05/2010,Saturday,Anniversary of the End of World War II,Observance
+09/05/2010,Sunday,Mother's Day,Observance
+09/05/2010,Sunday,Europe Day (European Union),Observance
+13/05/2010,Thursday,Father's Day,Observance
+13/05/2010,Thursday,Ascension Day,"National holiday, Christian"
+19/05/2010,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+20/05/2010,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+23/05/2010,Sunday,Whit Sunday,"Observance, Christian"
+23/05/2010,Sunday,Whit Sunday,"Christian, Common local holiday"
+23/05/2010,Sunday,Constitution Day,Observance
+24/05/2010,Monday,Whit Monday,"National holiday, Christian"
+01/06/2010,Tuesday,International Childrens' Day,Observance
+03/06/2010,Thursday,Corpus Christi,"Christian, Common local holiday"
+03/06/2010,Thursday,European Bicycle Day,Observance
+20/06/2010,Sunday,Car-free Sunday,Observance
+21/06/2010,Monday,June Solstice,Season
+24/06/2010,Thursday,St. John,"Observance, Christian"
+26/06/2010,Saturday,Architecture Day,Observance
+29/06/2010,Tuesday,St Peter and Paul,"Observance, Christian"
+08/08/2010,Sunday,Peace Festival in Augsburg,Local holiday
+15/08/2010,Sunday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2010,Sunday,Assumption of Mary,"Observance, Christian"
+01/09/2010,Wednesday,Anti War Day,Observance
+09/09/2010,Thursday,Rosh Hashana,"Observance, Hebrew"
+10/09/2010,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+10/09/2010,Friday,Eid ul Fitr,"Observance, Muslim"
+11/09/2010,Saturday,German Language Day,Observance
+12/09/2010,Sunday,European Heritage Days,Observance
+18/09/2010,Saturday,Yom Kippur,"Observance, Hebrew"
+20/09/2010,Monday,German World Children's Day,Observance
+23/09/2010,Thursday,First day of Sukkot,"Observance, Hebrew"
+23/09/2010,Thursday,September Equinox,Season
+24/09/2010,Friday,Second Day of Sukkot,"Observance, Hebrew"
+28/09/2010,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+29/09/2010,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+30/09/2010,Thursday,Shemini Atzeret,"Observance, Hebrew"
+01/10/2010,Friday,Simchat Torah,"Observance, Hebrew"
+02/10/2010,Saturday,German Food Bank Day,Observance
+03/10/2010,Sunday,Day of German Unity,National holiday
+03/10/2010,Sunday,Harvest Festival,Observance
+29/10/2010,Friday,World Thrift Day,Observance
+31/10/2010,Sunday,Reformation Day,Common local holiday
+31/10/2010,Sunday,Halloween,Observance
+31/10/2010,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2010,Monday,All Saints' Day,"Observance, Christian"
+01/11/2010,Monday,All Saints' Day,"Silent Day, public holiday"
+02/11/2010,Tuesday,All Souls' Day,Silent Day
+09/11/2010,Tuesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2010,Tuesday,9th of November,Observance
+09/11/2010,Tuesday,Fall of the Berlin Wall,Observance
+11/11/2010,Thursday,St. Martin's Day,"Observance, Christian"
+14/11/2010,Sunday,National Day of Mourning,Silent Day
+17/11/2010,Wednesday,Repentance Day,Silent Day
+17/11/2010,Wednesday,Repentance Day,"Christian, Common local holiday"
+17/11/2010,Wednesday,Repentance Day,"Observance, Christian"
+17/11/2010,Wednesday,Eid al-Adha,"Observance, Muslim"
+21/11/2010,Sunday,Sunday of the Dead,Silent Day
+28/11/2010,Sunday,First Advent Sunday,"Observance, Christian"
+05/12/2010,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2010,Monday,Saint Nicholas Day,"Observance, Christian"
+08/12/2010,Wednesday,Feast of the Immaculate Conception,"Observance, Christian"
+12/12/2010,Sunday,Third Advent Sunday,"Observance, Christian"
+17/12/2010,Friday,Ashura,"Observance, Muslim"
+19/12/2010,Sunday,Fourth Advent Sunday,"Observance, Christian"
+19/12/2010,Sunday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+22/12/2010,Wednesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Silent Day
+25/12/2010,Saturday,Christmas Day,"National holiday, Christian"
+26/12/2010,Sunday,Boxing Day,"National holiday, Christian"
+31/12/2010,Friday,New Year's Eve,Bank holiday
+01/01/2011,Saturday,New Year's Day,National holiday
+06/01/2011,Thursday,Epiphany,"Observance, Christian"
+06/01/2011,Thursday,Epiphany,Common local holiday
+22/01/2011,Saturday,Franco-German Day,Observance
+27/01/2011,Thursday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2011,Monday,Valentine's Day,Observance
+07/03/2011,Monday,Shrove Monday,Observance
+08/03/2011,Tuesday,International Women's Day,Observance
+08/03/2011,Tuesday,Carnival Tuesday,Observance
+09/03/2011,Wednesday,Carnival / Ash Wednesday,Silent Day
+17/03/2011,Thursday,St. Patrick's Day,"Observance, Christian"
+18/03/2011,Friday,Anniversary of the March Revolution,Observance
+21/03/2011,Monday,March Equinox,Season
+27/03/2011,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+17/04/2011,Sunday,Palm Sunday,"Observance, Christian"
+19/04/2011,Tuesday,First Day of Passover,"Observance, Hebrew"
+20/04/2011,Wednesday,Second Day of Passover,"Observance, Hebrew"
+21/04/2011,Thursday,Maundy Thursday,"Observance, Christian"
+21/04/2011,Thursday,Maundy Thursday,Silent Day
+22/04/2011,Friday,Good Friday,"National holiday, Christian"
+23/04/2011,Saturday,Holy Saturday,Silent Day
+23/04/2011,Saturday,German Beer Day,Observance
+24/04/2011,Sunday,Easter Sunday,"Christian, Common local holiday"
+24/04/2011,Sunday,Easter Sunday,"Observance, Christian"
+24/04/2011,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+25/04/2011,Monday,Easter Monday,"National holiday, Christian"
+25/04/2011,Monday,Seventh Day of Passover,"Observance, Hebrew"
+28/04/2011,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2011,Saturday,Walpurgis Night,Observance
+01/05/2011,Sunday,May Day,National holiday
+05/05/2011,Thursday,Europe Day (Council of Europe),Observance
+08/05/2011,Sunday,Mother's Day,Observance
+08/05/2011,Sunday,Anniversary of the End of World War II,Observance
+09/05/2011,Monday,Europe Day (European Union),Observance
+23/05/2011,Monday,Constitution Day,Observance
+01/06/2011,Wednesday,International Childrens' Day,Observance
+02/06/2011,Thursday,Father's Day,Observance
+02/06/2011,Thursday,Ascension Day,"National holiday, Christian"
+03/06/2011,Friday,European Bicycle Day,Observance
+08/06/2011,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+09/06/2011,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+12/06/2011,Sunday,Whit Sunday,"Christian, Common local holiday"
+12/06/2011,Sunday,Whit Sunday,"Observance, Christian"
+13/06/2011,Monday,Whit Monday,"National holiday, Christian"
+19/06/2011,Sunday,Car-free Sunday,Observance
+21/06/2011,Tuesday,June Solstice,Season
+23/06/2011,Thursday,Corpus Christi,"Christian, Common local holiday"
+24/06/2011,Friday,St. John,"Observance, Christian"
+25/06/2011,Saturday,Architecture Day,Observance
+29/06/2011,Wednesday,St Peter and Paul,"Observance, Christian"
+08/08/2011,Monday,Peace Festival in Augsburg,Local holiday
+15/08/2011,Monday,Assumption of Mary,"Observance, Christian"
+15/08/2011,Monday,Assumption of Mary,"Christian, Common local holiday"
+31/08/2011,Wednesday,Eid ul Fitr,"Observance, Muslim"
+01/09/2011,Thursday,Anti War Day,Observance
+10/09/2011,Saturday,German Language Day,Observance
+11/09/2011,Sunday,European Heritage Days,Observance
+20/09/2011,Tuesday,German World Children's Day,Observance
+23/09/2011,Friday,September Equinox,Season
+29/09/2011,Thursday,Rosh Hashana,"Observance, Hebrew"
+30/09/2011,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+01/10/2011,Saturday,German Food Bank Day,Observance
+02/10/2011,Sunday,Harvest Festival,Observance
+03/10/2011,Monday,Day of German Unity,National holiday
+08/10/2011,Saturday,Yom Kippur,"Observance, Hebrew"
+13/10/2011,Thursday,First day of Sukkot,"Observance, Hebrew"
+14/10/2011,Friday,Second Day of Sukkot,"Observance, Hebrew"
+18/10/2011,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+19/10/2011,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+20/10/2011,Thursday,Shemini Atzeret,"Observance, Hebrew"
+21/10/2011,Friday,Simchat Torah,"Observance, Hebrew"
+28/10/2011,Friday,World Thrift Day,Observance
+30/10/2011,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2011,Monday,Reformation Day,Common local holiday
+31/10/2011,Monday,Halloween,Observance
+01/11/2011,Tuesday,All Saints' Day,"Observance, Christian"
+01/11/2011,Tuesday,All Saints' Day,"Silent Day, public holiday"
+02/11/2011,Wednesday,All Souls' Day,Silent Day
+07/11/2011,Monday,Eid al-Adha,"Observance, Muslim"
+09/11/2011,Wednesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2011,Wednesday,9th of November,Observance
+09/11/2011,Wednesday,Fall of the Berlin Wall,Observance
+11/11/2011,Friday,St. Martin's Day,"Observance, Christian"
+13/11/2011,Sunday,National Day of Mourning,Silent Day
+16/11/2011,Wednesday,Repentance Day,Silent Day
+16/11/2011,Wednesday,Repentance Day,"Christian, Common local holiday"
+16/11/2011,Wednesday,Repentance Day,"Observance, Christian"
+20/11/2011,Sunday,Sunday of the Dead,Silent Day
+27/11/2011,Sunday,First Advent Sunday,"Observance, Christian"
+04/12/2011,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2011,Tuesday,Saint Nicholas Day,"Observance, Christian"
+06/12/2011,Tuesday,Ashura,"Observance, Muslim"
+08/12/2011,Thursday,Feast of the Immaculate Conception,"Observance, Christian"
+11/12/2011,Sunday,Third Advent Sunday,"Observance, Christian"
+18/12/2011,Sunday,Fourth Advent Sunday,"Observance, Christian"
+19/12/2011,Monday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Silent Day
+25/12/2011,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2011,Monday,Boxing Day,"National holiday, Christian"
+31/12/2011,Saturday,New Year's Eve,Bank holiday
+01/01/2012,Sunday,New Year's Day,National holiday
+06/01/2012,Friday,Epiphany,"Observance, Christian"
+06/01/2012,Friday,Epiphany,Common local holiday
+22/01/2012,Sunday,Franco-German Day,Observance
+27/01/2012,Friday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2012,Tuesday,Valentine's Day,Observance
+20/02/2012,Monday,Shrove Monday,Observance
+21/02/2012,Tuesday,Carnival Tuesday,Observance
+22/02/2012,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2012,Thursday,International Women's Day,Observance
+17/03/2012,Saturday,St. Patrick's Day,"Observance, Christian"
+18/03/2012,Sunday,Anniversary of the March Revolution,Observance
+20/03/2012,Tuesday,March Equinox,Season
+25/03/2012,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2012,Sunday,Palm Sunday,"Observance, Christian"
+05/04/2012,Thursday,Maundy Thursday,"Observance, Christian"
+05/04/2012,Thursday,Maundy Thursday,Silent Day
+06/04/2012,Friday,Good Friday,"National holiday, Christian"
+07/04/2012,Saturday,Holy Saturday,Silent Day
+07/04/2012,Saturday,First Day of Passover,"Observance, Hebrew"
+08/04/2012,Sunday,Easter Sunday,"Observance, Christian"
+08/04/2012,Sunday,Easter Sunday,"Christian, Common local holiday"
+08/04/2012,Sunday,Second Day of Passover,"Observance, Hebrew"
+09/04/2012,Monday,Easter Monday,"National holiday, Christian"
+12/04/2012,Thursday,Sixth Day of Passover,"Observance, Hebrew"
+13/04/2012,Friday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2012,Monday,German Beer Day,Observance
+26/04/2012,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2012,Monday,Walpurgis Night,Observance
+01/05/2012,Tuesday,May Day,National holiday
+05/05/2012,Saturday,Europe Day (Council of Europe),Observance
+08/05/2012,Tuesday,Anniversary of the End of World War II,Observance
+09/05/2012,Wednesday,Europe Day (European Union),Observance
+13/05/2012,Sunday,Mother's Day,Observance
+17/05/2012,Thursday,Father's Day,Observance
+17/05/2012,Thursday,Ascension Day,"National holiday, Christian"
+23/05/2012,Wednesday,Constitution Day,Observance
+27/05/2012,Sunday,Whit Sunday,"Observance, Christian"
+27/05/2012,Sunday,Whit Sunday,"Christian, Common local holiday"
+27/05/2012,Sunday,First Day of Shavuot,"Observance, Hebrew"
+28/05/2012,Monday,Whit Monday,"National holiday, Christian"
+28/05/2012,Monday,Second Day of Shavuot,"Observance, Hebrew"
+01/06/2012,Friday,International Childrens' Day,Observance
+03/06/2012,Sunday,European Bicycle Day,Observance
+07/06/2012,Thursday,Corpus Christi,"Christian, Common local holiday"
+17/06/2012,Sunday,Car-free Sunday,Observance
+21/06/2012,Thursday,June Solstice,Season
+23/06/2012,Saturday,Architecture Day,Observance
+24/06/2012,Sunday,St. John,"Observance, Christian"
+29/06/2012,Friday,St Peter and Paul,"Observance, Christian"
+08/08/2012,Wednesday,Peace Festival in Augsburg,Local holiday
+15/08/2012,Wednesday,Assumption of Mary,"Observance, Christian"
+15/08/2012,Wednesday,Assumption of Mary,"Christian, Common local holiday"
+19/08/2012,Sunday,Eid ul Fitr,"Observance, Muslim"
+01/09/2012,Saturday,Anti War Day,Observance
+08/09/2012,Saturday,German Language Day,Observance
+09/09/2012,Sunday,European Heritage Days,Observance
+17/09/2012,Monday,Rosh Hashana,"Observance, Hebrew"
+18/09/2012,Tuesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+20/09/2012,Thursday,German World Children's Day,Observance
+22/09/2012,Saturday,September Equinox,Season
+26/09/2012,Wednesday,Yom Kippur,"Observance, Hebrew"
+01/10/2012,Monday,First day of Sukkot,"Observance, Hebrew"
+02/10/2012,Tuesday,Second Day of Sukkot,"Observance, Hebrew"
+03/10/2012,Wednesday,Day of German Unity,National holiday
+06/10/2012,Saturday,German Food Bank Day,Observance
+06/10/2012,Saturday,Sixth Day of Sukkot,"Observance, Hebrew"
+07/10/2012,Sunday,Harvest Festival,Observance
+07/10/2012,Sunday,Seventh Day of Sukkot,"Observance, Hebrew"
+08/10/2012,Monday,Shemini Atzeret,"Observance, Hebrew"
+09/10/2012,Tuesday,Simchat Torah,"Observance, Hebrew"
+26/10/2012,Friday,Eid al-Adha,"Observance, Muslim"
+28/10/2012,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2012,Tuesday,World Thrift Day,Observance
+31/10/2012,Wednesday,Reformation Day,Common local holiday
+31/10/2012,Wednesday,Halloween,Observance
+01/11/2012,Thursday,All Saints' Day,"Observance, Christian"
+01/11/2012,Thursday,All Saints' Day,"Silent Day, public holiday"
+02/11/2012,Friday,All Souls' Day,Silent Day
+09/11/2012,Friday,Night of Broken Glass Remembrance Day,Observance
+09/11/2012,Friday,9th of November,Observance
+09/11/2012,Friday,Fall of the Berlin Wall,Observance
+11/11/2012,Sunday,St. Martin's Day,"Observance, Christian"
+18/11/2012,Sunday,National Day of Mourning,Silent Day
+21/11/2012,Wednesday,Repentance Day,Silent Day
+21/11/2012,Wednesday,Repentance Day,"Christian, Common local holiday"
+21/11/2012,Wednesday,Repentance Day,"Observance, Christian"
+24/11/2012,Saturday,Ashura,"Observance, Muslim"
+25/11/2012,Sunday,Sunday of the Dead,Silent Day
+02/12/2012,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2012,Thursday,Saint Nicholas Day,"Observance, Christian"
+08/12/2012,Saturday,Feast of the Immaculate Conception,"Observance, Christian"
+09/12/2012,Sunday,Second Advent Sunday,"Observance, Christian"
+16/12/2012,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2012,Wednesday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2012,Friday,December Solstice,Season
+23/12/2012,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2012,Monday,Christmas Eve,Silent Day
+25/12/2012,Tuesday,Christmas Day,"National holiday, Christian"
+26/12/2012,Wednesday,Boxing Day,"National holiday, Christian"
+31/12/2012,Monday,New Year's Eve,Bank holiday
+01/01/2013,Tuesday,New Year's Day,National holiday
+06/01/2013,Sunday,Epiphany,"Observance, Christian"
+06/01/2013,Sunday,Epiphany,Common local holiday
+22/01/2013,Tuesday,Franco-German Day,Observance
+27/01/2013,Sunday,Remembrance Day for the Victims of National Socialism,Observance
+11/02/2013,Monday,Shrove Monday,Observance
+12/02/2013,Tuesday,Carnival Tuesday,Observance
+13/02/2013,Wednesday,Carnival / Ash Wednesday,Silent Day
+14/02/2013,Thursday,Valentine's Day,Observance
+08/03/2013,Friday,International Women's Day,Observance
+17/03/2013,Sunday,St. Patrick's Day,"Observance, Christian"
+18/03/2013,Monday,Anniversary of the March Revolution,Observance
+20/03/2013,Wednesday,March Equinox,Season
+24/03/2013,Sunday,Palm Sunday,"Observance, Christian"
+26/03/2013,Tuesday,First Day of Passover,"Observance, Hebrew"
+27/03/2013,Wednesday,Second Day of Passover,"Observance, Hebrew"
+28/03/2013,Thursday,Maundy Thursday,Silent Day
+28/03/2013,Thursday,Maundy Thursday,"Observance, Christian"
+29/03/2013,Friday,Good Friday,"National holiday, Christian"
+30/03/2013,Saturday,Holy Saturday,Silent Day
+31/03/2013,Sunday,Easter Sunday,"Christian, Common local holiday"
+31/03/2013,Sunday,Easter Sunday,"Observance, Christian"
+31/03/2013,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+31/03/2013,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+01/04/2013,Monday,Easter Monday,"National holiday, Christian"
+01/04/2013,Monday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2013,Tuesday,German Beer Day,Observance
+25/04/2013,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2013,Tuesday,Walpurgis Night,Observance
+01/05/2013,Wednesday,May Day,National holiday
+05/05/2013,Sunday,Europe Day (Council of Europe),Observance
+08/05/2013,Wednesday,Anniversary of the End of World War II,Observance
+09/05/2013,Thursday,Father's Day,Observance
+09/05/2013,Thursday,Ascension Day,"National holiday, Christian"
+09/05/2013,Thursday,Europe Day (European Union),Observance
+12/05/2013,Sunday,Mother's Day,Observance
+15/05/2013,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+16/05/2013,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+19/05/2013,Sunday,Whit Sunday,"Christian, Common local holiday"
+19/05/2013,Sunday,Whit Sunday,"Observance, Christian"
+20/05/2013,Monday,Whit Monday,"National holiday, Christian"
+23/05/2013,Thursday,Constitution Day,Observance
+30/05/2013,Thursday,Corpus Christi,"Christian, Common local holiday"
+01/06/2013,Saturday,International Childrens' Day,Observance
+03/06/2013,Monday,European Bicycle Day,Observance
+16/06/2013,Sunday,Car-free Sunday,Observance
+21/06/2013,Friday,June Solstice,Season
+24/06/2013,Monday,St. John,"Observance, Christian"
+29/06/2013,Saturday,Architecture Day,Observance
+29/06/2013,Saturday,St Peter and Paul,"Observance, Christian"
+08/08/2013,Thursday,Peace Festival in Augsburg,Local holiday
+08/08/2013,Thursday,Eid ul Fitr,"Observance, Muslim"
+15/08/2013,Thursday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2013,Thursday,Assumption of Mary,"Observance, Christian"
+01/09/2013,Sunday,Anti War Day,Observance
+05/09/2013,Thursday,Rosh Hashana,"Observance, Hebrew"
+06/09/2013,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+08/09/2013,Sunday,European Heritage Days,Observance
+14/09/2013,Saturday,German Language Day,Observance
+14/09/2013,Saturday,Yom Kippur,"Observance, Hebrew"
+19/09/2013,Thursday,First day of Sukkot,"Observance, Hebrew"
+20/09/2013,Friday,German World Children's Day,Observance
+20/09/2013,Friday,Second Day of Sukkot,"Observance, Hebrew"
+22/09/2013,Sunday,September Equinox,Season
+24/09/2013,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+25/09/2013,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+26/09/2013,Thursday,Shemini Atzeret,"Observance, Hebrew"
+27/09/2013,Friday,Simchat Torah,"Observance, Hebrew"
+03/10/2013,Thursday,Day of German Unity,National holiday
+05/10/2013,Saturday,German Food Bank Day,Observance
+06/10/2013,Sunday,Harvest Festival,Observance
+15/10/2013,Tuesday,Eid al-Adha,"Observance, Muslim"
+27/10/2013,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2013,Wednesday,World Thrift Day,Observance
+31/10/2013,Thursday,Reformation Day,Common local holiday
+31/10/2013,Thursday,Halloween,Observance
+01/11/2013,Friday,All Saints' Day,"Silent Day, public holiday"
+01/11/2013,Friday,All Saints' Day,"Observance, Christian"
+02/11/2013,Saturday,All Souls' Day,Silent Day
+09/11/2013,Saturday,Night of Broken Glass Remembrance Day,Observance
+09/11/2013,Saturday,9th of November,Observance
+09/11/2013,Saturday,Fall of the Berlin Wall,Observance
+11/11/2013,Monday,St. Martin's Day,"Observance, Christian"
+14/11/2013,Thursday,Ashura,"Observance, Muslim"
+17/11/2013,Sunday,National Day of Mourning,Silent Day
+20/11/2013,Wednesday,Repentance Day,"Observance, Christian"
+20/11/2013,Wednesday,Repentance Day,Silent Day
+20/11/2013,Wednesday,Repentance Day,"Christian, Common local holiday"
+24/11/2013,Sunday,Sunday of the Dead,Silent Day
+01/12/2013,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2013,Friday,Saint Nicholas Day,"Observance, Christian"
+08/12/2013,Sunday,Second Advent Sunday,"Observance, Christian"
+08/12/2013,Sunday,Feast of the Immaculate Conception,"Observance, Christian"
+15/12/2013,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2013,Thursday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2013,Saturday,December Solstice,Season
+22/12/2013,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2013,Tuesday,Christmas Eve,Silent Day
+25/12/2013,Wednesday,Christmas Day,"National holiday, Christian"
+26/12/2013,Thursday,Boxing Day,"National holiday, Christian"
+31/12/2013,Tuesday,New Year's Eve,Bank holiday
+01/01/2014,Wednesday,New Year's Day,National holiday
+06/01/2014,Monday,Epiphany,"Observance, Christian"
+06/01/2014,Monday,Epiphany,Common local holiday
+22/01/2014,Wednesday,Franco-German Day,Observance
+27/01/2014,Monday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2014,Friday,Valentine's Day,Observance
+03/03/2014,Monday,Shrove Monday,Observance
+04/03/2014,Tuesday,Carnival Tuesday,Observance
+05/03/2014,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2014,Saturday,International Women's Day,Observance
+17/03/2014,Monday,St. Patrick's Day,"Observance, Christian"
+18/03/2014,Tuesday,Anniversary of the March Revolution,Observance
+20/03/2014,Thursday,March Equinox,Season
+30/03/2014,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+13/04/2014,Sunday,Palm Sunday,"Observance, Christian"
+15/04/2014,Tuesday,First Day of Passover,"Observance, Hebrew"
+16/04/2014,Wednesday,Second Day of Passover,"Observance, Hebrew"
+17/04/2014,Thursday,Maundy Thursday,"Observance, Christian"
+17/04/2014,Thursday,Maundy Thursday,Silent Day
+18/04/2014,Friday,Good Friday,"National holiday, Christian"
+19/04/2014,Saturday,Holy Saturday,Silent Day
+20/04/2014,Sunday,Easter Sunday,"Christian, Common local holiday"
+20/04/2014,Sunday,Easter Sunday,"Observance, Christian"
+20/04/2014,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+21/04/2014,Monday,Easter Monday,"National holiday, Christian"
+21/04/2014,Monday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2014,Wednesday,German Beer Day,Observance
+24/04/2014,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2014,Wednesday,Walpurgis Night,Observance
+01/05/2014,Thursday,May Day,National holiday
+05/05/2014,Monday,Europe Day (Council of Europe),Observance
+08/05/2014,Thursday,Anniversary of the End of World War II,Observance
+09/05/2014,Friday,Europe Day (European Union),Observance
+11/05/2014,Sunday,Mother's Day,Observance
+23/05/2014,Friday,Constitution Day,Observance
+29/05/2014,Thursday,Father's Day,Observance
+29/05/2014,Thursday,Ascension Day,"National holiday, Christian"
+01/06/2014,Sunday,International Childrens' Day,Observance
+03/06/2014,Tuesday,European Bicycle Day,Observance
+04/06/2014,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+05/06/2014,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+08/06/2014,Sunday,Whit Sunday,"Christian, Common local holiday"
+08/06/2014,Sunday,Whit Sunday,"Observance, Christian"
+09/06/2014,Monday,Whit Monday,"National holiday, Christian"
+15/06/2014,Sunday,Car-free Sunday,Observance
+19/06/2014,Thursday,Corpus Christi,"Christian, Common local holiday"
+21/06/2014,Saturday,June Solstice,Season
+24/06/2014,Tuesday,St. John,"Observance, Christian"
+28/06/2014,Saturday,Architecture Day,Observance
+29/06/2014,Sunday,St Peter and Paul,"Observance, Christian"
+29/07/2014,Tuesday,Eid ul Fitr,"Observance, Muslim"
+08/08/2014,Friday,Peace Festival in Augsburg,Local holiday
+15/08/2014,Friday,Assumption of Mary,"Observance, Christian"
+15/08/2014,Friday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2014,Monday,Anti War Day,Observance
+13/09/2014,Saturday,German Language Day,Observance
+14/09/2014,Sunday,European Heritage Days,Observance
+20/09/2014,Saturday,German World Children's Day,Observance
+23/09/2014,Tuesday,September Equinox,Season
+25/09/2014,Thursday,Rosh Hashana,"Observance, Hebrew"
+26/09/2014,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+03/10/2014,Friday,Day of German Unity,National holiday
+04/10/2014,Saturday,German Food Bank Day,Observance
+04/10/2014,Saturday,Yom Kippur,"Observance, Hebrew"
+05/10/2014,Sunday,Harvest Festival,Observance
+05/10/2014,Sunday,Eid al-Adha,"Observance, Muslim"
+09/10/2014,Thursday,First day of Sukkot,"Observance, Hebrew"
+10/10/2014,Friday,Second Day of Sukkot,"Observance, Hebrew"
+14/10/2014,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+15/10/2014,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+16/10/2014,Thursday,Shemini Atzeret,"Observance, Hebrew"
+17/10/2014,Friday,Simchat Torah,"Observance, Hebrew"
+26/10/2014,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2014,Thursday,World Thrift Day,Observance
+31/10/2014,Friday,Reformation Day,Common local holiday
+31/10/2014,Friday,Halloween,Observance
+01/11/2014,Saturday,All Saints' Day,"Silent Day, public holiday"
+01/11/2014,Saturday,All Saints' Day,"Observance, Christian"
+02/11/2014,Sunday,All Souls' Day,Silent Day
+03/11/2014,Monday,Ashura,"Observance, Muslim"
+09/11/2014,Sunday,Night of Broken Glass Remembrance Day,Observance
+09/11/2014,Sunday,9th of November,Observance
+09/11/2014,Sunday,Fall of the Berlin Wall,Observance
+11/11/2014,Tuesday,St. Martin's Day,"Observance, Christian"
+16/11/2014,Sunday,National Day of Mourning,Silent Day
+19/11/2014,Wednesday,Repentance Day,Silent Day
+19/11/2014,Wednesday,Repentance Day,"Observance, Christian"
+19/11/2014,Wednesday,Repentance Day,"Christian, Common local holiday"
+23/11/2014,Sunday,Sunday of the Dead,Silent Day
+30/11/2014,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2014,Saturday,Saint Nicholas Day,"Observance, Christian"
+07/12/2014,Sunday,Second Advent Sunday,"Observance, Christian"
+08/12/2014,Monday,Feast of the Immaculate Conception,"Observance, Christian"
+14/12/2014,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2014,Friday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2014,Sunday,Fourth Advent Sunday,"Observance, Christian"
+22/12/2014,Monday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Silent Day
+25/12/2014,Thursday,Christmas Day,"National holiday, Christian"
+26/12/2014,Friday,Boxing Day,"National holiday, Christian"
+31/12/2014,Wednesday,New Year's Eve,Bank holiday
+01/01/2015,Thursday,New Year's Day,National holiday
+06/01/2015,Tuesday,Epiphany,"Observance, Christian"
+06/01/2015,Tuesday,Epiphany,Common local holiday
+22/01/2015,Thursday,Franco-German Day,Observance
+27/01/2015,Tuesday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2015,Saturday,Valentine's Day,Observance
+16/02/2015,Monday,Shrove Monday,Observance
+17/02/2015,Tuesday,Carnival Tuesday,Observance
+18/02/2015,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2015,Sunday,International Women's Day,Observance
+17/03/2015,Tuesday,St. Patrick's Day,"Observance, Christian"
+18/03/2015,Wednesday,Anniversary of the March Revolution,Observance
+20/03/2015,Friday,March Equinox,Season
+29/03/2015,Sunday,Palm Sunday,"Observance, Christian"
+29/03/2015,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+02/04/2015,Thursday,Maundy Thursday,"Observance, Christian"
+02/04/2015,Thursday,Maundy Thursday,Silent Day
+03/04/2015,Friday,Good Friday,"National holiday, Christian"
+04/04/2015,Saturday,Holy Saturday,Silent Day
+04/04/2015,Saturday,First Day of Passover,"Observance, Hebrew"
+05/04/2015,Sunday,Easter Sunday,"Observance, Christian"
+05/04/2015,Sunday,Easter Sunday,"Christian, Common local holiday"
+05/04/2015,Sunday,Second Day of Passover,"Observance, Hebrew"
+06/04/2015,Monday,Easter Monday,"National holiday, Christian"
+09/04/2015,Thursday,Sixth Day of Passover,"Observance, Hebrew"
+10/04/2015,Friday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2015,Thursday,German Beer Day,Observance
+23/04/2015,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2015,Thursday,Walpurgis Night,Observance
+01/05/2015,Friday,May Day,National holiday
+05/05/2015,Tuesday,Europe Day (Council of Europe),Observance
+08/05/2015,Friday,Anniversary of the End of World War II,Observance
+09/05/2015,Saturday,Europe Day (European Union),Observance
+10/05/2015,Sunday,Mother's Day,Observance
+14/05/2015,Thursday,Father's Day,Observance
+14/05/2015,Thursday,Ascension Day,"National holiday, Christian"
+23/05/2015,Saturday,Constitution Day,Observance
+24/05/2015,Sunday,Whit Sunday,"Christian, Common local holiday"
+24/05/2015,Sunday,Whit Sunday,"Observance, Christian"
+24/05/2015,Sunday,First Day of Shavuot,"Observance, Hebrew"
+25/05/2015,Monday,Whit Monday,"National holiday, Christian"
+25/05/2015,Monday,Second Day of Shavuot,"Observance, Hebrew"
+01/06/2015,Monday,International Childrens' Day,Observance
+03/06/2015,Wednesday,European Bicycle Day,Observance
+04/06/2015,Thursday,Corpus Christi,"Christian, Common local holiday"
+21/06/2015,Sunday,Car-free Sunday,Observance
+21/06/2015,Sunday,June Solstice,Season
+24/06/2015,Wednesday,St. John,"Observance, Christian"
+27/06/2015,Saturday,Architecture Day,Observance
+29/06/2015,Monday,St Peter and Paul,"Observance, Christian"
+18/07/2015,Saturday,Eid ul Fitr,"Observance, Muslim"
+08/08/2015,Saturday,Peace Festival in Augsburg,Local holiday
+15/08/2015,Saturday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2015,Saturday,Assumption of Mary,"Observance, Christian"
+01/09/2015,Tuesday,Anti War Day,Observance
+12/09/2015,Saturday,German Language Day,Observance
+13/09/2015,Sunday,European Heritage Days,Observance
+14/09/2015,Monday,Rosh Hashana,"Observance, Hebrew"
+15/09/2015,Tuesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+20/09/2015,Sunday,German World Children's Day,Observance
+23/09/2015,Wednesday,Yom Kippur,"Observance, Hebrew"
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,"Observance, Muslim"
+28/09/2015,Monday,First day of Sukkot,"Observance, Hebrew"
+29/09/2015,Tuesday,Second Day of Sukkot,"Observance, Hebrew"
+03/10/2015,Saturday,Day of German Unity,National holiday
+03/10/2015,Saturday,German Food Bank Day,Observance
+03/10/2015,Saturday,Sixth Day of Sukkot,"Observance, Hebrew"
+04/10/2015,Sunday,Harvest Festival,Observance
+04/10/2015,Sunday,Seventh Day of Sukkot,"Observance, Hebrew"
+05/10/2015,Monday,Shemini Atzeret,"Observance, Hebrew"
+06/10/2015,Tuesday,Simchat Torah,"Observance, Hebrew"
+24/10/2015,Saturday,Ashura,"Observance, Muslim"
+25/10/2015,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2015,Friday,World Thrift Day,Observance
+31/10/2015,Saturday,Reformation Day,Common local holiday
+31/10/2015,Saturday,Halloween,Observance
+01/11/2015,Sunday,All Saints' Day,"Silent Day, public holiday"
+01/11/2015,Sunday,All Saints' Day,"Observance, Christian"
+02/11/2015,Monday,All Souls' Day,Silent Day
+09/11/2015,Monday,Night of Broken Glass Remembrance Day,Observance
+09/11/2015,Monday,9th of November,Observance
+09/11/2015,Monday,Fall of the Berlin Wall,Observance
+11/11/2015,Wednesday,St. Martin's Day,"Observance, Christian"
+15/11/2015,Sunday,National Day of Mourning,Silent Day
+18/11/2015,Wednesday,Repentance Day,"Observance, Christian"
+18/11/2015,Wednesday,Repentance Day,Silent Day
+18/11/2015,Wednesday,Repentance Day,"Christian, Common local holiday"
+22/11/2015,Sunday,Sunday of the Dead,Silent Day
+29/11/2015,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2015,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2015,Sunday,Saint Nicholas Day,"Observance, Christian"
+08/12/2015,Tuesday,Feast of the Immaculate Conception,"Observance, Christian"
+13/12/2015,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2015,Saturday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+20/12/2015,Sunday,Fourth Advent Sunday,"Observance, Christian"
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Silent Day
+25/12/2015,Friday,Christmas Day,"National holiday, Christian"
+26/12/2015,Saturday,Boxing Day,"National holiday, Christian"
+31/12/2015,Thursday,New Year's Eve,Bank holiday
+01/01/2016,Friday,New Year's Day,National holiday
+06/01/2016,Wednesday,Epiphany,"Observance, Christian"
+06/01/2016,Wednesday,Epiphany,Common local holiday
+22/01/2016,Friday,Franco-German Day,Observance
+27/01/2016,Wednesday,Remembrance Day for the Victims of National Socialism,Observance
+08/02/2016,Monday,Shrove Monday,Observance
+09/02/2016,Tuesday,Carnival Tuesday,Observance
+10/02/2016,Wednesday,Carnival / Ash Wednesday,Silent Day
+14/02/2016,Sunday,Valentine's Day,Observance
+08/03/2016,Tuesday,International Women's Day,Observance
+17/03/2016,Thursday,St. Patrick's Day,"Observance, Christian"
+18/03/2016,Friday,Anniversary of the March Revolution,Observance
+20/03/2016,Sunday,Palm Sunday,"Observance, Christian"
+20/03/2016,Sunday,March Equinox,Season
+24/03/2016,Thursday,Maundy Thursday,"Observance, Christian"
+24/03/2016,Thursday,Maundy Thursday,Silent Day
+25/03/2016,Friday,Good Friday,"National holiday, Christian"
+26/03/2016,Saturday,Holy Saturday,Silent Day
+27/03/2016,Sunday,Easter Sunday,"Observance, Christian"
+27/03/2016,Sunday,Easter Sunday,"Christian, Common local holiday"
+27/03/2016,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+28/03/2016,Monday,Easter Monday,"National holiday, Christian"
+23/04/2016,Saturday,German Beer Day,Observance
+23/04/2016,Saturday,First Day of Passover,"Observance, Hebrew"
+24/04/2016,Sunday,Second Day of Passover,"Observance, Hebrew"
+28/04/2016,Thursday,Girls' Day / Boys' Day,Observance
+28/04/2016,Thursday,Sixth Day of Passover,"Observance, Hebrew"
+29/04/2016,Friday,Seventh Day of Passover,"Observance, Hebrew"
+30/04/2016,Saturday,Walpurgis Night,Observance
+01/05/2016,Sunday,May Day,National holiday
+05/05/2016,Thursday,Father's Day,Observance
+05/05/2016,Thursday,Ascension Day,"National holiday, Christian"
+05/05/2016,Thursday,Europe Day (Council of Europe),Observance
+08/05/2016,Sunday,Mother's Day,Observance
+08/05/2016,Sunday,Anniversary of the End of World War II,Observance
+09/05/2016,Monday,Europe Day (European Union),Observance
+15/05/2016,Sunday,Whit Sunday,"Christian, Common local holiday"
+15/05/2016,Sunday,Whit Sunday,"Observance, Christian"
+16/05/2016,Monday,Whit Monday,"National holiday, Christian"
+23/05/2016,Monday,Constitution Day,Observance
+26/05/2016,Thursday,Corpus Christi,"Christian, Common local holiday"
+01/06/2016,Wednesday,International Childrens' Day,Observance
+03/06/2016,Friday,European Bicycle Day,Observance
+12/06/2016,Sunday,First Day of Shavuot,"Observance, Hebrew"
+13/06/2016,Monday,Second Day of Shavuot,"Observance, Hebrew"
+17/06/2016,Friday,Remembrance of the Victims of SED Injustice,Observance
+19/06/2016,Sunday,Car-free Sunday,Observance
+21/06/2016,Tuesday,June Solstice,Season
+24/06/2016,Friday,St. John,"Observance, Christian"
+25/06/2016,Saturday,Architecture Day,Observance
+29/06/2016,Wednesday,St Peter and Paul,"Observance, Christian"
+07/07/2016,Thursday,Eid ul Fitr,"Observance, Muslim"
+08/08/2016,Monday,Peace Festival in Augsburg,Local holiday
+15/08/2016,Monday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2016,Monday,Assumption of Mary,"Observance, Christian"
+01/09/2016,Thursday,Anti War Day,Observance
+10/09/2016,Saturday,German Language Day,Observance
+11/09/2016,Sunday,European Heritage Days,Observance
+13/09/2016,Tuesday,Eid al-Adha,"Observance, Muslim"
+20/09/2016,Tuesday,German World Children's Day,Observance
+22/09/2016,Thursday,September Equinox,Season
+01/10/2016,Saturday,German Food Bank Day,Observance
+02/10/2016,Sunday,Harvest Festival,Observance
+03/10/2016,Monday,Rosh Hashana,"Observance, Hebrew"
+03/10/2016,Monday,Day of German Unity,National holiday
+04/10/2016,Tuesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+12/10/2016,Wednesday,Yom Kippur,"Observance, Hebrew"
+12/10/2016,Wednesday,Ashura,"Observance, Muslim"
+17/10/2016,Monday,First day of Sukkot,"Observance, Hebrew"
+18/10/2016,Tuesday,Second Day of Sukkot,"Observance, Hebrew"
+22/10/2016,Saturday,Sixth Day of Sukkot,"Observance, Hebrew"
+23/10/2016,Sunday,Seventh Day of Sukkot,"Observance, Hebrew"
+24/10/2016,Monday,Shemini Atzeret,"Observance, Hebrew"
+25/10/2016,Tuesday,Simchat Torah,"Observance, Hebrew"
+28/10/2016,Friday,World Thrift Day,Observance
+30/10/2016,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2016,Monday,Reformation Day,Common local holiday
+31/10/2016,Monday,Halloween,Observance
+01/11/2016,Tuesday,All Saints' Day,"Observance, Christian"
+01/11/2016,Tuesday,All Saints' Day,"Silent Day, public holiday"
+02/11/2016,Wednesday,All Souls' Day,Silent Day
+09/11/2016,Wednesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2016,Wednesday,9th of November,Observance
+09/11/2016,Wednesday,Fall of the Berlin Wall,Observance
+11/11/2016,Friday,St. Martin's Day,"Observance, Christian"
+13/11/2016,Sunday,National Day of Mourning,Silent Day
+16/11/2016,Wednesday,Repentance Day,Silent Day
+16/11/2016,Wednesday,Repentance Day,"Christian, Common local holiday"
+16/11/2016,Wednesday,Repentance Day,"Observance, Christian"
+20/11/2016,Sunday,Sunday of the Dead,Silent Day
+27/11/2016,Sunday,First Advent Sunday,"Observance, Christian"
+04/12/2016,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2016,Tuesday,Saint Nicholas Day,"Observance, Christian"
+08/12/2016,Thursday,Feast of the Immaculate Conception,"Observance, Christian"
+11/12/2016,Sunday,Third Advent Sunday,"Observance, Christian"
+18/12/2016,Sunday,Fourth Advent Sunday,"Observance, Christian"
+19/12/2016,Monday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Silent Day
+25/12/2016,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2016,Monday,Boxing Day,"National holiday, Christian"
+31/12/2016,Saturday,New Year's Eve,Bank holiday
+01/01/2017,Sunday,New Year's Day,National holiday
+06/01/2017,Friday,Epiphany,Common local holiday
+06/01/2017,Friday,Epiphany,"Observance, Christian"
+22/01/2017,Sunday,Franco-German Day,Observance
+27/01/2017,Friday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2017,Tuesday,Valentine's Day,Observance
+27/02/2017,Monday,Shrove Monday,Observance
+28/02/2017,Tuesday,Carnival Tuesday,Observance
+01/03/2017,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2017,Wednesday,International Women's Day,Observance
+17/03/2017,Friday,St. Patrick's Day,"Observance, Christian"
+18/03/2017,Saturday,Anniversary of the March Revolution,Observance
+20/03/2017,Monday,March Equinox,Season
+26/03/2017,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+09/04/2017,Sunday,Palm Sunday,"Observance, Christian"
+11/04/2017,Tuesday,First Day of Passover,"Observance, Hebrew"
+12/04/2017,Wednesday,Second Day of Passover,"Observance, Hebrew"
+13/04/2017,Thursday,Maundy Thursday,Silent Day
+13/04/2017,Thursday,Maundy Thursday,"Observance, Christian"
+14/04/2017,Friday,Good Friday,"National holiday, Christian"
+15/04/2017,Saturday,Holy Saturday,Silent Day
+16/04/2017,Sunday,Easter Sunday,"Observance, Christian"
+16/04/2017,Sunday,Easter Sunday,"Christian, Common local holiday"
+16/04/2017,Sunday,Sixth Day of Passover,"Observance, Hebrew"
+17/04/2017,Monday,Easter Monday,"National holiday, Christian"
+17/04/2017,Monday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2017,Sunday,German Beer Day,Observance
+27/04/2017,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2017,Sunday,Walpurgis Night,Observance
+01/05/2017,Monday,May Day,National holiday
+05/05/2017,Friday,Europe Day (Council of Europe),Observance
+08/05/2017,Monday,Anniversary of the End of World War II,Observance
+09/05/2017,Tuesday,Europe Day (European Union),Observance
+14/05/2017,Sunday,Mother's Day,Observance
+23/05/2017,Tuesday,Constitution Day,Observance
+25/05/2017,Thursday,Father's Day,Observance
+25/05/2017,Thursday,Ascension Day,"National holiday, Christian"
+31/05/2017,Wednesday,First Day of Shavuot,"Observance, Hebrew"
+01/06/2017,Thursday,International Childrens' Day,Observance
+01/06/2017,Thursday,Second Day of Shavuot,"Observance, Hebrew"
+03/06/2017,Saturday,European Bicycle Day,Observance
+04/06/2017,Sunday,Whit Sunday,"Christian, Common local holiday"
+04/06/2017,Sunday,Whit Sunday,"Observance, Christian"
+05/06/2017,Monday,Whit Monday,"National holiday, Christian"
+15/06/2017,Thursday,Corpus Christi,"Christian, Common local holiday"
+17/06/2017,Saturday,Remembrance of the Victims of SED Injustice,Observance
+18/06/2017,Sunday,Car-free Sunday,Observance
+21/06/2017,Wednesday,June Solstice,Season
+24/06/2017,Saturday,St. John,"Observance, Christian"
+24/06/2017,Saturday,Architecture Day,Observance
+26/06/2017,Monday,Eid ul Fitr,"Observance, Muslim"
+29/06/2017,Thursday,St Peter and Paul,"Observance, Christian"
+08/08/2017,Tuesday,Peace Festival in Augsburg,Local holiday
+15/08/2017,Tuesday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2017,Tuesday,Assumption of Mary,"Observance, Christian"
+01/09/2017,Friday,Anti War Day,Observance
+02/09/2017,Saturday,Eid al-Adha,"Observance, Muslim"
+09/09/2017,Saturday,German Language Day,Observance
+10/09/2017,Sunday,European Heritage Days,Observance
+16/09/2017,Saturday,German Food Bank Day,Observance
+20/09/2017,Wednesday,German World Children's Day,Observance
+21/09/2017,Thursday,Rosh Hashana,"Observance, Hebrew"
+22/09/2017,Friday,Second Day of Rosh Hashana,"Observance, Hebrew"
+22/09/2017,Friday,September Equinox,Season
+30/09/2017,Saturday,Yom Kippur,"Observance, Hebrew"
+01/10/2017,Sunday,Harvest Festival,Observance
+01/10/2017,Sunday,Ashura,"Observance, Muslim"
+03/10/2017,Tuesday,Day of German Unity,National holiday
+05/10/2017,Thursday,First day of Sukkot,"Observance, Hebrew"
+06/10/2017,Friday,Second Day of Sukkot,"Observance, Hebrew"
+10/10/2017,Tuesday,Sixth Day of Sukkot,"Observance, Hebrew"
+11/10/2017,Wednesday,Seventh Day of Sukkot,"Observance, Hebrew"
+12/10/2017,Thursday,Shemini Atzeret,"Observance, Hebrew"
+13/10/2017,Friday,Simchat Torah,"Observance, Hebrew"
+29/10/2017,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2017,Monday,World Thrift Day,Observance
+31/10/2017,Tuesday,Reformation Day,National holiday
+31/10/2017,Tuesday,Halloween,Observance
+01/11/2017,Wednesday,All Saints' Day,"Observance, Christian"
+01/11/2017,Wednesday,All Saints' Day,"Silent Day, public holiday"
+02/11/2017,Thursday,All Souls' Day,Silent Day
+09/11/2017,Thursday,Night of Broken Glass Remembrance Day,Observance
+09/11/2017,Thursday,9th of November,Observance
+09/11/2017,Thursday,Fall of the Berlin Wall,Observance
+11/11/2017,Saturday,St. Martin's Day,"Observance, Christian"
+19/11/2017,Sunday,National Day of Mourning,Silent Day
+22/11/2017,Wednesday,Repentance Day,"Christian, Common local holiday"
+22/11/2017,Wednesday,Repentance Day,"Observance, Christian"
+22/11/2017,Wednesday,Repentance Day,Silent Day
+26/11/2017,Sunday,Sunday of the Dead,Silent Day
+03/12/2017,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2017,Wednesday,Saint Nicholas Day,"Observance, Christian"
+08/12/2017,Friday,Feast of the Immaculate Conception,"Observance, Christian"
+10/12/2017,Sunday,Second Advent Sunday,"Observance, Christian"
+17/12/2017,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2017,Tuesday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2017,Sunday,Christmas Eve,Silent Day
+25/12/2017,Monday,Christmas Day,"National holiday, Christian"
+26/12/2017,Tuesday,Boxing Day,"National holiday, Christian"
+31/12/2017,Sunday,New Year's Eve,Bank holiday
+01/01/2018,Monday,New Year's Day,National holiday
+06/01/2018,Saturday,Epiphany,"Observance, Christian"
+06/01/2018,Saturday,Epiphany,Common local holiday
+22/01/2018,Monday,Franco-German Day,Observance
+27/01/2018,Saturday,Remembrance Day for the Victims of National Socialism,Observance
+12/02/2018,Monday,Shrove Monday,Observance
+13/02/2018,Tuesday,Carnival Tuesday,Observance
+14/02/2018,Wednesday,Carnival / Ash Wednesday,Silent Day
+14/02/2018,Wednesday,Valentine's Day,Observance
+08/03/2018,Thursday,International Women's Day,Observance
+17/03/2018,Saturday,St. Patrick's Day,"Observance, Christian"
+18/03/2018,Sunday,Anniversary of the March Revolution,Observance
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Palm Sunday,"Observance, Christian"
+25/03/2018,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+29/03/2018,Thursday,Maundy Thursday,Silent Day
+29/03/2018,Thursday,Maundy Thursday,"Observance, Christian"
+30/03/2018,Friday,Good Friday,"National holiday, Christian"
+31/03/2018,Saturday,Holy Saturday,Silent Day
+31/03/2018,Saturday,First Day of Passover,"Observance, Hebrew"
+01/04/2018,Sunday,Easter Sunday,"Christian, Common local holiday"
+01/04/2018,Sunday,Easter Sunday,"Observance, Christian"
+01/04/2018,Sunday,Second Day of Passover,"Observance, Hebrew"
+02/04/2018,Monday,Easter Monday,"National holiday, Christian"
+05/04/2018,Thursday,Sixth Day of Passover,"Observance, Hebrew"
+06/04/2018,Friday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2018,Monday,German Beer Day,Observance
+26/04/2018,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2018,Monday,Walpurgis Night,Observance
+01/05/2018,Tuesday,May Day,National holiday
+05/05/2018,Saturday,Europe Day (Council of Europe),Observance
+08/05/2018,Tuesday,Anniversary of the End of World War II,Observance
+09/05/2018,Wednesday,Europe Day (European Union),Observance
+10/05/2018,Thursday,Father's Day,Observance
+10/05/2018,Thursday,Ascension Day,"National holiday, Christian"
+13/05/2018,Sunday,Mother's Day,Observance
+20/05/2018,Sunday,Whit Sunday,"Christian, Common local holiday"
+20/05/2018,Sunday,Whit Sunday,"Observance, Christian"
+20/05/2018,Sunday,First Day of Shavuot,"Observance, Hebrew"
+21/05/2018,Monday,Whit Monday,"National holiday, Christian"
+21/05/2018,Monday,Second Day of Shavuot,"Observance, Hebrew"
+23/05/2018,Wednesday,Constitution Day,Observance
+31/05/2018,Thursday,Corpus Christi,"Christian, Common local holiday"
+01/06/2018,Friday,International Childrens' Day,Observance
+03/06/2018,Sunday,European Bicycle Day,Observance
+15/06/2018,Friday,Eid ul Fitr,"Observance, Muslim"
+17/06/2018,Sunday,Car-free Sunday,Observance
+17/06/2018,Sunday,Remembrance of the Victims of SED Injustice,Observance
+21/06/2018,Thursday,June Solstice,Season
+23/06/2018,Saturday,Architecture Day,Observance
+24/06/2018,Sunday,St. John,"Observance, Christian"
+29/06/2018,Friday,St Peter and Paul,"Observance, Christian"
+08/08/2018,Wednesday,Peace Festival in Augsburg,Local holiday
+15/08/2018,Wednesday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2018,Wednesday,Assumption of Mary,"Observance, Christian"
+22/08/2018,Wednesday,Eid al-Adha,"Observance, Muslim"
+01/09/2018,Saturday,Anti War Day,Observance
+08/09/2018,Saturday,German Language Day,Observance
+09/09/2018,Sunday,European Heritage Days,Observance
+10/09/2018,Monday,Rosh Hashana,"Observance, Hebrew"
+11/09/2018,Tuesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+19/09/2018,Wednesday,Yom Kippur,"Observance, Hebrew"
+20/09/2018,Thursday,German World Children's Day,Observance
+21/09/2018,Friday,Ashura,"Observance, Muslim"
+23/09/2018,Sunday,September Equinox,Season
+24/09/2018,Monday,First day of Sukkot,"Observance, Hebrew"
+25/09/2018,Tuesday,Second Day of Sukkot,"Observance, Hebrew"
+29/09/2018,Saturday,German Food Bank Day,Observance
+29/09/2018,Saturday,Sixth Day of Sukkot,"Observance, Hebrew"
+30/09/2018,Sunday,Seventh Day of Sukkot,"Observance, Hebrew"
+01/10/2018,Monday,Shemini Atzeret,"Observance, Hebrew"
+02/10/2018,Tuesday,Simchat Torah,"Observance, Hebrew"
+03/10/2018,Wednesday,Day of German Unity,National holiday
+07/10/2018,Sunday,Harvest Festival,Observance
+28/10/2018,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2018,Tuesday,World Thrift Day,Observance
+31/10/2018,Wednesday,Reformation Day,Common local holiday
+31/10/2018,Wednesday,Reformation Day,"Observance, Christian"
+31/10/2018,Wednesday,Halloween,Observance
+01/11/2018,Thursday,All Saints' Day,"Silent Day, public holiday"
+01/11/2018,Thursday,All Saints' Day,"Observance, Christian"
+02/11/2018,Friday,All Souls' Day,Silent Day
+09/11/2018,Friday,Night of Broken Glass Remembrance Day,Observance
+09/11/2018,Friday,9th of November,Observance
+09/11/2018,Friday,Fall of the Berlin Wall,Observance
+11/11/2018,Sunday,St. Martin's Day,"Observance, Christian"
+18/11/2018,Sunday,National Day of Mourning,Silent Day
+21/11/2018,Wednesday,Repentance Day,"Christian, Common local holiday"
+21/11/2018,Wednesday,Repentance Day,"Observance, Christian"
+21/11/2018,Wednesday,Repentance Day,Silent Day
+25/11/2018,Sunday,Sunday of the Dead,Silent Day
+02/12/2018,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2018,Thursday,Saint Nicholas Day,"Observance, Christian"
+08/12/2018,Saturday,Feast of the Immaculate Conception,"Observance, Christian"
+09/12/2018,Sunday,Second Advent Sunday,"Observance, Christian"
+16/12/2018,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2018,Wednesday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2018,Friday,December Solstice,Season
+23/12/2018,Sunday,Fourth Advent Sunday,"Observance, Christian"
+24/12/2018,Monday,Christmas Eve,Silent Day
+25/12/2018,Tuesday,Christmas Day,"National holiday, Christian"
+26/12/2018,Wednesday,Boxing Day,"National holiday, Christian"
+31/12/2018,Monday,New Year's Eve,Bank holiday
+01/01/2019,Tuesday,New Year's Day,National holiday
+06/01/2019,Sunday,Epiphany,"Observance, Christian"
+06/01/2019,Sunday,Epiphany,Common local holiday
+22/01/2019,Tuesday,Franco-German Day,Observance
+27/01/2019,Sunday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2019,Thursday,Valentine's Day,Observance
+04/03/2019,Monday,Shrove Monday,Observance
+05/03/2019,Tuesday,Carnival Tuesday,Observance
+06/03/2019,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2019,Friday,International Women's Day,Observance
+08/03/2019,Friday,International Women's Day,Common local holiday
+17/03/2019,Sunday,St. Patrick's Day,"Observance, Christian"
+18/03/2019,Monday,Anniversary of the March Revolution,Observance
+20/03/2019,Wednesday,March Equinox,Season
+28/03/2019,Thursday,Girls' Day / Boys' Day,Observance
+31/03/2019,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+14/04/2019,Sunday,Palm Sunday,"Observance, Christian"
+18/04/2019,Thursday,Maundy Thursday,"Observance, Christian"
+18/04/2019,Thursday,Maundy Thursday,Silent Day
+19/04/2019,Friday,Good Friday,"National holiday, Christian"
+20/04/2019,Saturday,Holy Saturday,Silent Day
+20/04/2019,Saturday,First Day of Passover,"Observance, Hebrew"
+21/04/2019,Sunday,Easter Sunday,"Observance, Christian"
+21/04/2019,Sunday,Easter Sunday,"Christian, Common local holiday"
+21/04/2019,Sunday,Second Day of Passover,"Observance, Hebrew"
+22/04/2019,Monday,Easter Monday,"National holiday, Christian"
+23/04/2019,Tuesday,German Beer Day,Observance
+25/04/2019,Thursday,Sixth Day of Passover,"Observance, Hebrew"
+26/04/2019,Friday,Seventh Day of Passover,"Observance, Hebrew"
+30/04/2019,Tuesday,Walpurgis Night,Observance
+01/05/2019,Wednesday,May Day,National holiday
+05/05/2019,Sunday,Europe Day (Council of Europe),Observance
+08/05/2019,Wednesday,Anniversary of the End of World War II,Observance
+09/05/2019,Thursday,Europe Day (European Union),Observance
+12/05/2019,Sunday,Mother's Day,Observance
+23/05/2019,Thursday,Constitution Day,Observance
+30/05/2019,Thursday,Father's Day,Observance
+30/05/2019,Thursday,Ascension Day,"National holiday, Christian"
+01/06/2019,Saturday,International Childrens' Day,Observance
+03/06/2019,Monday,European Bicycle Day,Observance
+05/06/2019,Wednesday,Eid ul Fitr,"Observance, Muslim"
+09/06/2019,Sunday,Whit Sunday,"Christian, Common local holiday"
+09/06/2019,Sunday,Whit Sunday,"Observance, Christian"
+09/06/2019,Sunday,First Day of Shavuot,"Observance, Hebrew"
+10/06/2019,Monday,Whit Monday,"National holiday, Christian"
+10/06/2019,Monday,Second Day of Shavuot,"Observance, Hebrew"
+16/06/2019,Sunday,Car-free Sunday,Observance
+17/06/2019,Monday,Remembrance of the Victims of SED Injustice,Observance
+20/06/2019,Thursday,Corpus Christi,"Christian, Common local holiday"
+21/06/2019,Friday,June Solstice,Season
+24/06/2019,Monday,St. John,"Observance, Christian"
+29/06/2019,Saturday,Architecture Day,Observance
+29/06/2019,Saturday,St Peter and Paul,"Observance, Christian"
+08/08/2019,Thursday,Peace Festival in Augsburg,Local holiday
+12/08/2019,Monday,Eid al-Adha,"Observance, Muslim"
+15/08/2019,Thursday,Assumption of Mary,"Observance, Christian"
+15/08/2019,Thursday,Assumption of Mary,"Christian, Common local holiday"
+01/09/2019,Sunday,Anti War Day,Observance
+08/09/2019,Sunday,European Heritage Days,Observance
+10/09/2019,Tuesday,Ashura,"Observance, Muslim"
+14/09/2019,Saturday,German Language Day,Observance
+20/09/2019,Friday,German World Children's Day,Common local holiday
+20/09/2019,Friday,German World Children's Day,Observance
+23/09/2019,Monday,September Equinox,Season
+28/09/2019,Saturday,German Food Bank Day,Observance
+30/09/2019,Monday,Rosh Hashana,"Observance, Hebrew"
+01/10/2019,Tuesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+03/10/2019,Thursday,Day of German Unity,National holiday
+06/10/2019,Sunday,Harvest Festival,Observance
+09/10/2019,Wednesday,Yom Kippur,"Observance, Hebrew"
+13/10/2019,Sunday,Grandparents' Day,Observance
+14/10/2019,Monday,First day of Sukkot,"Observance, Hebrew"
+15/10/2019,Tuesday,Second Day of Sukkot,"Observance, Hebrew"
+19/10/2019,Saturday,Sixth Day of Sukkot,"Observance, Hebrew"
+20/10/2019,Sunday,Seventh Day of Sukkot,"Observance, Hebrew"
+21/10/2019,Monday,Shemini Atzeret,"Observance, Hebrew"
+22/10/2019,Tuesday,Simchat Torah,"Observance, Hebrew"
+27/10/2019,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2019,Wednesday,World Thrift Day,Observance
+31/10/2019,Thursday,Reformation Day,Common local holiday
+31/10/2019,Thursday,Reformation Day,"Observance, Christian"
+31/10/2019,Thursday,Halloween,Observance
+01/11/2019,Friday,All Saints' Day,"Silent Day, public holiday"
+01/11/2019,Friday,All Saints' Day,"Observance, Christian"
+02/11/2019,Saturday,All Souls' Day,Silent Day
+09/11/2019,Saturday,Night of Broken Glass Remembrance Day,Observance
+09/11/2019,Saturday,9th of November,Observance
+09/11/2019,Saturday,Fall of the Berlin Wall,Observance
+11/11/2019,Monday,St. Martin's Day,"Observance, Christian"
+17/11/2019,Sunday,National Day of Mourning,Silent Day
+20/11/2019,Wednesday,Repentance Day,"Observance, Christian"
+20/11/2019,Wednesday,Repentance Day,Silent Day
+20/11/2019,Wednesday,Repentance Day,"Christian, Common local holiday"
+24/11/2019,Sunday,Sunday of the Dead,Silent Day
+01/12/2019,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2019,Friday,Saint Nicholas Day,"Observance, Christian"
+08/12/2019,Sunday,Second Advent Sunday,"Observance, Christian"
+08/12/2019,Sunday,Feast of the Immaculate Conception,"Observance, Christian"
+15/12/2019,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2019,Thursday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+22/12/2019,Sunday,Fourth Advent Sunday,"Observance, Christian"
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Silent Day
+25/12/2019,Wednesday,Christmas Day,"National holiday, Christian"
+26/12/2019,Thursday,Boxing Day,"National holiday, Christian"
+31/12/2019,Tuesday,New Year's Eve,Bank holiday
+01/01/2020,Wednesday,New Year's Day,National holiday
+06/01/2020,Monday,Epiphany,"Observance, Christian"
+06/01/2020,Monday,Epiphany,Common local holiday
+22/01/2020,Wednesday,Franco-German Day,Observance
+27/01/2020,Monday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2020,Friday,Valentine's Day,Observance
+16/02/2020,Sunday,Hizir Fast,Observance
+24/02/2020,Monday,Shrove Monday,Observance
+25/02/2020,Tuesday,Carnival Tuesday,Observance
+26/02/2020,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2020,Sunday,International Women's Day,Observance
+08/03/2020,Sunday,International Women's Day,Common local holiday
+17/03/2020,Tuesday,St. Patrick's Day,"Observance, Christian"
+18/03/2020,Wednesday,Anniversary of the March Revolution,Observance
+20/03/2020,Friday,March Equinox,Season
+21/03/2020,Saturday,Alevitic New Year,Observance
+26/03/2020,Thursday,Girls' Day / Boys' Day,Observance
+29/03/2020,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+05/04/2020,Sunday,Palm Sunday,"Observance, Christian"
+09/04/2020,Thursday,Maundy Thursday,Silent Day
+09/04/2020,Thursday,Maundy Thursday,"Observance, Christian"
+09/04/2020,Thursday,First Day of Passover,"Observance, Hebrew"
+10/04/2020,Friday,Good Friday,"National holiday, Christian"
+10/04/2020,Friday,Second Day of Passover,"Observance, Hebrew"
+11/04/2020,Saturday,Holy Saturday,Silent Day
+12/04/2020,Sunday,Easter Sunday,"Observance, Christian"
+12/04/2020,Sunday,Easter Sunday,"Christian, Common local holiday"
+13/04/2020,Monday,Easter Monday,"National holiday, Christian"
+14/04/2020,Tuesday,Sixth Day of Passover,"Observance, Hebrew"
+15/04/2020,Wednesday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2020,Thursday,German Beer Day,Observance
+30/04/2020,Thursday,Walpurgis Night,Observance
+01/05/2020,Friday,May Day,National holiday
+02/05/2020,Saturday,German Food Bank Day,Observance
+05/05/2020,Tuesday,Europe Day (Council of Europe),Observance
+08/05/2020,Friday,Anniversary of the End of World War II,Observance
+08/05/2020,Friday,Anniversary of the End of World War II,Common local holiday
+09/05/2020,Saturday,Europe Day (European Union),Observance
+10/05/2020,Sunday,Mother's Day,Observance
+21/05/2020,Thursday,Father's Day,Observance
+21/05/2020,Thursday,Ascension Day,"National holiday, Christian"
+23/05/2020,Saturday,Constitution Day,Observance
+24/05/2020,Sunday,Eid ul Fitr,"Observance, Muslim"
+29/05/2020,Friday,First Day of Shavuot,"Observance, Hebrew"
+30/05/2020,Saturday,Second Day of Shavuot,"Observance, Hebrew"
+31/05/2020,Sunday,Whit Sunday,"Christian, Common local holiday"
+31/05/2020,Sunday,Whit Sunday,"Observance, Christian"
+01/06/2020,Monday,Whit Monday,"National holiday, Christian"
+01/06/2020,Monday,International Childrens' Day,Observance
+03/06/2020,Wednesday,European Bicycle Day,Observance
+11/06/2020,Thursday,Corpus Christi,"Christian, Common local holiday"
+17/06/2020,Wednesday,Remembrance of the Victims of SED Injustice,Observance
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Car-free Sunday,Observance
+24/06/2020,Wednesday,St. John,"Observance, Christian"
+27/06/2020,Saturday,Architecture Day,Observance
+29/06/2020,Monday,St Peter and Paul,"Observance, Christian"
+31/07/2020,Friday,Eid al-Adha,"Observance, Muslim"
+08/08/2020,Saturday,Peace Festival in Augsburg,Local holiday
+15/08/2020,Saturday,Assumption of Mary,"Observance, Christian"
+15/08/2020,Saturday,Assumption of Mary,"Christian, Common local holiday"
+29/08/2020,Saturday,Ashura,"Observance, Muslim"
+01/09/2020,Tuesday,Anti War Day,Observance
+12/09/2020,Saturday,German Language Day,Observance
+13/09/2020,Sunday,European Heritage Days,Observance
+19/09/2020,Saturday,Rosh Hashana,"Observance, Hebrew"
+20/09/2020,Sunday,German World Children's Day,Common local holiday
+20/09/2020,Sunday,German World Children's Day,Observance
+20/09/2020,Sunday,Second Day of Rosh Hashana,"Observance, Hebrew"
+22/09/2020,Tuesday,September Equinox,Season
+28/09/2020,Monday,Yom Kippur,"Observance, Hebrew"
+03/10/2020,Saturday,Day of German Unity,National holiday
+03/10/2020,Saturday,First day of Sukkot,"Observance, Hebrew"
+04/10/2020,Sunday,Harvest Festival,Observance
+04/10/2020,Sunday,Second Day of Sukkot,"Observance, Hebrew"
+08/10/2020,Thursday,Sixth Day of Sukkot,"Observance, Hebrew"
+09/10/2020,Friday,Seventh Day of Sukkot,"Observance, Hebrew"
+10/10/2020,Saturday,Shemini Atzeret,"Observance, Hebrew"
+11/10/2020,Sunday,Simchat Torah,"Observance, Hebrew"
+11/10/2020,Sunday,Grandparents' Day,Observance
+25/10/2020,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+30/10/2020,Friday,World Thrift Day,Observance
+31/10/2020,Saturday,Reformation Day,"Observance, Christian"
+31/10/2020,Saturday,Reformation Day,Common local holiday
+31/10/2020,Saturday,Halloween,Observance
+01/11/2020,Sunday,All Saints' Day,"Observance, Christian"
+01/11/2020,Sunday,All Saints' Day,"Silent Day, public holiday"
+02/11/2020,Monday,All Souls' Day,Silent Day
+09/11/2020,Monday,Night of Broken Glass Remembrance Day,Observance
+09/11/2020,Monday,9th of November,Observance
+09/11/2020,Monday,Fall of the Berlin Wall,Observance
+11/11/2020,Wednesday,St. Martin's Day,"Observance, Christian"
+15/11/2020,Sunday,National Day of Mourning,Silent Day
+18/11/2020,Wednesday,Repentance Day,"Christian, Common local holiday"
+18/11/2020,Wednesday,Repentance Day,"Observance, Christian"
+18/11/2020,Wednesday,Repentance Day,Silent Day
+22/11/2020,Sunday,Sunday of the Dead,Silent Day
+29/11/2020,Sunday,First Advent Sunday,"Observance, Christian"
+06/12/2020,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2020,Sunday,Saint Nicholas Day,"Observance, Christian"
+08/12/2020,Tuesday,Feast of the Immaculate Conception,"Observance, Christian"
+13/12/2020,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2020,Saturday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+20/12/2020,Sunday,Fourth Advent Sunday,"Observance, Christian"
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Silent Day
+25/12/2020,Friday,Christmas Day,"National holiday, Christian"
+26/12/2020,Saturday,Boxing Day,"National holiday, Christian"
+31/12/2020,Thursday,New Year's Eve,Bank holiday
+01/01/2021,Friday,New Year's Day,National holiday
+06/01/2021,Wednesday,Epiphany,"Observance, Christian"
+06/01/2021,Wednesday,Epiphany,Common local holiday
+22/01/2021,Friday,Franco-German Day,Observance
+27/01/2021,Wednesday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2021,Sunday,Valentine's Day,Observance
+15/02/2021,Monday,Shrove Monday,Observance
+16/02/2021,Tuesday,Carnival Tuesday,Observance
+16/02/2021,Tuesday,Hizir Fast,Observance
+17/02/2021,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2021,Monday,International Women's Day,Observance
+08/03/2021,Monday,International Women's Day,Common local holiday
+17/03/2021,Wednesday,St. Patrick's Day,"Observance, Christian"
+18/03/2021,Thursday,Anniversary of the March Revolution,Observance
+20/03/2021,Saturday,March Equinox,Season
+21/03/2021,Sunday,Alevitic New Year,Observance
+28/03/2021,Sunday,Palm Sunday,"Observance, Christian"
+28/03/2021,Sunday,First Day of Passover,"Observance, Hebrew"
+28/03/2021,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+29/03/2021,Monday,Second Day of Passover,"Observance, Hebrew"
+01/04/2021,Thursday,Maundy Thursday,"Observance, Christian"
+01/04/2021,Thursday,Maundy Thursday,Silent Day
+02/04/2021,Friday,Good Friday,"National holiday, Christian"
+02/04/2021,Friday,Sixth Day of Passover,"Observance, Hebrew"
+03/04/2021,Saturday,Holy Saturday,Silent Day
+03/04/2021,Saturday,Seventh Day of Passover,"Observance, Hebrew"
+04/04/2021,Sunday,Easter Sunday,"Observance, Christian"
+04/04/2021,Sunday,Easter Sunday,"Christian, Common local holiday"
+05/04/2021,Monday,Easter Monday,"National holiday, Christian"
+22/04/2021,Thursday,Girls' Day / Boys' Day,Observance
+23/04/2021,Friday,German Beer Day,Observance
+30/04/2021,Friday,Walpurgis Night,Observance
+01/05/2021,Saturday,May Day,National holiday
+05/05/2021,Wednesday,Europe Day (Council of Europe),Observance
+08/05/2021,Saturday,Anniversary of the End of World War II,Observance
+09/05/2021,Sunday,Mother's Day,Observance
+09/05/2021,Sunday,Europe Day (European Union),Observance
+13/05/2021,Thursday,Father's Day,Observance
+13/05/2021,Thursday,Ascension Day,"National holiday, Christian"
+13/05/2021,Thursday,Eid ul Fitr,"Observance, Muslim"
+17/05/2021,Monday,First Day of Shavuot,"Observance, Hebrew"
+18/05/2021,Tuesday,Second Day of Shavuot,"Observance, Hebrew"
+23/05/2021,Sunday,Whit Sunday,"Christian, Common local holiday"
+23/05/2021,Sunday,Whit Sunday,"Observance, Christian"
+23/05/2021,Sunday,Constitution Day,Observance
+24/05/2021,Monday,Whit Monday,"National holiday, Christian"
+01/06/2021,Tuesday,International Childrens' Day,Observance
+03/06/2021,Thursday,Corpus Christi,"Christian, Common local holiday"
+03/06/2021,Thursday,European Bicycle Day,Observance
+17/06/2021,Thursday,Remembrance of the Victims of SED Injustice,Observance
+20/06/2021,Sunday,Car-free Sunday,Observance
+21/06/2021,Monday,June Solstice,Season
+24/06/2021,Thursday,St. John,"Observance, Christian"
+26/06/2021,Saturday,Architecture Day,Observance
+29/06/2021,Tuesday,St Peter and Paul,"Observance, Christian"
+20/07/2021,Tuesday,Eid al-Adha,"Observance, Muslim"
+08/08/2021,Sunday,Peace Festival in Augsburg,Local holiday
+15/08/2021,Sunday,Assumption of Mary,"Observance, Christian"
+15/08/2021,Sunday,Assumption of Mary,"Christian, Common local holiday"
+18/08/2021,Wednesday,Ashura,"Observance, Muslim"
+01/09/2021,Wednesday,Anti War Day,Observance
+07/09/2021,Tuesday,Rosh Hashana,"Observance, Hebrew"
+08/09/2021,Wednesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+11/09/2021,Saturday,German Language Day,Observance
+12/09/2021,Sunday,European Heritage Days,Observance
+16/09/2021,Thursday,Yom Kippur,"Observance, Hebrew"
+20/09/2021,Monday,German World Children's Day,Common local holiday
+20/09/2021,Monday,German World Children's Day,Observance
+21/09/2021,Tuesday,First day of Sukkot,"Observance, Hebrew"
+22/09/2021,Wednesday,Second Day of Sukkot,"Observance, Hebrew"
+22/09/2021,Wednesday,September Equinox,Season
+26/09/2021,Sunday,Sixth Day of Sukkot,"Observance, Hebrew"
+27/09/2021,Monday,Seventh Day of Sukkot,"Observance, Hebrew"
+28/09/2021,Tuesday,Shemini Atzeret,"Observance, Hebrew"
+29/09/2021,Wednesday,Simchat Torah,"Observance, Hebrew"
+02/10/2021,Saturday,German Food Bank Day,Observance
+03/10/2021,Sunday,Day of German Unity,National holiday
+03/10/2021,Sunday,Harvest Festival,Observance
+10/10/2021,Sunday,Grandparents' Day,Observance
+29/10/2021,Friday,World Thrift Day,Observance
+31/10/2021,Sunday,Reformation Day,Common local holiday
+31/10/2021,Sunday,Reformation Day,"Observance, Christian"
+31/10/2021,Sunday,Halloween,Observance
+31/10/2021,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+01/11/2021,Monday,All Saints' Day,"Observance, Christian"
+01/11/2021,Monday,All Saints' Day,"Silent Day, public holiday"
+02/11/2021,Tuesday,All Souls' Day,Silent Day
+09/11/2021,Tuesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2021,Tuesday,9th of November,Observance
+09/11/2021,Tuesday,Fall of the Berlin Wall,Observance
+11/11/2021,Thursday,St. Martin's Day,"Observance, Christian"
+14/11/2021,Sunday,National Day of Mourning,Silent Day
+17/11/2021,Wednesday,Repentance Day,"Christian, Common local holiday"
+17/11/2021,Wednesday,Repentance Day,Silent Day
+17/11/2021,Wednesday,Repentance Day,"Observance, Christian"
+21/11/2021,Sunday,Sunday of the Dead,Silent Day
+28/11/2021,Sunday,First Advent Sunday,"Observance, Christian"
+05/12/2021,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2021,Monday,Saint Nicholas Day,"Observance, Christian"
+08/12/2021,Wednesday,Feast of the Immaculate Conception,"Observance, Christian"
+12/12/2021,Sunday,Third Advent Sunday,"Observance, Christian"
+19/12/2021,Sunday,Fourth Advent Sunday,"Observance, Christian"
+19/12/2021,Sunday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Silent Day
+25/12/2021,Saturday,Christmas Day,"National holiday, Christian"
+26/12/2021,Sunday,Boxing Day,"National holiday, Christian"
+31/12/2021,Friday,New Year's Eve,Bank holiday
+01/01/2022,Saturday,New Year's Day,National holiday
+06/01/2022,Thursday,Epiphany,"Observance, Christian"
+06/01/2022,Thursday,Epiphany,Common local holiday
+22/01/2022,Saturday,Franco-German Day,Observance
+27/01/2022,Thursday,Remembrance Day for the Victims of National Socialism,Observance
+14/02/2022,Monday,Valentine's Day,Observance
+16/02/2022,Wednesday,Hizir Fast,Observance
+28/02/2022,Monday,Shrove Monday,Observance
+01/03/2022,Tuesday,Carnival Tuesday,Observance
+02/03/2022,Wednesday,Carnival / Ash Wednesday,Silent Day
+08/03/2022,Tuesday,International Women's Day,Observance
+08/03/2022,Tuesday,International Women's Day,Common local holiday
+17/03/2022,Thursday,St. Patrick's Day,"Observance, Christian"
+18/03/2022,Friday,Anniversary of the March Revolution,Observance
+20/03/2022,Sunday,March Equinox,Season
+21/03/2022,Monday,Alevitic New Year,Observance
+27/03/2022,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+10/04/2022,Sunday,Palm Sunday,"Observance, Christian"
+14/04/2022,Thursday,Maundy Thursday,"Observance, Christian"
+14/04/2022,Thursday,Maundy Thursday,Silent Day
+15/04/2022,Friday,Good Friday,"National holiday, Christian"
+16/04/2022,Saturday,Holy Saturday,Silent Day
+16/04/2022,Saturday,First Day of Passover,"Observance, Hebrew"
+17/04/2022,Sunday,Easter Sunday,"Observance, Christian"
+17/04/2022,Sunday,Easter Sunday,"Christian, Common local holiday"
+17/04/2022,Sunday,Second Day of Passover,"Observance, Hebrew"
+18/04/2022,Monday,Easter Monday,"National holiday, Christian"
+21/04/2022,Thursday,Sixth Day of Passover,"Observance, Hebrew"
+22/04/2022,Friday,Seventh Day of Passover,"Observance, Hebrew"
+23/04/2022,Saturday,German Beer Day,Observance
+28/04/2022,Thursday,Girls' Day / Boys' Day,Observance
+30/04/2022,Saturday,Walpurgis Night,Observance
+01/05/2022,Sunday,May Day,National holiday
+03/05/2022,Tuesday,Eid ul Fitr,"Observance, Muslim"
+05/05/2022,Thursday,Europe Day (Council of Europe),Observance
+08/05/2022,Sunday,Mother's Day,Observance
+08/05/2022,Sunday,Anniversary of the End of World War II,Observance
+09/05/2022,Monday,Europe Day (European Union),Observance
+23/05/2022,Monday,Constitution Day,Observance
+26/05/2022,Thursday,Father's Day,Observance
+26/05/2022,Thursday,Ascension Day,"National holiday, Christian"
+01/06/2022,Wednesday,International Childrens' Day,Observance
+03/06/2022,Friday,European Bicycle Day,Observance
+05/06/2022,Sunday,Whit Sunday,"Christian, Common local holiday"
+05/06/2022,Sunday,Whit Sunday,"Observance, Christian"
+05/06/2022,Sunday,First Day of Shavuot,"Observance, Hebrew"
+06/06/2022,Monday,Whit Monday,"National holiday, Christian"
+06/06/2022,Monday,Second Day of Shavuot,"Observance, Hebrew"
+16/06/2022,Thursday,Corpus Christi,"Christian, Common local holiday"
+17/06/2022,Friday,Remembrance of the Victims of SED Injustice,Observance
+19/06/2022,Sunday,Car-free Sunday,Observance
+21/06/2022,Tuesday,June Solstice,Season
+24/06/2022,Friday,St. John,"Observance, Christian"
+25/06/2022,Saturday,Architecture Day,Observance
+29/06/2022,Wednesday,St Peter and Paul,"Observance, Christian"
+10/07/2022,Sunday,Eid al-Adha,"Observance, Muslim"
+08/08/2022,Monday,Peace Festival in Augsburg,Local holiday
+08/08/2022,Monday,Ashura (Tentative Date),"Observance, Muslim"
+15/08/2022,Monday,Assumption of Mary,"Christian, Common local holiday"
+15/08/2022,Monday,Assumption of Mary,"Observance, Christian"
+01/09/2022,Thursday,Anti War Day,Observance
+10/09/2022,Saturday,German Language Day,Observance
+11/09/2022,Sunday,European Heritage Days,Observance
+20/09/2022,Tuesday,German World Children's Day,Observance
+20/09/2022,Tuesday,German World Children's Day,Common local holiday
+23/09/2022,Friday,September Equinox,Season
+26/09/2022,Monday,Rosh Hashana,"Observance, Hebrew"
+27/09/2022,Tuesday,Second Day of Rosh Hashana,"Observance, Hebrew"
+01/10/2022,Saturday,German Food Bank Day,Observance
+02/10/2022,Sunday,Harvest Festival,Observance
+03/10/2022,Monday,Day of German Unity,National holiday
+05/10/2022,Wednesday,Yom Kippur,"Observance, Hebrew"
+09/10/2022,Sunday,Grandparents' Day,Observance
+10/10/2022,Monday,First day of Sukkot,"Observance, Hebrew"
+11/10/2022,Tuesday,Second Day of Sukkot,"Observance, Hebrew"
+15/10/2022,Saturday,Sixth Day of Sukkot,"Observance, Hebrew"
+16/10/2022,Sunday,Seventh Day of Sukkot,"Observance, Hebrew"
+17/10/2022,Monday,Shemini Atzeret,"Observance, Hebrew"
+18/10/2022,Tuesday,Simchat Torah,"Observance, Hebrew"
+28/10/2022,Friday,World Thrift Day,Observance
+30/10/2022,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+31/10/2022,Monday,Reformation Day,Common local holiday
+31/10/2022,Monday,Reformation Day,"Observance, Christian"
+31/10/2022,Monday,Halloween,Observance
+01/11/2022,Tuesday,All Saints' Day,"Silent Day, public holiday"
+01/11/2022,Tuesday,All Saints' Day,"Observance, Christian"
+02/11/2022,Wednesday,All Souls' Day,Silent Day
+09/11/2022,Wednesday,Night of Broken Glass Remembrance Day,Observance
+09/11/2022,Wednesday,9th of November,Observance
+09/11/2022,Wednesday,Fall of the Berlin Wall,Observance
+11/11/2022,Friday,St. Martin's Day,"Observance, Christian"
+13/11/2022,Sunday,National Day of Mourning,Silent Day
+16/11/2022,Wednesday,Repentance Day,"Christian, Common local holiday"
+16/11/2022,Wednesday,Repentance Day,"Observance, Christian"
+16/11/2022,Wednesday,Repentance Day,Silent Day
+20/11/2022,Sunday,Sunday of the Dead,Silent Day
+27/11/2022,Sunday,First Advent Sunday,"Observance, Christian"
+04/12/2022,Sunday,Second Advent Sunday,"Observance, Christian"
+06/12/2022,Tuesday,Saint Nicholas Day,"Observance, Christian"
+08/12/2022,Thursday,Feast of the Immaculate Conception,"Observance, Christian"
+11/12/2022,Sunday,Third Advent Sunday,"Observance, Christian"
+18/12/2022,Sunday,Fourth Advent Sunday,"Observance, Christian"
+19/12/2022,Monday,Remembrance Day for Roma and Sinti killed by Genocide,Observance
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Silent Day
+25/12/2022,Sunday,Christmas Day,"National holiday, Christian"
+26/12/2022,Monday,Boxing Day,"National holiday, Christian"
+31/12/2022,Saturday,New Year's Eve,Bank holiday

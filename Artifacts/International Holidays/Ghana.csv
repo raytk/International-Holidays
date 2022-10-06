@@ -1,0 +1,264 @@
+Date,Day,Name,Type
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+06/03/2013,Wednesday,Independence Day,Public Holiday
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+30/03/2013,Saturday,Holy Saturday,Observance
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Public Holiday
+01/05/2013,Wednesday,May Day,Public Holiday
+12/05/2013,Sunday,Mothers' Day,Observance
+25/05/2013,Saturday,African Union Day,Public Holiday
+27/05/2013,Monday,African Union Day observed,Public Holiday
+16/06/2013,Sunday,Fathers' Day,Observance
+21/06/2013,Friday,June Solstice,Season
+01/07/2013,Monday,Republic Day,Public Holiday
+08/08/2013,Thursday,Eid ul-Fitr,Public Holiday
+21/09/2013,Saturday,Founder's Day,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+23/09/2013,Monday,Founder's Day observed,Public Holiday
+15/10/2013,Tuesday,Eid al-Adha,Public Holiday
+06/12/2013,Friday,Farmer's Day,Public Holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+31/12/2013,Tuesday,New Year's Eve,Observance
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+06/03/2014,Thursday,Independence Day,Public Holiday
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+19/04/2014,Saturday,Holy Saturday,Observance
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Public Holiday
+01/05/2014,Thursday,May Day,Public Holiday
+11/05/2014,Sunday,Mothers' Day,Observance
+25/05/2014,Sunday,African Union Day,Public Holiday
+26/05/2014,Monday,African Union Day observed,Public Holiday
+15/06/2014,Sunday,Fathers' Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+01/07/2014,Tuesday,Republic Day,Public Holiday
+28/07/2014,Monday,Eid ul-Fitr,Public Holiday
+21/09/2014,Sunday,Founder's Day,Public Holiday
+22/09/2014,Monday,Founder's Day observed,Public Holiday
+23/09/2014,Tuesday,September Equinox,Season
+04/10/2014,Saturday,Eid al-Adha,Public Holiday
+05/12/2014,Friday,Farmer's Day,Public Holiday
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+31/12/2014,Wednesday,New Year's Eve,Observance
+01/01/2015,Thursday,New Year's Day,Public Holiday
+06/03/2015,Friday,Independence Day,Public Holiday
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+04/04/2015,Saturday,Holy Saturday,Observance
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Public Holiday
+01/05/2015,Friday,May Day,Public Holiday
+10/05/2015,Sunday,Mothers' Day,Observance
+25/05/2015,Monday,African Union Day,Public Holiday
+21/06/2015,Sunday,Fathers' Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+01/07/2015,Wednesday,Republic Day,Public Holiday
+18/07/2015,Saturday,Eid ul-Fitr,Public Holiday
+20/07/2015,Monday,Eid ul-Fitr,Public Holiday
+21/09/2015,Monday,Founder's Day,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+24/09/2015,Thursday,Eid al-Adha,Public Holiday
+04/12/2015,Friday,Farmer's Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+28/12/2015,Monday,Day off for Boxing Day,Public Holiday
+31/12/2015,Thursday,New Year's Eve,Observance
+01/01/2016,Friday,New Year's Day,Public Holiday
+06/03/2016,Sunday,Independence Day,Public Holiday
+07/03/2016,Monday,Independence Day observed,Public Holiday
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+26/03/2016,Saturday,Holy Saturday,Observance
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Public Holiday
+01/05/2016,Sunday,May Day,Public Holiday
+02/05/2016,Monday,May Day observed,Public Holiday
+08/05/2016,Sunday,Mothers' Day,Observance
+25/05/2016,Wednesday,African Union Day,Public Holiday
+19/06/2016,Sunday,Fathers' Day,Observance
+20/06/2016,Monday,June Solstice,Season
+01/07/2016,Friday,Republic Day,Public Holiday
+07/07/2016,Thursday,Eid ul-Fitr,Public Holiday
+12/09/2016,Monday,Eid al-Adha,Public Holiday
+21/09/2016,Wednesday,Founder's Day,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+04/11/2016,Friday,Farmer's Day observed,Observance
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Day off for Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+31/12/2016,Saturday,New Year's Eve,Observance
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,New Year's Day observed,Public Holiday
+06/03/2017,Monday,Independence Day,Public Holiday
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+15/04/2017,Saturday,Holy Saturday,Observance
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Public Holiday
+01/05/2017,Monday,May Day,Public Holiday
+14/05/2017,Sunday,Mothers' Day,Observance
+25/05/2017,Thursday,African Union Day,Public Holiday
+18/06/2017,Sunday,Fathers' Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+26/06/2017,Monday,Eid ul-Fitr,Public Holiday
+01/07/2017,Saturday,Republic Day,Public Holiday
+03/07/2017,Monday,Republic Day observed,Public Holiday
+02/09/2017,Saturday,Eid al-Adha,Public Holiday
+21/09/2017,Thursday,Founder's Day,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+01/12/2017,Friday,Farmer's Day,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+31/12/2017,Sunday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,Public Holiday
+06/03/2018,Tuesday,Independence Day,Public Holiday
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+31/03/2018,Saturday,Holy Saturday,Observance
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Public Holiday
+01/05/2018,Tuesday,May Day,Public Holiday
+13/05/2018,Sunday,Mothers' Day,Observance
+25/05/2018,Friday,African Union Day,Public Holiday
+15/06/2018,Friday,Eid ul-Fitr,Public Holiday
+17/06/2018,Sunday,Fathers' Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+01/07/2018,Sunday,Republic Day,Public Holiday
+02/07/2018,Monday,Republic Day observed,Public Holiday
+22/08/2018,Wednesday,Eid al-Adha,Public Holiday
+21/09/2018,Friday,Founder's Day,Public Holiday
+23/09/2018,Sunday,September Equinox,Season
+07/12/2018,Friday,Farmer's Day,Public Holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+31/12/2018,Monday,New Year's Eve,Observance
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+07/01/2019,Monday,Constitution Day,Public Holiday
+06/03/2019,Wednesday,Independence Day,Public Holiday
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+20/04/2019,Saturday,Holy Saturday,Observance
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Public Holiday
+01/05/2019,Wednesday,May Day,Public Holiday
+12/05/2019,Sunday,Mothers' Day,Observance
+25/05/2019,Saturday,African Union Day,Observance
+05/06/2019,Wednesday,Eid ul-Fitr,Public Holiday
+16/06/2019,Sunday,Fathers' Day,Observance
+21/06/2019,Friday,June Solstice,Season
+01/07/2019,Monday,Republic Day,Observance
+04/08/2019,Sunday,Founders' Day,Public Holiday
+05/08/2019,Monday,Founders' Day observed,Public Holiday
+11/08/2019,Sunday,Eid al-Adha,Observance
+12/08/2019,Monday,Eid al-Adha observed,Public Holiday
+21/09/2019,Saturday,Kwame Nkrumah Memorial Day,Public Holiday
+23/09/2019,Monday,Kwame Nkrumah Memorial Day observed,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+06/12/2019,Friday,Farmer's Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+31/12/2019,Tuesday,New Year's Eve,Observance
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+07/01/2020,Tuesday,Constitution Day,Public Holiday
+06/03/2020,Friday,Independence Day,Public Holiday
+20/03/2020,Friday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+11/04/2020,Saturday,Holy Saturday,Observance
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Public Holiday
+01/05/2020,Friday,May Day,Public Holiday
+10/05/2020,Sunday,Mothers' Day,Observance
+24/05/2020,Sunday,Eid ul-Fitr,Public Holiday
+25/05/2020,Monday,African Union Day,Observance
+25/05/2020,Monday,Day off for Eid ul-Fitr,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Fathers' Day,Observance
+01/07/2020,Wednesday,Republic Day,Observance
+31/07/2020,Friday,Eid al-Adha,Public Holiday
+04/08/2020,Tuesday,Founders' Day,Public Holiday
+21/09/2020,Monday,Kwame Nkrumah Memorial Day,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+07/12/2020,Monday,Election Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+28/12/2020,Monday,Day off for Boxing Day,Public Holiday
+31/12/2020,Thursday,New Year's Eve,Observance
+01/01/2021,Friday,New Year's Day,Public Holiday
+07/01/2021,Thursday,Constitution Day,Public Holiday
+06/03/2021,Saturday,Independence Day,Public Holiday
+08/03/2021,Monday,Independence Day observed,Public Holiday
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+03/04/2021,Saturday,Holy Saturday,Observance
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Public Holiday
+01/05/2021,Saturday,May Day,Public Holiday
+03/05/2021,Monday,May Day observed,Public Holiday
+09/05/2021,Sunday,Mothers' Day,Observance
+13/05/2021,Thursday,Eid ul-Fitr,Public Holiday
+25/05/2021,Tuesday,African Union Day,Observance
+20/06/2021,Sunday,Fathers' Day,Observance
+21/06/2021,Monday,June Solstice,Season
+01/07/2021,Thursday,Republic Day,Observance
+20/07/2021,Tuesday,Eid al-Adha,Public Holiday
+04/08/2021,Wednesday,Founders' Day,Public Holiday
+21/09/2021,Tuesday,Kwame Nkrumah Memorial Day,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+03/12/2021,Friday,Farmer's Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Day off for Christmas Day,Public Holiday
+28/12/2021,Tuesday,Day off for Boxing Day,Public Holiday
+31/12/2021,Friday,New Year's Eve,Observance
+01/01/2022,Saturday,New Year's Day,Public Holiday
+03/01/2022,Monday,New Year's Day observed,Public Holiday
+07/01/2022,Friday,Constitution Day,Public Holiday
+06/03/2022,Sunday,Independence Day,Public Holiday
+07/03/2022,Monday,Independence Day observed,Public Holiday
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+16/04/2022,Saturday,Holy Saturday,Observance
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Public Holiday
+01/05/2022,Sunday,May Day,Public Holiday
+02/05/2022,Monday,May Day observed,Public Holiday
+03/05/2022,Tuesday,Eid ul-Fitr,Public Holiday
+08/05/2022,Sunday,Mothers' Day,Observance
+25/05/2022,Wednesday,African Union Day,Observance
+19/06/2022,Sunday,Fathers' Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+01/07/2022,Friday,Republic Day,Observance
+09/07/2022,Saturday,Eid al-Adha,Public Holiday
+11/07/2022,Monday,Day off for Eid al-Adha,Public Holiday
+04/08/2022,Thursday,Founders' Day,Public Holiday
+21/09/2022,Wednesday,Kwame Nkrumah Memorial Day,Public Holiday
+23/09/2022,Friday,September Equinox,Season
+02/12/2022,Friday,Farmer's Day,Public Holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+31/12/2022,Saturday,New Year's Eve,Observance

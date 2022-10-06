@@ -1,0 +1,584 @@
+Date,Day,Name,Type
+01/01/2000,Saturday,New Year's Day,Public Holiday
+21/01/2000,Friday,Errol Barrow Day,Public Holiday
+14/02/2000,Monday,Valentine's Day,Observance
+20/03/2000,Monday,March Equinox,Season
+21/04/2000,Friday,Good Friday,Public Holiday
+23/04/2000,Sunday,Easter Sunday,Observance
+24/04/2000,Monday,Easter Monday,Public Holiday
+28/04/2000,Friday,National Heroes Day,Public Holiday
+01/05/2000,Monday,Labor Day / May Day,Public Holiday
+14/05/2000,Sunday,Mothers' Day,Observance
+11/06/2000,Sunday,Whit Sunday,Observance
+12/06/2000,Monday,Whit Monday,Public Holiday
+18/06/2000,Sunday,Fathers' Day,Observance
+20/06/2000,Tuesday,June Solstice,Season
+01/08/2000,Tuesday,Emancipation Day,Public Holiday
+07/08/2000,Monday,Kadooment Day,Public Holiday
+22/09/2000,Friday,September Equinox,Season
+31/10/2000,Tuesday,Halloween,Observance
+30/11/2000,Thursday,Independence Day,Public Holiday
+21/12/2000,Thursday,December Solstice,Season
+24/12/2000,Sunday,Christmas Eve,Observance
+25/12/2000,Monday,Christmas Day,Public Holiday
+26/12/2000,Tuesday,Boxing Day,Public Holiday
+31/12/2000,Sunday,Old Year's Night,Observance
+01/01/2001,Monday,New Year's Day,Public Holiday
+21/01/2001,Sunday,Errol Barrow Day,Public Holiday
+22/01/2001,Monday,Day off for Errol Barrow Day,Public Holiday
+14/02/2001,Wednesday,Valentine's Day,Observance
+20/03/2001,Tuesday,March Equinox,Season
+13/04/2001,Friday,Good Friday,Public Holiday
+15/04/2001,Sunday,Easter Sunday,Observance
+16/04/2001,Monday,Easter Monday,Public Holiday
+28/04/2001,Saturday,National Heroes Day,Public Holiday
+01/05/2001,Tuesday,Labor Day / May Day,Public Holiday
+13/05/2001,Sunday,Mothers' Day,Observance
+03/06/2001,Sunday,Whit Sunday,Observance
+04/06/2001,Monday,Whit Monday,Public Holiday
+17/06/2001,Sunday,Fathers' Day,Observance
+21/06/2001,Thursday,June Solstice,Season
+01/08/2001,Wednesday,Emancipation Day,Public Holiday
+06/08/2001,Monday,Kadooment Day,Public Holiday
+22/09/2001,Saturday,September Equinox,Season
+31/10/2001,Wednesday,Halloween,Observance
+30/11/2001,Friday,Independence Day,Public Holiday
+21/12/2001,Friday,December Solstice,Season
+24/12/2001,Monday,Christmas Eve,Observance
+25/12/2001,Tuesday,Christmas Day,Public Holiday
+26/12/2001,Wednesday,Boxing Day,Public Holiday
+31/12/2001,Monday,Old Year's Night,Observance
+01/01/2002,Tuesday,New Year's Day,Public Holiday
+21/01/2002,Monday,Errol Barrow Day,Public Holiday
+14/02/2002,Thursday,Valentine's Day,Observance
+20/03/2002,Wednesday,March Equinox,Season
+29/03/2002,Friday,Good Friday,Public Holiday
+31/03/2002,Sunday,Easter Sunday,Observance
+01/04/2002,Monday,Easter Monday,Public Holiday
+28/04/2002,Sunday,National Heroes Day,Public Holiday
+29/04/2002,Monday,Day off for National Heroes Day,Public Holiday
+01/05/2002,Wednesday,Labor Day / May Day,Public Holiday
+12/05/2002,Sunday,Mothers' Day,Observance
+19/05/2002,Sunday,Whit Sunday,Observance
+20/05/2002,Monday,Whit Monday,Public Holiday
+16/06/2002,Sunday,Fathers' Day,Observance
+21/06/2002,Friday,June Solstice,Season
+01/08/2002,Thursday,Emancipation Day,Public Holiday
+05/08/2002,Monday,Kadooment Day,Public Holiday
+23/09/2002,Monday,September Equinox,Season
+31/10/2002,Thursday,Halloween,Observance
+30/11/2002,Saturday,Independence Day,Public Holiday
+21/12/2002,Saturday,December Solstice,Season
+24/12/2002,Tuesday,Christmas Eve,Observance
+25/12/2002,Wednesday,Christmas Day,Public Holiday
+26/12/2002,Thursday,Boxing Day,Public Holiday
+31/12/2002,Tuesday,Old Year's Night,Observance
+01/01/2003,Wednesday,New Year's Day,Public Holiday
+21/01/2003,Tuesday,Errol Barrow Day,Public Holiday
+14/02/2003,Friday,Valentine's Day,Observance
+20/03/2003,Thursday,March Equinox,Season
+18/04/2003,Friday,Good Friday,Public Holiday
+20/04/2003,Sunday,Easter Sunday,Observance
+21/04/2003,Monday,Easter Monday,Public Holiday
+28/04/2003,Monday,National Heroes Day,Public Holiday
+01/05/2003,Thursday,Labor Day / May Day,Public Holiday
+11/05/2003,Sunday,Mothers' Day,Observance
+08/06/2003,Sunday,Whit Sunday,Observance
+09/06/2003,Monday,Whit Monday,Public Holiday
+15/06/2003,Sunday,Fathers' Day,Observance
+21/06/2003,Saturday,June Solstice,Season
+01/08/2003,Friday,Emancipation Day,Public Holiday
+04/08/2003,Monday,Kadooment Day,Public Holiday
+23/09/2003,Tuesday,September Equinox,Season
+31/10/2003,Friday,Halloween,Observance
+30/11/2003,Sunday,Independence Day,Public Holiday
+01/12/2003,Monday,Day off for Independence Day,Public Holiday
+22/12/2003,Monday,December Solstice,Season
+24/12/2003,Wednesday,Christmas Eve,Observance
+25/12/2003,Thursday,Christmas Day,Public Holiday
+26/12/2003,Friday,Boxing Day,Public Holiday
+31/12/2003,Wednesday,Old Year's Night,Observance
+01/01/2004,Thursday,New Year's Day,Public Holiday
+21/01/2004,Wednesday,Errol Barrow Day,Public Holiday
+14/02/2004,Saturday,Valentine's Day,Observance
+20/03/2004,Saturday,March Equinox,Season
+09/04/2004,Friday,Good Friday,Public Holiday
+11/04/2004,Sunday,Easter Sunday,Observance
+12/04/2004,Monday,Easter Monday,Public Holiday
+28/04/2004,Wednesday,National Heroes Day,Public Holiday
+01/05/2004,Saturday,Labor Day / May Day,Public Holiday
+09/05/2004,Sunday,Mothers' Day,Observance
+30/05/2004,Sunday,Whit Sunday,Observance
+31/05/2004,Monday,Whit Monday,Public Holiday
+20/06/2004,Sunday,Fathers' Day,Observance
+20/06/2004,Sunday,June Solstice,Season
+01/08/2004,Sunday,Emancipation Day,Public Holiday
+02/08/2004,Monday,Kadooment Day,Public Holiday
+03/08/2004,Tuesday,Day off for Emancipation Day,Public Holiday
+22/09/2004,Wednesday,September Equinox,Season
+31/10/2004,Sunday,Halloween,Observance
+30/11/2004,Tuesday,Independence Day,Public Holiday
+21/12/2004,Tuesday,December Solstice,Season
+24/12/2004,Friday,Christmas Eve,Observance
+25/12/2004,Saturday,Christmas Day,Public Holiday
+26/12/2004,Sunday,Boxing Day,Public Holiday
+27/12/2004,Monday,Day off for Boxing Day,Public Holiday
+31/12/2004,Friday,Old Year's Night,Observance
+01/01/2005,Saturday,New Year's Day,Public Holiday
+21/01/2005,Friday,Errol Barrow Day,Public Holiday
+14/02/2005,Monday,Valentine's Day,Observance
+20/03/2005,Sunday,March Equinox,Season
+25/03/2005,Friday,Good Friday,Public Holiday
+27/03/2005,Sunday,Easter Sunday,Observance
+28/03/2005,Monday,Easter Monday,Public Holiday
+28/04/2005,Thursday,National Heroes Day,Public Holiday
+01/05/2005,Sunday,Labor Day / May Day,Public Holiday
+02/05/2005,Monday,Day off for Labor Day / May Day,Public Holiday
+08/05/2005,Sunday,Mothers' Day,Observance
+15/05/2005,Sunday,Whit Sunday,Observance
+16/05/2005,Monday,Whit Monday,Public Holiday
+19/06/2005,Sunday,Fathers' Day,Observance
+21/06/2005,Tuesday,June Solstice,Season
+01/08/2005,Monday,Emancipation Day,Public Holiday
+01/08/2005,Monday,Kadooment Day,Public Holiday
+02/08/2005,Tuesday,Day off for Emancipation Day,Public Holiday
+22/09/2005,Thursday,September Equinox,Season
+31/10/2005,Monday,Halloween,Observance
+30/11/2005,Wednesday,Independence Day,Public Holiday
+21/12/2005,Wednesday,December Solstice,Season
+24/12/2005,Saturday,Christmas Eve,Observance
+25/12/2005,Sunday,Christmas Day,Public Holiday
+26/12/2005,Monday,Boxing Day,Public Holiday
+27/12/2005,Tuesday,Day off for Christmas Day,Public Holiday
+31/12/2005,Saturday,Old Year's Night,Observance
+01/01/2006,Sunday,New Year's Day,Public Holiday
+02/01/2006,Monday,Day off for New Year's Day,Public Holiday
+21/01/2006,Saturday,Errol Barrow Day,Public Holiday
+14/02/2006,Tuesday,Valentine's Day,Observance
+20/03/2006,Monday,March Equinox,Season
+14/04/2006,Friday,Good Friday,Public Holiday
+16/04/2006,Sunday,Easter Sunday,Observance
+17/04/2006,Monday,Easter Monday,Public Holiday
+28/04/2006,Friday,National Heroes Day,Public Holiday
+01/05/2006,Monday,Labor Day / May Day,Public Holiday
+14/05/2006,Sunday,Mothers' Day,Observance
+04/06/2006,Sunday,Whit Sunday,Observance
+05/06/2006,Monday,Whit Monday,Public Holiday
+18/06/2006,Sunday,Fathers' Day,Observance
+21/06/2006,Wednesday,June Solstice,Season
+01/08/2006,Tuesday,Emancipation Day,Public Holiday
+07/08/2006,Monday,Kadooment Day,Public Holiday
+23/09/2006,Saturday,September Equinox,Season
+31/10/2006,Tuesday,Halloween,Observance
+30/11/2006,Thursday,Independence Day,Public Holiday
+21/12/2006,Thursday,December Solstice,Season
+24/12/2006,Sunday,Christmas Eve,Observance
+25/12/2006,Monday,Christmas Day,Public Holiday
+26/12/2006,Tuesday,Boxing Day,Public Holiday
+31/12/2006,Sunday,Old Year's Night,Observance
+01/01/2007,Monday,New Year's Day,Public Holiday
+21/01/2007,Sunday,Errol Barrow Day,Public Holiday
+22/01/2007,Monday,Day off for Errol Barrow Day,Public Holiday
+14/02/2007,Wednesday,Valentine's Day,Observance
+20/03/2007,Tuesday,March Equinox,Season
+06/04/2007,Friday,Good Friday,Public Holiday
+08/04/2007,Sunday,Easter Sunday,Observance
+09/04/2007,Monday,Easter Monday,Public Holiday
+28/04/2007,Saturday,National Heroes Day,Public Holiday
+01/05/2007,Tuesday,Labor Day / May Day,Public Holiday
+13/05/2007,Sunday,Mothers' Day,Observance
+27/05/2007,Sunday,Whit Sunday,Observance
+28/05/2007,Monday,Whit Monday,Public Holiday
+17/06/2007,Sunday,Fathers' Day,Observance
+21/06/2007,Thursday,June Solstice,Season
+01/08/2007,Wednesday,Emancipation Day,Public Holiday
+06/08/2007,Monday,Kadooment Day,Public Holiday
+23/09/2007,Sunday,September Equinox,Season
+31/10/2007,Wednesday,Halloween,Observance
+30/11/2007,Friday,Independence Day,Public Holiday
+22/12/2007,Saturday,December Solstice,Season
+24/12/2007,Monday,Christmas Eve,Observance
+25/12/2007,Tuesday,Christmas Day,Public Holiday
+26/12/2007,Wednesday,Boxing Day,Public Holiday
+31/12/2007,Monday,Old Year's Night,Observance
+01/01/2008,Tuesday,New Year's Day,Public Holiday
+21/01/2008,Monday,Errol Barrow Day,Public Holiday
+14/02/2008,Thursday,Valentine's Day,Observance
+21/02/2008,Thursday,Rihanna Day,Observance
+20/03/2008,Thursday,March Equinox,Season
+21/03/2008,Friday,Good Friday,Public Holiday
+23/03/2008,Sunday,Easter Sunday,Observance
+24/03/2008,Monday,Easter Monday,Public Holiday
+28/04/2008,Monday,National Heroes Day,Public Holiday
+01/05/2008,Thursday,Labor Day / May Day,Public Holiday
+11/05/2008,Sunday,Whit Sunday,Observance
+11/05/2008,Sunday,Mothers' Day,Observance
+12/05/2008,Monday,Whit Monday,Public Holiday
+15/06/2008,Sunday,Fathers' Day,Observance
+20/06/2008,Friday,June Solstice,Season
+01/08/2008,Friday,Emancipation Day,Public Holiday
+04/08/2008,Monday,Kadooment Day,Public Holiday
+22/09/2008,Monday,September Equinox,Season
+31/10/2008,Friday,Halloween,Observance
+30/11/2008,Sunday,Independence Day,Public Holiday
+01/12/2008,Monday,Day off for Independence Day,Public Holiday
+21/12/2008,Sunday,December Solstice,Season
+24/12/2008,Wednesday,Christmas Eve,Observance
+25/12/2008,Thursday,Christmas Day,Public Holiday
+26/12/2008,Friday,Boxing Day,Public Holiday
+31/12/2008,Wednesday,Old Year's Night,Observance
+01/01/2009,Thursday,New Year's Day,Public Holiday
+21/01/2009,Wednesday,Errol Barrow Day,Public Holiday
+14/02/2009,Saturday,Valentine's Day,Observance
+20/03/2009,Friday,March Equinox,Season
+10/04/2009,Friday,Good Friday,Public Holiday
+12/04/2009,Sunday,Easter Sunday,Observance
+13/04/2009,Monday,Easter Monday,Public Holiday
+28/04/2009,Tuesday,National Heroes Day,Public Holiday
+01/05/2009,Friday,Labor Day / May Day,Public Holiday
+10/05/2009,Sunday,Mothers' Day,Observance
+31/05/2009,Sunday,Whit Sunday,Observance
+01/06/2009,Monday,Whit Monday,Public Holiday
+21/06/2009,Sunday,Fathers' Day,Observance
+21/06/2009,Sunday,June Solstice,Season
+01/08/2009,Saturday,Emancipation Day,Public Holiday
+03/08/2009,Monday,Kadooment Day,Public Holiday
+22/09/2009,Tuesday,September Equinox,Season
+31/10/2009,Saturday,Halloween,Observance
+30/11/2009,Monday,Independence Day,Public Holiday
+21/12/2009,Monday,December Solstice,Season
+24/12/2009,Thursday,Christmas Eve,Observance
+25/12/2009,Friday,Christmas Day,Public Holiday
+26/12/2009,Saturday,Boxing Day,Public Holiday
+31/12/2009,Thursday,Old Year's Night,Observance
+01/01/2010,Friday,New Year's Day,Public Holiday
+21/01/2010,Thursday,Errol Barrow Day,Public Holiday
+14/02/2010,Sunday,Valentine's Day,Observance
+20/03/2010,Saturday,March Equinox,Season
+02/04/2010,Friday,Good Friday,Public Holiday
+04/04/2010,Sunday,Easter Sunday,Observance
+05/04/2010,Monday,Easter Monday,Public Holiday
+28/04/2010,Wednesday,National Heroes Day,Public Holiday
+01/05/2010,Saturday,Labor Day / May Day,Public Holiday
+09/05/2010,Sunday,Mothers' Day,Observance
+23/05/2010,Sunday,Whit Sunday,Observance
+24/05/2010,Monday,Whit Monday,Public Holiday
+20/06/2010,Sunday,Fathers' Day,Observance
+21/06/2010,Monday,June Solstice,Season
+01/08/2010,Sunday,Emancipation Day,Public Holiday
+02/08/2010,Monday,Kadooment Day,Public Holiday
+03/08/2010,Tuesday,Day off for Emancipation Day,Public Holiday
+22/09/2010,Wednesday,September Equinox,Season
+31/10/2010,Sunday,Halloween,Observance
+30/11/2010,Tuesday,Independence Day,Public Holiday
+21/12/2010,Tuesday,December Solstice,Season
+24/12/2010,Friday,Christmas Eve,Observance
+25/12/2010,Saturday,Christmas Day,Public Holiday
+26/12/2010,Sunday,Boxing Day,Public Holiday
+27/12/2010,Monday,Day off for Boxing Day,Public Holiday
+31/12/2010,Friday,Old Year's Night,Observance
+01/01/2011,Saturday,New Year's Day,Public Holiday
+21/01/2011,Friday,Errol Barrow Day,Public Holiday
+14/02/2011,Monday,Valentine's Day,Observance
+20/03/2011,Sunday,March Equinox,Season
+22/04/2011,Friday,Good Friday,Public Holiday
+24/04/2011,Sunday,Easter Sunday,Observance
+25/04/2011,Monday,Easter Monday,Public Holiday
+28/04/2011,Thursday,National Heroes Day,Public Holiday
+01/05/2011,Sunday,Labor Day / May Day,Public Holiday
+02/05/2011,Monday,Day off for Labor Day / May Day,Public Holiday
+08/05/2011,Sunday,Mothers' Day,Observance
+12/06/2011,Sunday,Whit Sunday,Observance
+13/06/2011,Monday,Whit Monday,Public Holiday
+19/06/2011,Sunday,Fathers' Day,Observance
+21/06/2011,Tuesday,June Solstice,Season
+01/08/2011,Monday,Emancipation Day,Public Holiday
+01/08/2011,Monday,Kadooment Day,Public Holiday
+02/08/2011,Tuesday,Day off for Emancipation Day,Public Holiday
+23/09/2011,Friday,September Equinox,Season
+31/10/2011,Monday,Halloween,Observance
+30/11/2011,Wednesday,Independence Day,Public Holiday
+22/12/2011,Thursday,December Solstice,Season
+24/12/2011,Saturday,Christmas Eve,Observance
+25/12/2011,Sunday,Christmas Day,Public Holiday
+26/12/2011,Monday,Boxing Day,Public Holiday
+27/12/2011,Tuesday,Day off for Christmas Day,Public Holiday
+31/12/2011,Saturday,Old Year's Night,Observance
+01/01/2012,Sunday,New Year's Day,Public Holiday
+02/01/2012,Monday,Day off for New Year's Day,Public Holiday
+21/01/2012,Saturday,Errol Barrow Day,Public Holiday
+14/02/2012,Tuesday,Valentine's Day,Observance
+20/03/2012,Tuesday,March Equinox,Season
+06/04/2012,Friday,Good Friday,Public Holiday
+08/04/2012,Sunday,Easter Sunday,Observance
+09/04/2012,Monday,Easter Monday,Public Holiday
+28/04/2012,Saturday,National Heroes Day,Public Holiday
+01/05/2012,Tuesday,Labor Day / May Day,Public Holiday
+13/05/2012,Sunday,Mothers' Day,Observance
+27/05/2012,Sunday,Whit Sunday,Observance
+28/05/2012,Monday,Whit Monday,Public Holiday
+17/06/2012,Sunday,Fathers' Day,Observance
+20/06/2012,Wednesday,June Solstice,Season
+01/08/2012,Wednesday,Emancipation Day,Public Holiday
+06/08/2012,Monday,Kadooment Day,Public Holiday
+22/09/2012,Saturday,September Equinox,Season
+31/10/2012,Wednesday,Halloween,Observance
+30/11/2012,Friday,Independence Day,Public Holiday
+21/12/2012,Friday,December Solstice,Season
+24/12/2012,Monday,Christmas Eve,Observance
+25/12/2012,Tuesday,Christmas Day,Public Holiday
+26/12/2012,Wednesday,Boxing Day,Public Holiday
+31/12/2012,Monday,Old Year's Night,Observance
+01/01/2013,Tuesday,New Year's Day,Public Holiday
+21/01/2013,Monday,Errol Barrow Day,Public Holiday
+14/02/2013,Thursday,Valentine's Day,Observance
+20/03/2013,Wednesday,March Equinox,Season
+29/03/2013,Friday,Good Friday,Public Holiday
+31/03/2013,Sunday,Easter Sunday,Observance
+01/04/2013,Monday,Easter Monday,Public Holiday
+28/04/2013,Sunday,National Heroes Day,Public Holiday
+29/04/2013,Monday,Day off for National Heroes Day,Public Holiday
+01/05/2013,Wednesday,Labor Day / May Day,Public Holiday
+12/05/2013,Sunday,Mothers' Day,Observance
+19/05/2013,Sunday,Whit Sunday,Observance
+20/05/2013,Monday,Whit Monday,Public Holiday
+16/06/2013,Sunday,Fathers' Day,Observance
+21/06/2013,Friday,June Solstice,Season
+01/08/2013,Thursday,Emancipation Day,Public Holiday
+05/08/2013,Monday,Kadooment Day,Public Holiday
+22/09/2013,Sunday,September Equinox,Season
+31/10/2013,Thursday,Halloween,Observance
+30/11/2013,Saturday,Independence Day,Public Holiday
+21/12/2013,Saturday,December Solstice,Season
+24/12/2013,Tuesday,Christmas Eve,Observance
+25/12/2013,Wednesday,Christmas Day,Public Holiday
+26/12/2013,Thursday,Boxing Day,Public Holiday
+31/12/2013,Tuesday,Old Year's Night,Observance
+01/01/2014,Wednesday,New Year's Day,Public Holiday
+21/01/2014,Tuesday,Errol Barrow Day,Public Holiday
+14/02/2014,Friday,Valentine's Day,Observance
+20/03/2014,Thursday,March Equinox,Season
+18/04/2014,Friday,Good Friday,Public Holiday
+20/04/2014,Sunday,Easter Sunday,Observance
+21/04/2014,Monday,Easter Monday,Public Holiday
+28/04/2014,Monday,National Heroes Day,Public Holiday
+01/05/2014,Thursday,Labor Day / May Day,Public Holiday
+11/05/2014,Sunday,Mothers' Day,Observance
+08/06/2014,Sunday,Whit Sunday,Observance
+09/06/2014,Monday,Whit Monday,Public Holiday
+15/06/2014,Sunday,Fathers' Day,Observance
+21/06/2014,Saturday,June Solstice,Season
+01/08/2014,Friday,Emancipation Day,Public Holiday
+04/08/2014,Monday,Kadooment Day,Public Holiday
+22/09/2014,Monday,September Equinox,Season
+31/10/2014,Friday,Halloween,Observance
+30/11/2014,Sunday,Independence Day,Public Holiday
+01/12/2014,Monday,Day off for Independence Day,Public Holiday
+21/12/2014,Sunday,December Solstice,Season
+24/12/2014,Wednesday,Christmas Eve,Observance
+25/12/2014,Thursday,Christmas Day,Public Holiday
+26/12/2014,Friday,Boxing Day,Public Holiday
+31/12/2014,Wednesday,Old Year's Night,Observance
+01/01/2015,Thursday,New Year's Day,Public Holiday
+21/01/2015,Wednesday,Errol Barrow Day,Public Holiday
+14/02/2015,Saturday,Valentine's Day,Observance
+20/03/2015,Friday,March Equinox,Season
+03/04/2015,Friday,Good Friday,Public Holiday
+05/04/2015,Sunday,Easter Sunday,Observance
+06/04/2015,Monday,Easter Monday,Public Holiday
+28/04/2015,Tuesday,National Heroes Day,Public Holiday
+01/05/2015,Friday,Labor Day / May Day,Public Holiday
+10/05/2015,Sunday,Mothers' Day,Observance
+24/05/2015,Sunday,Whit Sunday,Observance
+25/05/2015,Monday,Whit Monday,Public Holiday
+21/06/2015,Sunday,Fathers' Day,Observance
+21/06/2015,Sunday,June Solstice,Season
+01/08/2015,Saturday,Emancipation Day,Public Holiday
+03/08/2015,Monday,Kadooment Day,Public Holiday
+23/09/2015,Wednesday,September Equinox,Season
+31/10/2015,Saturday,Halloween,Observance
+30/11/2015,Monday,Independence Day,Public Holiday
+22/12/2015,Tuesday,December Solstice,Season
+24/12/2015,Thursday,Christmas Eve,Observance
+25/12/2015,Friday,Christmas Day,Public Holiday
+26/12/2015,Saturday,Boxing Day,Public Holiday
+31/12/2015,Thursday,Old Year's Night,Observance
+01/01/2016,Friday,New Year's Day,Public Holiday
+21/01/2016,Thursday,Errol Barrow Day,Public Holiday
+14/02/2016,Sunday,Valentine's Day,Observance
+20/03/2016,Sunday,March Equinox,Season
+25/03/2016,Friday,Good Friday,Public Holiday
+27/03/2016,Sunday,Easter Sunday,Observance
+28/03/2016,Monday,Easter Monday,Public Holiday
+28/04/2016,Thursday,National Heroes Day,Public Holiday
+01/05/2016,Sunday,Labor Day / May Day,Public Holiday
+02/05/2016,Monday,Day off for Labor Day / May Day,Public Holiday
+08/05/2016,Sunday,Mothers' Day,Observance
+15/05/2016,Sunday,Whit Sunday,Observance
+16/05/2016,Monday,Whit Monday,Public Holiday
+19/06/2016,Sunday,Fathers' Day,Observance
+20/06/2016,Monday,June Solstice,Season
+01/08/2016,Monday,Emancipation Day,Public Holiday
+01/08/2016,Monday,Kadooment Day,Public Holiday
+02/08/2016,Tuesday,Day off for Emancipation Day,Public Holiday
+22/09/2016,Thursday,September Equinox,Season
+31/10/2016,Monday,Halloween,Observance
+30/11/2016,Wednesday,Independence Day,Public Holiday
+21/12/2016,Wednesday,December Solstice,Season
+24/12/2016,Saturday,Christmas Eve,Observance
+25/12/2016,Sunday,Christmas Day,Public Holiday
+26/12/2016,Monday,Boxing Day,Public Holiday
+27/12/2016,Tuesday,Day off for Christmas Day,Public Holiday
+31/12/2016,Saturday,Old Year's Night,Observance
+01/01/2017,Sunday,New Year's Day,Public Holiday
+02/01/2017,Monday,Day off for New Year's Day,Public Holiday
+21/01/2017,Saturday,Errol Barrow Day,Public Holiday
+14/02/2017,Tuesday,Valentine's Day,Observance
+20/03/2017,Monday,March Equinox,Season
+14/04/2017,Friday,Good Friday,Public Holiday
+16/04/2017,Sunday,Easter Sunday,Observance
+17/04/2017,Monday,Easter Monday,Public Holiday
+28/04/2017,Friday,National Heroes Day,Public Holiday
+01/05/2017,Monday,Labor Day / May Day,Public Holiday
+14/05/2017,Sunday,Mothers' Day,Observance
+04/06/2017,Sunday,Whit Sunday,Observance
+05/06/2017,Monday,Whit Monday,Public Holiday
+18/06/2017,Sunday,Fathers' Day,Observance
+21/06/2017,Wednesday,June Solstice,Season
+01/08/2017,Tuesday,Emancipation Day,Public Holiday
+07/08/2017,Monday,Kadooment Day,Public Holiday
+22/09/2017,Friday,September Equinox,Season
+31/10/2017,Tuesday,Halloween,Observance
+30/11/2017,Thursday,Independence Day,Public Holiday
+21/12/2017,Thursday,December Solstice,Season
+24/12/2017,Sunday,Christmas Eve,Observance
+25/12/2017,Monday,Christmas Day,Public Holiday
+26/12/2017,Tuesday,Boxing Day,Public Holiday
+31/12/2017,Sunday,Old Year's Night,Observance
+01/01/2018,Monday,New Year's Day,Public Holiday
+21/01/2018,Sunday,Errol Barrow Day,Public Holiday
+22/01/2018,Monday,Day off for Errol Barrow Day,Public Holiday
+14/02/2018,Wednesday,Valentine's Day,Observance
+20/03/2018,Tuesday,March Equinox,Season
+30/03/2018,Friday,Good Friday,Public Holiday
+01/04/2018,Sunday,Easter Sunday,Observance
+02/04/2018,Monday,Easter Monday,Public Holiday
+28/04/2018,Saturday,National Heroes Day,Public Holiday
+01/05/2018,Tuesday,Labor Day / May Day,Public Holiday
+13/05/2018,Sunday,Mothers' Day,Observance
+20/05/2018,Sunday,Whit Sunday,Observance
+21/05/2018,Monday,Whit Monday,Public Holiday
+17/06/2018,Sunday,Fathers' Day,Observance
+21/06/2018,Thursday,June Solstice,Season
+01/08/2018,Wednesday,Emancipation Day,Public Holiday
+06/08/2018,Monday,Kadooment Day,Public Holiday
+22/09/2018,Saturday,September Equinox,Season
+31/10/2018,Wednesday,Halloween,Observance
+30/11/2018,Friday,Independence Day,Public Holiday
+21/12/2018,Friday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,Public Holiday
+26/12/2018,Wednesday,Boxing Day,Public Holiday
+31/12/2018,Monday,Old Year's Night,Observance
+01/01/2019,Tuesday,New Year's Day,Public Holiday
+21/01/2019,Monday,Errol Barrow Day,Public Holiday
+14/02/2019,Thursday,Valentine's Day,Observance
+20/03/2019,Wednesday,March Equinox,Season
+19/04/2019,Friday,Good Friday,Public Holiday
+21/04/2019,Sunday,Easter Sunday,Observance
+22/04/2019,Monday,Easter Monday,Public Holiday
+28/04/2019,Sunday,National Heroes Day,Public Holiday
+29/04/2019,Monday,Day off for National Heroes Day,Public Holiday
+01/05/2019,Wednesday,Labor Day / May Day,Public Holiday
+12/05/2019,Sunday,Mothers' Day,Observance
+09/06/2019,Sunday,Whit Sunday,Observance
+10/06/2019,Monday,Whit Monday,Public Holiday
+16/06/2019,Sunday,Fathers' Day,Observance
+21/06/2019,Friday,June Solstice,Season
+01/08/2019,Thursday,Emancipation Day,Public Holiday
+05/08/2019,Monday,Kadooment Day,Public Holiday
+23/09/2019,Monday,September Equinox,Season
+31/10/2019,Thursday,Halloween,Observance
+30/11/2019,Saturday,Independence Day,Public Holiday
+22/12/2019,Sunday,December Solstice,Season
+24/12/2019,Tuesday,Christmas Eve,Observance
+25/12/2019,Wednesday,Christmas Day,Public Holiday
+26/12/2019,Thursday,Boxing Day,Public Holiday
+31/12/2019,Tuesday,Old Year's Night,Observance
+01/01/2020,Wednesday,New Year's Day,Public Holiday
+21/01/2020,Tuesday,Errol Barrow Day,Public Holiday
+14/02/2020,Friday,Valentine's Day,Observance
+19/03/2020,Thursday,March Equinox,Season
+10/04/2020,Friday,Good Friday,Public Holiday
+12/04/2020,Sunday,Easter Sunday,Observance
+13/04/2020,Monday,Easter Monday,Public Holiday
+28/04/2020,Tuesday,National Heroes Day,Public Holiday
+01/05/2020,Friday,Labor Day / May Day,Public Holiday
+10/05/2020,Sunday,Mothers' Day,Observance
+31/05/2020,Sunday,Whit Sunday,Observance
+01/06/2020,Monday,Whit Monday,Public Holiday
+20/06/2020,Saturday,June Solstice,Season
+21/06/2020,Sunday,Fathers' Day,Observance
+01/08/2020,Saturday,Emancipation Day,Public Holiday
+03/08/2020,Monday,Kadooment Day,Public Holiday
+22/09/2020,Tuesday,September Equinox,Season
+31/10/2020,Saturday,Halloween,Observance
+30/11/2020,Monday,Independence Day,Public Holiday
+21/12/2020,Monday,December Solstice,Season
+24/12/2020,Thursday,Christmas Eve,Observance
+25/12/2020,Friday,Christmas Day,Public Holiday
+26/12/2020,Saturday,Boxing Day,Public Holiday
+31/12/2020,Thursday,Old Year's Night,Observance
+01/01/2021,Friday,New Year's Day,Public Holiday
+21/01/2021,Thursday,Errol Barrow Day,Public Holiday
+14/02/2021,Sunday,Valentine's Day,Observance
+20/03/2021,Saturday,March Equinox,Season
+02/04/2021,Friday,Good Friday,Public Holiday
+04/04/2021,Sunday,Easter Sunday,Observance
+05/04/2021,Monday,Easter Monday,Public Holiday
+28/04/2021,Wednesday,National Heroes Day,Public Holiday
+01/05/2021,Saturday,Labor Day / May Day,Public Holiday
+09/05/2021,Sunday,Mothers' Day,Observance
+23/05/2021,Sunday,Whit Sunday,Observance
+24/05/2021,Monday,Whit Monday,Public Holiday
+20/06/2021,Sunday,Fathers' Day,Observance
+20/06/2021,Sunday,June Solstice,Season
+01/08/2021,Sunday,Emancipation Day,Public Holiday
+02/08/2021,Monday,Kadooment Day,Public Holiday
+03/08/2021,Tuesday,Day off for Emancipation Day,Public Holiday
+22/09/2021,Wednesday,September Equinox,Season
+31/10/2021,Sunday,Halloween,Observance
+30/11/2021,Tuesday,Independence Day,Public Holiday
+21/12/2021,Tuesday,December Solstice,Season
+24/12/2021,Friday,Christmas Eve,Observance
+25/12/2021,Saturday,Christmas Day,Public Holiday
+26/12/2021,Sunday,Boxing Day,Public Holiday
+27/12/2021,Monday,Day off for Boxing Day,Public Holiday
+31/12/2021,Friday,Old Year's Night,Observance
+01/01/2022,Saturday,New Year's Day,Public Holiday
+21/01/2022,Friday,Errol Barrow Day,Public Holiday
+14/02/2022,Monday,Valentine's Day,Observance
+20/03/2022,Sunday,March Equinox,Season
+15/04/2022,Friday,Good Friday,Public Holiday
+17/04/2022,Sunday,Easter Sunday,Observance
+18/04/2022,Monday,Easter Monday,Public Holiday
+28/04/2022,Thursday,National Heroes Day,Public Holiday
+01/05/2022,Sunday,Labor Day / May Day,Public Holiday
+02/05/2022,Monday,Day off for Labor Day / May Day,Public Holiday
+08/05/2022,Sunday,Mothers' Day,Observance
+05/06/2022,Sunday,Whit Sunday,Observance
+06/06/2022,Monday,Whit Monday,Public Holiday
+19/06/2022,Sunday,Fathers' Day,Observance
+21/06/2022,Tuesday,June Solstice,Season
+01/08/2022,Monday,Emancipation Day,Public Holiday
+01/08/2022,Monday,Kadooment Day,Public Holiday
+02/08/2022,Tuesday,Day off for Emancipation Day,Public Holiday
+22/09/2022,Thursday,September Equinox,Season
+31/10/2022,Monday,Halloween,Observance
+30/11/2022,Wednesday,Independence Day,Public Holiday
+21/12/2022,Wednesday,December Solstice,Season
+24/12/2022,Saturday,Christmas Eve,Observance
+25/12/2022,Sunday,Christmas Day,Public Holiday
+26/12/2022,Monday,Boxing Day,Public Holiday
+27/12/2022,Tuesday,Day off for Christmas Day,Public Holiday
+31/12/2022,Saturday,Old Year's Night,Observance
